@@ -1,0 +1,38 @@
+# Chapter 4 - VETERANS AFFAIRS (§§ 38-4-1 — 38-4-92)
+
+- Section 38-4-1 - Department of Veterans Service and Veterans Service Board - Created; commissioner; officers; appointment; Senate confirmation; term; duties
+- Section 38-4-2 - Powers; appointment of executive directors of veterans' homes
+- Section 38-4-3 - Department of Veterans Service and Veterans Service Board - Duty to work consistently and diligently; educational programs; personal appearances; assistance in preparation of claims
+- Section 38-4-4 - Veterans Service Board - Vacancies
+- Section 38-4-5 - Veterans Service Board - Meetings; place; purpose; called
+- Section 38-4-6 - Veterans Service Board - Policy recommendations; appoint commissioner; discharge of commissioner; commissioner's political activity
+- Section 38-4-7 - Commissioner of veterans service - Compensation; payment; duties
+- Section 38-4-8 - Commissioner of veterans service - Additional duties
+- Section 38-4-9 - Commissioner of veterans service - Employment of personnel; preference to veterans, surviving spouses, and dependents; advise Governor, board, and General Assembly
+- Section 38-4-10 - Commissioner of veterans service - Broad discretion in extending aid; utilize department to fullest
+- Section 38-4-11 - Commissioner of veterans service - Annual reports; content; recipients
+- Section 38-4-12 - Commissioner of veterans service - Duty to maintain records
+- Section 38-4-13 - Women veterans' office
+- Section 38-4-14 - Creation of Georgia Veterans Service Foundation, Inc.; purpose; operation; reporting
+- Section 38-4-15 - Veterans Mental Health Services Program; grant programs
+- Section 38-4-30 - Short title
+- Section 38-4-31 - Purpose of part
+- Section 38-4-32 - Department of Veterans Service - Agency to deal with federal government; authority to enter into contracts; administer grants
+- Section 38-4-33 - Department of Veterans Service - Various state educational bodies to cooperate with; full realization of federal benefits
+- Section 38-4-34 - Department of Veterans Service - Cooperation and coordination with private educational bodies
+- Section 38-4-35 - Governor authorized to create private educational advisory bodies
+- Section 38-4-36 - Governor may direct provision of facilities to Department of Veterans Service
+- Section 38-4-37 - Veterans Service Board empowered to prescribe rules, regulations, and directives to implement programs
+- Section 38-4-50 - &quot;War veterans&quot; defined
+- Section 38-4-51 - Established; locations; adjacent facilities integral part thereof
+- Section 38-4-52 - Veterans Service Board - Administer home's facilities
+- Section 38-4-53 - Veterans Service Board - Authorized revenue sources, expenditures, and hiring; other state bodies to cooperate
+- Section 38-4-54 - Veterans Service Board - Funds received from federal sources expended to aid war veterans; no limitation on additional state aid
+- Section 38-4-55 - Admissions and discharges; rules and regulations concerning
+- Section 38-4-56 - Fee for residency in State War Veterans' Home
+- Section 38-4-70 - Cemeteries established; eligibility for interment
+- Section 38-4-71 - Control of cemeteries; applications for interment
+- Section 38-4-72 - Receipt of federal aid and gifts, contributions, bequests, and reimbursements; expenditure; departmental personnel
+- Section 38-4-90 - Creation
+- Section 38-4-91 - Membership
+- Section 38-4-92 - Duties; recommendations

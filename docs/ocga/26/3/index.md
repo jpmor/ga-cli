@@ -1,0 +1,26 @@
+# Chapter 3 - STANDARDS, LABELING, AND ADULTERATION OF DRUGS AND COSMETICS (§§ 26-3-1 — 26-3-24)
+
+- Section 26-3-1 - Short title
+- Section 26-3-2 - Definitions
+- Section 26-3-3 - Prohibited acts
+- Section 26-3-4 - Detention of adulterated or misbranded drugs and cosmetics
+- Section 26-3-5 - Duty of prosecuting attorney upon report of violation; notice to possible defendant
+- Section 26-3-6 - Minor violations
+- Section 26-3-7 - When a drug or device deemed adulterated
+- Section 26-3-8 - When a drug or device deemed misbranded
+- Section 26-3-9 - Name and address of manufacturer on label of drugs requiring prescription
+- Section 26-3-10 - Selling, delivering, or giving away of new drugs; exemptions
+- Section 26-3-11 - When a cosmetic deemed adulterated
+- Section 26-3-12 - When a cosmetic deemed misbranded
+- Section 26-3-13 - When a drug, device, or cosmetic advertisement deemed false
+- Section 26-3-14 - Factors taken into account in determining whether label or advertisement is misleading
+- Section 26-3-15 - Labeling or advertisement of a drug as an antiseptic
+- Section 26-3-16 - Promulgation of regulations; conformity with federal act
+- Section 26-3-17 - Inspection of factories, warehouses, establishments, or vehicles; samples and specimens
+- Section 26-3-18 - Assistance in enforcement from Department of Agriculture or Department of Public Health
+- Section 26-3-19 - Reports and publications by State Board of Pharmacy
+- Section 26-3-20 - Injunctions for violations of Code Section 26-3-3
+- Section 26-3-21 - Construction of chapter
+- Section 26-3-22 - Other laws unaffected by chapter
+- Section 26-3-23 - Penalty for impeding, obstructing, hindering, or preventing drug agent from performance of duty
+- Section 26-3-24 - Penalty for violation of chapter

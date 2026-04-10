@@ -1,0 +1,24 @@
+# Chapter 26 - HOUSING AND FINANCE AUTHORITY (§§ 50-26-1 — 50-26-22)
+
+- Section 50-26-1 - Short title
+- Section 50-26-2 - Legislative findings and declaration of necessity
+- Section 50-26-3 - Substitution of Georgia Housing and Finance Authority for Georgia Residential Finance Authority
+- Section 50-26-4 - Definitions
+- Section 50-26-5 - Creation of authority; composition; election and terms of officers; expense allowance; delegation of power; executive director; use of funds; legal services provided by Attorney General
+- Section 50-26-6 - Limitation on liability
+- Section 50-26-7 - Powers of authority vested in board of directors; quorum; action taken by majority
+- Section 50-26-8 - Powers of authority
+- Section 50-26-9 - Power to issue bonds and incur indebtedness; exemption from taxation
+- Section 50-26-10 - Obligations not subject to &quot;Georgia Uniform Securities Act of 2008&quot;; payment of operating costs; authority's revenue; bond anticipation notes; terms of bond; replacement of bond; validation; interest rates
+- Section 50-26-11 - Bonds as securities
+- Section 50-26-12 - Payment of bond proceeds; pledges of proceeds for payment of bond
+- Section 50-26-13 - Power to secure issuance of bonds by trust agreement or indenture; contents of trust agreement or indenture
+- Section 50-26-14 - Moneys received deemed trust funds; pledge of assets, funds, and properties for payment of bonds
+- Section 50-26-15 - Annual and periodic audits and reports required
+- Section 50-26-16 - Termination of authority
+- Section 50-26-17 - Powers as to real property; reverse equity mortgages; sale of qualified mortgage bonds; administration of alternate funds; authority to issue
+- Section 50-26-18 - Facilitating economic development for enterprises
+- Section 50-26-19 - Financing acquisition, construction, and equipping of health care facilities
+- Section 50-26-20 - Competitive bidding on contracts not required
+- Section 50-26-21 - Transfer of assets and obligations of Hospital Financing Authority to authority
+- Section 50-26-22 - Transfer of personnel to Department of Community Affairs

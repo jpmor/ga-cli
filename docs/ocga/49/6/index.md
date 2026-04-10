@@ -1,0 +1,41 @@
+# Chapter 6 - SERVICES FOR THE AGING (§§ 49-6-1 — 49-6-103)
+
+- Section 49-6-1 - Purpose of article
+- Section 49-6-2 - Department designated agency for federal programs for aging; development and coordination of state, local, and interstate programs
+- Section 49-6-3 - Powers of department
+- Section 49-6-4 - Acceptance of federal and other grants, gifts, bequests, or devises
+- Section 49-6-5 - Creation of the Division of Aging Services within department
+- Section 49-6-6 - Annual report
+- Section 49-6-7 - Funds for expenses
+- Section 49-6-20 - Council created; appointment and terms of members; officers; rules; meetings
+- Section 49-6-21 - Duties and powers of council
+- Section 49-6-21.1 - [Repealed] Additional duties and powers of council; report and recommendations
+- Section 49-6-22 - Staff and facilities; expenses of councilmembers
+- Section 49-6-40 - [Repealed] Creation; membership; meetings, organization, and adoption of measures
+- Section 49-6-60 - Legislative intent
+- Section 49-6-61 - Definitions
+- Section 49-6-62 - Establishment of community care unit; provision of services; annual service plan; annual progress report; fees and contributions; funding
+- Section 49-6-63 - Establishment by lead agency of community care service system; certification for benefits; evaluation by assessment team; volunteers; insurance coverage
+- Section 49-6-64 - Adoption of rules and regulations
+- Section 49-6-70 - Short title
+- Section 49-6-71 - Purpose
+- Section 49-6-72 - Definitions
+- Section 49-6-73 - Eligibility for benefits; contracts; identification of services
+- Section 49-6-74 - Provision of services; reimbursement of caregivers; maximum amounts available
+- Section 49-6-75 - Entitlements not created
+- Section 49-6-76 - Displacement of other programs prohibited
+- Section 49-6-77 - Rules and regulations
+- Section 49-6-80 - Short title
+- Section 49-6-81 - Legislative intent
+- Section 49-6-82 - Definitions
+- Section 49-6-83 - License required; nontransferable
+- Section 49-6-84 - Rules and regulations; authority to issue, suspend, or revoke licenses
+- Section 49-6-85 - Periodic inspection by department; exemptions
+- Section 49-6-86 - Fees
+- Section 49-6-90 - Mobilization for state response to Alzheimer's and dementia patients; intent
+- Section 49-6-91 - Definitions
+- Section 49-6-92 - Establishment of advisory council; membership; advisory nature; review and recommendations; operation of council; reporting
+- Section 49-6-100 - Purpose
+- Section 49-6-101 - Definitions
+- Section 49-6-102 - Development and implementation of program
+- Section 49-6-103 - Certificate of authority exemption

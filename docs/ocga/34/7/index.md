@@ -1,0 +1,21 @@
+# Chapter 7 - MASTER AND SERVANT (§§ 34-7-1 — 34-7-48)
+
+- Section 34-7-1 - Determination of term of employment; manner of termination of indefinite hiring
+- Section 34-7-2 - Payment of wages by lawful money, checks, or credit transfer; selection of payment dates by employer
+- Section 34-7-3 - Requirements where wages paid by written instrument; effect of protest or dishonor
+- Section 34-7-4 - Payment of outstanding wages to beneficiary; payment as release from claims to funds or claims against employer
+- Section 34-7-5 - Redemption of checks or other written evidences of indebtedness for wages
+- Section 34-7-6 - Professional employer organizations; rights, powers, and responsibilities
+- Section 34-7-20 - Care by employer in selection of employees and in furnishing of safe machinery; employer's duty to warn
+- Section 34-7-21 - Liability of employer for coemployees' negligence
+- Section 34-7-22 - Contracts exempting employer from liability are null and void
+- Section 34-7-23 - Assumption of risk by employees; requirements for recovery of damages
+- Section 34-7-40 - &quot;Common carrier&quot; defined
+- Section 34-7-41 - Liability of common carrier by railroad for personal injury or death of employee generally
+- Section 34-7-42 - Contributory negligence of employee
+- Section 34-7-43 - Assumption of risk where employer is contributorily negligent
+- Section 34-7-44 - Employer exemptions from liability void; allowable setoffs
+- Section 34-7-45 - Liability of receivers, trustees, and assignees of railroad companies for coemployees' negligence; lien on railroad company income
+- Section 34-7-46 - Limitation period for institution of action
+- Section 34-7-47 - Liability of railroad company to its employees for negligence of employees of another railroad company using same track
+- Section 34-7-48 - Recovery by employee working beyond limited hours of service

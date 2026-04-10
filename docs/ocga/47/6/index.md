@@ -1,0 +1,24 @@
+# Chapter 6 - GEORGIA LEGISLATIVE RETIREMENT SYSTEM (§§ 47-6-1 — 47-6-101)
+
+- Section 47-6-1 - [See Note] Definitions
+- Section 47-6-20 - Creation and administration of the retirement system; commencement of operations; corporate powers and privileges; name in which retirement system to transact business
+- Section 47-6-21 - Creation of the office of executive secretary
+- Section 47-6-22 - Powers and duties of the board of trustees
+- Section 47-6-23 - Investment powers of board; members' and employees' dealings with funds; vouchers for payments
+- Section 47-6-24 - Members' account; accumulation account; crediting of interest and dividends
+- Section 47-6-25 - Plan year designated
+- Section 47-6-40 - Qualifications for membership; irrevocable election for certain members of General Assembly; membership of persons who cease to become members before age 60; termination of membership; application for additional creditable service
+- Section 47-6-41 - [Repealed] Transition of membership from Georgia Legislative Retirement System to Employees' Retirement System of Georgia; current beneficiaries; state contributions; rules and regulations
+- Section 47-6-42 - State contributions
+- Section 47-6-60 - Employee contributions to the retirement system; payment of employee contributions on behalf of the member; additional contributions
+- Section 47-6-70 - Creditable service
+- Section 47-6-70.1 - Prior service credit for military service
+- Section 47-6-70.2 - Reestablishment of creditable service by current members who ceased being members of General Assembly and who withdrew retirement contributions
+- Section 47-6-80 - Eligibility and application for a retirement allowance; early retirement; monthly retirement allowance; amount of retirement allowance; compliance with federal tax laws; increases in retirement allowance
+- Section 47-6-81 - Optional retirement allowances
+- Section 47-6-82 - Manner in which retirement allowances to be paid; termination of payments upon death
+- Section 47-6-83 - Payments made upon the death of a member, upon death of a beneficiary who has not elected an optional retirement allowance, or upon death of a member before retirement
+- Section 47-6-84 - Termination of retirement allowance upon return to service; retirement benefits for retired members returning to service in the General Assembly; board of trustees to be notified within 30 days if public employer employs retired plan member
+- Section 47-6-85 - Refund of accumulated contributions upon termination of membership
+- Section 47-6-100 - Exemption of rights and benefits from taxation; exemption from legal process; assignability
+- Section 47-6-101 - Attempts to defraud the retirement system by means of false statements or falsified records; adjustment of erroneous payments

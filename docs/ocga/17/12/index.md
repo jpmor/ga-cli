@@ -1,0 +1,51 @@
+# Chapter 12 - LEGAL DEFENSE OF INDIGENTS (§§ 17-12-1 — 17-12-120)
+
+- Section 17-12-1 - Short title; Georgia Public Defender Council; responsibilities
+- Section 17-12-2 - Definitions
+- Section 17-12-3 - Council created; membership
+- Section 17-12-4 - Authority of council; annual audit
+- Section 17-12-5 - Director; qualifications; powers and responsibilities
+- Section 17-12-6 - Assistance of council to public defenders
+- Section 17-12-7 - Councilmembers; responsibilities; voting; removal; quorum; meetings; officers; expenses
+- Section 17-12-8 - [Repealed] [Reserved] Approval by council of programs for representation of indigents; public access to policies and standards
+- Section 17-12-9 - Continuing legal education for public defenders and staff
+- Section 17-12-10 - Annual reporting
+- Section 17-12-10.1 - Legislative oversight committee created; membership; audits
+- Section 17-12-10.2 - Civil liability
+- Section 17-12-11 - Mental health advocacy division; duties, responsibilities, and management
+- Section 17-12-12 - Georgia capital defender division; duties, responsibilities, and management
+- Section 17-12-12.1 - Payment of attorney in event of conflict of interest in capital cases; number of attorneys appointed; county governing authority's financial responsibility; expenses
+- Section 17-12-13 - [Repealed] Effective date of article
+- Section 17-12-14 - [Repealed] Applicability of article
+- Section 17-12-19.1 - through 17-12-19.14 - [Repealed]
+- Section 17-12-20 - Public defender selection panel for each circuit; appointment of public defender; removal; vacancies
+- Section 17-12-21 - Qualifications for public defender position
+- Section 17-12-22 - Procedure for appointment of attorneys for indigent defendants in event of public defender's conflict of interest; identification of conflict
+- Section 17-12-23 - Cases in which public defender representation required; timing of representation; juvenile divisions; contracts with local governments
+- Section 17-12-24 - Financial eligibility for indigent defense services representation; operation of public defender's office
+- Section 17-12-25 - Salary of public defender; private practice prohibited
+- Section 17-12-25.1 - Accountability court supplement
+- Section 17-12-26 - Budget of the council
+- Section 17-12-27 - Appointment of assistant public defenders; salary; promotions
+- Section 17-12-28 - Appointment of investigator; role and responsibilities; compensation; promotions
+- Section 17-12-29 - Employment of supplemental personnel; compensation
+- Section 17-12-30 - Classification of personnel; responsibilities; compensation; local supplements
+- Section 17-12-31 - Employment of additional personnel
+- Section 17-12-32 - Contracting with the council for personnel paid by local government
+- Section 17-12-33 - Assistant public defenders' private practice of law or concurrent judicial service prohibited; admission to bar in Georgia
+- Section 17-12-34 - Pro rata sharing of expenses and resources by counties in each circuit
+- Section 17-12-35 - Acceptance of other funding
+- Section 17-12-36 - Alternative delivery system; annual review of operations by council; record keeping
+- Section 17-12-37 - Effective date of article
+- Section 17-12-40 - Definitions
+- Section 17-12-41 - Assistance of public defender by third-year law student or staff instructor
+- Section 17-12-42 - Judge may prescribe type of assistance provided by law student or staff instructor; certification by law school dean
+- Section 17-12-43 - Clerk of court to maintain records; limited period of assistance
+- Section 17-12-44 - Exception to qualification requirements for public defender or assistant public defender
+- Section 17-12-45 - Effective date of article
+- Section 17-12-50 - Definitions
+- Section 17-12-51 - Repayment of attorney's fees as condition of probation
+- Section 17-12-52 - Recovery of payment or reimbursement by a county or municipality
+- Section 17-12-80 - Verification of indigency required; procedure; timing of notification of eligibility
+- Section 17-12-100 - through 17-12-108 - [Repealed]
+- Section 17-12-120 - through 17-12-128 - [Repealed]

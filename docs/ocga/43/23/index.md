@@ -1,0 +1,22 @@
+# Chapter 23 - LANDSCAPE ARCHITECTS (§§ 43-23-1 — 43-23-20)
+
+- Section 43-23-1 - Definitions
+- Section 43-23-2 - Georgia Board of Landscape Architects; members
+- Section 43-23-3 - Seal
+- Section 43-23-4 - Power of board to regulate issuance of licenses, to revoke or suspend licenses, and to censure licensees
+- Section 43-23-5 - License requirement for persons engaged in landscape architecture; enjoining unauthorized use of title or term &quot;landscape architect.&quot;
+- Section 43-23-6 - Application for licenses
+- Section 43-23-7 - Qualifications of applicants; examinations
+- Section 43-23-7.1 - Continuing education requirement
+- Section 43-23-8 - License fee; renewal
+- Section 43-23-9 - Reciprocity
+- Section 43-23-10 - Temporary licenses
+- Section 43-23-11 - Form of licenses and certificates; seal on certificates; delivery of license to licensee; display of certificate
+- Section 43-23-12 - Investigations; censure of licensees; revocation or suspension of licenses
+- Section 43-23-13 - Applicability of the &quot;Georgia Administrative Procedure Act.&quot;
+- Section 43-23-14 - Practice of landscape architecture by partnerships, limited liability companies, and corporations; restricted use of term; advertising
+- Section 43-23-15 - Injunctions
+- Section 43-23-16 - Applicability of chapter to qualified registered architects and professional engineers
+- Section 43-23-17 - Exceptions to operation of chapter; restricted use of term
+- Section 43-23-18 - Practicing without a license
+- Section 43-23-19 - Penalty

@@ -1,0 +1,43 @@
+# Chapter 8 - TRIAL (§§ 17-8-1 — 17-8-76)
+
+- Section 17-8-1 - Cases to be called in order in which they stand on docket; exceptions; preferred scheduling when alleged victim is disabled adult or elder person
+- Section 17-8-2 - Indictments and special presentments to be presented to jury; exception for settlements between prosecutor and defendant which are approved by court
+- Section 17-8-3 - Entry of nolle prosequi
+- Section 17-8-4 - Procedure for trial of jointly indicted defendants; right of defendants to testify for or against one another; order of separate trials; acquittal or conviction where offense requires joint action or concurrence; number of strikes allowed defendants
+- Section 17-8-5 - Recordation of testimony in felony cases; entering testimony on minutes of court where guilty verdict found; preparation of transcript where death sentence imposed; preparation of transcript where mistrial results in felony case
+- Section 17-8-6 - Authority of municipal court to seal criminal records
+- Section 17-8-20 - Showing of due diligence required of applicants for continuances generally
+- Section 17-8-21 - When showing for continuance required of state
+- Section 17-8-22 - Consideration of motion for continuance by court generally; allowance of counter-showing to motion
+- Section 17-8-23 - Absence of party as grounds for granting continuance
+- Section 17-8-24 - Absence or illness of counsel as grounds for granting continuance
+- Section 17-8-25 - Absence of witness as grounds for granting continuance
+- Section 17-8-26 - Party or party's attorney in attendance at General Assembly as grounds for granting continuance
+- Section 17-8-27 - Attorney General in attendance at General Assembly as grounds for granting continuance
+- Section 17-8-28 - Witness in attendance at General Assembly as grounds for granting continuance
+- Section 17-8-29 - Party or party's counsel in attendance at meeting of Board of Regents of the University System of Georgia as grounds for granting continuance
+- Section 17-8-30 - Party or party's counsel in attendance at meeting of Board of Human Services or Board of Behavioral Health and Developmental Disabilities as grounds for granting continuance
+- Section 17-8-31 - Party, leading attorney, or material witness in attendance on active duty as member of National Guard or component of armed forces of the United States as grounds for granting continuance; setting bail in certain cases
+- Section 17-8-32 - Effect of admission by opposing party of facts to be proved upon allowance of continuance
+- Section 17-8-33 - Granting of continuances where indictment found or accusation made; continuance where material witness unavailable; continuances required by principles of justice; granting of continuance where postponement possible to later date in term
+- Section 17-8-34 - Granting of continuances in cases returned by appellate court for trial
+- Section 17-8-35 - Effect of continuance by defendant upon trial of codefendants
+- Section 17-8-36 - Entry of date of continuance upon docket of court; announcement of continuance in open court
+- Section 17-8-37 - Duration of continuance
+- Section 17-8-38 - Case not reached at trial term continued
+- Section 17-8-50 - Courts in which trials of inmates escaping from correctional institutions to take place; admissibility of records pertaining to former trials of such inmates; testimony of other inmates
+- Section 17-8-51 - Admissibility of testimony of inmates in trials for crime of mutiny
+- Section 17-8-52 - Oath to be administered to witnesses
+- Section 17-8-53 - Exclusion of public from courtroom when evidence vulgar or obscene
+- Section 17-8-54 - Persons in courtroom when person under age of 16 testifies concerning sexual offense
+- Section 17-8-55 - Testimony of child less than 17 years old outside physical presence of accused
+- Section 17-8-56 - Writing out and reading of charge to jury; filing of charge; furnishing of copies of charge
+- Section 17-8-57 - Expression or intimation of opinion by judge as to matters proved or guilt of accused
+- Section 17-8-58 - Objections to jury charges prior to the jury retiring to deliberate; failure to raise objections
+- Section 17-8-70 - Number of counsel permitted to argue case
+- Section 17-8-71 - Order of argument after evidence presented
+- Section 17-8-72 - Misdemeanors and cases arising from inferior judicatories; time limits on closing argument
+- Section 17-8-73 - Noncapital and capital felony cases; time limits on closing argument
+- Section 17-8-74 - Allowance of additional time for closing argument
+- Section 17-8-75 - Improper statements by counsel
+- Section 17-8-76 - Argument to or in front of jury as to possibility of clemency

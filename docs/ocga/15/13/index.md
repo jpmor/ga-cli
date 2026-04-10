@@ -1,0 +1,23 @@
+# Chapter 13 - OFFICERS OF COURT GENERALLY (§§ 15-13-1 — 15-13-36)
+
+- Section 15-13-1 - Officers of court liability
+- Section 15-13-2 - Liability of sheriffs to damage action or contempt
+- Section 15-13-3 - Demand for money collected; interest from date of demand; verified copy as evidence
+- Section 15-13-4 - Rule nisi; service
+- Section 15-13-5 - Verified answer; jury trial; disposition
+- Section 15-13-6 - When rule absolute granted without notice
+- Section 15-13-7 - Liability of magistrates and constables to rule nisi
+- Section 15-13-8 - Retired officers subject to court order
+- Section 15-13-9 - Deputy sheriff's liability; effect on sheriff
+- Section 15-13-10 - Appointment of special officer to execute rule or order against sheriff or deputy
+- Section 15-13-11 - Rule absolute as lien on officer's property
+- Section 15-13-12 - Date of lien against officer's property
+- Section 15-13-13 - When officer may pay money over to plaintiff; claims; distribution by court; effect on notified parties
+- Section 15-13-14 - Punishment for improper return or failure to pay over money received
+- Section 15-13-30 - Fees not generally charged to state; exceptions
+- Section 15-13-31 - Receipt for fees to be given; penalty
+- Section 15-13-32 - Penalty for excessive fees
+- Section 15-13-33 - Table of fees to be kept
+- Section 15-13-34 - Treble costs against plaintiffs
+- Section 15-13-35 - Demanding excessive costs; penalty
+- Section 15-13-36 - Restrictions on charging prosecuting attorneys fees for certified copies of records

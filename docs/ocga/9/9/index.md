@@ -1,0 +1,85 @@
+# Chapter 9 - ARBITRATION (§§ 9-9-1 — 9-9-84)
+
+- Section 9-9-1 - Short title
+- Section 9-9-2 - Applicability; exclusive method
+- Section 9-9-3 - Effect of arbitration agreement
+- Section 9-9-4 - Application to court; venue; service of papers; scope of court's consideration; application for order of attachment or preliminary injunction
+- Section 9-9-5 - Limitation of time as bar to arbitration
+- Section 9-9-6 - Application to compel or stay arbitration; demand for arbitration; consolidation of proceedings
+- Section 9-9-7 - Appointment of arbitrators
+- Section 9-9-8 - Time and place for hearing; notice; application for prompt hearing; conduct of hearing; right to counsel; record; waiver
+- Section 9-9-9 - Power of subpoena; enforcement; use of discovery; opportunity to examine documents; compensation of witnesses
+- Section 9-9-10 - Award to be in writing; copies furnished; time of making award; waiver
+- Section 9-9-11 - When award changed; application for change; objection thereto; time for disposition of application
+- Section 9-9-12 - Confirmation of award by court
+- Section 9-9-13 - Vacation of award by court; application; grounds; rehearing; appeal of order
+- Section 9-9-14 - Modification of award by court; application; grounds; subsequent confirmation of award
+- Section 9-9-15 - Judgment on award
+- Section 9-9-16 - Appeals authorized
+- Section 9-9-17 - Arbitrators' fees and expenses
+- Section 9-9-18 - Commencement or continuation of proceedings upon death or incompetency of party
+- Section 9-9-20 - Short title; statement of purpose
+- Section 9-9-21 - Applicability
+- Section 9-9-22 - Definitions
+- Section 9-9-23 - Interpretation
+- Section 9-9-24 - Receipt of written communications
+- Section 9-9-25 - Waiver of right to object to violations of arbitration agreement
+- Section 9-9-26 - Judicial intervention and enforcement
+- Section 9-9-27 - County where agreement to be enforced
+- Section 9-9-28 - Arbitration agreements to be in writing; definitions
+- Section 9-9-29 - Arbitration referrals
+- Section 9-9-30 - Interim measures of protection
+- Section 9-9-31 - Number of arbitrators
+- Section 9-9-32 - Appointment of arbitrators; immunity from liability
+- Section 9-9-33 - Arbitrator disclosure requirements; challenge of arbitrator for doubts as to impartiality or independence
+- Section 9-9-34 - Procedure for challenging arbitrator
+- Section 9-9-35 - Inability of arbitrator to carry out or perform functions; termination of mandate
+- Section 9-9-36 - Appointment of substitute arbitrator
+- Section 9-9-37 - Disputes as to jurisdiction
+- Section 9-9-38 - Interim measures
+- Section 9-9-39 - When recognition or enforcement of interim measure may be refused
+- Section 9-9-40 - Treatment of parties
+- Section 9-9-41 - Procedure to be followed by arbitration tribunal
+- Section 9-9-42 - Place of arbitration
+- Section 9-9-43 - Date of commencement of arbitral proceedings
+- Section 9-9-44 - Languages to be used in arbitral proceedings; translation of documentary evidence
+- Section 9-9-45 - Facts supporting claim; amendment or supplementing of claim
+- Section 9-9-46 - How proceedings to be conducted; oral hearings; notice; consolidation of proceedings or hearings
+- Section 9-9-47 - Effects of failure to state facts supporting claim, failure to put forward statement of defense, or failure to appear at hearing or to produce documentary evidence
+- Section 9-9-48 - Appointment of experts
+- Section 9-9-49 - Subpoenas for witnesses and other evidence; compensation of witnesses
+- Section 9-9-50 - Rules applicable to disputes
+- Section 9-9-51 - Decision-making when more than one arbitrator
+- Section 9-9-52 - Settlement; arbitration award on agreed terms
+- Section 9-9-53 - Arbitration award
+- Section 9-9-54 - Termination of arbitral proceedings
+- Section 9-9-55 - Correction or interpretation of arbitration award; additional arbitration awards; extension of time for correction, interpretation, or additional award
+- Section 9-9-56 - Recourse against arbitration award; criteria for setting aside award; time for making application to set aside
+- Section 9-9-57 - Arbitration award recognized as binding; enforcement
+- Section 9-9-58 - Grounds for refusing recognition or enforcement of arbitration award
+- Section 9-9-59 - Appeal of final judgment
+- Section 9-9-60 - &quot;Medical malpractice claim&quot; defined
+- Section 9-9-61 - Medical malpractice arbitration authorized
+- Section 9-9-62 - Petition for arbitration; arbitration order and appointment of referee; conditions precedent to enforceability
+- Section 9-9-63 - Tolling of statute of limitations; when action permitted after filing of petition for arbitration
+- Section 9-9-64 - Appointment of reporter; duties; compensation
+- Section 9-9-65 - Arbitration submission; irrevocability absent consent
+- Section 9-9-66 - Qualifications and status of referee
+- Section 9-9-67 - Arbitrators - How chosen
+- Section 9-9-68 - Arbitrators - How vacancy filled
+- Section 9-9-69 - Arbitrators - Oath and affidavit
+- Section 9-9-70 - Postponement of arbitration
+- Section 9-9-71 - Adjournments by arbitrators; no meeting outside group
+- Section 9-9-72 - Discovery
+- Section 9-9-73 - Subpoena power of referee; compensation of witnesses
+- Section 9-9-74 - Powers of referee to compel production of documentary evidence
+- Section 9-9-75 - Competency of witnesses
+- Section 9-9-76 - Rules governing examination of witnesses and admission of evidence
+- Section 9-9-77 - Administration of oaths by referee
+- Section 9-9-78 - Findings by arbitrators; concurrence of two sufficient
+- Section 9-9-79 - Copy of findings furnished parties; entry of original on court's minutes; effect and enforcement; clerk's fees
+- Section 9-9-80 - Finality of findings absent appeal; appeals to superior courts; transmittal of record; when findings set aside; disposition of case; supersedeas
+- Section 9-9-81 - Costs; how taxed
+- Section 9-9-82 - Compensation of arbitrators and referee
+- Section 9-9-83 - Civil and criminal immunity of arbitrators
+- Section 9-9-84 - [Repealed] [Repealed] Governor's Commission on Obstetrics

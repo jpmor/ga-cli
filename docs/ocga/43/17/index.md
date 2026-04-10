@@ -1,0 +1,28 @@
+# Chapter 17 - CHARITABLE SOLICITATIONS (§§ 43-17-1 — 43-17-23)
+
+- Section 43-17-1 - Short title
+- Section 43-17-2 - Definitions
+- Section 43-17-3 - Registration of paid solicitors; renewal; financial statements; denial of registration; amendments; contracts; solicitation notices; accounting; deposit of contributions; records
+- Section 43-17-3.1 - Registration as a solicitor agent; application; denial; renewal; amendments; fees
+- Section 43-17-4 - Bonding requirements for registered paid solicitors; deposits in lieu of bond
+- Section 43-17-5 - Registration of charitable organizations; service of process; financial statement; tax exemption determination; denial; renewal; amendments; fees; records
+- Section 43-17-6 - Agreement for charitable sales promotion; final accounting and records of promotions
+- Section 43-17-7 - Denial, suspension, or revocation of registration; other disciplinary actions; financial statements
+- Section 43-17-8 - Disclosures required
+- Section 43-17-8.1 - Requirements for use of collection receptacles for donations; penalty
+- Section 43-17-8.2 - Requirement for orderly, clean, and sanitary receptacles; notice; penalty for violations
+- Section 43-17-9 - Exemptions
+- Section 43-17-10 - Administration of chapter
+- Section 43-17-11 - Enforcement of chapter; investigations; subpoenas; cooperation with Attorney General, law enforcement, and regulatory agencies
+- Section 43-17-12 - Prohibited acts
+- Section 43-17-13 - Penalties; cease and desist orders; injunctions; restitution; appointment and powers of receiver; subpoenas
+- Section 43-17-14 - Recovery of damages; class actions
+- Section 43-17-15 - Venue
+- Section 43-17-16 - Hearings; notice; powers and orders of the Secretary of State
+- Section 43-17-17 - Appeals by petition for review
+- Section 43-17-18 - Service of process
+- Section 43-17-19 - Applicability of &quot;Fair Business Practices Act of 1975.&quot;
+- Section 43-17-20 - Immunity
+- Section 43-17-21 - Burden of proof on persons claiming exemption or exception; certified copies; certificate of compliance or noncompliance
+- Section 43-17-22 - Provisions of chapter govern criminal or civil proceedings
+- Section 43-17-23 - Violations of chapter

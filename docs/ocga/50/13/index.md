@@ -1,0 +1,35 @@
+# Chapter 13 - ADMINISTRATIVE PROCEDURE (§§ 50-13-1 — 50-13-44)
+
+- Section 50-13-1 - Short title; purpose
+- Section 50-13-2 - Definitions
+- Section 50-13-3 - Adoption of rules of organization and practice; public inspection and validity of rules, policies, orders, decisions, and opinions
+- Section 50-13-4 - Procedural requirements for adoption, amendment, or repeal of rules; emergency rules; limitation on action to contest rule; legislative override
+- Section 50-13-4.1 - Agency reporting on required regulation
+- Section 50-13-5 - Filing of previously adopted rules
+- Section 50-13-6 - Rules not effective until 20 days after filed with Secretary of State; maintenance of record of the rules; exceptions; rules governing manner and form of filing
+- Section 50-13-7 - Secretary of State to publish compilation of rules and quarterly bulletin
+- Section 50-13-8 - Judicial notice of rules
+- Section 50-13-9 - Petition for promulgation, amendment, or repeal of rule; agency response
+- Section 50-13-9.1 - Variances or waivers to rules
+- Section 50-13-10 - Declaratory judgment on validity of rules; venue for actions
+- Section 50-13-11 - Declaratory rulings by agencies
+- Section 50-13-12 - [Repealed] [Reserved] Department of Revenue to hold hearing when demanded by aggrieved taxpayer; election of remedies
+- Section 50-13-13 - [Effective until 7/1/2026] Opportunity for hearing in contested cases; notice; counsel; subpoenas; record; enforcement powers; revenue cases
+- Section 50-13-13 - [Effective 7/1/2026] Opportunity for hearing in contested cases; notice; counsel; subpoenas; record; enforcement powers; revenue cases
+- Section 50-13-14 - Intervention in contested cases
+- Section 50-13-15 - Rules of evidence in contested cases; official notice; conducting hearings by utilizing remote electronic communications
+- Section 50-13-16 - Proposal for decision in contested cases; opportunity to file exceptions and present briefs and arguments
+- Section 50-13-17 - Initial decisions in contested cases; review of initial decisions; final decisions and orders; Public Service Commission exceptions
+- Section 50-13-18 - Procedure upon grant, denial, renewal, revocation, suspension, annulment, or withdrawal of licenses
+- Section 50-13-19 - Judicial review of contested cases
+- Section 50-13-20 - Review of final judgment
+- Section 50-13-20.1 - Judicial review of final decision in contested case issued by administrative law judge
+- Section 50-13-21 - Compliance with filing and hearing requirements by Safety Fire Commissioner and Commissioner of Insurance
+- Section 50-13-22 - Construction of chapter
+- Section 50-13-23 - Determining date when documents received by or filed with agencies
+- Section 50-13-40 - Office created; chief state administrative law judge
+- Section 50-13-41 - Hearing procedures; powers of administrative law judge; issuance of decision; reviewing agency; review of contested cases
+- Section 50-13-42 - [Effective until 7/1/2026] Applicability of article
+- Section 50-13-42 - [Effective 7/1/2026] Applicability of article
+- Section 50-13-43 - Agencies to cooperate with chief state administrative law judge; Office of State Administrative Hearings to comply with federal law; rules and regulations
+- Section 50-13-44 - Administrative transfer of individuals to Office of State Administrative Hearings; approval of chief state administrative law judge; funding of transferred positions; transferred employees status

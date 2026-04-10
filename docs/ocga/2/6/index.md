@@ -1,0 +1,45 @@
+# Chapter 6 - SOIL AND WATER CONSERVATION (§§ 2-6-1 — 2-6-52)
+
+- Section 2-6-1 - Short title
+- Section 2-6-2 - Purpose of article; legislative findings; acceptance of federal Soil Conservation and Domestic Allotment Act
+- Section 2-6-3 - Definitions
+- Section 2-6-4 - Designation of state agency
+- Section 2-6-5 - Formulation and administration of state plans; investigations
+- Section 2-6-6 - Receipt and disbursement of funds; accounts; auditing; bonds
+- Section 2-6-7 - Assistance of other agencies and associations; rules and regulations; lease or purchase of equipment, facilities, and supplies; employment of personnel
+- Section 2-6-8 - Reports; investigations
+- Section 2-6-9 - Community associations; community and county committees
+- Section 2-6-10 - State advisory board
+- Section 2-6-20 - Short title
+- Section 2-6-21 - Legislative determinations and declarations of policy
+- Section 2-6-22 - Definitions
+- Section 2-6-23 - State Soil and Water Conservation Commission - Established; composition; terms of office; ex officio advisers; seal; rules and regulations
+- Section 2-6-24 - State Soil and Water Conservation Commission - Chairperson; quorum; compensation; surety bonds; records; audits
+- Section 2-6-25 - State Soil and Water Conservation Commission - Employment of administrative officer, experts, agents, and employees; legal services; delegation of powers and duties; furnishing of information; agency cooperation
+- Section 2-6-26 - State Soil and Water Conservation Commission - Merit and retirement systems for employees
+- Section 2-6-27 - State Soil and Water Conservation Commission - Additional duties and powers
+- Section 2-6-28 - Number and boundaries of soil and water conservation districts; alteration of existing districts or formation of new districts
+- Section 2-6-29 - District supervisors - Number; appointment, qualifications, and terms of appointive supervisors; county basis of election of elected supervisors
+- Section 2-6-30 - District supervisors - Election procedure for elected supervisors
+- Section 2-6-31 - District supervisors - Chairman; terms of office of elected supervisors; filling vacancies; quorum; compensation and expenses
+- Section 2-6-32 - District supervisors - Services of county agricultural agents; employees and agents; copies of rules, orders, and other documents; surety bonds; removal of supervisor; consultation
+- Section 2-6-33 - Powers of districts and supervisors; prerequisites to exercise
+- Section 2-6-34 - Conditions to extending benefits or performing work
+- Section 2-6-35 - Land use regulations - Adoption authorized; public hearings
+- Section 2-6-36 - Land use regulations - Referendum
+- Section 2-6-37 - Land use regulations - Provisions authorized; uniformity required; availability of copies
+- Section 2-6-38 - Land use regulations - Binding effect
+- Section 2-6-39 - Land use regulations - Inspections to determine observance; petition; judicial proceedings; costs and expenses
+- Section 2-6-40 - Land use regulations - Amendment or repeal
+- Section 2-6-41 - Right of eminent domain for small watershed project; conditions precedent; procedure
+- Section 2-6-42 - Cooperation between districts
+- Section 2-6-43 - State agencies to cooperate with districts and observe land use regulations
+- Section 2-6-44 - Exemption from taxation
+- Section 2-6-45 - Discontinuance of district - Petition of landowners; hearings
+- Section 2-6-46 - Discontinuance of district - Referendum
+- Section 2-6-47 - Discontinuance of district - Publication of referendum results; determination of feasibility of continuance
+- Section 2-6-48 - Discontinuance of district - Certification from committee; termination of affairs; application for dissolution; certificate of dissolution
+- Section 2-6-49 - Discontinuance of district - Effect of dissolution
+- Section 2-6-50 - Discontinuance of district - Frequency of discontinuance attempts
+- Section 2-6-51 - District not liable for loss, damage, injury, or death
+- Section 2-6-52 - Creation of Agricultural Water Conservation Incentive Program; purpose; participation; funding

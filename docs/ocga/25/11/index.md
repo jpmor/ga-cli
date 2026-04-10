@@ -1,0 +1,21 @@
+# Chapter 11 - FIRE PROTECTION SPRINKLER CONTRACTORS (§§ 25-11-1 — 25-11-19)
+
+- Section 25-11-1 - Short title
+- Section 25-11-2 - Definitions
+- Section 25-11-3 - Powers and duties of the Commissioner; delegation of authority
+- Section 25-11-4 - Certificate of competency
+- Section 25-11-5 - Fire protection sprinkler contractor license
+- Section 25-11-6 - Fire protection system inspector license
+- Section 25-11-7 - Fire protection system designer license
+- Section 25-11-8 - Requirement that installation, repair, or other work be performed or supervised by certificate holder
+- Section 25-11-9 - Review of water-based fire protection shop drawings
+- Section 25-11-10 - Preparation of water-based fire protection system documents for construction by designers
+- Section 25-11-11 - Individuals authorized to inspect and maintain fire protection systems
+- Section 25-11-12 - Rules and regulations; forms
+- Section 25-11-13 - Valid license required for installation or repair of water-based fire protection systems
+- Section 25-11-14 - Applicability to work performed for state or political subdivision; contract and bid requirements for such work
+- Section 25-11-15 - Deposit of fees collected under chapter; authority to accept grants for administration of chapter
+- Section 25-11-16 - Issuance of orders; penalties; injunctions
+- Section 25-11-17 - Additional grounds for revocation, suspension, refusal, or nonrenewal of licenses
+- Section 25-11-18 - Failure to renew certificate or license
+- Section 25-11-19 - Systems exempt from chapter

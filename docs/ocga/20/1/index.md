@@ -1,0 +1,35 @@
+# Chapter 1 - GENERAL PROVISIONS (§§ 20-1-1 — 20-1-45)
+
+- Section 20-1-1 - Acceptance and adoption of annuity contracts of teachers hired from other Georgia school systems
+- Section 20-1-2 - Power of the governing boards of public school systems to establish supplemental pension and retirement allowances
+- Section 20-1-3 - Eligibility of teachers receiving retirement benefits from the Board of Regents of the University System of Georgia to be members of the Teachers Retirement System of Georgia
+- Section 20-1-4 - Power of the Board of Regents of the University System of Georgia to establish supplemental pension and retirement allowances
+- Section 20-1-5 - Liability of surrogate parents
+- Section 20-1-6 - Retired Teachers' Day
+- Section 20-1-6.1 - Official state school
+- Section 20-1-7 - Fraudulent activities with respect to documents conferred by institution of education; penalties
+- Section 20-1-8 - Placement of lottery funds into Construction Reserve Trust Fund
+- Section 20-1-9 - &quot;Local school system,&quot; &quot;local boards of education,&quot; and &quot;county boards of education&quot; defined
+- Section 20-1-10 - Certification by Department of Public Safety required prior to contracting with motor or contract carrier
+- Section 20-1-11 - Advocating for divisive concepts; prohibition on discrimination; practice of tolerance and mutual respect encouraged; complaint resolution policies; inspection of records; waivers prohibited
+- Section 20-1-14 - Short title
+- Section 20-1-15 - Definitions
+- Section 20-1-16 - Kinship caregiver authorized to provide legal consent
+- Section 20-1-17 - Reliance on properly executed affidavit; notice of child ceasing to reside with kinship caregiver; provision of false information in execution of affidavit
+- Section 20-1-18 - Requirements for validly executed affidavit; form
+- Section 20-1-19 - Article does not supersede &quot;Supporting and Strengthening Families Act.&quot;
+- Section 20-1-20 - Short title
+- Section 20-1-21 - Legislative findings and intent
+- Section 20-1-22 - Definitions
+- Section 20-1-23 - Disciplinary action for student of public educational institution
+- Section 20-1-24 - Disciplinary action for student of nonpublic educational institution
+- Section 20-1-25 - Additional sanctions permissible
+- Section 20-1-26 - Promulgation of administrative procedures for implementation of article
+- Section 20-1-27 - Applicability of article
+- Section 20-1-30 - Establishment of school policies on hazing; public disclosure of incidents; confidentiality of student information
+- Section 20-1-40 - [Effective until 12/31/2026] Definitions
+- Section 20-1-41 - [Effective until 12/31/2026] Council created
+- Section 20-1-42 - [Effective until 12/31/2026] Membership; terms; cooperation; Literacy Coach
+- Section 20-1-43 - [Effective until 12/31/2026] Meetings; executive committee of voting members; expenses
+- Section 20-1-44 - [Effective until 12/31/2026] Duties and authority
+- Section 20-1-45 - [Effective until 12/31/2026] Termination

@@ -1,0 +1,32 @@
+# Chapter 70 - COORDINATED AND COMPREHENSIVE PLANNING AND SERVICE DELIVERY BY COUNTIES AND MUNICIPALITIES (§§ 36-70-1 — 36-70-29)
+
+- Section 36-70-1 - Legislative intent and purpose
+- Section 36-70-2 - Definitions
+- Section 36-70-3 - Powers of municipalities and counties
+- Section 36-70-4 - Municipality and county as members of regional commissions; membership dues; participation in compiling Department of Community Affairs data base
+- Section 36-70-5 - Effect of chapter on county and municipal zoning powers
+- Section 36-70-6 - Promotion of deployment of broadband services by broadband services providers
+- Section 36-70-20 - [Effective Until 1/1/2026] Legislative intent
+- Section 36-70-20 - [Effective 1/1/2026] Legislative intent
+- Section 36-70-21 - [Effective Until 1/1/2026] Deadline date for implementation agreement
+- Section 36-70-21 - [Effective 1/1/2026] Implementation agreements
+- Section 36-70-22 - [Effective Until 1/1/2026] Date for process initiation
+- Section 36-70-22 - [Effective 1/1/2026] Date for process initiation; notice to municipalities and counties impacted
+- Section 36-70-22.1 - [Effective 1/1/2026] Response proposals
+- Section 36-70-23 - Required components
+- Section 36-70-23.1 - [Effective 1/1/2026] State-wide mapping standards
+- Section 36-70-24 - [Effective Until 1/1/2026] Criteria for service delivery strategy
+- Section 36-70-24 - [Effective 1/1/2026] Criteria for service delivery strategy
+- Section 36-70-25 - [Effective Until 1/1/2026] Approval; extension of deadline date
+- Section 36-70-25 - [Effective 1/1/2026] Development and approval of local government service delivery strategy
+- Section 36-70-25.1 - [Effective Until 1/1/2026] Dispute resolution procedures
+- Section 36-70-25.1 - [Effective 1/1/2026] Mediation process
+- Section 36-70-25.2 - [Effective 1/1/2026] Nonbinding arbitration process
+- Section 36-70-25.3 - [Effective 1/1/2026] Judicial resolution of certain disputes
+- Section 36-70-26 - [Effective Until 1/1/2026] Required filing; verification of components
+- Section 36-70-26 - [Effective 1/1/2026] Required filing; verification of components; failure to file; rules and regulations
+- Section 36-70-27 - [Effective Until 1/1/2026] Limitation of funding for projects inconsistent with strategy
+- Section 36-70-27 - [Effective 1/1/2026] Limitation of funding; sanctions
+- Section 36-70-28 - [Effective Until 1/1/2026] &quot;Affected municipality&quot; defined; review and revision of strategy
+- Section 36-70-28 - [Effective 1/1/2026] Review and revision of strategy
+- Section 36-70-29 - [Effective 1/1/2026] Restrictions on rules and regulations

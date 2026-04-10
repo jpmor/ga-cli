@@ -1,0 +1,39 @@
+# Chapter 4B - GEORGIA ATHLETIC AND ENTERTAINMENT COMMISSION (§§ 43-4B-1 — 43-4B-55)
+
+- Section 43-4B-1 - Definitions
+- Section 43-4B-2 - Application
+- Section 43-4B-3 - Georgia Athletic and Entertainment Commission; membership; medical advisory panel; reimbursement of members
+- Section 43-4B-4 - Authority of commission
+- Section 43-4B-5 - Secretary of commission
+- Section 43-4B-6 - Commission meetings
+- Section 43-4B-7 - Rules and regulations governing professional boxing
+- Section 43-4B-8 - Prohibited compensation to commission members
+- Section 43-4B-10 - Promoter's license and match permit requirements; applications; performance bond; fees
+- Section 43-4B-11 - Required licenses for boxers and nonboxing participants; prerequisites to licenses
+- Section 43-4B-12 - Registry requirements for boxers; identification card; fees
+- Section 43-4B-13 - Authority to refuse to grant or to revoke or suspend license; fines; revoking suspension
+- Section 43-4B-14 - Prequalification requirements for events
+- Section 43-4B-15 - Alcohol and drug use prohibited
+- Section 43-4B-16 - Building standards and regulations for matches
+- Section 43-4B-17 - Age requirements
+- Section 43-4B-18 - Jurisdiction of commission
+- Section 43-4B-18.1 - Bare knuckle boxing; limitations on participation; role of commission
+- Section 43-4B-19 - Proceedings for violations of article
+- Section 43-4B-20 - Required submission of reports and tax payments by promoters
+- Section 43-4B-21 - Injunctions; penalty for violations of article; unarmed combat
+- Section 43-4B-25 - Authority to resell tickets; service charges
+- Section 43-4B-26 - Requirements
+- Section 43-4B-27 - Disqualification for felony conviction
+- Section 43-4B-28 - Resale by ticket brokers; disclosure requirements; sale and resale restrictions; refunds
+- Section 43-4B-29 - Resale of tickets by original purchaser; charitable organizations
+- Section 43-4B-29.1 - Resale within zone authorized by the event organizer and the venue owner or operator
+- Section 43-4B-30 - County and municipal ordinances
+- Section 43-4B-31 - Violation of article a misdemeanor
+- Section 43-4B-32 - Powers of commission upon violation of article
+- Section 43-4B-40 - [Repealed]
+- Section 43-4B-50 - Authority and duties of the commission with regard to licensure, exemption from licensure, and regulation
+- Section 43-4B-51 - Fees
+- Section 43-4B-52 - Requirements for matches, contests, and exhibitions
+- Section 43-4B-53 - Prohibited activities for felons or persons convicted of crime of moral turpitude
+- Section 43-4B-54 - Suspension, revocation, or denial of licenses or permits; fines
+- Section 43-4B-55 - Exemptions

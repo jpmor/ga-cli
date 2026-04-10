@@ -1,0 +1,43 @@
+# Chapter 6 - CERTIORARI AND APPEALS TO APPELLATE COURTS GENERALLY (§§ 5-6-1 — 5-6-51)
+
+- Section 5-6-1 - Appearance before court of interested third parties
+- Section 5-6-2 - Disposition of transcript in appellate court
+- Section 5-6-3 - Filing of briefs on court order where cases not disposed of during term; additional argument; effect of failure to comply with order
+- Section 5-6-4 - Bill of costs; payment of costs; exceptions to payment; prerequisite to receipt of application for appeal or brief by clerk
+- Section 5-6-5 - Entry of judgment for costs on reversal
+- Section 5-6-6 - Damages for frivolous appeal
+- Section 5-6-7 - No decisions to be rendered ore tenus; publication of judgments and opinions
+- Section 5-6-8 - Entry of decision on minutes; directions to lower court
+- Section 5-6-9 - Transmittal of opinion to lower court generally
+- Section 5-6-10 - Transmittal of remittitur to lower court generally
+- Section 5-6-11 - Issuance of remittitur in cases involving death penalty
+- Section 5-6-12 - Cessation of supersedeas and issuance of execution upon affirmance of judgment of lower court
+- Section 5-6-13 - Granting of supersedeas in cases of contempt
+- Section 5-6-14 - Execution of extraordinary orders
+- Section 5-6-15 - Certiorari from Supreme Court to Court of Appeals
+- Section 5-6-16 - Time for appeal by personal representative where party dies after trial; effect of entry of appeal and of failure to enter appeal; when appeal heard
+- Section 5-6-30 - Purpose of article; construction
+- Section 5-6-31 - Entry of judgment defined
+- Section 5-6-32 - Manner of service of notices and other papers upon parties; waiver or acknowledgment of service
+- Section 5-6-33 - [Effective until 7/1/2026] Right of appeal generally
+- Section 5-6-33 - [Effective 7/1/2026] Right of appeal generally
+- Section 5-6-34 - [Effective until 7/1/2026] Judgments and rulings deemed directly appealable; procedure for review of judgments, orders, or decisions not subject to direct appeal; scope of review; hearings in criminal cases involving a capital offense for which death penalty is sought; appeals involving nonmonetary judgments in child custody cases
+- Section 5-6-34 - [Effective 7/1/2026] Judgments and rulings deemed directly appealable; procedure for review of judgments, orders, or decisions not subject to direct appeal; scope of review; hearings in criminal cases involving a capital offense for which death penalty is sought; appeals involving nonmonetary judgments in child custody cases
+- Section 5-6-35 - Cases requiring application for appeal; requirements for application; exhibits; response; issuance of appellate court order regarding appeal; procedure; supersedeas; jurisdiction of appeal; appeals involving nonmonetary judgments in custody cases
+- Section 5-6-36 - Filing of motion for new trial and motion for judgment notwithstanding verdict where appeal taken from judgment, ruling, or order
+- Section 5-6-37 - Filing and contents of notice of appeal; service of notice upon parties to appeal
+- Section 5-6-38 - Time of filing notice of appeal; cross appeal; record and transcript for cross appeal; division of costs; appeals in capital offense cases for which death penalty is sought
+- Section 5-6-39 - Extensions of time for filing notice of appeal, notice of cross appeal, transcript of evidence, designation of record and other similar motions
+- Section 5-6-40 - Enumeration of errors
+- Section 5-6-41 - [Effective until 7/1/2026] Reporting, preparation, and disposition of transcript; correction of omissions or misstatements; preparation of transcript from recollections; filing of disallowed papers; filing of stipulations in lieu of transcript; reporting at party's expense
+- Section 5-6-41 - [Effective 7/1/2026] Reporting, preparation, and disposition of transcript; correction of omissions or misstatements; preparation of transcript from recollections; filing of disallowed papers; filing of stipulations in lieu of transcript; reporting at party's expense
+- Section 5-6-42 - Procedure for preparation and filing of transcript of evidence and proceedings where appellant designates matter to be omitted from record on appeal; extensions of time for completion of transcript
+- Section 5-6-43 - Preparation and transmittal of record on appeal by court clerk; retention of copy by clerk; furnishing at no cost to Attorney General in capital cases; notification where defendant confined to jail
+- Section 5-6-44 - Authorization and procedure generally for filing of joint appeals, motions for new trial, and other motions; division of costs between parties
+- Section 5-6-45 - Operation of notice of appeal as supersedeas in criminal cases; bond; review
+- Section 5-6-46 - Operation of notice of appeal as supersedeas in civil cases; requirement of supersedeas bond or other security; fixing of amount; procedure upon no or insufficient filing; effect of bond as to liability of surety; punitive damages
+- Section 5-6-47 - Operation of notice of appeal and affidavit of indigence as supersedeas in civil cases; procedure for contests as to truth of affidavit
+- Section 5-6-48 - Grounds for dismissal of appeal; amendments; correcting or supplementing record or transcript; effect of dismissal of appeal upon cross appeal; effect of deficiencies upon consideration of appeal
+- Section 5-6-49 - Bills of exceptions, exceptions pendente lite, assignments of error abolished; contents of motions for new trial and for j.n.o.v
+- Section 5-6-50 - Procedure provided by article supersedes former appellate procedure
+- Section 5-6-51 - Forms

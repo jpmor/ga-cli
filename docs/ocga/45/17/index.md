@@ -1,0 +1,33 @@
+# Chapter 17 - NOTARIES PUBLIC (§§ 45-17-1 — 45-17-34)
+
+- Section 45-17-1 - Definitions
+- Section 45-17-1.1 - Power to appoint notaries public
+- Section 45-17-2 - Qualifications of notaries
+- Section 45-17-2.1 - Application to be a notary; endorsements and declarations
+- Section 45-17-2.2 - Application information to be matter of public record
+- Section 45-17-2.3 - Grant or denial of commission or recommission; grounds; unauthorized practice of law
+- Section 45-17-3 - Oath of office
+- Section 45-17-4 - Fees; Secretary of State to keep record of notaries appointed; reappointment
+- Section 45-17-5 - Term of office; revocation; renewal of commission; issuance of certificates of appointment; record of appointments; misrepresentation as notary
+- Section 45-17-6 - Seal of office
+- Section 45-17-7 - Commissioning of nonresidents as notaries; powers and duties
+- Section 45-17-8 - Powers and duties generally
+- Section 45-17-8.1 - Signature and date of notarial act
+- Section 45-17-8.2 - Misrepresentation prohibited; required notice; posting of schedule of fees; penalties
+- Section 45-17-9 - Where notarial acts may be exercised
+- Section 45-17-10 - Notary's authority in relation to attachment, garnishment, or dispossessory action
+- Section 45-17-11 - Fees of notaries
+- Section 45-17-12 - Authority of notaries who are stockholders, directors, officers, or employees of banks or other corporations to witness execution of written instruments
+- Section 45-17-13 - Change of residence, address, or name
+- Section 45-17-14 - Notice of loss or theft of notarial seal
+- Section 45-17-15 - Revocation of commission; denial of reappointment
+- Section 45-17-16 - Revocation of commission; return of papers; destruction of seal
+- Section 45-17-17 - Resignation of commission; return of papers; destruction of seal
+- Section 45-17-18 - Destruction of seal upon expiration or denial of renewal of commission
+- Section 45-17-19 - Authenticity of official signature and term of office; fees; apostille
+- Section 45-17-20 - Penalty; prosecution of violations of article
+- Section 45-17-30 - Commissioned officers of armed services constituted as ex officio notaries; authority generally; effect of acts generally; no seal required
+- Section 45-17-31 - Persons authorized to have notarial acts performed by commissioned officers
+- Section 45-17-32 - Validity and effect of notarial acts
+- Section 45-17-33 - Sufficiency of certification generally; effect of failure to state place of execution or acknowledgment
+- Section 45-17-34 - Signature, rank, and branch of officer as proof of authority; action by officer as prima-facie evidence

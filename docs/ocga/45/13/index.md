@@ -1,0 +1,26 @@
+# Chapter 13 - SECRETARY OF STATE (§§ 45-13-1 — 45-13-80)
+
+- Section 45-13-1 - Election
+- Section 45-13-2 - Bond
+- Section 45-13-3 - Office; residence
+- Section 45-13-4 - Compensation
+- Section 45-13-5 - Speculation on purchase or sale of wild lands
+- Section 45-13-20 - Duties of Secretary of State generally
+- Section 45-13-21 - Duty to prepare and deliver commissions, dedimus potestatems, and bonds to Governor for signature; executive secretary to submit Governor's appointments for preparation of commissions, dedimus potestatems, and bonds
+- Section 45-13-22 - Distribution of Georgia Laws and journals of House and Senate; pricing
+- Section 45-13-23 - [Repealed] Duty to provide legislative Acts to Office of Legislative Counsel
+- Section 45-13-24 - Duty to provide Acts requiring referendums to local election officials
+- Section 45-13-25 - Employment of assistants to discharge functions imposed by Chapter 5 of Title 10, the &quot;Georgia Uniform Securities Act of 2008.&quot;
+- Section 45-13-26 - Designation of employees as agents to accept service of process; powers of designees; fees for acceptance of process
+- Section 45-13-27 - Official directory of state and county officials and officers
+- Section 45-13-28 - Prescription of user fees for public information services and materials
+- Section 45-13-29 - [Repealed] Commission for the Celebration of 250 Years of Representative Government in Georgia; creation; purpose; membership; powers; reimbursement; termination
+- Section 45-13-40 - through 45-13-48 - Reserved
+- Section 45-13-49 - through 45-13-50 - Reserved
+- Section 45-13-58 - [Repealed] Purpose; membership; staff support; meetings; funding; powers and authority; termination
+- Section 45-13-60 - through 45-13-62 - [Repealed]
+- Section 45-13-70 - Creation of commission; membership; appointment; staffing
+- Section 45-13-71 - Duties and responsibilities of commission
+- Section 45-13-72 - Submission of recommendations to achieve highest museum standards; designation of area as Georgia Capitol Agricultural History Museum
+- Section 45-13-73 - Funding; acceptance of gifts and donations
+- Section 45-13-74 - Provisions are general law; no special law regarding capitol artwork

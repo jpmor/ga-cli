@@ -1,0 +1,33 @@
+# Chapter 12 - DAMAGES (§§ 51-12-1 — 51-12-80)
+
+- Section 51-12-1 - Types of damages; evidence admissible in actions involving special damages
+- Section 51-12-2 - General and special damages distinguished; when recovered
+- Section 51-12-3 - Direct and consequential damages distinguished
+- Section 51-12-4 - Damages given as compensation for injury; measure of damages generally; nominal damages
+- Section 51-12-5 - Additional damages for aggravating circumstances
+- Section 51-12-5.1 - Punitive damages
+- Section 51-12-6 - Damages for injury to peace, happiness, or feelings
+- Section 51-12-7 - Recovery of necessary expenses
+- Section 51-12-8 - When damage too remote for recovery generally
+- Section 51-12-9 - How remoteness ascertained
+- Section 51-12-10 - Exception to rule against recovery of remote damages
+- Section 51-12-11 - Mitigation of damages required; exception
+- Section 51-12-12 - Court interference with jury verdict as to damages
+- Section 51-12-13 - Reduction of expenses, wages, and other damages to present value
+- Section 51-12-14 - Unliquidated Damages Interest Act; procedure for demand of unliquidated damages in tort actions; when interest may be recovered
+- Section 51-12-30 - Procurer of wrong as joint wrongdoer; how action brought against joint wrongdoer
+- Section 51-12-31 - Recovery against joint trespassers
+- Section 51-12-32 - Right of contribution among joint trespassers; effect of settlement
+- Section 51-12-33 - Reduction and apportionment of award or bar of recovery according to percentage of fault of parties and nonparties
+- Section 51-12-50 - Measure of damages for converted timber; presumption
+- Section 51-12-51 - Recovery by person holding security interest in land for conversion of timber; use of converted timber by owner
+- Section 51-12-71 - Short title
+- Section 51-12-72 - Definitions
+- Section 51-12-73 - Structured settlement purchase companies; requirements for doing business
+- Section 51-12-74 - Prohibited activities; penalty for violation
+- Section 51-12-75 - Transfer orders as qualified orders under federal statutes
+- Section 51-12-76 - Separate disclosure statement provided to payee; requirements
+- Section 51-12-77 - Approval of transfer by court order; requirements
+- Section 51-12-78 - Redirecting payments; liability of transferee; dividing payment; compliance
+- Section 51-12-79 - Application for transfer of structured settlement payment right required documentation; hearing
+- Section 51-12-80 - Waiver prohibited; governing law; death of payee; compliance by transferee

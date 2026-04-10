@@ -1,0 +1,23 @@
+# Chapter 8 - FEES AND TAXES (§§ 33-8-1 — 33-8-13)
+
+- Section 33-8-1 - Fees and charges generally
+- Section 33-8-2 - Fees and taxes imposed upon representatives of insurers of other states
+- Section 33-8-3 - License fees of insurance companies generally
+- Section 33-8-4 - Amount and method of computing tax on insurance premiums generally; exclusion of annuity considerations
+- Section 33-8-4.1 - State insurance premiums tax credits for insurance companies located in certain counties designated as less developed areas; authority of commissioner of community affairs and Commissioner
+- Section 33-8-4.2 - Assignment, carryover, and liability regarding tax credits
+- Section 33-8-5 - Abatement or reduction of tax on insurance premiums
+- Section 33-8-6 - Time of payment of tax on insurance premiums; filing of returns; penalties
+- Section 33-8-7 - Deduction from taxes of retaliatory taxes paid other states
+- Section 33-8-8 - Preemption of taxation of insurance companies by state; exceptions; collection of license fees by municipal corporations
+- Section 33-8-8.1 - County and municipal corporation taxes on life insurance companies
+- Section 33-8-8.2 - County and municipal corporation taxes on other than life insurance companies
+- Section 33-8-8.3 - Funding of services, or reduction of ad valorem taxes, in unincorporated areas of counties; powers and duties of governing authority
+- Section 33-8-8.4 - Inactive municipalities
+- Section 33-8-8.5 - Distribution of reimbursement of illegally assessed tax by insurance companies
+- Section 33-8-8.6 - Nonprotested premium taxes
+- Section 33-8-9 - Granting of refunds and credits by Commissioner
+- Section 33-8-10 - Confidential treatment of tax information; information to be disclosed by local officials engaged in collection of taxes; violations
+- Section 33-8-11 - Issuance of execution against persons delinquent in payment of fees or taxes
+- Section 33-8-12 - Waiver of penalties and interest
+- Section 33-8-13 - [Repealed Effective 12/31/2029] Exemption of certain insurance companies from taxes

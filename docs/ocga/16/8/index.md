@@ -1,0 +1,49 @@
+# Chapter 8 - OFFENSES INVOLVING THEFT (§§ 16-8-1 — 16-8-106)
+
+- Section 16-8-1 - Definitions
+- Section 16-8-2 - Theft by taking
+- Section 16-8-3 - Theft by deception
+- Section 16-8-4 - Theft by conversion
+- Section 16-8-5 - Theft of services
+- Section 16-8-5.1 - Circumstances permitting inference of intent to avoid payment; exceptions
+- Section 16-8-5.2 - Retail property fencing; civil forfeiture; related matters
+- Section 16-8-6 - Theft of lost or mislaid property
+- Section 16-8-7 - Theft by receiving stolen property
+- Section 16-8-8 - Theft by receiving property stolen in another state
+- Section 16-8-9 - Theft by bringing stolen property into state
+- Section 16-8-10 - Affirmative defenses to prosecution for violation of Code Sections 16-8-2 through 16-8-9
+- Section 16-8-11 - Venue for purposes of Code Sections 16-8-2 through 16-8-9 and 16-8-13 through 16-8-15
+- Section 16-8-12 - Penalties for theft in violation of Code Sections 16-8-2 through 16-8-9
+- Section 16-8-13 - Theft of trade secrets
+- Section 16-8-14 - Theft by shoplifting
+- Section 16-8-14.1 - Refund fraud
+- Section 16-8-14.2 - Organized retail theft
+- Section 16-8-15 - Conversion of payments for real property improvements
+- Section 16-8-16 - Theft by extortion
+- Section 16-8-17 - Misuse of Universal Product Code labels
+- Section 16-8-18 - Entering automobile or other motor vehicle with intent to commit theft or felony
+- Section 16-8-20 - Livestock theft
+- Section 16-8-21 - Removal or abandonment of shopping carts
+- Section 16-8-22 - Cargo theft
+- Section 16-8-23 - Prohibited uses of fifth wheel
+- Section 16-8-24 - Theft by possession of stolen mail
+- Section 16-8-25 - Porch piracy
+- Section 16-8-40 - Robbery
+- Section 16-8-41 - Armed robbery; robbery by intimidation; taking controlled substance from pharmacy in course of committing offense
+- Section 16-8-60 - Reproduction of recorded material; transfer, sale, distribution, circulation; civil forfeiture; restitution
+- Section 16-8-61 - Display of official rating on video movies
+- Section 16-8-62 - Film piracy prohibited; exceptions; penalty for violation
+- Section 16-8-80 - Short title
+- Section 16-8-81 - Legislative findings
+- Section 16-8-82 - Definitions
+- Section 16-8-83 - Owning, operating, or conducting a chop shop; penalty
+- Section 16-8-84 - Seizure of personal property used or possessed in connection with violation of Code Section 16-8-83
+- Section 16-8-85 - Civil forfeiture of personal property seized
+- Section 16-8-86 - Civil action for violation of this article
+- Section 16-8-100 - Short title
+- Section 16-8-101 - Definitions
+- Section 16-8-102 - Residential mortgage fraud
+- Section 16-8-103 - Venue
+- Section 16-8-104 - Authority to investigate and prosecute for residential mortgage fraud
+- Section 16-8-105 - Penalties
+- Section 16-8-106 - Civil forfeiture

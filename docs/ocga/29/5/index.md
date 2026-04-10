@@ -1,0 +1,71 @@
+# Chapter 5 - CONSERVATORS OF ADULTS (§§ 29-5-1 — 29-5-140)
+
+- Section 29-5-1 - Conservator for adults; best interest of the adult; no presumption of need for conservator; objective of conservatorship
+- Section 29-5-2 - Qualifications of conservator of adult
+- Section 29-5-3 - Order of preference in selecting conservator; nomination of individual to serve as conservator; requirements of nomination
+- Section 29-5-4 - Affidavit on property or value of estate; payment, transfer, or delivery pursuant to affidavit
+- Section 29-5-5 - et seq - [Repealed]
+- Section 29-5-10 - Petition for appointment of conservator; requirements of petition
+- Section 29-5-11 - Prerequisite finding prior to appointment of conservator; notice; evaluation; written report
+- Section 29-5-12 - Judicial review and proceedings
+- Section 29-5-13 - Requirements of order granting conservatorship; service; obligation of legal counsel; filing of certificate of conservatorship with court
+- Section 29-5-14 - Appointment of emergency conservator; requirements of petition
+- Section 29-5-15 - Review of petition; dismissal; requirements of court upon finding need for emergency conservator
+- Section 29-5-16 - Emergency conservatorship hearing; limitations on powers of emergency conservator
+- Section 29-5-17 - [Repealed] Responsibility for paying expenses of any hearing
+- Section 29-5-20 - Rights of adult ward; impact on right to vote or testamentary capacity
+- Section 29-5-21 - Rights and powers removed from ward
+- Section 29-5-22 - Obligations and liabilities of conservator
+- Section 29-5-23 - Authority of conservator; cooperation with guardian or other interested parties
+- Section 29-5-24 - Forfeiture of rights by conservator; disclosure of conflicts by conservator; transactions presenting substantial conflict in interests
+- Section 29-5-25 - Oath or affirmation required of conservator
+- Section 29-5-30 - Inventory and plan for handling ward's property
+- Section 29-5-31 - Retention of property; exchange or conversion of stocks or securities
+- Section 29-5-32 - Investment of estate funds by conservator
+- Section 29-5-33 - Holding of investments; corporate fiduciaries
+- Section 29-5-34 - Prudence required from conservator in making investments; acquisition and retention of property
+- Section 29-5-35 - Sale of perishable property; sale of other properties; disposal of other properties; accounting for proceeds; authority of emergency or temporary substitute conservator
+- Section 29-5-36 - Development of estate plan for ward; appointment of guardian ad litem prior to implementation of plan
+- Section 29-5-40 - Bond requirement; exception to requirement; recording
+- Section 29-5-41 - Terms of conservator's bond; timing; value; substantial compliance sufficient
+- Section 29-5-42 - Reduction in bond
+- Section 29-5-43 - Requirement of additional bond or security
+- Section 29-5-44 - Payment of bond premium
+- Section 29-5-45 - Liability of surety in event conservatorship is void
+- Section 29-5-46 - Joint and several liability of conservator and surety
+- Section 29-5-47 - Levy upon property; writs of execution
+- Section 29-5-48 - Order of levy against property
+- Section 29-5-49 - Discharge of surety from obligations under bond; reporting
+- Section 29-5-49.1 - Communication with other states on conservatorship
+- Section 29-5-50 - Determining compensation of conservator; failure to file annual returns results in forfeiture of commission
+- Section 29-5-51 - Reimbursement for reasonable expenses
+- Section 29-5-52 - Petition for additional compensation by conservator
+- Section 29-5-53 - Compensation from corporation or other business entity
+- Section 29-5-54 - Application for compensation by emergency or temporary substitute conservator; reduction of compensation to conservator
+- Section 29-5-60 - Verified return required annually; change of reporting period; production of documents; failure to file return
+- Section 29-5-61 - Interim settlement of accounts
+- Section 29-5-62 - Objection and hearings on interim settlement issues
+- Section 29-5-63 - Judgments against conservator and surety
+- Section 29-5-70 - Proceedings when allegations that ward denied right or privilege
+- Section 29-5-71 - Modification of conservatorship; contents of petition for modification; burden of proof
+- Section 29-5-72 - Termination of conservatorship; required evidence to support; burden of proof; death of ward
+- Section 29-5-80 - Petition for dismissal of conservator; final return; notice; order dismissing conservator
+- Section 29-5-81 - Final settlement; appearance by ward or successor conservator; return of property
+- Section 29-5-90 - Resignation of conservator; requirement of petition; alternative conservator; notice to interested individuals; order of appointment of successor conservator
+- Section 29-5-91 - Death of conservator; notice to interested individuals; order appointing successor conservator
+- Section 29-5-92 - Conservator required to answer charges; authority of court; effect on other proceedings
+- Section 29-5-93 - Cause of action for breach of fiduciary duty
+- Section 29-5-94 - Statute of limitations
+- Section 29-5-100 - Appointment of temporary substitute conservator; period of service; powers and authority; notice; removal
+- Section 29-5-101 - Appointment of successor conservators; appointment of legal counsel; notice to interested individuals; order appointing successor conservator
+- Section 29-5-102 - Delivery of property by predecessor conservator to successor conservator; final return
+- Section 29-5-110 - Proceedings for appeal; appointment of guardians ad litem; bond and security prior to removal; liability of surety of predecessor conservator; jurisdiction
+- Section 29-5-120 - Petition for removal; prerequisites
+- Section 29-5-125 - through 29-5-128 - Reserved
+- Section 29-5-130 - through 29-5-134 - Reserved
+- Section 29-5-135 - &quot;Foreign conservator&quot; defined; sale or disposal of property
+- Section 29-5-136 - Conservator's power to bring suit
+- Section 29-5-137 - Filing of letters of conservatorship with court
+- Section 29-5-138 - Submission to jurisdiction personally of foreign conservator; registration of conservatorship
+- Section 29-5-139 - Interested parties' right to compel foreign conservator to act with equity and good conscience; court's communication with appointing foreign court
+- Section 29-5-140 - Payments to foreign conservator on debts or return of property belonging to ward

@@ -1,0 +1,23 @@
+# Chapter 34 - ONEGEORGIA AUTHORITY (§§ 50-34-1 — 50-34-21)
+
+- Section 50-34-1 - Short title
+- Section 50-34-2 - Definitions
+- Section 50-34-3 - Creation, membership of board of directors, power, and authority of OneGeorgia Authority
+- Section 50-34-4 - Limitation on the authority's liability
+- Section 50-34-5 - Powers of the authority vested in the members
+- Section 50-34-6 - Powers of the authority
+- Section 50-34-7 - Powers to issue bonds and incur indebtedness
+- Section 50-34-8 - Obligations not subject to the &quot;Georgia Uniform Securities Act of 2008&quot;; setting of rates, fees, and charges for loans; power to issue bonds
+- Section 50-34-9 - Bonds as securities
+- Section 50-34-10 - Payment of bond proceeds
+- Section 50-34-11 - Power to secure issuance of bonds by trust agreement or indenture
+- Section 50-34-12 - All moneys received deemed to be trust funds; pledge of assets, funds, and properties for payment of bonds
+- Section 50-34-13 - Annual and biannual audits and reports
+- Section 50-34-14 - Termination of the authority
+- Section 50-34-15 - Facilitation of economic development for enterprises throughout the state
+- Section 50-34-16 - Competitive bidding not a requirement
+- Section 50-34-17 - OneGeorgia Authority Overview Committee established; duties
+- Section 50-34-18 - Transfer of positions authorized by authority to Department of Community Affairs
+- Section 50-34-19 - Border Region Retail Tourism Development Program; definition; procedure for implementation
+- Section 50-34-20 - Grant program to establish primary care medical facilities in health professional shortage areas; application; amount of award; approval; regulations
+- Section 50-34-21 - Georgia CHIPS and Advanced Technology Consortium (GCATC)

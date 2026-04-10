@@ -1,0 +1,23 @@
+# Chapter 3 - YEAR'S SUPPORT (§§ 53-3-1 — 53-3-21)
+
+- Section 53-3-1 - Preference and entitlement
+- Section 53-3-2 - Events barring right to support
+- Section 53-3-3 - Provision in will in lieu of support; election
+- Section 53-3-4 - &quot;Homestead&quot; defined; taxes and tax liens
+- Section 53-3-5 - Filing of petition
+- Section 53-3-6 - Issuance of citation and publication of notice; mailing of petition to tax commissioner
+- Section 53-3-7 - Hearing and determination
+- Section 53-3-8 - Minor children by individuals other than surviving spouse
+- Section 53-3-9 - Vesting of title to property set apart
+- Section 53-3-10 - Property inside or outside county
+- Section 53-3-11 - Awarding interest in real property
+- Section 53-3-12 - Fees
+- Section 53-3-13 - Sale or conveyance of property by personal representative or temporary administrator prior to award
+- Section 53-3-14 - Real property subject to option to purchase or contract to sell
+- Section 53-3-15 - Conveyance, contract, or lien made by surviving spouse or guardian
+- Section 53-3-16 - Real property subject to purchase money mortgage
+- Section 53-3-17 - Personal property subject to mortgage or other security interest
+- Section 53-3-18 - Landlord's lien on crops
+- Section 53-3-19 - Conveyance or encumbrance by surviving spouse of property set aside; effect
+- Section 53-3-20 - Conveyance or encumbrance by surviving spouse of property set aside; approval of probate court
+- Section 53-3-21 - Appointment of temporary administrator

@@ -1,0 +1,151 @@
+:root {
+  --accent:  #8B0000;
+  --text:    #1a1a1a;
+  --dim:     #666;
+  --border:  #ddd;
+  --bg:      #fff;
+  --bg-alt:  #f8f8f6;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 17px;
+  line-height: 1.75;
+  color: var(--text);
+  background: var(--bg);
+  margin: 0;
+}
+
+/* ── Header ─────────────────────────────────────────────────────────────── */
+header {
+  background: var(--accent);
+  padding: 0.7rem 1.5rem;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.site-title {
+  color: #fff;
+  text-decoration: none;
+  font-family: system-ui, sans-serif;
+  font-size: 0.875rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+}
+
+/* ── Breadcrumbs ────────────────────────────────────────────────────────── */
+#breadcrumbs {
+  padding: 0.5rem 1.5rem;
+  font-size: 0.8rem;
+  font-family: system-ui, sans-serif;
+  color: var(--dim);
+  background: var(--bg-alt);
+  border-bottom: 1px solid var(--border);
+  min-height: 2rem;
+}
+
+#breadcrumbs a { color: var(--accent); text-decoration: none; }
+#breadcrumbs a:hover { text-decoration: underline; }
+#breadcrumbs .sep { margin: 0 0.35em; opacity: 0.5; }
+
+/* ── Content ────────────────────────────────────────────────────────────── */
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 1rem;
+}
+
+h1 {
+  font-size: 1.2rem;
+  line-height: 1.4;
+  margin: 0 0 1.5rem;
+}
+
+h2 {
+  font-size: 0.75rem;
+  font-family: system-ui, sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--dim);
+  margin: 2.5rem 0 0.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--border);
+}
+
+p { margin: 0 0 0.6rem; }
+p.sub { padding-left: 2em; }
+
+.label {
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.history-entry {
+  font-family: system-ui, sans-serif;
+  font-size: 0.875rem;
+  color: var(--dim);
+  margin: 0.2rem 0;
+}
+
+/* ── Index lists ────────────────────────────────────────────────────────── */
+ul.index-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul.index-list li { border-bottom: 1px solid var(--border); }
+
+ul.index-list a {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  padding: 0.55rem 0;
+  color: var(--text);
+  text-decoration: none;
+}
+
+ul.index-list a:hover { color: var(--accent); }
+
+.item-label {
+  font-family: system-ui, sans-serif;
+  font-size: 0.775rem;
+  font-weight: 600;
+  color: var(--dim);
+  white-space: nowrap;
+  flex-shrink: 0;
+  min-width: 5.5rem;
+}
+
+ul.index-list a:hover .item-label { color: var(--accent); }
+
+/* ── Pagination ─────────────────────────────────────────────────────────── */
+#pagination {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1.25rem 1.5rem 3rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: system-ui, sans-serif;
+  font-size: 0.875rem;
+  border-top: 1px solid var(--border);
+}
+
+#pagination a { color: var(--accent); text-decoration: none; }
+#pagination a:hover { text-decoration: underline; }
+
+/* ── States ─────────────────────────────────────────────────────────────── */
+.loading { font-family: system-ui, sans-serif; color: var(--dim); }
+.error   { font-family: system-ui, sans-serif; color: #c00; }
+
+/* ── Responsive ─────────────────────────────────────────────────────────── */
+@media (max-width: 600px) {
+  main, #pagination { padding-left: 1rem; padding-right: 1rem; }
+  #breadcrumbs { padding-left: 1rem; padding-right: 1rem; }
+  h1 { font-size: 1.05rem; }
+}

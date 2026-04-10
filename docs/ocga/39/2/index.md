@@ -1,0 +1,22 @@
+# Chapter 2 - REGULATION OF EMPLOYMENT OF MINORS (§§ 39-2-1 — 39-2-21)
+
+- Section 39-2-1 - Restrictions on employment of minors under 16 years of age
+- Section 39-2-2 - Employment of minors under 16 years of age generally - Dangerous employment
+- Section 39-2-3 - Employment of minors under 16 years of age generally - Hours of work generally
+- Section 39-2-4 - Employment of minors under 16 years of age generally - Employment during school hours
+- Section 39-2-5 - Employment of minors under 16 years of age generally - Delivery of messages
+- Section 39-2-6 - Employment of minors under 16 years of age generally - Sale or delivery of newspapers
+- Section 39-2-7 - Employment of minors under 16 years of age generally - Maximum hours of employment
+- Section 39-2-9 - Employment of minors under 12 years of age generally
+- Section 39-2-11 - Employment certificates - Required; requirements for issuance
+- Section 39-2-11.1 - Employment of minors 14 years of age or older during school vacation months for care of lawns, gardens, and shrubbery
+- Section 39-2-12 - Employment certificates - Contents; availability of blank forms; filing of duplicate copies
+- Section 39-2-13 - Employment certificates - Disposition of certificates upon termination of employment or failure to appear for work for 30 days; requirements as to issuance of subsequent certificates
+- Section 39-2-14 - Employment certificates - Revocation of certificates by Commissioner of Labor
+- Section 39-2-15 - [Reserved] Maximum hours of employment of minors; effect of contracts providing longer hours
+- Section 39-2-16 - [Repealed] Prohibition on corporal punishment of minors; actions for damages
+- Section 39-2-17 - Improper dispositions of minor under 12; penalty
+- Section 39-2-18 - Applicability of provisions of chapter to minors employed as actors or performers
+- Section 39-2-19 - Enforcement of chapter
+- Section 39-2-20 - Penalty for violations of chapter
+- Section 39-2-21 - Injunctions

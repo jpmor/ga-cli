@@ -1,0 +1,292 @@
+# Chapter 5 - WATER RESOURCES (§§ 12-5-1 — 12-5-586)
+
+- Section 12-5-1 - Water Resources Center - Establishment and operation by Georgia Institute of Technology; purposes
+- Section 12-5-2 - Water Resources Center - Receipt of funds and grants
+- Section 12-5-3 - Water Resources Center - Power to enter into contracts, agreements, and participation arrangements
+- Section 12-5-4 - Programs for voluntary water conservation and enhancing water supply
+- Section 12-5-4.1 - Adoption of minimum standards and best practices for improving efficiency and effectiveness of water use; requirements
+- Section 12-5-5 - Local water authorities allowed to establish program for voluntary contributions to conservation and environmental projects
+- Section 12-5-6 - Installation and definition of &quot;rain sensor shut-off switch&quot;; penalty for violations
+- Section 12-5-7 - Local variances from state restrictions on outdoor watering; limitations on outdoor irrigation; exceptions
+- Section 12-5-8 - Rules and regulations relating to drought management
+- Section 12-5-9 - [Repealed] Georgia Geospatial Advisory Council
+- Section 12-5-20 - Short title
+- Section 12-5-21 - Declaration of policy; legislative intent
+- Section 12-5-22 - Definitions
+- Section 12-5-23 - Powers and duties of board and director as to control of water pollution and surface-water use generally
+- Section 12-5-23.1 - Water quality standards for lakes; monitoring; studies and reports; development, approval, and publication of water quality standards
+- Section 12-5-23.2 - Waste-water discharge limitations; schedule of construction milestones; penalties
+- Section 12-5-23.3 - Privatization of waste-water treatment facilities
+- Section 12-5-24 - Power of director to enter into contracts and compacts regarding surface-water management
+- Section 12-5-25 - Investigations by division; institution of proceedings by division
+- Section 12-5-26 - Entry on premises to investigate and inspect conditions and operating records; protection of trade secrets and confidential information
+- Section 12-5-27 - Authority to require owner or operator of facility to cooperate with division
+- Section 12-5-27.1 - Sale or use of cleaning agents containing phosphorus
+- Section 12-5-28 - Annual reports by division
+- Section 12-5-29 - Sewage and waste disposal; withdrawal, diversion, or impoundment of surface waters; certificates required for vessels with marine toilets; conditions for transfer of surface water from one river basin to another
+- Section 12-5-29.1 - Combined sewer overflow; plans for elimination or treatment of sewage overflow; penalties
+- Section 12-5-30 - Permits for construction, modification, or operation of facilities which discharge pollutants into waters; permits for discharge of dredged or fill material into waters and wetlands; participation in National Pollution Discharge Elimination System
+- Section 12-5-30.1 - Major spills by publicly owned treatment works
+- Section 12-5-30.2 - Combined sewer overflow systems
+- Section 12-5-30.3 - Sludge land application systems
+- Section 12-5-30.4 - Establishment of water emergency response procedures
+- Section 12-5-31 - Regulated riparian rights to surface waters for general or farm use; permits for withdrawal, diversion, or impoundment; coordination with water plans; metering of farm use; interbasin transfers; appeal procedures
+- Section 12-5-31.1 - Applications, permits, and variances for public water supply reservoirs
+- Section 12-5-32 - Aid to pollution control and surface-water management - Powers of division with respect to federal acts; receipt and expenditure of federal and state appropriations
+- Section 12-5-33 - Aid to pollution control and surface-water management - Grants to counties, municipalities, or other public authority for water pollution control projects
+- Section 12-5-34 - Aid to pollution control and surface-water management - Amount of state grant
+- Section 12-5-35 - Aid to pollution control and surface-water management - Administration of grants by division
+- Section 12-5-36 - Aid to pollution control and surface-water management - Consistency with federal acts
+- Section 12-5-37 - Aid to pollution control and surface-water management - Intent of article with regard to state contributions
+- Section 12-5-38 - Aid to pollution control and surface-water management - Management by division of federal construction grants program
+- Section 12-5-38.1 - Administration of funds; water pollution control and drinking water revolving funds
+- Section 12-5-39 - Aid to pollution control and surface-water management - Area-wide waste treatment management
+- Section 12-5-40 - Aid to pollution control and surface-water management - Adoption of rules and regulations regarding application for state grants
+- Section 12-5-41 - [Repealed] [Reserved] Aid to pollution control and surface-water management - Water and sewage treatment facilities or systems for eligible planned communities
+- Section 12-5-42 - Cooperative efforts for abatement of pollution; order by director; request for hearing; allowance of reasonable time for abatement
+- Section 12-5-43 - Administrative hearings
+- Section 12-5-44 - Judicial review
+- Section 12-5-45 - Judgment in accordance with division's order
+- Section 12-5-46 - Effect of article on rights of action
+- Section 12-5-47 - Emergency orders; hearing
+- Section 12-5-48 - Injunctive relief
+- Section 12-5-49 - Representation of division and its agents by Attorney General and his staff
+- Section 12-5-50 - Intent of article as to conflicts with federal laws and as to eligibility of division or departments of state government for federal funds; remedial action
+- Section 12-5-51 - Civil liability
+- Section 12-5-52 - Civil penalty
+- Section 12-5-53 - Criminal penalty
+- Section 12-5-70 - Prospecting for underground water supplies - Powers of department
+- Section 12-5-71 - Prospecting for underground water supplies - Records of findings; acceptance of federal grants
+- Section 12-5-72 - Prospecting for underground water supplies - Contracts with counties or municipalities for use of water
+- Section 12-5-73 - Prospecting for underground water supplies - Appropriation or allocation of funds to department
+- Section 12-5-90 - Short title
+- Section 12-5-91 - Declaration of policy
+- Section 12-5-92 - Definitions
+- Section 12-5-93 - Power of director to employ personnel
+- Section 12-5-94 - Adoption of rules and regulations by Board of Natural Resources
+- Section 12-5-95 - Proposed regulations regarding ground-water use; hearings; adoption and modification of regulations; contesting validity of regulations
+- Section 12-5-96 - Regulated reasonable use of ground water for general use; permits to withdraw, obtain, or utilize; coordination with water plans; appeal procedures
+- Section 12-5-97 - Duration of permits; renewal; transfer; certified statements by holders; monitoring water use; granting permit to person withdrawing ground water prior to July 1, 1973; prior investments in land and nature of plans for water use; continued withdrawal pending decision on permit
+- Section 12-5-98 - Investigations; entry; protection of confidential information or trade secrets; refusing entry or access to and interference with authorized representatives of division
+- Section 12-5-99 - Order by director after failure of conference, conciliation, or persuasion; hearings; appeal
+- Section 12-5-100 - Judgment in accordance with director's order
+- Section 12-5-101 - Injunctive relief
+- Section 12-5-102 - Emergency orders; restrictions; hearing; appeal; use by certain entities
+- Section 12-5-103 - Representation of department by Attorney General
+- Section 12-5-104 - Effect of part on other laws
+- Section 12-5-105 - Regulated reasonable use of ground water for farm use; permits to withdraw, obtain, or utilize; metering; related procedures
+- Section 12-5-106 - Civil penalties; procedure for imposing penalties; hearing; judicial review
+- Section 12-5-107 - Criminal penalty
+- Section 12-5-108 - [Repealed Effective 1/1/2029] Delegated authority; permit for consumptive use of water or expansion
+- Section 12-5-120 - Short title
+- Section 12-5-121 - Legislative intent
+- Section 12-5-122 - Definitions
+- Section 12-5-123 - Creation of council; membership; chairperson; meetings; majority vote; quorum; director as secretary; self-governance; reimbursement for expenses; Attorney General to provide legal services
+- Section 12-5-124 - Powers and duties of council generally
+- Section 12-5-125 - License requirement; drilling under direction of professional geologist or engineer
+- Section 12-5-126 - Director as administrative agent; administrative duties of division; orders, notices, and processes
+- Section 12-5-127 - Licensing of water well contractors generally; applications for trainee licenses; violation of Code section
+- Section 12-5-128 - Contents of license; display
+- Section 12-5-129 - Suspension and revocation of licenses; hearings; reissuance of revoked licenses; injunction; cessation of well operation; seizure of equipment
+- Section 12-5-130 - Expiration and renewal of licenses; replacement of lost, destroyed, or mutilated licenses
+- Section 12-5-131 - Notifying contractors of changes in rules and regulations
+- Section 12-5-131.1 - Licensing requirements for drilling well on own property; water well contractors completing electrical or plumbing work incidental to drilling and construction of well
+- Section 12-5-132 - Effect of part
+- Section 12-5-133 - Penalty; evidence of violation of part
+- Section 12-5-133.1 - Civil penalties; hearing
+- Section 12-5-134 - Standards for wells and boreholes
+- Section 12-5-135 - Requirement of bond or letter of credit
+- Section 12-5-136 - Compliance with standards and licensing requirements; inspections; action by director if well not up to standard
+- Section 12-5-137 - Forfeiture of contraband equipment
+- Section 12-5-138 - Council authorized to establish rules and regulations for pump installation; certification requirements; civil penalties for violations
+- Section 12-5-150 - Conditions under which artesian wells must be tapped
+- Section 12-5-151 - Wells on government property
+- Section 12-5-152 - Applicability of part
+- Section 12-5-153 - Penalty
+- Section 12-5-170 - Short title
+- Section 12-5-171 - Declaration of policy; legislative intent; Environmental Protection Division to administer part
+- Section 12-5-172 - Definitions
+- Section 12-5-173 - Designation of division as state agency to receive financial aid from federal government and other sources
+- Section 12-5-174 - Powers and duties of Board of Natural Resources as to public water systems
+- Section 12-5-175 - Fluoridation of public water systems; state funds for cost of fluoridation equipment, chemicals, and materials; tax deduction for fluoride-removing devices
+- Section 12-5-176 - Powers and duties of director as to public water systems generally
+- Section 12-5-177 - Enforcement of rules and regulations; minimum requirements for and applicability of Georgia primary drinking water regulations; records and reports
+- Section 12-5-178 - Variances and exemptions
+- Section 12-5-179 - Permits for operation of public water systems; performance bonds
+- Section 12-5-180 - Duty of permit applicants and holders to supply information as required by director
+- Section 12-5-180.1 - Allocating water and waste-water usage among tenants; charging tenants for usage; measuring water usage
+- Section 12-5-180.2 - Fire sprinkler protection systems; limitation on fee for water service
+- Section 12-5-181 - Inspections and investigations by division
+- Section 12-5-182 - Powers of director as to protection of public from contaminants presenting imminent and substantial danger
+- Section 12-5-183 - Plan for emergency provision of water
+- Section 12-5-184 - Notice of violations, variances, and exemptions involving public water systems
+- Section 12-5-185 - Order by director after failure of conference, conciliation, or persuasion; hearing on order or permit issued by director
+- Section 12-5-186 - Hearings; judicial review
+- Section 12-5-187 - Emergency orders; hearing; review
+- Section 12-5-188 - Injunctive relief
+- Section 12-5-189 - Judgment in accordance with director's order
+- Section 12-5-190 - Legal assistance by Attorney General
+- Section 12-5-191 - Prohibited acts
+- Section 12-5-192 - Civil penalties; procedures for imposing penalty; hearing; review
+- Section 12-5-193 - Criminal penalty
+- Section 12-5-200 - Legislative findings
+- Section 12-5-201 - Definitions
+- Section 12-5-202 - District-wide emergency plan
+- Section 12-5-203 - Technical panel; members; preliminary scope of work statement; modifications
+- Section 12-5-204 - Completion and submission of emergency plan; costs
+- Section 12-5-210 - Development and utilization of coastal and offshore waters, lands, and resources; delegation of powers and duties; power to make contracts
+- Section 12-5-211 - Receipt of financial and other assistance; plans and proposals for development and utilization of coastal and offshore resources; coordination between state agencies; reporting
+- Section 12-5-212 - Annual report
+- Section 12-5-213 - Liberal construction of part
+- Section 12-5-230 - Short title
+- Section 12-5-231 - Legislative findings and declarations
+- Section 12-5-232 - Definitions
+- Section 12-5-233 - Area of operation of part
+- Section 12-5-234 - Powers and duties of department
+- Section 12-5-235 - Shore Protection Committee
+- Section 12-5-236 - Rules and regulations
+- Section 12-5-237 - Permit required; exceptions
+- Section 12-5-238 - Form and contents of application for permit
+- Section 12-5-239 - Completion of permit; notice of proposed activity; requirements and restrictions regarding issuance of permit
+- Section 12-5-240 - Posting of permit
+- Section 12-5-241 - [Repealed] [Reserved] Local shore assistance programs
+- Section 12-5-242 - Technical assistance to local governments; model ordinance
+- Section 12-5-243 - Local governments not prohibited from adopting more restrictive ordinances
+- Section 12-5-244 - Administrative and judicial review
+- Section 12-5-245 - Injunctive relief
+- Section 12-5-246 - Jurisdiction of superior court
+- Section 12-5-247 - Enforcement of part; civil penalty
+- Section 12-5-248 - Criminal violations
+- Section 12-5-280 - Short title
+- Section 12-5-281 - Legislative findings and declarations
+- Section 12-5-282 - Definitions
+- Section 12-5-283 - Coastal Marshlands Protection Committee created; members; powers; per diem and expenses; administrative hearings and review; permits for minor alterations
+- Section 12-5-284 - Authority of department as to coastal marshlands generally
+- Section 12-5-285 - Power of board to promulgate rules and regulations
+- Section 12-5-286 - Permit required; application; notice; public hearing; issuance; denial; dynamic dune fields
+- Section 12-5-287 - Leasing of state owned marshland or water bottoms
+- Section 12-5-288 - Restriction on granting of permits; size restriction; activities and structures considered contrary to public interest
+- Section 12-5-289 - Inspection of marshlands
+- Section 12-5-290 - Jurisdiction to restrain violation of part
+- Section 12-5-291 - Enforcement of part
+- Section 12-5-292 - Posting of permit
+- Section 12-5-293 - Effect on permit of sale, lease, or other conveyance of land
+- Section 12-5-294 - Existence of an emergency; order; right to hearing
+- Section 12-5-295 - Applicability of part
+- Section 12-5-296 - Criminal violation
+- Section 12-5-297 - Liability for damages
+- Section 12-5-310 - Legislative purpose
+- Section 12-5-311 - Cutting, harvesting, removing, or eradicating sea oats
+- Section 12-5-312 - Penalty
+- Section 12-5-320 - Short title
+- Section 12-5-321 - Legislative findings
+- Section 12-5-322 - Definitions
+- Section 12-5-323 - Powers and duties of department
+- Section 12-5-324 - Power of board to promulgate rules and regulations
+- Section 12-5-325 - Additional duties of department
+- Section 12-5-326 - Duties of other state agencies in relation to this part
+- Section 12-5-327 - Duty of department to prepare document for submission to Governor; duty to prepare report every three years
+- Section 12-5-328 - Nothing in part to be construed as waiver of federal immunity or consent for other state to exercise jurisdiction
+- Section 12-5-330 - [Repealed and Reserved] [Reserved] Resources Advisory Board, Southeast River Basins
+- Section 12-5-331 - Duties and powers of department as to development of state's rivers
+- Section 12-5-350 - Short title
+- Section 12-5-351 - Definitions
+- Section 12-5-352 - Rivers comprising the Georgia Scenic River System
+- Section 12-5-353 - Duties of department as to scenic rivers
+- Section 12-5-354 - Construction, operation, or maintenance of dams, reservoirs, or other structures on scenic rivers; acquisition of land within boundaries of scenic rivers
+- Section 12-5-370 - Short title
+- Section 12-5-371 - Declaration of purpose
+- Section 12-5-372 - Definitions
+- Section 12-5-373 - Powers and duties of director generally
+- Section 12-5-374 - Powers and duties of board as to dams and artificial barriers
+- Section 12-5-375 - Inventory and classification of dams; investigations; technical assistance to local government; artificial barriers; notice requirements; provision of information regarding dams to clerks of superior courts
+- Section 12-5-376 - Permits to construct and operate dams
+- Section 12-5-376.1 - Subclassification of category I dams by director; minimum spillway design requirements
+- Section 12-5-377 - Dam removal
+- Section 12-5-378 - Inspection of dams and other barriers; administrative orders to enforce compliance; emergency action by director
+- Section 12-5-379 - Investigations; right of access by division; right to require statements and reports regarding construction and operation of dams; refusal of access or interference
+- Section 12-5-380 - Administrative and judicial review
+- Section 12-5-380.1 - Orders of director or administrative law judge filed in superior court; effect of filing
+- Section 12-5-381 - Injunctive relief
+- Section 12-5-382 - Power of commissioner of transportation as to contracts relating to part
+- Section 12-5-383 - Liability for damages
+- Section 12-5-384 - Conformance to and compliance with part required
+- Section 12-5-385 - Criminal and civil penalties
+- Section 12-5-400 - Short title
+- Section 12-5-401 - Purpose
+- Section 12-5-402 - Powers and duties of department
+- Section 12-5-420 - Short title
+- Section 12-5-421 - Purpose
+- Section 12-5-422 - Powers and duties of department
+- Section 12-5-440 - Short title
+- Section 12-5-441 - Definitions
+- Section 12-5-442 - Legislative findings and purposes
+- Section 12-5-443 - Comprehensive land and water use plan; transmittal of plan to political subdivisions; notice and hearing; promulgation of rules and regulations; application fee
+- Section 12-5-444 - Prohibited land and water uses; uses prior to adoption of plan; certificate of compliance with plan; information required of applicant; changes in use; notice and hearing
+- Section 12-5-445 - Review of application and supporting documents by commission; effect of inconsistencies; alternatives where modification recommended
+- Section 12-5-447 - Minimum standards for certificates and recommendations
+- Section 12-5-448 - Appeal
+- Section 12-5-449 - Other laws not superseded by part
+- Section 12-5-451 - Uses to which part inapplicable
+- Section 12-5-452 - Cease and desist orders; injunctions; land-disturbing activities as nuisances; penalty; jurisdiction of actions
+- Section 12-5-453 - Local regulation of land in drainage basins; enforcement where local regulation inadequate; failure of governing authority to meet requirements
+- Section 12-5-454 - Removal of sand from watercourse
+- Section 12-5-455 - Plan and application for certificate open to public inspection
+- Section 12-5-456 - Commission to notify local authorities of violations of this part; director's powers in absence of local action; hearings on violations
+- Section 12-5-457 - Environmental Protection Division's powers and duties unaffected by part
+- Section 12-5-470 - Short title
+- Section 12-5-470.1 - Construction with other provisions
+- Section 12-5-471 - Definitions
+- Section 12-5-472 - Acquisition, construction, and maintenance of projects authorized; standards and procedures; sites inventory; mitigation banks; costs
+- Section 12-5-472.1 - Procurement of permits, licenses, and permissions; designation of principal state agency
+- Section 12-5-473 - Powers of Water Supply Division generally
+- Section 12-5-474 - Rentals, fees, and other charges; deposit of funds; terms and conditions for use of project
+- Section 12-5-475 - Rules and regulations
+- Section 12-5-476 - Contracts with local governments for planning, construction, management, and maintenance; coordination
+- Section 12-5-476.1 - Fees for services
+- Section 12-5-477 - Supplemental nature of provisions
+- Section 12-5-478 - Liberal construction
+- Section 12-5-479 - Contracts with public entities for services or use of facilities or equipment; user agreement for provision of environmental services
+- Section 12-5-480 - Use of services of Georgia State Financing and Investment Commission; selection of professional services
+- Section 12-5-481 - Legislative findings
+- Section 12-5-482 - Failure of local government to collect and remit all amounts due; withholding of state funds
+- Section 12-5-483 - Waiver of costs or fees
+- Section 12-5-484 - Legislative oversight committee; membership; responsibilities
+- Section 12-5-500 - Definitions
+- Section 12-5-501 - Liability for removal costs or damages; exceptions
+- Section 12-5-520 - Short title
+- Section 12-5-521 - Definitions
+- Section 12-5-522 - Policy statement for comprehensive state-wide water management plan; guiding principles; requirements of plan; regional plans; compliance with plans
+- Section 12-5-523 - Cooperation with Water Council; involvement of stakeholders; initial draft plan
+- Section 12-5-524 - Water Council created; obligations of council
+- Section 12-5-525 - Approval by General Assembly; alternative to passage by legislature; emergency actions by Water Council in event of imminent peril; review and revision of plan
+- Section 12-5-540 - Short title
+- Section 12-5-541 - Legislative intent
+- Section 12-5-542 - Definitions
+- Section 12-5-543 - Establishment of drought abatement program; rules and regulations
+- Section 12-5-544 - Powers of director
+- Section 12-5-545 - Administration of fund
+- Section 12-5-546 - Prediction of drought; irrigation reduction auction; agreement
+- Section 12-5-546.1 - Enhancement of programming and incentives; scheduling irrigation efficiencies; modifying water withdrawal permits; coordination of efforts
+- Section 12-5-546.2 - Notification in advance of any state funded augmentation projects
+- Section 12-5-547 - Director's orders
+- Section 12-5-548 - Investigations and inspections
+- Section 12-5-549 - Compliance; violations
+- Section 12-5-550 - Repayment penalty; notice of violation; time limit to respond to notice of violation; failure to respond to notice of violation
+- Section 12-5-570 - Short title
+- Section 12-5-571 - Legislative intent
+- Section 12-5-572 - Creation; purpose
+- Section 12-5-573 - Definitions
+- Section 12-5-574 - Powers; approval of plan non-binding on finances; extension of time for preparing plan
+- Section 12-5-575 - Board created; appointments; vacancies; terms
+- Section 12-5-576 - Open meetings; quorum; voting; executive sessions
+- Section 12-5-577 - Operating budget; sources of funding; power to enter into contracts and to expend funds; depositing
+- Section 12-5-578 - Adjoining counties or municipalities application to be added to the district area
+- Section 12-5-579 - Staffing; cooperation among agencies
+- Section 12-5-580 - Coordinating committees; finance committees
+- Section 12-5-581 - Advisory councils
+- Section 12-5-582 - Model ordinances for effective storm-water management and for a district-wide watershed management plan; annual review; public meetings; certification by director; local compliance
+- Section 12-5-583 - Short-term and long-term plans for waste-water management plan; annual review; public meetings; certification by director
+- Section 12-5-584 - Water supply and water conservation management plan; interbasin transfers
+- Section 12-5-585 - Education and public awareness
+- Section 12-5-586 - Annual report detailing activities and progress

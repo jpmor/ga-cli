@@ -1,0 +1,153 @@
+# Chapter 2 - EMPLOYEES' RETIREMENT SYSTEM OF GEORGIA (§§ 47-2-1 — 47-2-360)
+
+- Section 47-2-1 - Definitions
+- Section 47-2-2 - Involuntary separation from employment; grounds and procedures for discharge of employees
+- Section 47-2-3 - Employee's right to judicial review following discharge from employment
+- Section 47-2-20 - Creation of retirement system; purpose, management, corporate powers and privileges, and certain rights in actions at law of retirement system; name under which retirement system to transact business
+- Section 47-2-21 - Power and duty of board of trustees to administer and operate retirement system; membership of board; vacancies; expenses; oath; quorum
+- Section 47-2-22 - Election of chairperson and director; actuarial services; application of state system of personnel administration; payment of costs of personnel administration
+- Section 47-2-23 - Treasurer of the board of trustees; manner of payment of funds of the retirement system; surety bond for the treasurer
+- Section 47-2-24 - Designation of medical board; duties
+- Section 47-2-25 - Legal adviser of the board of trustees
+- Section 47-2-26 - Designation of an actuary; duties of actuary; annual valuation of contingent assets and liabilities of the retirement system
+- Section 47-2-27 - Duty of board of trustees to keep data necessary for actuarial valuations; duty to keep records of proceedings; annual report
+- Section 47-2-28 - Simplified tables for estimation of retirement allowances; effect on existing rights and benefits; formula for calculating service retirement allowances
+- Section 47-2-29 - Postretirement benefit adjustments
+- Section 47-2-30 - Deposits of cash available for disbursements for benefits and other payments
+- Section 47-2-31 - Investment powers; power to employ agents as investment advisers and to make investments
+- Section 47-2-32 - Personal interest in gains or profits from investments made by the board of trustees; unauthorized use of assets of the retirement system
+- Section 47-2-33 - Plan year designated
+- Section 47-2-50 - Funds in which assets of the retirement system to be held
+- Section 47-2-51 - Annuity savings fund and employee contributions; deductions; effect of default with respect to employer contributions; payments, withdrawal, or transfer of funds
+- Section 47-2-51.1 - Supplemental Guaranteed Lifetime Income annuities
+- Section 47-2-52 - Employer's duty to deduct and report employee contributions; duty of chief fiscal officer to remit employee contributions; effect of failure to comply
+- Section 47-2-53 - Effect of failure of any employee, employer, or reporting official to make contributions or to make reports with respect to employment and membership
+- Section 47-2-54 - Payment of state employee contributions on behalf of employees; inclusion of contributions in compensation for determining benefits; adjustment in compensation of state employees; &quot;pick-up&quot; contributions
+- Section 47-2-55 - Pension accumulation fund; purposes; employer contributions; crediting of interest and dividends earned on funds of the retirement system
+- Section 47-2-56 - Maintenance of annuity and pension reserves and payment of benefits under this chapter as obligations of the pension accumulation fund; permissible uses of assets of the fund
+- Section 47-2-57 - Certification of normal cost and unfunded accrued liability contribution rates to employers; provision in employer's budget for employer contributions
+- Section 47-2-58 - [Repealed] Commencement date for contributions to retirement system
+- Section 47-2-59 - Effective date of chapter; effect of budget appropriations on obligation of state agency or other employer to make contributions
+- Section 47-2-60 - Expense fund; purposes
+- Section 47-2-70 - Determination of membership; termination of membership
+- Section 47-2-70.1 - Employees of new state agencies
+- Section 47-2-71 - Membership in Employees' Social Security Coverage Group
+- Section 47-2-72 - Procedure for electing not to become a member
+- Section 47-2-73 - Election of retirement system by members of Georgia Judicial Retirement System; effect of subsequent legislation
+- Section 47-2-90 - Rules and regulations with regard to credit for service; credit for service in the Georgia National Guard, Georgia State Guard, and General Assembly
+- Section 47-2-91 - Credit for accumulations of forfeited annual and sick leave
+- Section 47-2-92 - Reestablishment of service credit after withdrawal of accumulated contributions from this retirement system or the Teachers Retirement System of Georgia; payments required to obtain credit
+- Section 47-2-93 - Credit for service rendered after December 31, 1953, by persons who were not members at the time; payments required to obtain credit
+- Section 47-2-94 - Service credit provided for persons whose membership was terminated for failure to render at least one year of service in a five-year period
+- Section 47-2-95 - [Repealed] Credit for service during World War I, World War II, or the Korean Conflict; credit for service in the Georgia National Guard or the Georgia State Guard
+- Section 47-2-96 - Prior service credit; payments required to obtain credit
+- Section 47-2-96.1 - [Repealed] Creditable service for temporary full-time employment by legislative branch
+- Section 47-2-96.2 - [Repealed] Creditable service for uncredited full-time service with executive branch
+- Section 47-2-97 - [Reserved] Applicability of creditable service under Code Section 47-2-93 or subsection (b)
+- Section 47-2-98 - Creditable service for member who was officer or employee of Georgia Housing and Finance Authority
+- Section 47-2-99 - Applicability of creditable service under Code Section 47-2-334 and Chapter 22 of this title; obtaining service and application for creditable service
+- Section 47-2-100 - Additional creditable service
+- Section 47-2-101 - Creditable service for prior service as member of Georgia Defined Contribution Plan
+- Section 47-2-110 - Retirement ages; application and eligibility for a retirement allowance
+- Section 47-2-111 - Persons eligible to retire at age 55
+- Section 47-2-112 - Reemployment of retired members; required contributions from employers; suspension of retirement allowance
+- Section 47-2-120 - Retirement allowances
+- Section 47-2-121 - Optional retirement allowances
+- Section 47-2-122 - Vesting of rights to a retirement allowance despite early retirement; retirement allowance payable to such persons
+- Section 47-2-123 - Allowance payable upon death, disability, or involuntary separation from employment; restrictions on separation for disability; restrictions on entitlement to involuntary separation benefits
+- Section 47-2-124 - Eligibility for benefits of persons with at least 95 percent of required service credit
+- Section 47-2-125 - Reexamination of persons receiving disability benefits; effect of refusal to undergo examination; effect of ability to engage in gainful employment
+- Section 47-2-126 - Restoration to service of disability beneficiary
+- Section 47-2-127 - Applicable ages for computation of benefits; duration of benefits
+- Section 47-2-128 - Survivors benefit coverage; fund; contributions
+- Section 47-2-129 - Group term life insurance protection as part of survivors benefits program
+- Section 47-2-130 - Refund of accumulated contributions upon termination of employment other than by death or retirement
+- Section 47-2-140 - Credit for transfer to a federal agency during a national emergency; retransfer to employment under retirement system; termination of federal employment
+- Section 47-2-141 - Employer contributions for transfer to federal agency; accumulated pension credits; effect of failure to return to state employment
+- Section 47-2-142 - [Repealed] Credit for prior service rendered by persons transferred under loan to a federal agency but ineligible for federal service retirement membership or who served overseas with the Red Cross during World War II
+- Section 47-2-160 - [Repealed] Inclusion of General Assembly members in retirement system; effect on rights under the Georgia Legislative Retirement System; rules and regulations; amount and financing of contributions
+- Section 47-2-161 - [Repealed] Membership service credit for service as a member of the General Assembly between January 1, 1954, and January 1, 1967
+- Section 47-2-162 - Eligibility of persons who are members of the General Assembly during or after January, 1962, for survivors benefits; contributions for such coverage; right to decline coverage
+- Section 47-2-163 - Group term life insurance for members and former members of General Assembly; contributions
+- Section 47-2-164 - Membership of employees of the General Assembly; contributions
+- Section 47-2-165 - Effect on retirement allowances of compensation, per diem, allowances, and expenses received as a member of the General Assembly
+- Section 47-2-166 - through 47-2-168 - [Repealed]
+- Section 47-2-180 - [Repealed] Right to a prior service certificate for service as a teacher in the public schools of Georgia; contents of application for a certificate
+- Section 47-2-181 - Transfer of service credits and accumulated contributions from the Teachers Retirement System of Georgia to this retirement system; transfer of funds
+- Section 47-2-182 - Credit for service to certain members of local retirement systems
+- Section 47-2-190 - Transfer to Employees' Retirement System of Georgia prohibited
+- Section 47-2-200 - [Repealed] Membership of heads of state departments or agencies who are constitutional officers; contributions; service credits; retirement allowances; survivors benefits
+- Section 47-2-201 - [Repealed] Director status inhibiting eligibility for corresponding emeritus positions
+- Section 47-2-202 - Eligibility for membership of officials and employees of the Department of Audits and Accounts; contributions
+- Section 47-2-203 - Membership of certain employees of the Administrative Office of the Courts of the Judicial Council of Georgia and the Council of Juvenile Court Judges; contributions
+- Section 47-2-204 - Members subject to provisions of Code Section 47-2-203 may receive credit for prior service
+- Section 47-2-220 - Membership in retirement system of employees of the Department of Corrections; contributions; creditable service; eligibility for survivors benefits
+- Section 47-2-221 - Disability allowances payable to personnel for certain disabilities arising in the line of duty
+- Section 47-2-222 - Power to increase liability contribution rates for certain departments or agencies; transfer of employees
+- Section 47-2-223 - Retirement benefits for those in service in Uniform Division of the Department of Public Safety
+- Section 47-2-224 - [Repealed] Mandatory retirement age and monthly retirement benefits for certain members of the Department of Natural Resources and of the Department of Revenue; waiver of mandatory retirement age
+- Section 47-2-225 - Creditable service for members with prior service as narcotics agents; membership in retirement system of members who were employed as narcotics agents
+- Section 47-2-226 - Certain law enforcement officers permitted to obtain creditable service in retirement system under certain conditions; &quot;law enforcement officer&quot; defined; payment of full actuarial value to applicant
+- Section 47-2-240 - Membership in retirement system of Justices of Supreme Court; appointment to Justice Emeritus of Supreme Court; contributions; creditable service; survivors benefits
+- Section 47-2-241 - Membership in retirement system of Judges of Court of Appeals; appointment to Judge Emeritus of Court of Appeals; contributions; creditable service; survivors benefits
+- Section 47-2-242 - Merit system of personnel administration for officers and employees of the Supreme Court; membership in retirement system; contributions
+- Section 47-2-243 - Merit system of personnel administration for officers and employees of the Court of Appeals; membership in retirement system; contributions
+- Section 47-2-244 - Optional benefits available to appellate court judges; notice of election of benefits; eligibility for benefits; disability benefits; survivors benefits
+- Section 47-2-245 - Creditable service for secretaries of appellate court judges, superior court judges and district attorneys for certain prior services
+- Section 47-2-260 - Continuation of membership, rights, and benefits of judges of superior courts and district attorneys; notice of election to continue membership; contributions
+- Section 47-2-261 - [Repealed] Transfer of credits and funds from the District Attorneys Retirement Fund of Georgia upon employment by an agency subject to the Employees' Retirement System of Georgia
+- Section 47-2-262 - Membership in retirement system of assistant district attorneys and employees of the Prosecuting Attorneys' Council; notice of election to become a member; contributions
+- Section 47-2-263 - Credit for certain past service as an assistant district attorney or employee of the Prosecuting Attorneys' Council; payment of employee contributions; credit for service as full-time law assistant
+- Section 47-2-264 - Membership in retirement system of secretaries employed by judges of superior courts and district attorneys; creditable service; contributions
+- Section 47-2-264.1 - Membership in retirement system of employees paid by the office of the district attorney; contributions; creditable service
+- Section 47-2-265 - Membership in retirement system of district attorney investigators
+- Section 47-2-266 - Membership of judicial employees; contributions
+- Section 47-2-267 - Membership of employees of district attorneys; contributions
+- Section 47-2-280 - Credit for previous service as an employee of the Peace Officers' Annuity and Benefit Fund; contributions
+- Section 47-2-290 - Judges, solicitors, and other employees of state courts subject to merit system; membership in retirement system; contributions; exemptions
+- Section 47-2-291 - Prior service as a judge or solicitor of a court of record
+- Section 47-2-292 - Merit system of personnel administration for county revenue employees; membership in retirement system; contributions; credit for prior service
+- Section 47-2-292.1 - Tax commissioners, tax collectors, and tax receivers and all employees in their offices employed on or after July 1, 2012, ineligible for membership in the Employees' Retirement System of Georgia by operation of law
+- Section 47-2-293 - Effect of failure of state court to provide means by which its officials or employees can become members of the retirement system
+- Section 47-2-294 - Limitation on benefits available to persons who transferred to this retirement system or who became members under Code Section 47-2-290 or 47-2-292
+- Section 47-2-295 - Transfer from county retirement system of contributions made as juvenile detention facility employee; credit for past service; payment of contributions; eligibility
+- Section 47-2-295.1 - Probation and intake officers of Department of Juvenile Justice
+- Section 47-2-295.2 - County juvenile detention employees who are transferred into department
+- Section 47-2-296 - County probation system employees
+- Section 47-2-297 - Employees of county boards or departments of health in counties having population of 550,000 or more
+- Section 47-2-298 - Employees of county departments of family and children services
+- Section 47-2-299 - [Repealed] Creditable service for service as employee of private nonprofit hospital
+- Section 47-2-310 - Merit system of personnel administration for employees of Georgia Federal-State Shipping Point Inspection Service; membership in retirement system; contributions; creditable service
+- Section 47-2-311 - [Repealed] Credit for service by persons formerly employed by the Georgia Warm Springs Foundation; payments required in order to obtain credit
+- Section 47-2-312 - Merit system of personnel administration for employees of Georgia agricultural commodity commissions; membership in the retirement system; contributions; creditable service for prior employment
+- Section 47-2-313 - Merit system of personnel administration for officers and employees of Jekyll Island-State Park Authority; membership in retirement system; creditable service; contributions
+- Section 47-2-314 - Membership in the retirement system of officers and employees of the Geo. L. Smith II Georgia World Congress Center Authority; creditable service; contributions
+- Section 47-2-315 - Merit system of personnel administration for officers and employees of the Georgia Building Authority; membership in the retirement system; contributions
+- Section 47-2-316 - Membership in the retirement system of officers or employees of Georgia Agricultural Exposition Authority
+- Section 47-2-317 - [Repealed] Membership in the retirement system of officers and employees of the Georgia Agrirama Development Authority
+- Section 47-2-318 - Membership in the retirement system of officers and employees of the Georgia Environmental Finance Authority; creditable service; contributions
+- Section 47-2-319 - [Repealed] Membership in the retirement system of officers and employees of the Georgia Hazardous Waste Management Authority; contributions
+- Section 47-2-320 - Membership in retirement system of officers and employees of GeorgiaNet Authority; creditable service; contributions
+- Section 47-2-321 - Membership in the retirement system of officers and employees of the Lake Lanier Islands Development Authority; creditable service; contributions
+- Section 47-2-322 - Membership in retirement system of officers and employees of Georgia Music Hall of Fame Authority; creditable service; contributions
+- Section 47-2-323 - Membership in retirement system of employees of Georgia Public Defender Council; creditable service; contributions
+- Section 47-2-324 - Membership in retirement system of officers and employees of the North Georgia Mountains Authority; creditable service; contributions
+- Section 47-2-325 - [Repealed] Membership in retirement system of prior employees of the Foundation for Public Broadcasting in Georgia, Inc
+- Section 47-2-326 - Georgia Rail Passenger Authority retirement system; membership; contributions
+- Section 47-2-327 - Employees of the State Road and Tollway Authority to become members of the retirement system; status; employer and employee contributions
+- Section 47-2-330 - Application of other state funded pension or retirement programs to members or beneficiaries, their surviving spouses, or dependents
+- Section 47-2-331 - Reporting of employee contributions for federal and state income tax purposes
+- Section 47-2-332 - Exemption of rights and benefits from taxes, legal process, and assignment of retirement system property as public property; exemptions for retirement system property
+- Section 47-2-333 - Attempts to defraud the retirement system by false statements or falsified records; adjustments of erroneous payments
+- Section 47-2-334 - Service retirement allowance; calculation; employee membership contributions; employer contributions; optional membership; conditions; construction of provision
+- Section 47-2-350 - Short title
+- Section 47-2-351 - &quot;Member&quot; defined; membership optional; calculation
+- Section 47-2-352 - Employee and employer contributions
+- Section 47-2-353 - Service retirement allowance
+- Section 47-2-354 - Conditions; rights, privileges, obligations, and duties
+- Section 47-2-355 - Disability retirement; periodic medical examination and review
+- Section 47-2-356 - Death allowances and benefits
+- Section 47-2-357 - Withdrawal; employer contributions; vesting; date of election
+- Section 47-2-358 - Impact on members of Employees' Retirement System of Georgia on December 31, 2008
+- Section 47-2-359 - Conflicting provisions
+- Section 47-2-360 - Administration

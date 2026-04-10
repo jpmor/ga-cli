@@ -1,0 +1,626 @@
+# Chapter 2 - ELEMENTARY AND SECONDARY EDUCATION (§§ 20-2-1 — 20-2-2140)
+
+- Section 20-2-1 - Board created; appointment of members; powers
+- Section 20-2-2 - Terms of office of members
+- Section 20-2-3 - Vacancies on board
+- Section 20-2-4 - Qualifications and disqualifications of members
+- Section 20-2-5 - Oaths of members; board meetings
+- Section 20-2-5.1 - Annual public hearings in congressional district from which each State Board of Education member is appointed
+- Section 20-2-5.2 - Chairperson and other officers; election; term and duties of chairperson
+- Section 20-2-6 - Inspection committees
+- Section 20-2-7 - Where committee meetings may be held
+- Section 20-2-8 - Travel by members within or outside state
+- Section 20-2-9 - Per diem allowances and expenses of members
+- Section 20-2-10 - Gifts or compensation to members, appointees, or their families from publishers prohibited; reporting offers; penalty
+- Section 20-2-11 - Budgets; supervision of Department of Education; funds for state office
+- Section 20-2-12 - [Repealed] [Reserved] Educational television programs
+- Section 20-2-13 - Educational research; preparation and publication of instructional material
+- Section 20-2-14 - Acceptance of donations, grants, and federal aid for vocational or other educational purposes; matching funds; authorization to make transfers
+- Section 20-2-14.1 - Georgia Foundation for Public Education; authorization to accept transfers of certain property held in trust by State Board of Education; authorization for nonprofit corporation; authorization to receive donations from taxpayers; requirements; annual report
+- Section 20-2-15 - Acceptance of federal and other aid to educational television
+- Section 20-2-16 - Acceptance and allotment of federal aid and other funds for school construction; determining needs; planning financing; building code; safety inspections and recommendations
+- Section 20-2-17 - Lease of state property to local school boards
+- Section 20-2-18 - Continuation of trusts for institutions for blind and deaf; board to be trustee
+- Section 20-2-19 - Receipt and review of asbestos management plans by State Board of Education; disapproval of plans; funding; regulation; accreditation; effect on other powers of board
+- Section 20-2-20 - Regional offices authorized; employees
+- Section 20-2-30 - Election; office; forms, blanks, and instructions for subordinate officials; appeal of decisions to State Board of Education
+- Section 20-2-31 - Qualifications
+- Section 20-2-32 - Bond; oath
+- Section 20-2-33 - Compensation and expenses
+- Section 20-2-34 - Recommendations to State Board of Education; suspension of county school superintendents; appeal
+- Section 20-2-35 - Duty to visit counties
+- Section 20-2-36 - Duty in case of misapplication of state funds
+- Section 20-2-49 - Standards for local board of education members
+- Section 20-2-50 - County school districts; county board for each county
+- Section 20-2-51 - Election of local board of education members; persons ineligible to be members or superintendent; ineligibility for local boards of education; ineligibility for other elective offices
+- Section 20-2-52 - Term of office; number of members; staggering of terms
+- Section 20-2-52.1 - Composition and election of county boards of education in counties in which there is a homestead option sales and use tax and a county sales and use tax for educational purposes; terms of service
+- Section 20-2-53 - Certifying election or appointment of county board members
+- Section 20-2-54.1 - Procedure for filling vacancies on local boards
+- Section 20-2-55 - Per diem, insurance, and expenses of local board members
+- Section 20-2-56 - Nonpartisan elections for members of boards of education
+- Section 20-2-57 - Organization of county boards; chairperson and secretary; quorum; record of proceedings
+- Section 20-2-58 - Regular monthly meeting of local boards with public comment; adjournment; temporary presiding officer; notice of date; template for financial review; open meetings
+- Section 20-2-58.1 - &quot;Immediate family&quot; defined; employment of family members
+- Section 20-2-59 - [Effective Until 6/30/2027] Rules
+- Section 20-2-59 - [Effective 6/30/2027] Rules
+- Section 20-2-60 - Consolidation of county schools
+- Section 20-2-61 - Fundamental roles of local boards of education and local school superintendents
+- Section 20-2-62 - Employment of county agents and home demonstration agents to carry on extension work
+- Section 20-2-63 - Prohibit certain conflicts of interest of board members
+- Section 20-2-64 - Establishment and maintenance of trusts or funds
+- Section 20-2-65 - Programs for care and supervision of students before school, after school, or during vacation periods
+- Section 20-2-66 - School breakfast programs
+- Section 20-2-67 - Local school system or school subject to corrective action plan for budget deficit; financial operations form; publication; mailing to Department of Education and local governing body
+- Section 20-2-68 - Information for verification of fund expenditure
+- Section 20-2-69 - Requirements and procedures for issuing and awarding high school diplomas to honorably discharged World War II Veterans
+- Section 20-2-70 - Requirements and procedures for issuing and awarding high school diplomas to honorably discharged Korean Conflict and Vietnam Conflict veterans
+- Section 20-2-71 - Placement of twins or higher order multiples in the same classroom
+- Section 20-2-72 - Code of ethics for local board of education members
+- Section 20-2-73 - Suspension and removal of local school board members upon potential loss of accreditation or when schools in system are turnaround eligible schools; procedures; petition for reinstatement; prohibition on use of public funds for litigation expenses; reimbursement of expenses
+- Section 20-2-74 - Solicit and accept donations for educational purposes
+- Section 20-2-75 - [Repealed] Failure of board members to fulfill obligations; litigation expenses; role of Attorney General
+- Section 20-2-80 - Requests for increased flexibility; Title 20/No Waivers system
+- Section 20-2-81 - Strategic plan and proposed contract for local school systems requesting flexibility; strategic waivers school system
+- Section 20-2-82 - Contract terms for local school systems requesting flexibility
+- Section 20-2-83 - State board approval of local school board flexibility contract
+- Section 20-2-84 - Accountability, flexibility, and consequences components of contract
+- Section 20-2-84.1 - Loss of governance for nonperforming schools
+- Section 20-2-84.2 - State monitoring
+- Section 20-2-84.3 - Required notifications by local school systems
+- Section 20-2-84.4 - Other funding options
+- Section 20-2-84.5 - Applicability to charter systems
+- Section 20-2-84.6 - Establishment of rules, regulations, and guidelines
+- Section 20-2-85 - Legislative findings; role of local boards of education and school councils
+- Section 20-2-86 - Operation of school councils; training programs; membership; management; roles and responsibilities
+- Section 20-2-100 - [Repealed] [Reserved] County school superintendent substituted for county school commissioner
+- Section 20-2-101 - Appointment of school superintendents
+- Section 20-2-103 - Oath of local school superintendent
+- Section 20-2-104 - Superintendents' bonds
+- Section 20-2-108 - Certification and classification of local school superintendents; compensation
+- Section 20-2-109 - Duties of local school superintendents; reporting
+- Section 20-2-110 - [Repealed] [Reserved] Offices for county school superintendents
+- Section 20-2-111 - Administration of oaths by county school superintendents and county board members
+- Section 20-2-130 - Short title
+- Section 20-2-131 - Objectives and purposes of program
+- Section 20-2-132 - Primary goals of article
+- Section 20-2-133 - Free public instruction; exceptions; eligibility; procedure and requirements when child in custody of or in a placement or facility of a state agency
+- Section 20-2-140 - State Board of Education to establish uniformly sequenced content standards; college and career readiness competency standards
+- Section 20-2-140.1 - Online learning
+- Section 20-2-141 - Review of competencies and core curriculum
+- Section 20-2-142 - Prescribed courses
+- Section 20-2-142.1 - Coursework in the founding philosophy and principles of the United States of America
+- Section 20-2-143 - Sex education and AIDS prevention instruction; implementation; student exemption
+- Section 20-2-144 - Mandatory instruction concerning alcohol, tobacco, vapor products, and other drug use
+- Section 20-2-145 - [Effective Until 7/1/2025] Comprehensive character education program
+- Section 20-2-145 - [Effective 7/1/2025] Comprehensive character education program
+- Section 20-2-145.1 - Career education
+- Section 20-2-146 - Scholastic Assessment Test preparatory course; acceptance as elective credit
+- Section 20-2-147 - Instructional activities focusing on veterans and the armed forces; closure of schools for Veterans Day
+- Section 20-2-148 - Elective course in History and Literature of the Old and New Testaments; religious neutrality
+- Section 20-2-149 - [Effective Until 7/1/2025] Program for educating students regarding online Internet safety
+- Section 20-2-149 - [Effective 7/1/2025] Program for educating students regarding online Internet safety
+- Section 20-2-149.1 - Instruction in cardiopulmonary resuscitation and use of automated external defibrillator; requirements
+- Section 20-2-149.2 - Accelerated Career Diploma Program
+- Section 20-2-149.3 - Requirements for computer science education
+- Section 20-2-149.4 - Financial literacy instruction and curriculum
+- Section 20-2-150 - Eligibility for enrollment
+- Section 20-2-151 - General and career education programs; purpose; authorized programs
+- Section 20-2-151.1 - American Sign Language as foreign language for college preparatory curriculum and for Carnegie unit elective credits
+- Section 20-2-151.2 - Driver education course accepted for Carnegie unit elective credits
+- Section 20-2-152 - Special education services
+- Section 20-2-152.1 - Deaf Child's Bill of Rights; consideration of communication needs of deaf students; parental explanations; instruction in particular communication mode or language
+- Section 20-2-152.2 - Protocols for assessment of trauma in students in foster care; guidance regarding trauma and its impact on students
+- Section 20-2-153 - Early intervention program for students at risk of not reaching or maintaining academic grade level
+- Section 20-2-153.1 - Georgia Early Literacy; uniform grade appropriate metrics to measure literacy; universal reading screeners; high-quality instructional materials aligned with the science of reading; support for literacy instruction; reading intervention plans
+- Section 20-2-154 - Remedial education program
+- Section 20-2-154.1 - Alternative education programs; intent; description; requirements; funding; effectiveness
+- Section 20-2-154.2 - Agricultural education program; development of plan
+- Section 20-2-154.3 - Agricultural programs in elementary schools; evaluation
+- Section 20-2-155 - School climate management program; model codes of behavior and discipline
+- Section 20-2-156 - Program for limited-English-proficient students
+- Section 20-2-157 - Uniform reporting system for certain purposes; dual credit courses; academic eligibility requirements to receive HOPE scholarship
+- Section 20-2-158 - Contracts for school psychology services
+- Section 20-2-159 - Requirements for receiving special education and related services of students enrolled in home study programs
+- Section 20-2-159.1 - Focused programs of study
+- Section 20-2-159.2 - Coordination between high schools and postsecondary institutions to minimize the need for remedial coursework for students in postsecondary institutions
+- Section 20-2-159.3 - Academic core standards to be embedded in career, technical, and agricultural education courses
+- Section 20-2-159.4 - Policies and guidelines for awarding units of high school credit based on demonstrated proficiency
+- Section 20-2-159.5 - Georgia Seal of Biliteracy; purpose; qualifications; insignia
+- Section 20-2-159.6 - Screening for dyslexia and related disorders; training and professional development; pilot program evaluating early intervention; data reporting
+- Section 20-2-160 - Determination of enrollment by institutional program; determination of funds to be appropriated
+- Section 20-2-161 - Quality Basic Education Formula
+- Section 20-2-161.1 - [Repealed] [Reserved] Enrollment in postsecondary courses; academic credit; secondary options grant account
+- Section 20-2-161.2 - Work based learning programs; legislative intent; participation; standards; coordination; funding
+- Section 20-2-161.3 - Dual Enrollment Act; purpose; dual credit courses; eligibility for participation; eligibility for secondary course credits; eligibility to meet high school graduation requirements; eligibility for award of high school diploma; funding; limitations on total hours; exceptions; eligibility for payment
+- Section 20-2-161.4 - [Repealed Effective6/30/2027] Accessing HOPE scholarship funds for dual enrolled students; reports
+- Section 20-2-162 - Annual recalculation of amount of funding; midterm adjustment
+- Section 20-2-164 - Local five mill share funds
+- Section 20-2-165 - Equalization grants; annual calculation; allocation
+- Section 20-2-165.1 - Charter system earnings for each full-time equivalent student; use of funds
+- Section 20-2-166 - State funds; calculation; allotment; distribution
+- Section 20-2-167 - Funding for direct instructional, media center, and staff development costs; computerized uniform budget and accounting system; submission of local budget to state board; provision of certain information by local boards
+- Section 20-2-167.1 - Public meetings on proposed annual operating budget; notice; electronic copies; exception for certain nonprofits
+- Section 20-2-167.2 - Virtual instruction through virtual schools; no waivers
+- Section 20-2-168 - Distribution of federal funds; combined purchase of supplies and equipment; minimum school year; summer school programs; year-round operation
+- Section 20-2-169 - Receipt of federal funds for career, occupational, or technical education
+- Section 20-2-170 - Authority to withhold payment of bonded indebtedness from appropriation
+- Section 20-2-171 - Minimum direct classroom expenditures; waivers; sanctions for noncompliance; submission of budget and expenditure information; rules and regulations
+- Section 20-2-172 - [Repealed] Expenditure controls for fiscal years 2007 and 2008
+- Section 20-2-180 - Essential educational resources as basis for base amount and program weights
+- Section 20-2-181 - Calculation of program weights to reflect base school size
+- Section 20-2-182 - Program weights to reflect funds for payment of salaries and benefits; maximum class size; reporting requirements; application to specific school years
+- Section 20-2-183 - Program weights to reflect funds for maintenance and operation of facilities
+- Section 20-2-184 - Program weights to reflect funds for media specialists
+- Section 20-2-184.1 - Funding for additional days of instruction; programs for low-performing students; transportation costs
+- Section 20-2-185 - Program weights to reflect funds for salaries for assistant principals and secretaries
+- Section 20-2-186 - [Effective Until 7/1/2025] Allocation of funds for local systems to pay beginning salaries of superintendents, secretaries, accountants, nurses, and certain other personnel; eligibility of failing schools for funds
+- Section 20-2-186 - [Effective 7/1/2025] Allocation of funds for local systems to pay beginning salaries of superintendents, secretaries, accountants, nurses, and certain other personnel; eligibility of failing schools for funds
+- Section 20-2-187 - State-wide school lunch program; instruction in nutrition, hygiene, etiquette, and social graces; school food and nutrition personnel
+- Section 20-2-188 - Student transportation
+- Section 20-2-189 - Migrant student grants for schools
+- Section 20-2-190 - Professional development centered on state-wide strategic initiatives
+- Section 20-2-191 - Supplies for school health nurse programs
+- Section 20-2-200 - Regulation of certificated professional personnel by Professional Standards Commission; rules and regulations; fees
+- Section 20-2-200.1 - Exemption from testing for transferring out-of-state teachers
+- Section 20-2-200.2 - Qualification for certain certificates for military spouses
+- Section 20-2-201 - Specific course requirements; in-service or continuing education; online offerings
+- Section 20-2-201.1 - [Repealed] Professional Learning Rules Task Force; composition; recommendation of professional learning rules
+- Section 20-2-202 - Life certificates
+- Section 20-2-203 - Validity period for renewable certificates
+- Section 20-2-204 - Paraprofessional and permitted personnel; classification of all certified or permitted personnel
+- Section 20-2-205 - Georgia Master Teacher Program
+- Section 20-2-206 - Alternative teacher certification program; creditable service
+- Section 20-2-207 - Online course on educator ethics
+- Section 20-2-208 - Dyslexia endorsement for teachers; requirements; assessments
+- Section 20-2-208.1 - Inclusion of identification of and interventions for dyslexia and other disorders in standards for teacher preparation programs for elementary and secondary education instruction
+- Section 20-2-209 - Financial literacy endorsement for educators
+- Section 20-2-209.1 - School safety and anti-gang endorsement for eligible certificated professional personnel
+- Section 20-2-210 - Annual performance evaluation; on-time graduation rate
+- Section 20-2-211 - Annual contract; disqualifying acts; job descriptions
+- Section 20-2-211.1 - Clearance certificates issued by the Professional Standards Commission relating to fingerprint and criminal background checks
+- Section 20-2-212 - Salary schedules
+- Section 20-2-212.1 - Increase in state salary of person selected as Georgia Teacher of the Year; advisory role
+- Section 20-2-212.2 - Salary increase for persons receiving certification from National Board for Professional Teaching Standards; state payment of program participation fee; repayment; reimbursement
+- Section 20-2-212.3 - [Repealed] [Reserved] Increasing teachers' salaries in areas of shortage; criteria for determining shortage
+- Section 20-2-212.4 - [Repealed] [Reserved] Additional five percent increase in teacher salary based on student performance
+- Section 20-2-212.5 - Additional compensation for teachers in mathematics or science
+- Section 20-2-212.6 - Limitation on salary increase for school superintendent or administrators
+- Section 20-2-213 - [Repealed] [Reserved] Career ladder programs
+- Section 20-2-213.1 - Pay-for-performance for rewarding group activity
+- Section 20-2-214 - Salary schedule for principals; supplements
+- Section 20-2-214.1 - High Performance Principals program
+- Section 20-2-215 - &quot;In loco parentis&quot; status of aides and paraprofessionals
+- Section 20-2-216 - Substitute teachers
+- Section 20-2-217 - Professional and staff development stipends
+- Section 20-2-218 - Duty-free lunch period and planning period required; exemption for extenuating circumstances; funding
+- Section 20-2-219 - Payroll deduction services provided by local units of administration
+- Section 20-2-220 - Limitations upon decreases in local salary supplements for school bus drivers and food service managers or employees
+- Section 20-2-221 - Furlough days to be on Monday or Friday or in conjunction with holidays
+- Section 20-2-230 - Programs
+- Section 20-2-231 - [Repealed] Georgia Education Leadership Academy
+- Section 20-2-232 - [Repealed] Development of plan by local school system
+- Section 20-2-240 - Powers and duties
+- Section 20-2-241 - State School Superintendent
+- Section 20-2-242 - Local school systems; local units of administration; local governing bodies
+- Section 20-2-243 - Withholding funds for failure to comply with this article
+- Section 20-2-244 - Waiver requests by a local board of education; requirements for application for waiver; period of waiver; blanket waivers
+- Section 20-2-244.1 - Variance or waiver requests by public school students
+- Section 20-2-250 - Projects to improve effectiveness
+- Section 20-2-251 - Teacher recruitment and retention program; purpose; annual evaluation of program; maximum participation
+- Section 20-2-252 - [Repealed] [Reserved] Electronic technology
+- Section 20-2-253 - [Repealed] [Reserved] Achievement grants
+- Section 20-2-254 - [Repealed] [Reserved] Educational research
+- Section 20-2-256 - Joint after-school programs for at-risk students
+- Section 20-2-257 - Grants for driver education courses for secondary school students
+- Section 20-2-258 - Funds for grant recipients; criteria for compacts between students, teachers and parents
+- Section 20-2-259 - Extended day program for students in grades nine through 12
+- Section 20-2-260 - Capital outlay funds generally
+- Section 20-2-261 - Common minimum facility requirements
+- Section 20-2-262 - Low-wealth capital outlay grants to local school systems; criteria for eligibility
+- Section 20-2-263 - Grant program to incentivize adoption of digital learning; rules and regulations
+- Section 20-2-270 - Establishment of state-wide network
+- Section 20-2-270.1 - Services provided by regional educational service agency; Georgia Learning Resources System; Psychoeducational Network
+- Section 20-2-271 - Development of regional improvement plan; introduction of core services; instructional care teams; establishment of alternative methods of teacher certification
+- Section 20-2-272 - Agency board of control; membership; powers and duties; planning boards
+- Section 20-2-273 - Agency directors and staff
+- Section 20-2-274 - Uniform state-wide needs program and documented local needs program grants
+- Section 20-2-280 - Formative reading assessment; results
+- Section 20-2-281 - Student assessments
+- Section 20-2-281.1 - Petition to obtain high school diploma; notice of petition option
+- Section 20-2-281.2 - Administration of a nationally recognized multiple-aptitude battery assessment
+- Section 20-2-282 - Georgia Academic Placement and Promotion Policy
+- Section 20-2-283 - Criteria; specific requirements for students in grades three, five, and eight; implementation
+- Section 20-2-284 - Criteria for local boards of education; model placement and promotion policy
+- Section 20-2-285 - Timetable for implementation of policy
+- Section 20-2-285.1 - [Repealed] Provisions applicable to third-grade criterion referenced reading assessment students
+- Section 20-2-286 - Innovative assessment pilot program; procedure; reporting
+- Section 20-2-290 - Organization of schools; employment of school administrative managers
+- Section 20-2-291 - Financing construction of facilities for voluntary consolidation
+- Section 20-2-292 - Sparsity grants
+- Section 20-2-293 - [Effective Until 7/1/2025] Student attending school in system other than system of student's residence
+- Section 20-2-293 - [Effective 7/1/2025] Student attending school in system other than system of student's residence
+- Section 20-2-294 - Permanent classrooms; student commuting distance; reassignment; cost of transportation
+- Section 20-2-295 - Military student transfers
+- Section 20-2-296 - Continued enrollment in public school under certain circumstances
+- Section 20-2-300 - Implementation and funding authorized
+- Section 20-2-301 - [Repealed and Reserved] [Reserved] Coordinating Committee for Exceptional Individuals
+- Section 20-2-302 - Funds for operation of schools for deaf and blind persons
+- Section 20-2-303 - [Repealed] [Reserved] Educational television
+- Section 20-2-304 - Environmental education, recycling, and composting awareness
+- Section 20-2-305 - County and regional libraries
+- Section 20-2-306 - Honors program; residential high school program
+- Section 20-2-307 - Youth camps; food-processing and young farmers programs
+- Section 20-2-310 - Student directory information; registering to vote and with selective service; pledge of allegiance
+- Section 20-2-312 - [Repealed] [Reserved] State program for middle school children during nonschool hours; goals; annual review
+- Section 20-2-313 - J. William Fulbright Educational Exchange Program
+- Section 20-2-314 - Development of rape prevention, personal safety education, and teen dating violence prevention programs
+- Section 20-2-315 - Gender discrimination prohibited; authorized separate gender teams; equal athletic opportunity; physical education classes; employee designated to monitor compliance; grievance procedures; reporting requirements
+- Section 20-2-316 - Involvement of athletic association in high school athletics
+- Section 20-2-316.1 - Eligibility conditions of high school athletic associations
+- Section 20-2-316.2 - Financial reporting by athletic associations
+- Section 20-2-316.3 - Prohibition of religious expression of student athletes by athletic association
+- Section 20-2-317 - Inappropriate means of encouraging and rewarding student athletes; penalty; notice to students
+- Section 20-2-318 - Intercollegiate athletics; remedies for improper activities
+- Section 20-2-319 - Prayers prior to athletic event held on the campus of a private school not to be prohibited
+- Section 20-2-319.1 - Georgia Virtual School
+- Section 20-2-319.2 - School interscholastic extracurricular athletic policy providing for the use of a single, comprehensive, preparticipation physical examination form
+- Section 20-2-319.3 - Online clearing-house of interactive distance learning courses
+- Section 20-2-319.4 - Virtual instruction programs; notice of opportunities; mechanisms for compliance; curriculum plan
+- Section 20-2-319.5 - Enrolling home study and private school students in college and career courses
+- Section 20-2-319.6 - Home study student participation in resident school system extracurricular and interscholastic activities; short title; definitions; requirements for participation; impact of student withdrawal; reporting requirements
+- Section 20-2-319.7 - Instruction in lifeguarding and aquatic safety
+- Section 20-2-320 - State-wide comprehensive educational information system; identification of data to implement Quality Basic Education Program
+- Section 20-2-321 - Expense record requirements
+- Section 20-2-322 - Unfunded programs and activities
+- Section 20-2-322.1 - [Repealed] [Repealed] Environmental Education Council
+- Section 20-2-323 - Recess for students in kindergarten through grade five; unstructured break time for students in kindergarten through grade eight
+- Section 20-2-324 - [Effective Until 7/1/2025] Internet safety policies in public schools
+- Section 20-2-324 - [Effective 7/1/2025] Internet acceptable-use policies required in all public schools; minimum policy requirements; policy enforcement; technology protection measures required; policy compliance review, approval, and enforcement by State Board of Education; waivers prohibited
+- Section 20-2-324.1 - Concussion management and return to play policies for youth athletes
+- Section 20-2-324.2 - Video monitoring cameras in classrooms providing special education services; requirements; evaluations; funding
+- Section 20-2-324.3 - Unique identifiers for military students
+- Section 20-2-324.4 - Toll free number for reporting child abuse or neglect; posting at schools; regulation; no liability
+- Section 20-2-324.5 - Education on nature and warning signs of sudden cardiac arrest; informational meetings; procedure when student exhibits symptoms; requirements of coaches; youth athletic organizations encouraged to comply
+- Section 20-2-324.6 - Complaint resolution policy for materials &quot;harmful to minors.&quot;
+- Section 20-2-324.7 - [Effective 7/1/2025] Social media policies required in all public schools; minimum policy requirements; policy enforcement; policy compliance review and investigation by Department of Education; corrective action by State Board of Education for noncompliance
+- Section 20-2-325 - Short title
+- Section 20-2-326 - Definitions
+- Section 20-2-327 - Recognition of advanced proficiency/honors courses; counseling and development of individual graduation plans
+- Section 20-2-327.1 - Industry credentialing for career, technical, and agricultural education programs; reporting
+- Section 20-2-328 - Competitive grant program
+- Section 20-2-329 - Requirements for high schools that receive reform grants as chronically low-performing high schools
+- Section 20-2-329.1 - Rules and regulations
+- Section 20-2-329.2 - through 20-2-329.8 - [Repealed]
+- Section 20-2-334 - Computation of effect of grants to be shown on tax bill
+- Section 20-2-370 - Referendum on repeal of special school law and consolidation of systems
+- Section 20-2-371 - Proceedings when vote favors repeal and consolidation
+- Section 20-2-372 - Effect of repeal and consolidation
+- Section 20-2-373 - Applicability of article
+- Section 20-2-390 - Power of county boards
+- Section 20-2-391 - Loan resolution
+- Section 20-2-392 - Duration of loan; repayment
+- Section 20-2-393 - Interest
+- Section 20-2-395 - Notes for money borrowed
+- Section 20-2-396 - Use of borrowed money
+- Section 20-2-410 - Liability for and distribution of funds
+- Section 20-2-411 - School fund kept separate; use of funds; separation of school taxes; investments
+- Section 20-2-430 - Issuance and retirement of county schoolhouse bonds
+- Section 20-2-431 - Division of county into schoolhouse districts; issuance and retirement of district bonds
+- Section 20-2-432 - Joint county-city high schools - Power to contract for building and maintenance
+- Section 20-2-433 - Joint county-city high school contracts for building and maintenance - Approval and confirmation
+- Section 20-2-434 - Joint county-city high school contracts for building and maintenance - Issuance of bonds; elections
+- Section 20-2-435 - Joint county-city high school contracts for building and maintenance - County and city tax levies to pay bonds and maintenance costs
+- Section 20-2-436 - Provisions of Code Sections 20-2-432 through 20-2-435 cumulative
+- Section 20-2-437 - Local and consolidated school district trustees' powers and duties as to buildings and equipment transferred to county boards
+- Section 20-2-438 - Local and consolidated school district bonds - Transfer to county board; disbursing funds to bondholders; recommending tax levy
+- Section 20-2-450 - Subpart to govern refunding, retiring, or refinancing outstanding district bonds
+- Section 20-2-451 - Electoral approval required for refunding, retiring, or refinancing outstanding district bonds
+- Section 20-2-452 - Elections to approve refunding, retiring, or refinancing outstanding district bonds - Calling of election by county board
+- Section 20-2-453 - Elections to approve refunding, retiring, or refinancing outstanding district bonds - Contents of election notice
+- Section 20-2-454 - Elections to approve refunding, retiring, or refinancing outstanding district bonds - Eligible voters; conduct of election; declaration of result
+- Section 20-2-455 - Elections to approve refunding, retiring, or refinancing outstanding district bonds - Referendum to call election
+- Section 20-2-456 - Elections to approve refunding, retiring, or refinancing outstanding district bonds - Vote required; declaration of favorable result; issuance of refunding bonds
+- Section 20-2-457 - District bonds - Tax levy to provide sinking fund to retire bonds
+- Section 20-2-458 - Local or consolidated school district bonds - Sale or exchange
+- Section 20-2-459 - Independent school district bonds - Sale or exchange
+- Section 20-2-460 - District bonds - Sinking fund for holders failing or refusing to sell or exchange outstanding bonds
+- Section 20-2-461 - Elections to approve refunding, retiring, or refinancing outstanding district bonds - Limit of one per year
+- Section 20-2-462 - County-wide bonds - Powers of counties as to refunding, refinancing, or retiring
+- Section 20-2-463 - County-wide bonds - Petition to call election; call of election; county board to determine terms
+- Section 20-2-464 - County-wide bond elections - Notice
+- Section 20-2-465 - County-wide bond elections - Eligible voters; conduct of election; declaration of result
+- Section 20-2-466 - County-wide bonds - Vote required to approve; issuance, sale, or exchange
+- Section 20-2-467 - County-wide bonds - Handling and use of proceeds
+- Section 20-2-468 - County-wide bonds - Tax levy to provide sinking fund to retire bonds
+- Section 20-2-469 - County-wide bonds - Paying off outstanding bonds; sinking fund for holders failing or refusing to sell, exchange, or surrender outstanding bonds
+- Section 20-2-470 - Validation of bonds
+- Section 20-2-471 - Exchange or sale of bonds; use of proceeds
+- Section 20-2-472 - Establishment of sinking fund for unsurrendered bonds
+- Section 20-2-473 - Limitations on issue and use of bonds and proceeds
+- Section 20-2-474 - Powers and duties of officials as to bonds, taxes, and sinking funds
+- Section 20-2-475 - Interest on bonds
+- Section 20-2-476 - When subpart applicable to independent school districts
+- Section 20-2-477 - Construction of subpart against impairment of outstanding bonds
+- Section 20-2-480 - Notification of proposed issuance of bonded indebtedness; authorization to withhold appropriations to pay indebtedness
+- Section 20-2-490 - Municipalities authorized to levy school taxes
+- Section 20-2-491 - Performance audit on capital outlay projects funded by sales tax
+- Section 20-2-500 - Contracts for purchases authorized of certain supplies, materials, equipment, or agricultural products to give preference to in-state manufacturers or producers; purchases over $100,000.00; vendor preferences
+- Section 20-2-501 - through 20-2-503 - Reserved
+- Section 20-2-504 - Authority to contract for pupil transportation
+- Section 20-2-505 - Member prohibited from selling school supplies or equipment to county board; penalty
+- Section 20-2-505.1 - Board transacting business with bank or similar institution in which member has interest
+- Section 20-2-506 - Authority to enter into multiyear lease, purchase, or lease purchase contracts
+- Section 20-2-520 - Acquiring and disposing of school sites; building, repairing, renting, and furnishing schoolhouses
+- Section 20-2-521 - Power of condemnation
+- Section 20-2-522 - Condemnation procedure
+- Section 20-2-540 - Exemption of school property from levy and sale
+- Section 20-2-550 - through 20-2-582 - Reserved
+- Section 20-2-600 - Leases of 50 years or less authorized
+- Section 20-2-601 - Article applicable to all public school systems
+- Section 20-2-640 - through 20-2-650 - Reserved
+- Section 20-2-660 - Short title
+- Section 20-2-661 - Legislative intent and findings
+- Section 20-2-662 - Definitions
+- Section 20-2-663 - Designation and role of chief privacy officer
+- Section 20-2-664 - Role of department
+- Section 20-2-665 - Prohibition on the reporting and collection of certain data
+- Section 20-2-666 - Activities by operators; limitations
+- Section 20-2-667 - Parental and student review of education record; model policies
+- Section 20-2-668 - Rules and regulations
+- Section 20-2-670 - Requirements for transferring students beyond sixth grade; conditional admission; compliance
+- Section 20-2-671 - Transfer students who have committed felony acts; disclosure of act
+- Section 20-2-690 - Educational entities; requirements for private schools and home study programs; learning pod protection
+- Section 20-2-690.1 - Mandatory education for children between ages six and 16
+- Section 20-2-690.2 - Establishment of student attendance and school climate committee; membership; summary of penalties for failure to comply; review and policy recommendations; reporting
+- Section 20-2-691 - Minimum annual attendance required; child completing high school exempt
+- Section 20-2-692 - General Assembly pages granted excused absences
+- Section 20-2-692.1 - Excused absences for days missed to visit with parent or legal guardian in the military prior to deployment or while on leave; attendance at military affairs sponsored events
+- Section 20-2-692.2 - Foster care student attending court proceedings related to that student's foster care to be credited as present at school
+- Section 20-2-692.3 - Participation in 4-H activities; attendance credit
+- Section 20-2-693 - Exemptions
+- Section 20-2-694 - Administration and enforcement of subpart
+- Section 20-2-695 - Employing attendance officers in addition to visiting teachers; authority and duties
+- Section 20-2-696 - Duties of visiting teachers and attendance officers
+- Section 20-2-697 - Cooperation of principals and teachers in public schools with visiting teachers and attendance officers; attendance reports and records kept by public schools; letter indicating enrollment
+- Section 20-2-698 - Peace officers may take temporary custody of truant children away from home
+- Section 20-2-699 - Disposition of children taken into custody
+- Section 20-2-700 - Reports by peace officers to school authorities and parent or guardian
+- Section 20-2-701 - Responsibility for reporting truants to juvenile or other courts
+- Section 20-2-702 - [Repealed] Governor may proclaim subpart suspended
+- Section 20-2-703 - [Repealed] Subpart is inapplicable where operation of public schools is discontinued
+- Section 20-2-705 - Parental consent for participation in school clubs and organizations
+- Section 20-2-720 - Inspection of students' records by parents
+- Section 20-2-730 - Policies and regulations on use of corporal punishment
+- Section 20-2-731 - When and how corporal punishment may be administered
+- Section 20-2-732 - When principal or teacher not liable for administering corporal punishment
+- Section 20-2-735 - Adoption of policies by local boards to improve student learning environment
+- Section 20-2-736 - Student codes of conduct; distribution; disciplinary action for violations; parental involvement
+- Section 20-2-737 - Reports by teacher of violations of student code of conduct; notification to parents of support services or disciplinary action
+- Section 20-2-738 - Authority of teacher over classroom; procedures following removal of student from classroom; placement review committees
+- Section 20-2-739 - Conflict management and resolution; cultural diversity training programs
+- Section 20-2-740 - Annual report by local boards of education regarding disciplinary and placement actions; annual study by Department of Education
+- Section 20-2-741 - Positive behavioral interventions and supports and response to intervention
+- Section 20-2-742 - Multi-tiered system of supports prior to suspension or expulsion for certain students
+- Section 20-2-750 - Short title
+- Section 20-2-751 - Definitions
+- Section 20-2-751.1 - Expulsion and disciplinary policy for students bringing weapons to school
+- Section 20-2-751.2 - Students subject to disciplinary orders of other school systems
+- Section 20-2-751.4 - [Effective Until 7/1/2025] Policies prohibiting bullying; assignment to alternative school; notice
+- Section 20-2-751.4 - [Effective 7/1/2025] Policies prohibiting bullying and cyberbullying required; enforcement of policies including assignment to alternative school; notice; antibullying training programs and materials; limitation of liability; noncompliance
+- Section 20-2-751.5 - Student Code of conduct; safety rules on school buses; distribution
+- Section 20-2-751.6 - Disciplinary policy for students committing acts of physical violence against teacher, school bus driver, or other school official or employee
+- Section 20-2-751.7 - State mandated process for students to follow in reporting instances of alleged inappropriate behavior by teacher or other school personnel; notice of process; training; investigations
+- Section 20-2-752 - Establishment of disciplinary hearing officers, panels, or tribunals for imposition of suspension or expulsion; rules and regulations; appeals
+- Section 20-2-753 - Disciplinary hearing officer, panel, or tribunal to hold disciplinary hearing following allegation of assault and battery or recommended suspension or expulsion exceeding 10 days
+- Section 20-2-754 - Procedures to be followed by disciplinary officer, panel, or tribunal; review
+- Section 20-2-755 - Authorization of disciplinary officer, panel, or tribunal to determine disciplinary action
+- Section 20-2-756 - Reports to law enforcement officials
+- Section 20-2-757 - Applicability of public inspection and open meeting laws
+- Section 20-2-758 - Legal actions not prohibited, restricted, or limited by disciplinary hearing; rights to appeal from decision of school board
+- Section 20-2-759 - Minimum qualifications for hearing officers, disciplinary hearing officers, tribunals, and panels
+- Section 20-2-764 - Definitions
+- Section 20-2-765 - Notification of parent or guardian of chronic disciplinary problem student; observance of child by parent or guardian; attendance of conference with principal or teacher or both
+- Section 20-2-766 - Students returning from expulsion or suspension; notice to parents; conference with principal or teacher to devise disciplinary and behavioral correction plan
+- Section 20-2-766.1 - Proceeding against parents for failure to cooperate in educational programs; penalty
+- Section 20-2-767 - Definitions
+- Section 20-2-768 - Expulsion or suspension of students for felonies; alternative educational system; policy
+- Section 20-2-770 - Rules and regulations for nutritional screening and eye, ear, and dental examinations of students
+- Section 20-2-771 - Immunization of students
+- Section 20-2-771.1 - Provision of information on Type 1 and Type 2 diabetes along with other health information
+- Section 20-2-771.2 - School health nurse programs
+- Section 20-2-772 - Rules and regulations for screening of students for scoliosis
+- Section 20-2-773 - Restrictions on student health services; utilization of state funds
+- Section 20-2-774 - Self-administration of asthma medication
+- Section 20-2-775 - Automated external defibrillator required in high schools; requirements; funding
+- Section 20-2-776 - Student retention and self-administration of auto-injectable epinephrine; liability of school system
+- Section 20-2-776.1 - Administration of auto-injectable epinephrine by school personnel
+- Section 20-2-776.2 - Stock supply of auto-injectable epinephrine; requirements; limited liability
+- Section 20-2-776.3 - Stock supply of levalbuterol sulfate; requirements; limited liability
+- Section 20-2-776.4 - Administration of levalbuterol sulfate by school personnel
+- Section 20-2-776.5 - Opioid antagonists; possession; administration; obligations; immunity from civil liability
+- Section 20-2-777 - Annual fitness assessment program; reporting and compliance
+- Section 20-2-778 - Required information to parents of students regarding meningococcal meningitis and influenza and their respective vaccines
+- Section 20-2-779 - Care of students with diabetes; training; diabetes medical management plan; liability; application to private schools
+- Section 20-2-779.1 - Suicide prevention and awareness training; no duty of care imposed
+- Section 20-2-779.2 - [Repealed effective 6/30/2027] Enforcement of face mask wearing requirement prohibited
+- Section 20-2-779.3 - Seizure action plan; form; liability
+- Section 20-2-779.4 - Water safety education; notifications to parents and guardians; exclusions
+- Section 20-2-780 - Change of custody of minor child by removing child from premises of private or public school prohibited
+- Section 20-2-785 - Referral and assessment to determine whether withdrawal was to limit education
+- Section 20-2-786 - Parents' Bill of Rights
+- Section 20-2-811 - Forging, altering, or counterfeiting teacher's local certificate or license
+- Section 20-2-830 - Power to issue warrants in anticipation of revenue
+- Section 20-2-831 - Sale of warrants at discount
+- Section 20-2-832 - Governor's power to use allocated funds to pay teachers; borrowing to replace funds
+- Section 20-2-833 - Additional payments to supervisors of student teachers
+- Section 20-2-850 - Sick leave for teachers and other personnel; accumulation of sick and personal leave; regaining forfeited leave; local policies; cost of employing substitute
+- Section 20-2-851 - Use of accumulated sick leave for personal or professional reasons
+- Section 20-2-852 - Maternity leave
+- Section 20-2-852.1 - Paternity or maternity time off for adoptive parents
+- Section 20-2-853 - Accumulation of and payment for additional days of unused sick leave
+- Section 20-2-870 - Right to leave for jury duty or when subpoenaed to testify in case arising from duties as teacher; teacher not to pay substitute; retention of juror's compensation
+- Section 20-2-874 - Definitions
+- Section 20-2-875 - Creation of fund; transfer of funds; use of funds
+- Section 20-2-876 - Responsibilities and procedures for operation of fund
+- Section 20-2-877 - Technical advice from actuary; valuations
+- Section 20-2-878 - Commissioner authority; investment powers; prohibition of personal interest
+- Section 20-2-879 - Minimum annual required contributions; employer obligations
+- Section 20-2-880 - Definitions
+- Section 20-2-881 - Board to establish plans; rules and regulations; extent of coverage; recommendations to General Assembly for schedule of maximum fees for hospitals and practitioners
+- Section 20-2-882 - Exclusions from coverage
+- Section 20-2-883 - Design of plan; controls on unnecessary use of services
+- Section 20-2-884 - Contracts for benefits or self-insurance authorized; reinsurance; certificates of coverage
+- Section 20-2-885 - Coverage for retiring school teachers and their dependents
+- Section 20-2-886 - Coverage for dependents - Right to coverage; agreement to pay contributions
+- Section 20-2-887 - Coverage for dependents - Where both husband and wife are eligible to be insured
+- Section 20-2-888 - Coverage for certain surviving spouses and teachers not entitled to retirement benefits
+- Section 20-2-889 - Coverage for personnel other than teachers
+- Section 20-2-890 - Claims; payment of benefits; time for presentation of drafts
+- Section 20-2-891 - Health insurance fund for public school teachers
+- Section 20-2-892 - Contributions by employees, state, and local employers; withholding or deducting employees' contributions
+- Section 20-2-893 - Providing for funds required annually for costs of employer contributions and administration of health insurance for retirees
+- Section 20-2-894 - Employer and employee commencement dates; coverage of new employees; rejection of coverage
+- Section 20-2-895 - Contracts with local employers as to coverage; duties of local employers
+- Section 20-2-896 - Administrative discharge of certain debts
+- Section 20-2-897 - Confidentiality of claim forms and records
+- Section 20-2-898 - Deposit of contributions into Georgia Retiree Health Benefit Fund
+- Section 20-2-910 - Definitions
+- Section 20-2-911 - Board to establish plan; rules and regulations; extent of coverage; recommendations to General Assembly for schedule of maximum fees for hospitals and practitioners
+- Section 20-2-912 - Exclusions from coverage
+- Section 20-2-913 - Design of plan; controls on unnecessary use of services
+- Section 20-2-914 - Contracts for benefits or self-insurance authorized; reinsurance; certificates of coverage
+- Section 20-2-915 - Coverage for retiring and retired public school and certain community college employees and dependents; subordination to federal program
+- Section 20-2-915.1 - Coverage for employees with eight or more years of creditable service; premiums
+- Section 20-2-915.2 - Coverage of dependents after death of employee
+- Section 20-2-916 - Coverage for dependents; agreement to pay contributions
+- Section 20-2-917 - Payment of benefits
+- Section 20-2-918 - Health insurance fund for public school employees
+- Section 20-2-919 - Investment of health insurance fund
+- Section 20-2-920 - Withholding or deducting employees' contributions; state contributions; enrollment of employees of school system not participating in the plan
+- Section 20-2-921 - Providing for funds required annually for employer contributions
+- Section 20-2-922 - Employer and employee commencement dates; option to reject or elect coverage
+- Section 20-2-923 - Option of local boards as to coverage
+- Section 20-2-924 - Administrative discharge of certain debts
+- Section 20-2-925 - Confidentiality of claim forms and records
+- Section 20-2-926 - Deposit of contributions into Georgia Retiree Health Benefit Fund
+- Section 20-2-930 - Professional liability insurance coverage for teachers and other school personnel
+- Section 20-2-940 - Grounds and procedure for terminating or suspending contract of employment
+- Section 20-2-942 - Procedure for nonrenewal; professional certificated personnel; rights of school administrators; tenure
+- Section 20-2-943 - Powers of local boards of education under this part
+- Section 20-2-944 - Letters of reprimand
+- Section 20-2-945 - Rules and regulations
+- Section 20-2-946 - Boards of education subject to this part
+- Section 20-2-947 - Part does not authorize contracts of employment
+- Section 20-2-948 - Reduction in force policies
+- Section 20-2-960 - [Repealed] [Reserved] Bonds required; conditions; payment of premiums; applicability of Chapter 4 of Title 45
+- Section 20-2-961 - Preparation and distribution of forms or books for principals' accounts
+- Section 20-2-962 - Quarterly reports by principals; audits by local boards
+- Section 20-2-980 - Expenditures for uniforms for maintenance, food service, or custodial personnel
+- Section 20-2-981 - Short title
+- Section 20-2-982 - Purpose
+- Section 20-2-982.1 - Definitions
+- Section 20-2-983 - Professional Standards Commission - Creation; composition; terms, qualifications, appointment, and removal of members; filling of vacancies
+- Section 20-2-984 - Professional Standards Commission - Authority to create and implement standards and procedures for certifying educational personnel; recommending standards and procedures for certification; continuation of teaching certificates; restrictions
+- Section 20-2-984.1 - Professional Standards Commission - Adoption of standards of performance and a code of ethics
+- Section 20-2-984.2 - Professional Standards Commission - Reports of criminal offenses to local boards of education; requests by local boards for investigation; immunity
+- Section 20-2-984.3 - Professional Standards Commission - Preliminary investigations of violations; requirement for automatic investigation; investigation of sexual offenses
+- Section 20-2-984.4 - Professional Standards Commission - Preliminary investigations; powers of investigator; limitations; notice; change of address; withdrawal of application
+- Section 20-2-984.5 - Professional Standards Commission - Preliminary investigations; disciplinary actions; hearings; consultative services
+- Section 20-2-985 - Professional Standards Commission - Selection of chairman; calling of meetings; quorum; minutes; annual report
+- Section 20-2-986 - Professional Standards Commission - Reimbursement; retention of income and benefit rights by members employed by state agency or political subdivision; reimbursement for employee's performance of duties as commission member
+- Section 20-2-987 - Professional Standards Commission - Executive secretary; employees' membership in state retirement systems; transfer of property and employees to commission; commission substitute for Department of Education
+- Section 20-2-988 - Duties and authority of commission
+- Section 20-2-989 - Appropriation of operating funds
+- Section 20-2-989.1 - Classifications for certificated personnel; functions of state board transferred to commission
+- Section 20-2-989.5 - Legislative intent; adoption of complaints policy
+- Section 20-2-989.6 - Definitions
+- Section 20-2-989.7 - Matters not subject to complaint; appeal process for certain educators
+- Section 20-2-989.8 - Establishment and contents of complaint policy
+- Section 20-2-989.9 - Supplemental rules and policies authorized
+- Section 20-2-989.10 - Collective bargaining not permitted or fostered
+- Section 20-2-989.11 - Appeals to State Board of Education
+- Section 20-2-989.20 - No teacher to be required or coerced into changing student grades; ethical violation; change of grade by person other than classroom teacher
+- Section 20-2-989.30 - Short title
+- Section 20-2-989.31 - Definitions
+- Section 20-2-989.32 - Purpose; funding
+- Section 20-2-989.33 - Board and Department duties; policies, rules, and regulations; certifications
+- Section 20-2-990 - Legislative findings
+- Section 20-2-991 - Liability insurance for performance of duties authorized; actions against insurers
+- Section 20-2-991.1 - Including nonprofit organizations, their members, and school volunteers in policies and indemnity contracts
+- Section 20-2-992 - Immunity not waived
+- Section 20-2-993 - Defense of actions against officials and employees
+- Section 20-2-994 - Payment of amount of deductible under liability policies
+- Section 20-2-1000 - Limitation on civil damages for disciplining student; frivolous or nonmeritorious actions; legal counsel for the educator
+- Section 20-2-1001 - Limited immunity from criminal liability
+- Section 20-2-1010 - Instructional materials and content
+- Section 20-2-1011 - Selecting, acquiring, and purchasing instructional materials and content; exclusion of partisan or sectarian material
+- Section 20-2-1012 - Committee recommendations on instructional materials and content; additions to approved lists
+- Section 20-2-1013 - Free instructional materials and content; care and protection of instructional materials, library books, and media materials; reimbursement by pupils or parents
+- Section 20-2-1014 - Purchases to be at lowest price offered other schools
+- Section 20-2-1015 - Instructional materials and content in digital or electronic format; funding
+- Section 20-2-1016 - Exceptions
+- Section 20-2-1017 - Review process for locally approved instructional materials and content; public review; application
+- Section 20-2-1020 - Establishment of Celebrate Freedom Week; purpose
+- Section 20-2-1021 - Display of historically significant documents
+- Section 20-2-1022 - Online instructional resources relating to American history for educators
+- Section 20-2-1030 - through 20-3-1033 - Reserved
+- Section 20-2-1050 - Brief period of quiet reflection authorized; nature of period
+- Section 20-2-1051 - Participation not to be regulated or required
+- Section 20-2-1070 - Powers of State Board of Education as to bus drivers' salaries, federal and other transportation aid, and standards for vehicles and drivers
+- Section 20-2-1071 - Transportation contracts
+- Section 20-2-1072 - Financial interest in transportation facilities or sale of school buses, school bus equipment, or school bus supplies of state and local school authorities prohibited
+- Section 20-2-1073 - Transportation forbidden if certified detrimental to student's health; penalty
+- Section 20-2-1074 - Transportation for elderly, persons with disabilities, and 4-H activities
+- Section 20-2-1075 - Use of county and independent school buses for students participating in recreational or educational activities
+- Section 20-2-1076 - Alternative vehicles for school buses; limitations on use; requirements; insurance
+- Section 20-2-1090 - Accident insurance for children on school buses
+- Section 20-2-1091 - Payment of insurance premiums by school board or other bus owner
+- Section 20-2-1092 - Insurance coverage for general public; waiver of school board's immunity
+- Section 20-2-1093 - Mutual insurance policies to be nonassessable
+- Section 20-2-1094 - School boards to keep insurance policies
+- Section 20-2-1110 - Right of school bus driver to sick leave with pay; accumulation of unused sick leave
+- Section 20-2-1111 - Use of accumulated sick leave for personal reasons
+- Section 20-2-1112 - Driver on sick leave need not pay for substitute
+- Section 20-2-1113 - Determining pay for substitute drivers
+- Section 20-2-1120 - Definition
+- Section 20-2-1121 - School bus drivers subject to random drug and alcohol testing; procedures; costs; rules and regulations
+- Section 20-2-1122 - Penalties for violation or refusal to submit to test
+- Section 20-2-1125 - Annual mandatory training of school bus drivers; initial certification of drivers
+- Section 20-2-1126 - Written policies and procedures for operation of school buses; receipt of code of conduct by students; acknowledgement by parent or guardian
+- Section 20-2-1127 - Data base of names and licenses of school bus operators; suspension or revocation of license
+- Section 20-2-1128 - Establishing routes for school buses
+- Section 20-2-1130 - Duties of law enforcement and school officials as to traffic safety around schools
+- Section 20-2-1131 - Direction of traffic by designated personnel
+- Section 20-2-2095 - Short title
+- Section 20-2-2095.1 - Definitions
+- Section 20-2-2095.2 - Grant program for qualified charter school contributions
+- Section 20-2-2095.3 - Date certain for matching funds
+- Section 20-2-2095.4 - Adoption of guidelines and standards for construction of charter schools; reporting
+- Section 20-2-2095.5 - Promulgation of rules and regulations
+- Section 20-2-2096 - Short title
+- Section 20-2-2096.1 - Definitions
+- Section 20-2-2096.2 - Adoption of policies, procedures, regulations and other such requirements
+- Section 20-2-2096.3 - Requirements of completion special schools; student enrollment; waivers or variances
+- Section 20-2-2096.4 - Governing board; membership; meetings and procedures
+- Section 20-2-2096.5 - Appointment, term, and role of superintendent
+- Section 20-2-2096.6 - Funding
+- Section 20-2-2096.7 - Attendance zones; payments; use of funds
+- Section 20-2-2096.8 - Evaluation and reporting
+- Section 20-2-2100 - Creation of oversight committee to review operations of high school athletic associations
+- Section 20-2-2101 - Powers and duties
+- Section 20-2-2102 - Cooperation and reporting by high school athletic associations
+- Section 20-2-2103 - Evaluation of performance of high school athletic associations
+- Section 20-2-2104 - Expenditure of funds; compensation of members; funding
+- Section 20-2-2110 - Short title
+- Section 20-2-2111 - Legislative findings; purpose
+- Section 20-2-2112 - Definitions
+- Section 20-2-2113 - Annual notification of options available to parents of special needs students
+- Section 20-2-2114 - Qualifications for scholarship; financial responsibility; state-wide assessments; exception; compliance
+- Section 20-2-2115 - Eligibility requirements for schools participating in scholarship program; application of participating school
+- Section 20-2-2116 - Amount of scholarship; method of payments
+- Section 20-2-2117 - Adoption and promulgation of rules; immunity from liability for scholarship decisions; schools may be barred from program participation for certain actions
+- Section 20-2-2118 - Annual report
+- Section 20-2-2130 - Definitions
+- Section 20-2-2131 - Enrollment of students in school to which not originally assigned; procedure; annual notification; exception
+- Section 20-2-2140 - through 20-2-2180 - [Repealed]

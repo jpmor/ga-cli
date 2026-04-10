@@ -1,0 +1,25 @@
+# Chapter 33 - PHYSICAL THERAPISTS (§§ 43-33-1 — 43-33-31)
+
+- Section 43-33-1 - Short title
+- Section 43-33-2 - Declaration of purpose
+- Section 43-33-3 - Definitions
+- Section 43-33-4 - Creation of board
+- Section 43-33-5 - Appointment of board members; terms; vacancies; removal
+- Section 43-33-6 - Qualifications of board members
+- Section 43-33-7 - Conduct of business by telephone or other digital means
+- Section 43-33-8 - Reimbursement of board members
+- Section 43-33-9 - Division director as secretary of board; subpoena power; service of process and documents
+- Section 43-33-10 - General powers and duties of board
+- Section 43-33-11 - Physical therapists and physical therapist assistants to clearly inform public of credentials; license required; use of titles; limitation on scope of Code section
+- Section 43-33-12 - Requirements for license to practice physical therapy
+- Section 43-33-13 - Requirements for license to practice as physical therapist assistant
+- Section 43-33-13.1 - Physical therapy aide
+- Section 43-33-14 - Determining competence of applicants
+- Section 43-33-15 - Reciprocity; waiver of examination requirement for persons licensed in another state who meet certain qualifications
+- Section 43-33-16 - Expiration, renewal, and restoration of licenses; canceled licenses; continuing education
+- Section 43-33-17 - Training permits
+- Section 43-33-18 - Refusal to grant or restore licenses; discipline of licensees; suspension, revocation, or restriction of licenses; immunity for violation reporters
+- Section 43-33-19 - Unlicensed practice as constituting public nuisance; injunctions
+- Section 43-33-20 - Penalty
+- Section 43-33-30 - Short title
+- Section 43-33-31 - Ratification; text of compact

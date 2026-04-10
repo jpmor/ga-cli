@@ -1,0 +1,36 @@
+# Chapter 41 - CAPTIVE INSURANCE COMPANIES (§§ 33-41-1 — 33-41-106)
+
+- Section 33-41-1 - Short title
+- Section 33-41-2 - Definitions
+- Section 33-41-3 - Permissible business; limitations
+- Section 33-41-4 - Prerequisites to transacting insurance
+- Section 33-41-5 - Incorporation
+- Section 33-41-6 - Name
+- Section 33-41-7 - Directors or managers
+- Section 33-41-8 - Amount of capital or surplus
+- Section 33-41-9 - Letters of credit
+- Section 33-41-10 - Application for and issuance of certificate of authority
+- Section 33-41-11 - Refusal, suspension, or nonrenewal of certificate; expiration, renewal, amendment
+- Section 33-41-12 - Assets
+- Section 33-41-13 - Reserves
+- Section 33-41-14 - Reinsurance
+- Section 33-41-15 - Reports
+- Section 33-41-16 - Examination by Commissioner or agent; confidentiality
+- Section 33-41-17 - Fines
+- Section 33-41-18 - Investments
+- Section 33-41-19 - Rates, underwriting rules, and policy forms
+- Section 33-41-20 - Exclusion from insolvency funds; participation in FAIR plan or joint underwriting association; assessment for payments to Subsequent Injury Trust Fund
+- Section 33-41-20.1 - Membership of captive insurance companies in Georgia Insurers Insolvency Pool
+- Section 33-41-21 - Rehabilitation, reorganization, conservation, and liquidation
+- Section 33-41-22 - Taxation
+- Section 33-41-23 - Certificate of dormancy
+- Section 33-41-24 - Rule making authority
+- Section 33-41-25 - Regulatory authority
+- Section 33-41-26 - Inconsistent provisions not applicable to captive insurance companies
+- Section 33-41-100 - Application
+- Section 33-41-101 - Definitions
+- Section 33-41-102 - Protected cells; prior written approval; annual filing of financial reports; notification upon insolvency
+- Section 33-41-103 - Incorporated protected cells; legal entity status; requirements for formation; naming; rights and authority
+- Section 33-41-104 - Accounting and financial matters of incorporated protected cells
+- Section 33-41-105 - Commingling of assets prohibited; separation of cells
+- Section 33-41-106 - Application of Code Section 33-41-16 to sponsored captive insurance companies

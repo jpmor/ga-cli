@@ -1,0 +1,148 @@
+# Chapter 12 - RIGHTS IN PERSONALTY (§§ 44-12-1 — 44-12-322)
+
+- Section 44-12-1 - Partition of personal property
+- Section 44-12-20 - &quot;Chose in action&quot; defined
+- Section 44-12-21 - Rights and remedies to enforce choses in action
+- Section 44-12-22 - Assignment of choses in action arising upon contracts
+- Section 44-12-23 - Assignment of a fund
+- Section 44-12-24 - What rights of action may and may not be assigned
+- Section 44-12-40 - &quot;Bailment&quot; defined
+- Section 44-12-41 - Bailment contract as entire; performance as condition precedent to action upon it
+- Section 44-12-42 - Rights of bailee in bailed property; actions to enforce rights
+- Section 44-12-43 - Care required of bailees
+- Section 44-12-44 - Burden on bailee after loss; proper diligence standard
+- Section 44-12-45 - When act of God or contract exception available as defense
+- Section 44-12-60 - &quot;Hiring&quot; defined
+- Section 44-12-61 - Qualified ownership and rights of hirer
+- Section 44-12-62 - Duties of hirer; liability for acts of bailor's agents
+- Section 44-12-63 - Obligations of bailor
+- Section 44-12-64 - Duty to return property; assumption of risks; time of return
+- Section 44-12-65 - Effect of breach of contract; action for conversion by bailor
+- Section 44-12-66 - Effect of loss or destruction of thing hired; liability of hirer
+- Section 44-12-67 - When hirer may relet; effect of reletting without consent of bailor
+- Section 44-12-68 - Consent required for removal of hired thing from state or hazardous use
+- Section 44-12-69 - Rights of action of hirer and bailor
+- Section 44-12-70 - Liability of thing hired to execution and levy; forthcoming bond
+- Section 44-12-71 - Hire of labor or services; standard of care
+- Section 44-12-72 - Title to article on which labor bestowed
+- Section 44-12-73 - Right to possession by bailee
+- Section 44-12-74 - Loss or destruction of property; right of bailee to compensation
+- Section 44-12-75 - Exercise of discretion by factor; diligence
+- Section 44-12-76 - Keeper of livery stable; diligence
+- Section 44-12-77 - Garage owner; diligence
+- Section 44-12-78 - Keeper of wharf; liability
+- Section 44-12-90 - Definitions
+- Section 44-12-91 - Voluntary or involuntary depositories; liability for naked deposit
+- Section 44-12-92 - Liability of depositories for hire
+- Section 44-12-93 - Liability for gratuitously transporting deposits
+- Section 44-12-94 - Termination of bailment of naked deposit
+- Section 44-12-95 - Effect of use of naked deposit on liability
+- Section 44-12-96 - Reimbursement of expenses incurred by reason of naked deposit; retention of possession
+- Section 44-12-110 - Kinds of loans; nature of loan for consumption
+- Section 44-12-111 - Nature of loan for use
+- Section 44-12-112 - Borrower's duty of extraordinary care
+- Section 44-12-113 - Loan beneficiaries and responsibilities
+- Section 44-12-114 - Right of borrower to possession; action for interference
+- Section 44-12-115 - When borrower may transfer thing loaned; liability of article to levy and sale
+- Section 44-12-116 - Revocability of loans
+- Section 44-12-117 - Liability for necessary and extraordinary charges and expenses
+- Section 44-12-118 - Ownership of increase in loaned property
+- Section 44-12-119 - How loaned property used; acts considered as conversion
+- Section 44-12-120 - When death of parties terminates loans
+- Section 44-12-130 - Definitions
+- Section 44-12-131 - Duration of pawn transactions; lease-back of motor vehicles prohibited; taking possession of motor vehicles; restrictions on interest, fees, or charges; action to recover excessive or undisclosed charges; consequences of excessive charges
+- Section 44-12-132 - Permanent records required; content
+- Section 44-12-133 - Manner of recording entry in permanent records; corrections; inspection
+- Section 44-12-134 - Maintenance of permanent records for four years
+- Section 44-12-135 - Effect of part on local laws
+- Section 44-12-136 - Supervision of pawnbrokers by municipalities
+- Section 44-12-137 - Prohibited acts; penalties; presumption as to pledgor; replacement of lost or damaged goods
+- Section 44-12-138 - Restrictions on advertising; disclosure tickets or statements
+- Section 44-12-150 - Effect of defendant's possession on necessity of proof of conversion
+- Section 44-12-151 - Right of plaintiff to elect form of verdict
+- Section 44-12-152 - Determination of value of property
+- Section 44-12-153 - Tender of property and hire; effect on costs
+- Section 44-12-154 - Setoff and recoupment in action involving purchase money contract; judgment; lien of defendant
+- Section 44-12-155 - Alternative verdict; effect as first lien pending payment of judgment
+- Section 44-12-156 - Effect of judgment for damages in trover; priority
+- Section 44-12-157 - Effect of destruction of or injury to property on defendant's liability
+- Section 44-12-158 - Fees and costs when $100.00 or less is involved
+- Section 44-12-170 - Sale of perishable or other property in absence of replevy; amount of money verdict for plaintiff
+- Section 44-12-171 - Recovery by defendant in trover action when plaintiff had replevied property
+- Section 44-12-190 - Short title
+- Section 44-12-191 - Construction of article
+- Section 44-12-192 - Definitions
+- Section 44-12-193 - When property held, issued, or owing in ordinary course of holder's business presumed abandoned
+- Section 44-12-194 - Conditions under which intangible property subject to custody of state as unclaimed property
+- Section 44-12-195 - When sums payable on traveler's checks or money orders deemed abandoned; conditions under which same may be subjected to custody of state as unclaimed property
+- Section 44-12-196 - When instruments on which banking or financial organization directly liable presumed abandoned; service charges
+- Section 44-12-197 - When certain deposits or other interests in banking or financial organization presumed abandoned
+- Section 44-12-198 - When fund under life or endowment insurance policy or annuity contract presumed abandoned
+- Section 44-12-199 - When funds held or owing by utility presumed abandoned
+- Section 44-12-200 - When unclaimed court ordered refund from business association presumed abandoned
+- Section 44-12-201 - When undistributed dividends and distributions of business associations presumed abandoned; when intangible interest in business associations presumed abandoned
+- Section 44-12-202 - When unclaimed property distributed in course of dissolution or liquidation of a person presumed abandoned
+- Section 44-12-203 - When intangible property held in fiduciary capacity for benefit of another, and income derived therefrom, presumed abandoned
+- Section 44-12-204 - When intangible property held for owner by state or federal entity presumed abandoned
+- Section 44-12-205 - When gift certificate or credit memo presumed abandoned
+- Section 44-12-206 - When unpaid wages presumed abandoned
+- Section 44-12-207 - When employee benefit trust distributions and income thereon presumed abandoned; exceptions
+- Section 44-12-208 - When funds held or owing by insurer or hospital, medical, or dental service corporation presumed abandoned; when sums payable on negotiable instrument for payment of claim under insurance contract presumed abandoned
+- Section 44-12-209 - Rent due on safe-deposit boxes; notice of opening of box and sealing of contents when contents deemed abandoned; delivery to commissioner; retention of documents by commissioner
+- Section 44-12-210 - Commencement of abandonment for certain property described in Code Section 44-12-197
+- Section 44-12-211 - When bequeathed property presumed abandoned; when person presumed dead without heirs or distributees and property presumed abandoned
+- Section 44-12-211.1 - Excess funds from sale of abandoned motor vehicle; claim for funds; definitions
+- Section 44-12-212 - When property described in Code Section 44-12-193 not subject to this article
+- Section 44-12-213 - Cooperation with other states to audit or otherwise determine unclaimed property subject to claim; rules and procedure
+- Section 44-12-214 - Report and remittance of persons holding property presumed abandoned under this article
+- Section 44-12-215 - Publication of &quot;Georgia Unclaimed Property List&quot;; contents of notice
+- Section 44-12-216 - Assumption of custody by state; legal proceedings instituted by other state; reimbursements for costs to safe-deposit box holders
+- Section 44-12-217 - Sale or destruction of property
+- Section 44-12-218 - Disposition of funds received under article
+- Section 44-12-219 - When commissioner may decline to receive certain property
+- Section 44-12-220 - Claims for property paid or delivered to commissioner; procedure
+- Section 44-12-221 - Appeal of commissioner's decision
+- Section 44-12-222 - Determination of claim; hearing
+- Section 44-12-223 - Effect of periods of limitation
+- Section 44-12-224 - Development and publication of unclaimed property forms by commissioner; use of forms to file claim; contents of forms; fees and costs; revocation of agreements; addendums; immunity from liability
+- Section 44-12-225 - Confidentiality of information or records required by this article
+- Section 44-12-226 - Expiration of limitation specified by contract, statute, or court order not to affect duties required by this article
+- Section 44-12-227 - Penalties
+- Section 44-12-228 - Maintenance and retention of records
+- Section 44-12-229 - Investigations and examinations of claims, reports, and other records; commissioner may compel filing of report and may examine records; failure to maintain records
+- Section 44-12-230 - Employment of independent consultant
+- Section 44-12-231 - Enforcement of article; properties not paid over on a timely basis
+- Section 44-12-232 - Article does not relieve holder of duty that arose before July 1, 1990
+- Section 44-12-233 - Receipt of securities under this article
+- Section 44-12-234 - Property in foreign country or arising out of foreign transaction
+- Section 44-12-235 - Rules and regulations
+- Section 44-12-236 - Alternative method of disposition with respect to certain dividends or capital credits which are presumed abandoned; definitions; procedures
+- Section 44-12-236.1 - Donation of abandoned dividends or capital credits by rural telephone cooperatives for certain purposes
+- Section 44-12-237 - Unclaimed United States Savings Bond
+- Section 44-12-238 - Claim for United States savings bonds escheated to state
+- Section 44-12-239 - Required fee and form; background checks; penalty for falsification; required notice; naming convention; registration term; adverse treatment of registration; hearings
+- Section 44-12-239.1 - Data base for unclaimed accounts
+- Section 44-12-239.2 - Grounds for administrative enforcement action
+- Section 44-12-240 - Definitions
+- Section 44-12-241 - Pecans falling on public right of way; ownership during harvest season; picking pecans from tree limbs without permission; penalty
+- Section 44-12-242 - Pecans on public right of way; removal out of harvest season
+- Section 44-12-243 - Effect of article on maintenance of public rights of way; harvest on limited access highways
+- Section 44-12-260 - Definitions
+- Section 44-12-261 - Inventory of American Indian human remains or burial objects in possession of museum; additional documentation upon request of American Indian tribe; construction of part; extension of time to complete inventory and identification; notification of affected tribes
+- Section 44-12-262 - Return of human remains and burial objects upon request of known lineal descendant or tribe; immunity of museum for returns made in good faith; private collections of artifacts not containing burial objects
+- Section 44-12-263 - Monitoring and review of inventory, identification, and repatriation activities
+- Section 44-12-264 - Penalties for violation of Code Sections 44-12-261 and 44-12-262
+- Section 44-12-280 - Council on American Indian Concerns created; membership; assignment for administrative purposes; terms of office; removal for failure to attend meetings
+- Section 44-12-281 - Compensation and expenses
+- Section 44-12-282 - Chairperson; meetings; quorum
+- Section 44-12-283 - Powers and duties of council
+- Section 44-12-283.1 - Additional powers of council
+- Section 44-12-283.2 - Council authorized to promulgate rules and regulations; notification requirement
+- Section 44-12-284 - Delegation of duties; professional, technical, and clerical personnel
+- Section 44-12-285 - Annual report
+- Section 44-12-300 - Tribes, bands, groups, or communities recognized by state as legitimate American Indian Tribes
+- Section 44-12-310 - Definitions
+- Section 44-12-311 - Rights and title; transfer to molder
+- Section 44-12-320 - Lien created; notice; enforcement; public auction authorized
+- Section 44-12-321 - Notice before sale of property; violation of certain rights prohibited
+- Section 44-12-322 - Effect of part on other laws of this state

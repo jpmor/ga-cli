@@ -1,0 +1,32 @@
+# Chapter 4 - OFFICIAL BONDS (§§ 45-4-1 — 45-4-30)
+
+- Section 45-4-1 - Bonds to be payable to Governor and conditioned upon faithful discharge of duties
+- Section 45-4-2 - Deputy's bond
+- Section 45-4-3 - Return of bonds; actions on bonds
+- Section 45-4-4 - Bonds of officers commissioned by Governor
+- Section 45-4-5 - Bonds to have sureties; number and qualifications
+- Section 45-4-6 - Corporate sureties authorized
+- Section 45-4-7 - County officials required to have corporate surety on bond; county to pay premiums
+- Section 45-4-8 - Attorney at law or county officer not to be surety
+- Section 45-4-9 - New bond and surety when surety relieved or insufficient
+- Section 45-4-10 - Effect of officer failing to comply with new bond and surety
+- Section 45-4-11 - Blanket bonds covering two or more political subdivisions, officers authorized; amount and coverage period; recording; entities
+- Section 45-4-12 - Approval and filing of bonds
+- Section 45-4-13 - Approval, filing, and recording of bonds of court clerks, magistrates, sheriffs, coroners, surveyors, treasurers, and tax collectors
+- Section 45-4-14 - Time for filing bonds
+- Section 45-4-15 - Filing time to be endorsed on bonds
+- Section 45-4-16 - Manner in which power of attorney to be attested and filed where bond signed by attorney in fact
+- Section 45-4-17 - Probate court judge to certify to Governor taking of oaths and giving of bonds
+- Section 45-4-18 - Certification of failure of officer to make and file bond
+- Section 45-4-19 - Notice to Attorney General of failure of officer to file bond
+- Section 45-4-20 - Nonconforming bond to stand in place of official bond though not approved and filed
+- Section 45-4-21 - Effect of failure of officer to mark bond or give required notice
+- Section 45-4-22 - Effect of official act before bond approved and filed
+- Section 45-4-23 - Places for keeping bonds
+- Section 45-4-24 - Bond obligations of principal and surety; conditions required for existence of cause of action on bond
+- Section 45-4-25 - Actions on bonds of public officers authorized; jurisdiction
+- Section 45-4-26 - Action on deputy's bond
+- Section 45-4-27 - Effect of recovery on bond upon subsequent proceedings
+- Section 45-4-28 - Officer's liability when bond exhausted or invalid and when acting without bond
+- Section 45-4-29 - Measure of damages in actions on official bonds
+- Section 45-4-30 - Applicability of chapter

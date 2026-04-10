@@ -1,0 +1,106 @@
+# Article 2 - SALES (§§ 11-2-101 — 11-2-725)
+
+- Section 11-2-101 - Short title
+- Section 11-2-102 - Scope; certain security and other transactions excluded from this article
+- Section 11-2-103 - Definitions and index of definitions
+- Section 11-2-104 - Definitions: &quot;merchant&quot;; &quot;between merchants&quot;; &quot;financing agency.&quot;
+- Section 11-2-105 - Definitions: transferability; &quot;goods&quot;; &quot;future&quot; goods; &quot;lot&quot;; &quot;commercial unit.&quot;
+- Section 11-2-106 - Definitions: &quot;contract&quot;; &quot;agreement&quot;; &quot;contract for sale&quot;; &quot;sale&quot;; &quot;present sale&quot;; &quot;conforming&quot; to contract; &quot;termination&quot;; &quot;cancellation&quot;; &quot;hybrid transaction.&quot;
+- Section 11-2-107 - Goods to be severed from realty; recording
+- Section 11-2-201 - Formal requirements; statute of frauds
+- Section 11-2-202 - Final expression; parol or extrinsic evidence
+- Section 11-2-203 - Seals inoperative
+- Section 11-2-204 - Formation in general
+- Section 11-2-205 - Firm offers
+- Section 11-2-206 - Offer and acceptance in formation of contract
+- Section 11-2-207 - Additional terms in acceptance or confirmation
+- Section 11-2-208 - [Repealed] Course of performance or practical construction
+- Section 11-2-209 - Modification, rescission, and waiver
+- Section 11-2-210 - Delegation of performance; assignment of rights
+- Section 11-2-301 - General obligations of parties
+- Section 11-2-302 - Unconscionable contract or clause
+- Section 11-2-303 - Allocation or division of risks
+- Section 11-2-304 - Price payable in money, goods, realty, or otherwise
+- Section 11-2-305 - Open price term
+- Section 11-2-306 - Output, requirements, and exclusive dealings
+- Section 11-2-307 - Delivery in single lot or several lots
+- Section 11-2-308 - Absence of specified place for delivery
+- Section 11-2-309 - Absence of specific time provisions; notice of termination
+- Section 11-2-310 - Open time for payment or running of credit; authority to ship under reservation
+- Section 11-2-311 - Options and cooperation respecting performance
+- Section 11-2-312 - Warranty of title and against infringement; buyer's obligation against infringement
+- Section 11-2-313 - Express warranties by affirmation, promise, description, sample
+- Section 11-2-314 - Implied warranty: merchantability; usage of trade
+- Section 11-2-315 - Implied warranty: fitness for particular purpose
+- Section 11-2-316 - Exclusion or modification of warranties
+- Section 11-2-317 - Cumulation and conflict of warranties express or implied
+- Section 11-2-318 - Third party beneficiaries of warranties express or implied
+- Section 11-2-319 - F.O.B. and F.A.S. terms
+- Section 11-2-320 - C.I.F. and C. and F. terms
+- Section 11-2-321 - C.I.F. or C. and F.: &quot;net landed weights&quot;; &quot;payment on arrival&quot;; warranty of condition on arrival
+- Section 11-2-322 - Delivery &quot;ex-ship.&quot;
+- Section 11-2-323 - Form of bill of lading required in overseas shipment; &quot;overseas.&quot;
+- Section 11-2-324 - &quot;No arrival, no sale&quot; term
+- Section 11-2-325 - &quot;Letter of credit&quot; term; &quot;confirmed credit.&quot;
+- Section 11-2-326 - Sale on approval and sale or return; rights of creditors
+- Section 11-2-327 - Special incidents of sale on approval and sale or return
+- Section 11-2-328 - Sale by auction
+- Section 11-2-401 - Passing of title; reservation for security; limited application of this Code section
+- Section 11-2-402 - Rights of seller's creditors against sold goods
+- Section 11-2-403 - Power to transfer; good faith purchase of goods; &quot;entrusting.&quot;
+- Section 11-2-501 - Insurable interest in goods; manner of identification of goods
+- Section 11-2-502 - Buyer's right to goods on seller's insolvency
+- Section 11-2-503 - Manner of seller's tender of delivery
+- Section 11-2-504 - Shipment by seller
+- Section 11-2-505 - Seller's shipment under reservation
+- Section 11-2-506 - Rights of financing agency
+- Section 11-2-507 - Effect of seller's tender; delivery on condition
+- Section 11-2-508 - Cure by seller of improper tender or delivery; replacement
+- Section 11-2-509 - Risk of loss in the absence of breach
+- Section 11-2-510 - Effect of breach on risk of loss
+- Section 11-2-511 - Tender of payment by buyer; payment by check
+- Section 11-2-512 - Payment by buyer before inspection
+- Section 11-2-513 - Buyer's right to inspection of goods
+- Section 11-2-514 - When documents deliverable on acceptance; when on payment
+- Section 11-2-515 - Preserving evidence of goods in dispute
+- Section 11-2-601 - Buyer's rights on improper delivery
+- Section 11-2-602 - Manner and effect of rightful rejection
+- Section 11-2-603 - Merchant buyer's duties as to rightfully rejected goods
+- Section 11-2-604 - Buyer's options as to salvage of rightfully rejected goods
+- Section 11-2-605 - Waiver of buyer's objections by failure to particularize
+- Section 11-2-606 - What constitutes acceptance of goods
+- Section 11-2-607 - Effect of acceptance; notice of breach; burden of establishing breach after acceptance; notice of claim or litigation to person answerable over
+- Section 11-2-608 - Revocation of acceptance in whole or in part
+- Section 11-2-609 - Right to adequate assurance of performance
+- Section 11-2-610 - Anticipatory repudiation
+- Section 11-2-611 - Retraction of anticipatory repudiation
+- Section 11-2-612 - &quot;Installment contract&quot;; breach
+- Section 11-2-613 - Casualty to identified goods
+- Section 11-2-614 - Substituted performance
+- Section 11-2-615 - Excuse by failure of presupposed conditions
+- Section 11-2-616 - Procedure on notice claiming excuse
+- Section 11-2-701 - Remedies for breach of collateral contracts not impaired
+- Section 11-2-702 - Seller's remedies on discovery of buyer's insolvency
+- Section 11-2-703 - Seller's remedies in general
+- Section 11-2-704 - Seller's right to identify goods to the contract notwithstanding breach or to salvage unfinished goods
+- Section 11-2-705 - Seller's stoppage of delivery in transit or otherwise
+- Section 11-2-706 - Seller's resale including contract for resale
+- Section 11-2-707 - &quot;Person in the position of a seller.&quot;
+- Section 11-2-708 - Seller's damages for nonacceptance or repudiation
+- Section 11-2-709 - Action for the price
+- Section 11-2-710 - Seller's incidental damages
+- Section 11-2-711 - Buyer's remedies in general; buyer's security interest in rejected goods
+- Section 11-2-712 - &quot;Cover&quot;; buyer's procurement of substitute goods
+- Section 11-2-713 - Buyer's damages for nondelivery or repudiation
+- Section 11-2-714 - Buyer's damages for breach in regard to accepted goods
+- Section 11-2-715 - Buyer's incidental and consequential damages
+- Section 11-2-716 - Buyer's right to specific performance or replevin
+- Section 11-2-717 - Deduction of damages from the price
+- Section 11-2-718 - Liquidation or limitation of damages; deposits
+- Section 11-2-719 - Contractual modification or limitation of remedy
+- Section 11-2-720 - Effect of &quot;cancellation&quot; or &quot;rescission&quot; on claims for antecedent breach
+- Section 11-2-721 - Remedies for fraud
+- Section 11-2-722 - Who can sue third parties for injury to goods
+- Section 11-2-723 - Proof of market price: time and place
+- Section 11-2-724 - Admissibility of market quotations
+- Section 11-2-725 - Statute of limitations in contracts for sale

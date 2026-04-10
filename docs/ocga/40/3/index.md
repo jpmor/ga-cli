@@ -1,0 +1,55 @@
+# Chapter 3 - CERTIFICATES OF TITLE, SECURITY INTERESTS, AND LIENS (§§ 40-3-1 — 40-3-95)
+
+- Section 40-3-1 - Short title
+- Section 40-3-2 - Definitions
+- Section 40-3-3 - Powers and duties of commissioner
+- Section 40-3-4 - Exclusions from issuance of certificate of title
+- Section 40-3-5 - Stolen, converted, and recovered vehicles
+- Section 40-3-6 - Hearings; judicial review
+- Section 40-3-20 - Certificate of title prerequisite to registration; documentation required to register a vehicle purchased outside state
+- Section 40-3-21 - Application for first certificate of title
+- Section 40-3-21.1 - Conditional titles; requirements
+- Section 40-3-22 - Examination of records
+- Section 40-3-23 - Issuance of certificate of title; maintenance of record of certificates issued; public inspection; furnishing records for fee; electronic format
+- Section 40-3-24 - Contents of certificate of title; certificate of title not subject to judicial process
+- Section 40-3-25 - Entry of odometer reading on certificate of title upon sale or transfer of vehicle; certain vehicles exempted
+- Section 40-3-26 - Delivery; notice; security interest holders and lienholders
+- Section 40-3-27 - Reflection of subsequent transactions
+- Section 40-3-28 - Registration of vehicle where commissioner not satisfied as to ownership of vehicle; bond
+- Section 40-3-29 - Refusal to issue certificate of title
+- Section 40-3-30 - Requirement of compliance with federal safety standards
+- Section 40-3-30.1 - Standards for issuance to assembled motor vehicle and motorcycle or converted motor vehicle; inspections; unconventional motor vehicle or motorcycle not to be titled or registered; exception
+- Section 40-3-31 - Replacement of lost, stolen, mutilated, or destroyed certificates of title
+- Section 40-3-31.1 - [Repealed] Replacement certificates of title for mobile homes
+- Section 40-3-32 - Transfer of vehicle generally
+- Section 40-3-32.1 - Application for transfer of title to local tag agent by purchaser of manufactured home
+- Section 40-3-33 - Transfer of vehicle to or from dealer; records; application for certificate of title by dealer
+- Section 40-3-34 - Transfer of vehicle by operation of law; termination of interest; joint interest with right of survivorship
+- Section 40-3-35 - Issuance of new certificate of title; retention of surrendered certificate of title
+- Section 40-3-36 - Cancellation and destruction of certificate of title for scrap, dismantled, or demolished vehicles or trailers; salvage certificate of title; administrative enforcement; removal of license plates
+- Section 40-3-36.1 - Designation of flood damaged or fire damaged vehicle on certificate of title
+- Section 40-3-37 - Salvaged or rebuilt motor vehicles; inspections; fees; exemption of motorcycles; glider kits
+- Section 40-3-38 - Fees
+- Section 40-3-39 - Compensation of tag agents; mailing of applications to department
+- Section 40-3-40 - Reports and remittances by tag agents
+- Section 40-3-41 - Suspension or revocation of certificates of title
+- Section 40-3-42 - Timely submission of documents; penalty for late submissions
+- Section 40-3-43 - Transfer of certificate of title for total loss claim paid for stolen vehicle
+- Section 40-3-50 - Perfection of security interests generally
+- Section 40-3-51 - Creation of security interest by owner
+- Section 40-3-52 - Perfection of second or subsequent security interests
+- Section 40-3-53 - Perfection and enforcement of liens generally
+- Section 40-3-54 - Mechanics' liens; how asserted and foreclosed
+- Section 40-3-55 - Assignment of security interests and liens
+- Section 40-3-56 - Satisfaction of security interests and liens
+- Section 40-3-57 - Disclosure of information as to security interests and liens
+- Section 40-3-58 - Exclusiveness of chapter
+- Section 40-3-59 - Certain security interests not affected
+- Section 40-3-60 - Security interest not created by provision for adjustment of rental price
+- Section 40-3-61 - Proceeds of insurance policy to multiple lienholders in event of total loss of vehicle
+- Section 40-3-90 - Certain acts declared felonies
+- Section 40-3-91 - Certain acts declared misdemeanors
+- Section 40-3-92 - False report of theft or conversion
+- Section 40-3-93 - Evidence of criminal intent or knowledge
+- Section 40-3-94 - Penalties
+- Section 40-3-95 - Effect on other laws

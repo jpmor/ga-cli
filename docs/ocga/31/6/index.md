@@ -1,0 +1,31 @@
+# Chapter 6 - STATE HEALTH PLANNING AND DEVELOPMENT (§§ 31-6-1 — 31-6-90)
+
+- Section 31-6-1 - Declaration of policy
+- Section 31-6-2 - Definitions
+- Section 31-6-3 - &quot;Medical use rights&quot; defined; limitations
+- Section 31-6-20 - [Repealed] [Reserved] Health Strategies Council generally
+- Section 31-6-21 - Department of Community Health functions and powers
+- Section 31-6-21.1 - Procedures for rule making by Department of Community Health
+- Section 31-6-22 - [Repealed] Commissioner of department
+- Section 31-6-40 - Certificate of need required for new institutional health services; exemption
+- Section 31-6-40.1 - Acquisition of health care facilities; penalty for failure to notify department; limitation on applications; agreement to care for indigent patients; requirements for destination cancer hospitals; notice and hearing provisions for penalties authorized
+- Section 31-6-40.2 - New perinatal services
+- Section 31-6-40.3 - Conversion of destination cancer hospital to general cancer hospital; procedure; requirements
+- Section 31-6-41 - Scope and term of validity of certificate
+- Section 31-6-42 - Qualifications for issuance of certificate
+- Section 31-6-42.1 - Payment of obligations prior to granting or modifying a certificate of need
+- Section 31-6-43 - Acceptance or rejection of application for certificate
+- Section 31-6-44 - Certificate of Need Appeal Panel
+- Section 31-6-44.1 - Judicial review
+- Section 31-6-45 - Revocation of certificate of need; enforcement of chapter; regulatory investigations and examinations
+- Section 31-6-45.1 - Automatic revocation of certificate of need or authority
+- Section 31-6-45.2 - Participation as Medicaid provider requirement; termination by health care facility of participation as provider of medical assistance; monetary penalty
+- Section 31-6-46 - Annual report by department
+- Section 31-6-47 - Exemptions from chapter
+- Section 31-6-47.1 - Prior notice and approval of certain activities
+- Section 31-6-48 - Prior entities abolished; transfer of contractual obligations
+- Section 31-6-49 - Transitional provisions
+- Section 31-6-50 - Application of review procedures to expenditures under Section 1122 of the federal Social Security Act
+- Section 31-6-51 - [Repealed]
+- Section 31-6-70 - Reports to the department by certain health care facilities and all ambulatory surgical centers and imaging centers; public availability
+- Section 31-6-90 - through 31-6-95 - [Repealed]

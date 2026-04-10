@@ -1,0 +1,101 @@
+# Chapter 4 - PREVENTION AND CONTROL OF DISEASE IN LIVESTOCK (§§ 4-4-1 — 4-4-181)
+
+- Section 4-4-1 - Legislative intent
+- Section 4-4-1.1 - &quot;Livestock&quot; defined
+- Section 4-4-2 - Promulgation of rules and regulations
+- Section 4-4-2.1 - Fees for services rendered to A.P.H.I.S. programs
+- Section 4-4-3 - Injunctions
+- Section 4-4-4 - Administrative hearings and penalties
+- Section 4-4-5 - [Reserved]
+- Section 4-4-6 - Penalty for introducing foreign animal disease; notice and reporting required for certain diseases; exception for bona fide research activities
+- Section 4-4-20 - &quot;Garbage&quot; defined
+- Section 4-4-21 - Feeding garbage to animals generally
+- Section 4-4-22 - Feeding garbage to swine
+- Section 4-4-23 - Licensing of garbage feeders
+- Section 4-4-24 - Cancellation, suspension, or revocation of licenses
+- Section 4-4-25 - Administrative remedies
+- Section 4-4-26 - Penalty for violations of part or rules or regulations promulgated thereunder
+- Section 4-4-40 - Definitions
+- Section 4-4-41 - Licenses required; expiration; fee
+- Section 4-4-42 - Revocation, cancellation, or suspension of licenses
+- Section 4-4-43 - Rendering plant requirements
+- Section 4-4-44 - Collection center requirements
+- Section 4-4-45 - Inspections; maintenance of records; maintenance of vehicles
+- Section 4-4-46 - Administrative remedies
+- Section 4-4-47 - Funding of inspection system for slaughtering establishments unable to qualify for federal inspection; adoption of grading standards for use in inspections of such establishments
+- Section 4-4-48 - Penalty for violations of part or rules or regulations promulgated thereunder
+- Section 4-4-60 - Extermination of parasites and development of livestock industry under supervision and control of Commissioner; employment of inspectors and veterinarians; public report
+- Section 4-4-61 - Duties of livestock inspectors and supervising veterinarians generally
+- Section 4-4-62 - Right of entry of inspectors
+- Section 4-4-63 - Appointment of federal livestock inspectors as state livestock inspectors
+- Section 4-4-64 - Establishment and maintenance of quarantine lines for protection of livestock generally
+- Section 4-4-65 - Maintenance of quarantine along state borders to prevent introduction of parasites or diseases into state
+- Section 4-4-66 - Movement of cattle infested with parasites
+- Section 4-4-67 - Establishment of quarantines in areas in which livestock affected with or exposed to contagious or infectious disease; transportation of livestock within and from quarantined areas
+- Section 4-4-68 - Employment of veterinary surgeon or expert
+- Section 4-4-69 - Regulation of manufacture and use of disease vectors
+- Section 4-4-70 - Conduct of programs to eradicate contagious or infectious diseases generally
+- Section 4-4-71 - Cooperation of Commissioner with other officials in establishing quarantine lines
+- Section 4-4-72 - Indemnification of owners of livestock destroyed in eradication of diseases
+- Section 4-4-73 - Transfer of state funds to eradication programs for purposes of matching federal funds
+- Section 4-4-74 - Penalty for violation of quarantine
+- Section 4-4-75 - Interfering with Commissioner or livestock inspectors
+- Section 4-4-76 - Importation of diseased livestock
+- Section 4-4-80 - Definitions
+- Section 4-4-81 - Infected or diseased poultry - Sale, auction, transfer, or movement; inspection; reports; diagnosis
+- Section 4-4-82 - License requirement; records requirement; transportation equipment; disposal of dead poultry
+- Section 4-4-82.1 - Limitation on slaughter of live poultry
+- Section 4-4-83 - Quarantines; rules and regulations for disease control; confiscation, destruction, or disposal of diseased poultry, eggs, chicks, or stock
+- Section 4-4-84 - Penalties
+- Section 4-4-90 - Purpose of article
+- Section 4-4-91 - &quot;Qualified veterinarians&quot; defined
+- Section 4-4-92 - Duty of Commissioner to eradicate tuberculosis; county appropriations; right of entry to test cattle; assistance by owners of cattle
+- Section 4-4-93 - Notice to owners; testing; branding of infected cattle; slaughter
+- Section 4-4-94 - Indemnification of owners
+- Section 4-4-95 - Use or sale of veterinary tuberculin
+- Section 4-4-95.1 - Transport of cattle; segregation of cattle with brucellosis; removal or alteration of cattle identification; rules and regulations; sale of infected cattle
+- Section 4-4-96 - Applicability of article to anthrax and brucellosis
+- Section 4-4-96.1 - Injunctions
+- Section 4-4-97 - Penalty for violations of article
+- Section 4-4-110 - Short title
+- Section 4-4-111 - Definitions
+- Section 4-4-112 - Sale, auction, transfer, or moving of equines
+- Section 4-4-113 - Licensing and bonding requirements generally
+- Section 4-4-114 - Suspension, cancellation, or revocation of licenses
+- Section 4-4-115 - Inspections; maintenance of equines by persons to whom article applies
+- Section 4-4-116 - Sales of equines to be in compliance with article, rules, and regulations
+- Section 4-4-117 - Veterinary services at equine sales; fees
+- Section 4-4-118 - Use of drugs, tranquilizers, and medications which result in misrepresentation in sale of equines
+- Section 4-4-119 - Certification of health of animals transported into state
+- Section 4-4-120 - Quarantines
+- Section 4-4-121 - Eradication programs
+- Section 4-4-122 - Indemnification for equines eradicated
+- Section 4-4-123 - Establishment of compounds and research programs to control or eradicate equine infectious anemia
+- Section 4-4-124 - Transfer of state funds for use in programs to eradicate contagious or infectious diseases; repayment of funds
+- Section 4-4-125 - Promulgation of rules and regulations
+- Section 4-4-126 - Injunctions
+- Section 4-4-127 - Penalty for violations of article, rules, or regulations
+- Section 4-4-140 - Short title
+- Section 4-4-141 - Purpose of article
+- Section 4-4-142 - Definitions
+- Section 4-4-143 - Indemnification for condemned swine - Generally
+- Section 4-4-144 - Indemnification for condemned swine - Proof of Georgia origin required
+- Section 4-4-145 - Indemnification for condemned swine - Cooperation of person receiving payment required
+- Section 4-4-146 - Indemnification for condemned swine - Release required
+- Section 4-4-147 - Elimination of disease at farm of origin
+- Section 4-4-148 - Promulgation of rules and regulations
+- Section 4-4-149 - Cooperation among state and federal agencies
+- Section 4-4-150 - Conduct of scientific research
+- Section 4-4-151 - Injunctions
+- Section 4-4-170 - Purpose
+- Section 4-4-171 - Definitions
+- Section 4-4-172 - Deer-farming license; records; facilities
+- Section 4-4-173 - Health and transportation requirements
+- Section 4-4-174 - Escaped deer or cervid
+- Section 4-4-175 - Compliance with departments
+- Section 4-4-176 - Application
+- Section 4-4-177 - Rules and regulations
+- Section 4-4-178 - Injunctions
+- Section 4-4-179 - Administrative hearings; penalty
+- Section 4-4-180 - Release
+- Section 4-4-181 - Penalty

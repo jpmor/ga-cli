@@ -1,0 +1,81 @@
+# Chapter 3 - WILDLIFE GENERALLY (§§ 27-3-1 — 27-3-185)
+
+- Section 27-3-1 - Requirement of permission to hunt on lands of another; written permission; enforcement; immunity of landowner from civil liability
+- Section 27-3-1.1 - Acts prohibited on wildlife management areas
+- Section 27-3-2 - Hunting at night
+- Section 27-3-3 - Hours for hunting migratory game birds
+- Section 27-3-4 - Legal weapons for hunting wildlife generally; use of silencers and suppressors prohibited; penalty for violations
+- Section 27-3-6 - Possession of firearm while hunting with bow and arrow
+- Section 27-3-7 - Hunting under the influence of alcohol or drugs
+- Section 27-3-8 - Unlawful devices
+- Section 27-3-9 - Unlawful enticement of game
+- Section 27-3-10 - Hunting upon or discharging weapons across a public road
+- Section 27-3-12 - Unlawful substances and equipment; computer assisted remote hunting prohibited
+- Section 27-3-13 - Hunting of wildlife or feral hog from boats, aircraft, or motor vehicles
+- Section 27-3-14 - Killing or crippling of game bird or game animal without reasonable effort to retrieve
+- Section 27-3-15 - Seasons and bag limits; promulgation of rules and regulations by board; possession of more than bag limit; deer management assistance program
+- Section 27-3-16 - Hunting with dogs generally; training of hunting dogs
+- Section 27-3-17 - Hunting deer with dogs; seasons; permit required
+- Section 27-3-18 - Hunting foxes with dogs
+- Section 27-3-19 - Hunting alligators; possessing alligator products; gathering alligator eggs
+- Section 27-3-19.1 - Regulation of the exporting, farming, and selling of fresh-water turtles
+- Section 27-3-20 - Taking rabbits and hares out of season
+- Section 27-3-21 - Killing of bears by property owners
+- Section 27-3-22 - Hunting, possessing, or transporting birds generally
+- Section 27-3-23 - Sale of tails of squirrels
+- Section 27-3-24 - Restrictions on hunting feral hogs
+- Section 27-3-25 - Hunting bears; required outer garments
+- Section 27-3-26 - Hunting bears; restrictions; penalties
+- Section 27-3-27 - Unlawful use of bear bait
+- Section 27-3-28 - Person may take possession of native wildlife which has been killed by a motor vehicle
+- Section 27-3-29 - Recording and reporting requirements for game animals and birds; penalty for violations
+- Section 27-3-40 - Required clothing
+- Section 27-3-41 - Unsupervised hunting by persons under 12 years of age
+- Section 27-3-42 - Taking of deer in lake, stream, or pond
+- Section 27-3-43 - Removal of head of deer
+- Section 27-3-44 - Killing of deer which have no antlers visible
+- Section 27-3-45 - [Repealed] [Reserved] Information required before removal of carcass from place of killing; exception for certain managed hunts; using multiple sets of licenses or license card carriers
+- Section 27-3-46 - [Repealed] [Reserved] Failure to affix deer tag to carcass before storage or processing
+- Section 27-3-47 - [Reserved] Collision with deer by motor vehicle
+- Section 27-3-48 - Hunting deer at night
+- Section 27-3-49 - Killing of dogs running deer
+- Section 27-3-50 - Sale of antlers, hides, and tails of deer
+- Section 27-3-60 - Required commercial trapping license
+- Section 27-3-61 - Nonresident commercial trapping license
+- Section 27-3-62 - Open seasons
+- Section 27-3-63 - General offenses and penalties
+- Section 27-3-64 - Killing or injuring mink or otter with firearm; possession or sale of mink or otter, or pelt thereof, killed by firearm
+- Section 27-3-65 - Removal of trap or of wildlife from trap owned by another person; possession of wildlife removed from trap of another person
+- Section 27-3-66 - Trapping of rabbits on one's own premises or on premises of family member or landlord
+- Section 27-3-67 - Taking of rabbits or hares out of season; special permit to trap or sell rabbits or hares
+- Section 27-3-68 - Confiscation and disposal of unlawful devices
+- Section 27-3-69 - Required licenses for fur dealers and fur dealers' agents
+- Section 27-3-70 - Posting of bond by applicants for fur dealer license; effect of breach of conditions of bond
+- Section 27-3-71 - Reports and records of fur dealers; inspection of premises
+- Section 27-3-72 - Information as to service of process in application; filing as an admission of doing business in Georgia
+- Section 27-3-73 - Disposal of carcasses of fur-bearing animals or alligators
+- Section 27-3-90 - Requirements for lawful transportation
+- Section 27-3-91 - Transportation by carrier within state
+- Section 27-3-92 - Transportation out of state
+- Section 27-3-93 - Transportation for propagation and scientific purposes
+- Section 27-3-94 - Acceptance by carriers of wildlife for shipment; reports required
+- Section 27-3-110 - Shooting preserve license required; effective dates; contents of application; conditions for issuance
+- Section 27-3-111 - Removal of pen raised game bird; release of mallards or black ducks; failure to maintain or furnish records; failure to notify department of diseases
+- Section 27-3-112 - Legal hunting dates and hours; bag limits
+- Section 27-3-113 - Propagation, possession, or release of wildlife or wild animals on shooting preserves; importation of wildlife or wild animals for propagation, possession, or release
+- Section 27-3-114 - Laws and regulations applicable to shooting preserves; requirements as to hunting licenses
+- Section 27-3-115 - Department authorized to contract with shooting preserves for issuance and sale of shooting preserve hunting licenses; requirements; nondisclosure of records
+- Section 27-3-130 - Short title
+- Section 27-3-131 - &quot;Protected species&quot; defined
+- Section 27-3-132 - Powers and duties of department and board
+- Section 27-3-133 - Penalty for violation of rules and regulations of board
+- Section 27-3-150 - &quot;Lawful taking&quot; defined
+- Section 27-3-151 - Activity prohibited
+- Section 27-3-152 - Injunctions; damages for violations
+- Section 27-3-170 - Feeding of wild alligators prohibited; criminal penalty
+- Section 27-3-180 - Findings and declarations
+- Section 27-3-181 - Use of fertility control of wildlife
+- Section 27-3-182 - Permit application for applying fertility control to wildlife
+- Section 27-3-183 - Rules and regulations
+- Section 27-3-184 - Wildlife fertility control permits; cease and desist orders; possession of wildlife
+- Section 27-3-185 - Penalties

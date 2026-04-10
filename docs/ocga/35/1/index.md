@@ -1,0 +1,25 @@
+# Chapter 1 - GENERAL PROVISIONS (§§ 35-1-1 — 35-1-23)
+
+- Section 35-1-1 - Definitions
+- Section 35-1-2 - Examination of sexual assault victims; reports
+- Section 35-1-3 - Subsistence allowance for law enforcement officers
+- Section 35-1-4 - Requirements for reporting stolen motor vehicles and license plates; notice to owner upon recovery; rules and regulations; failure of law enforcement officer to report; effect on Georgia Crime Information Center
+- Section 35-1-5 - Unauthorized use of wavelength of radio system adopted by department or Georgia Bureau of Investigation
+- Section 35-1-6 - Appointment of nonuniformed investigators; salaries; status; assignment; powers
+- Section 35-1-7 - Liability of law enforcement officers performing duties at the scene of an emergency
+- Section 35-1-8 - Acquisition, collection, classification, and preservation of information assisting in identifying deceased persons and locating missing persons
+- Section 35-1-9 - Utilization of alarm verification required
+- Section 35-1-10 - Training in investigation of family violence incidents
+- Section 35-1-11 - Police volunteers for traffic control; training required
+- Section 35-1-12 - Chief of police or law enforcement head; exception
+- Section 35-1-13 - Completion and transmission of reports from victims of identity fraud
+- Section 35-1-14 - Written policies for emergency pursuits
+- Section 35-1-15 - Fresh pursuit by law enforcement officers; authority and responsibilities of officers; applicability
+- Section 35-1-16 - Training law enforcement officers investigating crimes involving trafficking persons for labor or sexual servitude
+- Section 35-1-17 - State and local law enforcement actions relating to immigration laws; authority; immunity; penalty
+- Section 35-1-18 - Prohibition on minimum waiting periods for initiating missing person report
+- Section 35-1-19 - Disclosure of arrest booking photographs prohibited
+- Section 35-1-20 - Retention of weapons by officers following employment
+- Section 35-1-21 - Development of guidelines and procedures for training in identifying domestic terrorism and reporting information to Georgia Information Sharing and Analysis Center
+- Section 35-1-22 - Prohibition on law enforcement retaining license plate data obtained from automated license plate recognition systems; limited use of data; public disclosure prohibited
+- Section 35-1-23 - Law enforcement agencies required to enter certain information into federal Violent Criminal Apprehension Program; removal of information; applicability

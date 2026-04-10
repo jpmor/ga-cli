@@ -1,0 +1,24 @@
+# Chapter 6 - UNFAIR TRADE PRACTICES (§§ 33-6-1 — 33-6-37)
+
+- Section 33-6-1 - Purpose of article
+- Section 33-6-2 - &quot;Person&quot; defined
+- Section 33-6-3 - Unfair methods of competition or unfair and deceptive acts or practices prohibited
+- Section 33-6-4 - Enumeration of unfair methods of competition and unfair or deceptive acts or practices; penalty
+- Section 33-6-5 - Other unfair methods of competition and unfair and deceptive acts or practices
+- Section 33-6-6 - Power of Commissioner as to investigation of unfair or deceptive acts or practices generally
+- Section 33-6-7 - Conduct of hearings by Commissioner; rights of person being investigated; powers of Commissioner; service of process
+- Section 33-6-8 - [Applicable to petitions for review filed in superior or state court on or after such date] Issuance of cease and desist orders; issuance of orders providing for other relief; change in orders; date on which orders appealable
+- Section 33-6-9 - Penalties for violations of cease and desist orders
+- Section 33-6-10 - Orders of Commissioner and judicial review
+- Section 33-6-11 - Intervenor appeal for judicial review
+- Section 33-6-12 - Promulgation of rules and regulations by Commissioner
+- Section 33-6-13 - Unlawful contracts, understandings, and combinations; powers of Commissioner as to enforcement of Code section
+- Section 33-6-14 - Construction of article
+- Section 33-6-30 - Short title
+- Section 33-6-31 - Purpose
+- Section 33-6-32 - Definitions
+- Section 33-6-33 - When claims settlement practice improper
+- Section 33-6-34 - Unfair claims settlement practices
+- Section 33-6-35 - Notice of hearing; hearing procedures; cease and desist orders; penalties; judicial review; intervenors
+- Section 33-6-36 - Rules and regulations
+- Section 33-6-37 - Private cause of action not created or implied

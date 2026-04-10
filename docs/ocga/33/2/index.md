@@ -1,0 +1,36 @@
+# Chapter 2 - DEPARTMENT AND COMMISSIONER OF INSURANCE (§§ 33-2-1 — 33-2-34)
+
+- Section 33-2-1 - Creation of department; Commissioner chief officer of department; powers and duties of department and Commissioner generally
+- Section 33-2-2 - Seal of Commissioner
+- Section 33-2-3 - Organization of department by Commissioner
+- Section 33-2-4 - [Repealed] [Reserved] Appointment and removal of chief deputy insurance commissioner and other deputies
+- Section 33-2-5 - Appointment of personnel; possession of financial interest; additional remuneration for services
+- Section 33-2-6 - Delegated authority
+- Section 33-2-7 - Maintenance of records, books, or papers by Commissioner generally; furnishing of copies; disposal of records
+- Section 33-2-8 - Use of department motor vehicles and equipment by off-duty department employees
+- Section 33-2-9 - Rules and regulations
+- Section 33-2-10 - Issuance and service of orders and notices
+- Section 33-2-11 - Examination of insurers and organizations; effect of insurer's change of domicile from Georgia
+- Section 33-2-12 - Examination of agents, solicitors, brokers, counselors, adjusters, managers, and promoters
+- Section 33-2-13 - Access of Commissioner to records; correction of inadequate or incorrect accounts
+- Section 33-2-14 - Preparation of written reports of examinations generally; certification of reports; admissibility in evidence; notice and hearing on reports; use of examination documents
+- Section 33-2-15 - Payment of expenses of examinations; immunity of examiners
+- Section 33-2-16 - Powers of Commissioner as to evidence and witnesses; payment of witness fees and expenses; subpoenas; giving of false testimony
+- Section 33-2-17 - Conduct of hearings by Commissioner generally; demands for hearings
+- Section 33-2-18 - Place of hearings; hearings to be open to public
+- Section 33-2-19 - Notice of hearings generally
+- Section 33-2-20 - Notice to show cause
+- Section 33-2-21 - Presiding officer at hearing; rights of parties; intervention; pleading and evidence; record of proceedings; rehearing or reargument
+- Section 33-2-22 - Adjournment of hearings; effect of nonattendance
+- Section 33-2-23 - Issuance of order on hearing; contents
+- Section 33-2-24 - Enforcement of title and rules, regulations, and orders; issuance of orders without hearings; civil actions; criminal violations; penalties
+- Section 33-2-25 - Effect of chapter upon power of Commissioner or superior courts to enforce title; construction of grants of power contained in chapter
+- Section 33-2-26 - Persons entitled to appeal; procedure generally
+- Section 33-2-27 - Pleading and procedure of judicial review; powers of reviewing court generally
+- Section 33-2-28 - Scope of judicial review; disposition of action by reviewing court
+- Section 33-2-29 - Disposition of amounts collected under title generally; allowance of refunds and credits
+- Section 33-2-30 - Limitation period for issuance of notice of deficiency assessment or execution thereon; waiver of limitations
+- Section 33-2-31 - Extension of time for filing tax return or paying tax; payment of interest by taxpayer granted extension
+- Section 33-2-32 - Fees
+- Section 33-2-33 - [Repealed] [Reserved] List of written requests for assistance by citizens against insurers
+- Section 33-2-34 - Insurance compliance self-evaluative privilege

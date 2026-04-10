@@ -1,0 +1,79 @@
+# Chapter 10 - CIVIL PRACTICE AND PROCEDURE GENERALLY (§§ 9-10-1 — 9-10-204)
+
+- Section 9-10-1 - Preference given to cases in which state is plaintiff
+- Section 9-10-2 - Actions against state void absent notice or waiver
+- Section 9-10-3 - Closed trials authorized in certain cases
+- Section 9-10-4 - Trial of collateral issues
+- Section 9-10-5 - Charges to be written out on request; exception; filing of written charges; copies
+- Section 9-10-6 - Juror's private knowledge
+- Section 9-10-7 - Expression by judge of opinion in case reversible error
+- Section 9-10-8 - Approval or disapproval of verdict by judge forbidden; discharge or commendation of jury for verdict not permitted; judge expressing approval or disapproval disqualified from presiding at new trial
+- Section 9-10-9 - [Repealed] [Reserved] Jurors' affidavits permitted to uphold but not impeach verdict
+- Section 9-10-10 - Cash bonds permitted; docketing
+- Section 9-10-11 - When appearance bond not forfeited by failure to attend; setting aside forfeiture of appearance bond
+- Section 9-10-12 - Certified mail equivalent to registered mail; sufficient compliance for notice by statutory overnight delivery
+- Section 9-10-13 - Effect of judgment on party vouched into court
+- Section 9-10-14 - Promulgation of form for use by inmates in actions against government
+- Section 9-10-30 - Proceedings in equity generally; injunctions to stay pending litigation; divorce cases
+- Section 9-10-31 - Actions against certain codefendants residing in different counties; pleading requirements; application
+- Section 9-10-31.1 - Forums outside this state; waiver of statute of limitations defense
+- Section 9-10-32 - Action against maker and endorser residing in different counties
+- Section 9-10-33 - Action against nonresident found in state
+- Section 9-10-34 - Action against third-party defendant
+- Section 9-10-50 - When venue may be changed; how county for transfer to be selected; subsequent change of venue
+- Section 9-10-51 - Change of venue in action by county against county
+- Section 9-10-52 - Transmittal of transcript of order and record to court of transfer
+- Section 9-10-53 - Conduct of proceedings following transfer
+- Section 9-10-54 - Payment of costs accrued at time of transfer
+- Section 9-10-70 - Service on resident minor over 14 temporarily outside state; return or refusal of receipt; time for filing defensive pleadings; appointment of guardian ad litem; effect of service on guardian or trustee
+- Section 9-10-71 - Service by publication on nonresidents or unknown persons with interest in property in state
+- Section 9-10-72 - Issuance of second original where defendants reside out of county
+- Section 9-10-73 - Acknowledgment of service or waiver of process
+- Section 9-10-90 - &quot;Nonresident&quot; defined
+- Section 9-10-91 - Grounds for exercise of personal jurisdiction over nonresident
+- Section 9-10-92 - Effect of appearance
+- Section 9-10-93 - Venue
+- Section 9-10-94 - Service
+- Section 9-10-110 - Petitions for extraordinary equitable relief to be verified or supported by proof
+- Section 9-10-111 - When verified answer required; by whom made for corporate defendant
+- Section 9-10-112 - Verification of answer in action on open account
+- Section 9-10-113 - When verification sufficient
+- Section 9-10-114 - Use of verified answer as evidence; amendment of sworn answer
+- Section 9-10-130 - When affidavits amendable
+- Section 9-10-131 - Bonds in judicial proceedings amendable
+- Section 9-10-132 - Amendment of misnomers on motion
+- Section 9-10-133 - Mistake by clerk or ministerial officer
+- Section 9-10-134 - Amendment by negligent party; payment of costs; terms
+- Section 9-10-135 - Amendment of pleadings on court ruling not waiver of objection thereto
+- Section 9-10-150 - Grounds for continuance and stay - Attendance of party or attorney in General Assembly; writing requirement; considerations
+- Section 9-10-151 - Grounds for continuance - Attendance at board of regents or education meeting
+- Section 9-10-152 - Grounds for continuance - Attendance at meeting of Board of Human Services or Board of Behavioral Health and Developmental Disabilities
+- Section 9-10-153 - Grounds for continuance - Service in National Guard; oath of party or statement of counsel
+- Section 9-10-154 - Grounds for continuance - Party providentially prevented from attendance; statement of counsel
+- Section 9-10-155 - Grounds for continuance - Illness or absence of counsel; oath of party
+- Section 9-10-156 - Grounds for continuance - Occupation of counsel as Attorney General in aid of General Assembly
+- Section 9-10-157 - When amending party granted continuance
+- Section 9-10-158 - Continuance to enable opposite party to meet amendment; when charged to amending party
+- Section 9-10-159 - Legislator attending General Assembly excused as witness; deposition in civil case
+- Section 9-10-160 - Continuance for absence of witness; what application to show
+- Section 9-10-161 - Denial of continuance for absence of witness or testimony where opposite party makes admission
+- Section 9-10-162 - Continuance after case sent back by appellate court
+- Section 9-10-163 - Continuance of appeals case
+- Section 9-10-164 - Continuances for one term only
+- Section 9-10-165 - Case not reached continued
+- Section 9-10-166 - Diligence to be shown by applicant for continuance
+- Section 9-10-167 - Continuance in discretion of court; countershowing to motion for continuance
+- Section 9-10-168 - When postponement substituted for continuance
+- Section 9-10-169 - Announcement and docketing of continuance
+- Section 9-10-180 - Time limit for arguments
+- Section 9-10-181 - Extension of time limit for argument after application therefor
+- Section 9-10-182 - Number of counsel who may argue case
+- Section 9-10-183 - Use of blackboard, models, or similar devices in argument
+- Section 9-10-184 - Value of pain and suffering may be argued
+- Section 9-10-185 - Prejudicial statements by counsel; prevention by court; rebuke of counsel and instruction to jury; mistrial
+- Section 9-10-186 - Opening and closing arguments
+- Section 9-10-200 - Action for recovery of realty and mesne profits
+- Section 9-10-201 - Action for recovery of personalty
+- Section 9-10-202 - Action to recover money on a judgment
+- Section 9-10-203 - Action for breach of warranty in deed
+- Section 9-10-204 - Action for words

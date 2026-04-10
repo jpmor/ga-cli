@@ -1,0 +1,22 @@
+# Chapter 9 - GUARDIAN AD LITEM (§§ 29-9-1 — 29-9-19)
+
+- Section 29-9-1 - Application of chapter
+- Section 29-9-2 - Appointment of guardian ad litem; representation of persons not sui juris; limited appointment; identification of parties in all petitions; authority of conservator or guardian to act; ineligibility of appointed counsel to be appointed guardian ad litem
+- Section 29-9-3 - Assessment of costs, compensation, fees, and expenses; factors; enforcement; abuse, neglect, or exploitation
+- Section 29-9-4 - Personal service; procedure
+- Section 29-9-5 - Service upon current residence addresses; service by publication
+- Section 29-9-6 - Service upon conservator or guardian
+- Section 29-9-7 - Judge's discretion on notice, service, and additional time for proceedings; additional notice requirements for persons residing in another state
+- Section 29-9-8 - Waiver of service or notice; written consent
+- Section 29-9-9 - Oaths, affirmations, and affidavits
+- Section 29-9-10 - Oath by department delegate
+- Section 29-9-11 - Verification of petitions and returns; consolidation and transfer of proceedings
+- Section 29-9-12 - Issuance of citations
+- Section 29-9-13 - Satisfaction of requirements of authentication or exemplification
+- Section 29-9-13.1 - Authentication of documents
+- Section 29-9-14 - Court ordered hearings
+- Section 29-9-15 - Compensation for legal counsel or guardian ad litem
+- Section 29-9-16 - Compensation to physicians, psychologists, or licensed clinical social workers
+- Section 29-9-17 - Court ordered instruction for conservator or guardian
+- Section 29-9-18 - Sealing of records on conservatorship or guardianship
+- Section 29-9-19 - Petitioner for guardian or conservator to submit to criminal history records check

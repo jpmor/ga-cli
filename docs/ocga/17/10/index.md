@@ -1,0 +1,67 @@
+# Chapter 10 - SENTENCE AND PUNISHMENT (§§ 17-10-1 — 17-10-71)
+
+- Section 17-10-1 - Fixing of sentence; suspension or probation of sentence; change in sentence; eligibility for parole; prohibited modifications; exceptions
+- Section 17-10-1.1 - Judicial consideration of victim impact statement; form document; manner of rebuttal; effect of noncompliance; no creation of cause of action or right of appeal
+- Section 17-10-1.2 - Oral victim impact statement; presentation of evidence; cross-examination and rebuttal by defendant; effect of noncompliance; no creation of cause of action or right of appeal
+- Section 17-10-1.3 - Factoring into sentencing determinations citizenship status of convict
+- Section 17-10-1.4 - Split sentence
+- Section 17-10-2 - Conduct of presentence hearings in felony cases; effect of reversal for error in presentence hearing
+- Section 17-10-3 - Punishment for misdemeanors generally
+- Section 17-10-3.1 - Punishment for violations of Code Section 40-6-391
+- Section 17-10-4 - Punishment for misdemeanors of a high and aggravated nature
+- Section 17-10-5 - Imposition of misdemeanor punishment for felonies punishable by imprisonment for term of ten years or less
+- Section 17-10-6 - [Repealed] [Reserved] Review of sentences of imprisonment for period exceeding 12 years by three-judge panel
+- Section 17-10-6.1 - Punishment for serious violent offenders; authorization for reduction in mandatory minimum sentencing
+- Section 17-10-6.2 - Punishment for sexual offenders
+- Section 17-10-6.3 - Disposition of cases currently under review by three-judge panel; duties and responsibilities of the president of The Council of Superior Court Judges of Georgia with respect to abolishing the three-judge panel
+- Section 17-10-7 - Punishment of repeat offenders; punishment and eligibility for parole of persons convicted of fourth felony offense
+- Section 17-10-8 - Payment of fine in felony case; rebate or refund of fine not permitted upon revocation of probation
+- Section 17-10-8.1 - Fee for legal defense services as condition of probation
+- Section 17-10-9 - Specification by judge imposing sentence of time from which penal sentence to run; effect of appeal
+- Section 17-10-9.1 - Voluntary surrender to county jail or correctional institution; release of defendant
+- Section 17-10-10 - Concurrent sentences
+- Section 17-10-11 - Granting of credit generally; exceptions; use in determining parole eligibility; applicability of Code section
+- Section 17-10-12 - Affidavit specifying number of days spent in confinement; disposition of affidavit; granting of credit to defendant
+- Section 17-10-13 - Legal adjudication of guilt in court having jurisdiction to precede assessment of punishment
+- Section 17-10-14 - Committal of person under 17 convicted of felony
+- Section 17-10-15 - AIDS transmitting crimes; requiring defendant to submit to HIV test; report of results
+- Section 17-10-16 - Sentence to imprisonment for life without parole authorized; ineligibility for parole or leave programs
+- Section 17-10-16.1 - Seeking death penalty not prerequisite to life without parole sentence
+- Section 17-10-17 - Sentencing of defendants guilty of crimes involving bias or prejudice; identification of increased sentence
+- Section 17-10-18 - Notification to seek enhanced penalty
+- Section 17-10-19 - Determination of defendant's guilt; object of the offense; enhancement of sentence
+- Section 17-10-20 - Collection of fines and restitution in criminal cases
+- Section 17-10-21 - Vacating of sentence for trafficking victim defendants
+- Section 17-10-30 - Procedure for imposition of death penalty generally
+- Section 17-10-30.1 - [Repealed] Imprisonment for life without parole; finding of statutory aggravating circumstance required; duties of judge and jury
+- Section 17-10-31 - Requirement of jury finding of aggravating circumstance and recommendation of death penalty prior to imposition; arguments of counsel during sentencing phase; jury instructions; actions of judge in event of failure to reach unanimous verdict
+- Section 17-10-31.1 - [Repealed] Requirement of jury finding of aggravating circumstance and recommendation of sentence of death or life without parole; duties of judge; jury instruction on meaning of &quot;life without parole&quot; and &quot;life imprisonment.&quot;
+- Section 17-10-32 - Sentencing of person indicted for capital offense to life imprisonment or other punishment upon plea of guilty
+- Section 17-10-32.1 - [Repealed] Sentencing of person subject to death penalty or life without parole upon plea of guilty; duties of judge
+- Section 17-10-33 - Imposition of sentence of death upon judgment of death; to whom copies of sentence sent; conveying defendant to state correctional institution; expenses of transporting defendant
+- Section 17-10-34 - Sentence to specify time period for and place of execution; appointing time period for execution of pregnant female
+- Section 17-10-35 - Review of death sentences by Supreme Court; forwarding of record and transcript; scope of review; written briefs and oral argument; similar cases to be included in decision; direct appeal to be consolidated with sentence review
+- Section 17-10-35.1 - Review of pretrial proceedings when death penalty is sought; reports investigating reversible error; transmittal of reports to Supreme Court; orders regarding review; Attorney General assistance; res judicata; applicability; waiver of rights
+- Section 17-10-35.2 - Hearing to determine appropriateness of interim appellate review of pretrial rulings
+- Section 17-10-36 - Establishment of unified review procedure by Supreme Court; effect on habeas corpus
+- Section 17-10-37 - Appointment of assistant to Supreme Court to review death sentences; employment of staff to compile data
+- Section 17-10-38 - Death sentences generally
+- Section 17-10-39 - Procedure for determination if female sentenced to death is pregnant; suspension of execution of sentence; issuance of new order for execution of sentence; entry of order upon minutes of court
+- Section 17-10-40 - Change of time period for execution when time period set for execution has passed; recordation on court minutes; length of and time limitation for new time period for execution; setting day and time for execution
+- Section 17-10-41 - Persons required to be present at executions
+- Section 17-10-42 - Preparation and filing of certification of execution
+- Section 17-10-42.1 - Participation of medical professionals in executions
+- Section 17-10-43 - Disposition of body of executed person; payment of expenses of transporting body
+- Section 17-10-44 - Apparatus, machinery, and appliances
+- Section 17-10-60 - &quot;Mentally incompetent to be executed&quot; defined
+- Section 17-10-61 - No execution upon determination of mental incompetency to be executed
+- Section 17-10-62 - Exclusive procedure for challenging mental competency to be executed
+- Section 17-10-63 - Filing of application; contents
+- Section 17-10-64 - Service of application
+- Section 17-10-65 - Answer by respondent
+- Section 17-10-66 - Examination of applicant
+- Section 17-10-67 - When application to be filed
+- Section 17-10-68 - Proof; disposition
+- Section 17-10-69 - Prior adjudication as presumption of mental competency
+- Section 17-10-70 - Appeals
+- Section 17-10-71 - Procedure upon convicted person's regaining mental competency

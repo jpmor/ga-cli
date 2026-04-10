@@ -1,0 +1,23 @@
+# Chapter 13 - COMMERCIAL FEEDS (§§ 2-13-1 — 2-13-23)
+
+- Section 2-13-1 - Definitions
+- Section 2-13-2 - Commissioner to administer chapter
+- Section 2-13-3 - Cooperation with other agencies and associations
+- Section 2-13-4 - Publication of information as to sales, production, use, and analyses
+- Section 2-13-5 - Disclosure of protected information
+- Section 2-13-6 - License required for distribution; product registration; fees; refusal or cancellation of license or registration
+- Section 2-13-7 - Compliance with Chapter 5 of this title
+- Section 2-13-8 - Labeling requirements
+- Section 2-13-9 - When commercial feed deemed misbranded
+- Section 2-13-10 - When commercial feed deemed adulterated
+- Section 2-13-11 - Prohibited acts
+- Section 2-13-12 - Establishment of standards for feeds; adoption of rules and regulations
+- Section 2-13-13 - Inspections authorized; receipt for samples; warrant; methods of sampling and analysis generally; forwarding of results
+- Section 2-13-14 - Issuance and enforcement of withdrawal from distribution orders; condemnation and confiscation authorized; disposition of condemned feed
+- Section 2-13-15 - through 2-13-17 - Reserved
+- Section 2-13-18 - Injunctions
+- Section 2-13-19 - Initiation of prosecutions
+- Section 2-13-20 - Certificate of state chemist or other state employee as prima-facie evidence
+- Section 2-13-21 - Applicability of &quot;Georgia Administrative Procedure Act.&quot;
+- Section 2-13-22 - Exemptions from chapter; when chapter may be waived
+- Section 2-13-23 - Criminal penalty

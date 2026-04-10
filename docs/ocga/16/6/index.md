@@ -1,0 +1,33 @@
+# Chapter 6 - SEXUAL OFFENSES (§§ 16-6-1 — 16-6-25)
+
+- Section 16-6-1 - Rape
+- Section 16-6-2 - Sodomy; aggravated sodomy; medical expenses
+- Section 16-6-3 - Statutory rape
+- Section 16-6-4 - Child molestation; aggravated child molestation
+- Section 16-6-5 - Enticing a child for indecent purposes
+- Section 16-6-5.1 - Improper sexual contact by employee, agent, or foster parent; consent not a defense; penalty
+- Section 16-6-6 - Bestiality
+- Section 16-6-7 - Necrophilia
+- Section 16-6-8 - Public indecency
+- Section 16-6-9 - Prostitution
+- Section 16-6-10 - Keeping a place of prostitution
+- Section 16-6-11 - Pimping
+- Section 16-6-12 - Pandering
+- Section 16-6-13 - Penalties for violating Code Sections 16-6-9 through 16-6-12
+- Section 16-6-13.1 - Testing for sexually transmitted diseases required
+- Section 16-6-13.2 - Civil forfeiture of motor vehicle
+- Section 16-6-13.3 - Civil forfeiture of proceeds and property
+- Section 16-6-14 - [Repealed] [Reserved] Pandering by compulsion
+- Section 16-6-15 - Solicitation of sodomy
+- Section 16-6-16 - Masturbation for hire
+- Section 16-6-17 - Giving massages in place used for lewdness, prostitution, assignation, or masturbation for hire
+- Section 16-6-18 - Fornication
+- Section 16-6-19 - Adultery
+- Section 16-6-20 - Bigamy
+- Section 16-6-21 - Marrying a bigamist
+- Section 16-6-22 - Incest
+- Section 16-6-22.1 - Sexual battery; consent
+- Section 16-6-22.2 - Aggravated sexual battery; consent
+- Section 16-6-23 - Publication of name or identity of female raped or assaulted with intent to commit rape
+- Section 16-6-24 - Adoption of ordinances by counties and municipalities which proscribe loitering or related activities
+- Section 16-6-25 - Harboring, concealing, or withholding information concerning a sexual offender; penalties

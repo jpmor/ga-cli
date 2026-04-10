@@ -1,0 +1,157 @@
+# Chapter 8 - CARE AND PROTECTION OF INDIGENT AND ELDERLY PATIENTS (§§ 31-8-1 — 31-8-307)
+
+- Section 31-8-1 - Establishment and purpose of program; administration
+- Section 31-8-2 - Definitions
+- Section 31-8-3 - Disbursement of state funds to counties
+- Section 31-8-4 - Qualification of counties for participation in program
+- Section 31-8-5 - Submission of budget by county
+- Section 31-8-6 - Credit for expenditures by county
+- Section 31-8-7 - Qualifications for assistance under program; waiver of residence requirements in emergencies
+- Section 31-8-8 - Agreements between department and other governmental agencies or private organizations to obtain funds
+- Section 31-8-9 - Use of gifts and donations
+- Section 31-8-9.1 - Eligibility to receive tax credits; obligations of rural hospitals after receipt of funds; posting information on website
+- Section 31-8-10 - Rules and regulations
+- Section 31-8-11 - Construction of article
+- Section 31-8-30 - Findings; purpose of article
+- Section 31-8-31 - Definitions
+- Section 31-8-32 - Determination of indigency
+- Section 31-8-33 - Creation of fund
+- Section 31-8-34 - Maintenance of records; certification of cost of care; determination of amount of fund
+- Section 31-8-35 - Payments from fund to hospitals
+- Section 31-8-36 - State appropriations to fund
+- Section 31-8-37 - Compliance with this article contingent upon appropriation
+- Section 31-8-40 - Legislative findings and purpose
+- Section 31-8-41 - Definitions
+- Section 31-8-42 - Requirement of hospitals with emergency services to provide care to pregnant women in labor
+- Section 31-8-43 - Determination of indigency; payment of services provided under Code Section 31-8-42 for indigent patients by county; records; administration
+- Section 31-8-43.1 - Extent of patient's liability for costs; required cooperation of patient with county; liability of father for costs; action by county to recover costs or challenge determination of liability
+- Section 31-8-44 - Immunity of hospital or health care provider from liability
+- Section 31-8-45 - Availability of cause of action for patient wrongfully denied care
+- Section 31-8-46 - Investigation; penalties; rules and regulations
+- Section 31-8-50 - Declaration of policy
+- Section 31-8-51 - Definitions
+- Section 31-8-52 - Establishment of long-term care ombudsman program
+- Section 31-8-53 - Duties of state ombudsman
+- Section 31-8-54 - Duties of community ombudsmen
+- Section 31-8-55 - Entry and investigative authority; cooperation of government agencies; communication with residents
+- Section 31-8-56 - Resolution of complaints
+- Section 31-8-57 - Reporting abuse
+- Section 31-8-58 - Confidentiality
+- Section 31-8-59 - Notice to residents
+- Section 31-8-60 - Retaliation against resident and interference with ombudsman prohibited; provisions applicable to violations
+- Section 31-8-61 - Liability for provision of information
+- Section 31-8-62 - Liability arising from complaints
+- Section 31-8-63 - Rules and regulations
+- Section 31-8-80 - Short title
+- Section 31-8-81 - Definitions
+- Section 31-8-82 - Persons required to report abuse or exploitation; time for making report; contents of report; records; privileged communications
+- Section 31-8-83 - Investigations
+- Section 31-8-84 - Evaluation of results of investigation; protection of resident
+- Section 31-8-85 - Immunity from liability
+- Section 31-8-86 - Confidentiality
+- Section 31-8-87 - Retaliation prohibited
+- Section 31-8-88 - Notice of requirements of article
+- Section 31-8-100 - Short title
+- Section 31-8-101 - Legislative intent
+- Section 31-8-102 - Definitions
+- Section 31-8-103 - Rights of residents generally
+- Section 31-8-104 - Explanation of rights; acknowledgment of explanation; posting of rights at facilities
+- Section 31-8-105 - Giving certain notices to persons who became residents before July 1, 1981
+- Section 31-8-106 - Information to be provided residents upon admission; list of current rates and services; bill for charges; access to nonmedical records
+- Section 31-8-107 - Refusal of admission or continued residence on the basis of history or condition of mental or physical disease or disability
+- Section 31-8-108 - Required care, treatment, and services; rights in regard thereto; experimental research or treatment
+- Section 31-8-109 - Use or threat of physical restraints, isolation, or restrictions on mobility
+- Section 31-8-110 - Right to select pharmacy or pharmacist; charges for pharmaceutical supplies and services; information as to purpose and effects of drugs
+- Section 31-8-111 - Rights as citizen
+- Section 31-8-112 - Freedom from duty to perform services for facility; right to rise and retire at times of resident's choice; tobacco and alcoholic beverages; freedom to enter and leave facility
+- Section 31-8-113 - Right to retain and use personal property at facility; provision of secure storage space for such property; records of stored property; investigation of complaints of theft
+- Section 31-8-114 - Right to privacy
+- Section 31-8-115 - Use of payments made to or on behalf of a resident; right of resident or his guardian to manage the resident's financial affairs; assistance by facility in such management
+- Section 31-8-116 - Involuntary transfer of residents discharged from facility; return to facility after transfer
+- Section 31-8-117 - Suspension of certain rights where exercise poses danger to self or other residents; notice of suspension; duration
+- Section 31-8-118 - Freedom from interference in exercise of rights and pursuit of interests; accommodation of conflicting rights; voicing of complaints and recommendation of changes
+- Section 31-8-119 - Obtaining contributions by coercion; use of contributions designated for a restricted purpose; receipts and records of contributions
+- Section 31-8-120 - Visitors; right of access
+- Section 31-8-121 - Formation of residents' council; space for meetings; assistance in attending meetings; compelling of attendance or participation
+- Section 31-8-122 - Compliance with this article by facilities; establishment by facilities of written policies and procedures; familiarization of facility staff with this article
+- Section 31-8-123 - Use of state or community ombudsman to resolve residents' complaints
+- Section 31-8-124 - Grievances
+- Section 31-8-125 - Administrative hearings
+- Section 31-8-126 - Cause of action against facility for violation of rights under this article; civil penalties; applicability of Code Section 31-5-8
+- Section 31-8-127 - Rules and regulations
+- Section 31-8-130 - Short title
+- Section 31-8-131 - Legislative findings and intent
+- Section 31-8-132 - Definitions
+- Section 31-8-133 - Residents' rights
+- Section 31-8-134 - Grievance procedure
+- Section 31-8-135 - Hearing; transfer of resident
+- Section 31-8-136 - Action for damages
+- Section 31-8-137 - Temporary restraining order; injunctions
+- Section 31-8-138 - Failure to validly license as defense
+- Section 31-8-139 - Mandamus
+- Section 31-8-150 - Constitutional authority for passage of article
+- Section 31-8-151 - Definitions
+- Section 31-8-152 - Creation of Indigent Care Trust Fund
+- Section 31-8-152.1 - [Repealed] State sales and use taxation of certain health care services
+- Section 31-8-153 - Contributions to trust fund
+- Section 31-8-153.1 - Irrevocable transfer of funds to trust fund; provision for indigent patients
+- Section 31-8-153.2 - Revenues raised from specified sources
+- Section 31-8-153.3 - No lapse of contributions to the general fund
+- Section 31-8-154 - Authorized expenditure of contributed funds
+- Section 31-8-155 - Promulgation of rules for funding expansions of eligibility and indigent care programs
+- Section 31-8-156 - Appropriation of state funds by General Assembly
+- Section 31-8-157 - Refunding contributed funds; penalties not refunded
+- Section 31-8-158 - Refunding funds not appropriated or determined void or ineligible
+- Section 31-8-159 - Reporting requirements
+- Section 31-8-160 - Applicability of Article 7 of Chapter 4 of Title 49
+- Section 31-8-161 - Legislative authority
+- Section 31-8-162 - Definitions
+- Section 31-8-163 - Segregated account of revenues raised through provider fees
+- Section 31-8-164 - Provider fee based on patient day; quarterly payment required
+- Section 31-8-165 - Use of segregated account funds; form for reporting provider fee; maintenance of records; inaccurate payments; penalty for failing to pay
+- Section 31-8-166 - General Assembly appropriations of segregated funds; match to federal funds; no lapsing at end of fiscal year
+- Section 31-8-167 - Annual report by department to General Assembly
+- Section 31-8-168 - Request for waiver from United States Department of Health and Human Services
+- Section 31-8-169 - Application of the Medical Assistance Act of 1977
+- Section 31-8-170 - Legislative authority
+- Section 31-8-171 - Definitions
+- Section 31-8-172 - Segregated account for the deposit of fees
+- Section 31-8-173 - Assessment, calculation, and payment of fees
+- Section 31-8-174 - Collection and disposition of fees; authority of department to inspect records of care management organizations; overpayment or underpayment; penalty for failure to pay fee
+- Section 31-8-175 - Appropriation of revenues to the department
+- Section 31-8-176 - Annual report by the department
+- Section 31-8-177 - Applicability of the Georgia Medical Assistance Act of 1977
+- Section 31-8-179 - [Repealed effective 6/30/2030] Short title
+- Section 31-8-179.1 - [Repealed effective 6/30/2030] Definitions
+- Section 31-8-179.2 - [Repealed effective 6/30/2030] Department of Community Health authorized to assess one or more provider payments on hospitals for the purpose of obtaining federal financial participation for Medicaid
+- Section 31-8-179.3 - [Repealed effective 6/30/2030] Provider payments assessed to be deposited in segregated accounts within Indigent Care Trust Fund; sole purpose of funds to obtain federal financial participation for medical assistance payments for Medicaid recipients; retention and inspection of records; penalties
+- Section 31-8-179.4 - [Repealed effective 6/30/2030] Authorized use of appropriated funds
+- Section 31-8-179.5 - [Repealed effective 6/30/2030] Applicability of Georgia Medical Assistance Act
+- Section 31-8-179.6 - [Repealed effective 6/30/2030] Automatic repeal
+- Section 31-8-180 - Definitions
+- Section 31-8-181 - Individuals and hospitals excluded from application of article
+- Section 31-8-182 - Disclosure of care, treatment, or therapeutic activities required; disclosure form
+- Section 31-8-183 - Areas covered by disclosure requirements
+- Section 31-8-184 - Failure to provide disclosure; review and verification of disclosure form
+- Section 31-8-190 - Short title
+- Section 31-8-191 - Legislative findings and intent
+- Section 31-8-192 - Definitions
+- Section 31-8-193 - Establishment of program; contracts with health care providers
+- Section 31-8-194 - Notice to patients required
+- Section 31-8-195 - Volunteers to provide services
+- Section 31-8-195.1 - Sovereign immunity protection for health care professionals in safety net clinics
+- Section 31-8-196 - Exemption from employment regulations
+- Section 31-8-197 - Annual report of claims statistics
+- Section 31-8-198 - Annual report by the department summarizing the efficiency of access and treatment outcomes
+- Section 31-8-199 - Department's responsibilities regarding liability insurance
+- Section 31-8-200 - Adoption of rules and regulations
+- Section 31-8-201 - Applicability; preservation of the state's rights under the Tort Claims Act
+- Section 31-8-210 - [Repealed] [Reserved] Committee established; composition; officers; terms of office; duties and responsibilities; assistance from other state officers and agencies; compensation, per diem, and expense allowances; funding
+- Section 31-8-300 - Definitions
+- Section 31-8-301 - Drug repository program established; criteria and requirements for unused over-the-counter and prescription drugs
+- Section 31-8-302 - Procedures for donation and dispensing of unused over-the-counter and prescription drugs
+- Section 31-8-303 - Limited liability
+- Section 31-8-304 - Rules and regulations; waiver
+- Section 31-8-305 - Substitutions of drugs or biological products; limitations; recording
+- Section 31-8-306 - Settlements for prescription drugs that are not controlled substances; distributions
+- Section 31-8-307 - Referrals to the drug repository program

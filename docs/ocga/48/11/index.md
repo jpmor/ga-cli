@@ -1,0 +1,35 @@
+# Chapter 11 - CIGAR, CIGARETTE AND LOOSE OR SMOKELESS TOBACCO TAXES (§§ 48-11-1 — 48-11-30)
+
+- Section 48-11-1 - Definitions
+- Section 48-11-2 - Excise tax imposed; rates for tobacco and vaping products; exemptions; collection and payment; tax separately identified
+- Section 48-11-3 - Collection of tax via stamps; sale at discount to distributors; alternate method of collection of tax; prohibition of sale or exchange of stamps; redemptions
+- Section 48-11-4 - Licensing of persons engaged in tobacco and vaping business; initial and annual fees; suspension and revocation; vending machines; bond by distributor; duties; licensing of promotional activities
+- Section 48-11-4.1 - Sale of vapor products to persons not licensed as manufacturer, importer, distributor, or dealer by any means other than in-person sale prohibited; identification requirement; penalties for violation
+- Section 48-11-4.2 - Requirements for sales and deliveries of tobacco products, alternative nicotine products, or vapor products; powers of special agents or enforcement officers; rules and regulations; penalties for violations
+- Section 48-11-5 - Licensing of nonresident distributors; use of stamps or metering machine; bond; examination of records; applicability of chapter to nonresident distributors; shipment reports
+- Section 48-11-6 - Suspension, refusal of renewal, and revocation of licenses; notice; hearings; appeals; effect on other activities regulated by commissioner
+- Section 48-11-7 - Execution of bonds by distributor; surety
+- Section 48-11-8 - Prohibition of sale or possession of unstamped tobacco or vaping products; distributors to affix stamps or otherwise pay tax; payment of tax only once; reports
+- Section 48-11-9 - Seizure as contraband of unstamped tobacco or vapor products; exceptions; sale at public auction; procedure; disposition of proceeds; hearing; bond; contraband vending machines
+- Section 48-11-10 - Monthly reports of licensed distributors; other reporting requirements authorized
+- Section 48-11-11 - Records of distributors and dealers; stock examination; inspection by commissioner and agents; inspection of records of transportation companies, carriers, and warehouses
+- Section 48-11-12 - Assessment of deficiencies and penalties for incorrect reports, nonpayment of tax, or purchase of insufficient stamps; assumption of illegal sale absent evidence to contrary; penalty for deficiency due to fraud
+- Section 48-11-13 - Tax on persons having tobacco or vaping products on which tax under Code Section 48-11-2 not paid; rate; exemptions
+- Section 48-11-14 - Registration, reports, and tax payments of persons acquiring tobacco or vaping products subject to tax under Code Section 48-11-13; assessment for failure to file accurate report; hearing; penalties
+- Section 48-11-15 - Procedure for refund of taxes on affixed stamps and tobacco or vaping products unfit for sale, use, or consumption and destroyed or exported
+- Section 48-11-16 - Purchase of tax stamps on account by distributors with permit; cancellation of permit without notice for failure or refusal to comply with Code section; payment of outstanding liability
+- Section 48-11-17 - Amount of unpaid tax as lien against property of violators; seizure and sale; recording of lien
+- Section 48-11-18 - Hearings for persons aggrieved by commissioner; initiation of hearings; procedures; evidence; appeals; bond; grounds for not sustaining commissioner's action; costs
+- Section 48-11-19 - Powers and duties of special agents and enforcement officers of department; bond; duties following arrests; retention of weapon and badge upon retirement
+- Section 48-11-20 - Venue as to violations of chapter; commissioner's certificate as prima-facie evidence
+- Section 48-11-21 - Jurisdiction of superior courts of criminal violations of chapter
+- Section 48-11-22 - Transportation of unstamped tobacco or vaping products; requirement of invoices or delivery tickets; contents; confiscation and disposition absent invoice or ticket; penalty; applicability
+- Section 48-11-23 - Transporting tobacco or vaping products in violation of Code Section 48-11-22; penalty
+- Section 48-11-23.1 - Additional requirements on the sale of tobacco or vaping products; seizure and forfeiture of contraband; revocation of licenses
+- Section 48-11-24 - Penalties for possession of unstamped tobacco or vaping products; penalty for operation of unlicensed business or activity; procedure for enforcement and collection of penalties; costs and expenses
+- Section 48-11-25 - Violations of chapter; penalties
+- Section 48-11-26 - Failure to file report or filing false report required by chapter; penalty
+- Section 48-11-27 - False entries on invoices or records pursuant to chapter; penalty
+- Section 48-11-28 - Possession, use, manufacture, or other unlawful activities involving counterfeited stamps or tampering with metering machine pursuant to chapter; penalty
+- Section 48-11-29 - [Reserved] Swearing and testifying falsely with respect to matters governed by chapter; penalty
+- Section 48-11-30 - Penalty for sale or possession of counterfeit cigarettes

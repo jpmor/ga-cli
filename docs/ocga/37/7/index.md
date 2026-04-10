@@ -1,0 +1,67 @@
+# Chapter 7 - HOSPITALIZATION, TREATMENT, ETC., OF ALCOHOLICS, DRUG DEPENDENT INDIVIDUALS, AND DRUG ABUSERS (§§ 37-7-1 — 37-7-168)
+
+- Section 37-7-1 - Definitions
+- Section 37-7-2 - Authority of board to issue regulations; powers of department generally
+- Section 37-7-3 - Coordination of state drug and alcohol abuse programs
+- Section 37-7-4 - Validity of hospitalization orders entered before September 1, 1978; establishment of regulations authorizing continued hospitalization of patients hospitalized before September 1, 1978
+- Section 37-7-5 - Immunity from liability for actions taken in good faith compliance with admission and discharge provisions of chapter
+- Section 37-7-6 - Apprehension by peace officer of patient who leaves facility without permission
+- Section 37-7-7 - Approval of private facilities as emergency receiving facilities, evaluating facilities, or treatment facilities; powers and duties of private facilities; right to deny admission
+- Section 37-7-8 - &quot;Drug&quot; defined; Right of minor to obtain treatment of drug abuse on minor's consent alone; binding effect of consent; informing minor's parent, spouse, custodian, or guardian of treatment
+- Section 37-7-20 - Admission of voluntary patients; parental consent to treatment; giving notice of rights to patient at time of admission
+- Section 37-7-21 - Discharge of voluntary patients upon recovery or termination of need for hospitalization; notice of discharge
+- Section 37-7-22 - Right of voluntary patient to discharge upon application; procedure on denial of application for discharge; notice of discharge
+- Section 37-7-23 - Giving voluntary patients periodic notice of rights
+- Section 37-7-24 - Transfer of involuntary patients to voluntary status; notice of transfer and of discharge of patients so transferred; discharge of transferred patient charged with criminal offense
+- Section 37-7-40 - Designation by department of emergency receiving facilities; reporting; penalty for noncompliance
+- Section 37-7-41 - Emergency involuntary treatment; who may certify need; delivery for examination; report of delivery required; annual report
+- Section 37-7-42 - Emergency admission of persons arrested for penal offenses; report by officer; entry of report into clinical record
+- Section 37-7-43 - Procedure upon admission; notice of proposed discharge
+- Section 37-7-44 - Giving patient and his representatives notice of their rights upon patient's admission to emergency receiving facility
+- Section 37-7-60 - Designation of evaluating facilities
+- Section 37-7-61 - Petition for court ordered evaluation
+- Section 37-7-62 - Hearing on petition for court ordered evaluation; notice; appointment of representatives; patient's right to counsel; waiver of hearing by patient; procedure upon issuance of order for evaluation
+- Section 37-7-63 - Admission of persons to evaluating facilities for evaluation and emergency treatment
+- Section 37-7-64 - Length of period of detention in evaluating facility; discharge; procedure upon determination of need for hospitalization or involuntary treatment; notice of discharge from evaluating facility
+- Section 37-7-65 - Request for transfer to another evaluating facility; direction of notice of transfer
+- Section 37-7-80 - Designation of treatment facilities
+- Section 37-7-81 - Procedure for detention of patient beyond evaluation period; hearing
+- Section 37-7-81.1 - Disposition of patient upon hearing
+- Section 37-7-82 - Procedure upon failure of or noncompliance with involuntary outpatient treatment plan
+- Section 37-7-83 - Procedure for continued involuntary hospitalization
+- Section 37-7-84 - Appointment of hearing examiners for hearings as to continued hospitalization; powers of hearing examiners generally; issuance of subpoenas
+- Section 37-7-85 - Periodic review of treatment plan; procedure upon termination of need for involuntary treatment; designation of discharge decisionmaker; notice of discharge or transfer to voluntary status
+- Section 37-7-90 - Physician's or psychologist's determination and certification as to involuntary outpatient care; treatment of patient as inpatient or outpatient
+- Section 37-7-91 - Discharge of persons meeting outpatient care criteria; time; preparation of service plan; interim outpatient treatment; notice of discharge; petition for hearing
+- Section 37-7-92 - Hearing; notice; waiver of hearing; apprehension and detention of patient failing to appear; treatment upon waiver
+- Section 37-7-93 - Court order for outpatient treatment; physician's or psychologist's petition to extend order; review of petition; hearing on extension petition; patients under juvenile court jurisdiction
+- Section 37-7-94 - Reviews of individual service plans; discharge of patients from treatment; notice of discharge
+- Section 37-7-95 - Discharge of patients under criminal charges
+- Section 37-7-100 - Placement and transfer of patients generally
+- Section 37-7-101 - Transportation of patients generally
+- Section 37-7-102 - Transfer to custody of federal agencies for diagnosis, care, or treatment; retention of jurisdiction by State courts; jurisdiction over patients in federal hospitals and institutions located in Georgia
+- Section 37-7-103 - Procedure for transfer of Georgia residents from out-of-state hospitals to Georgia hospitals
+- Section 37-7-104 - Procedure upon discovery that a patient hospitalized in Georgia is not a resident
+- Section 37-7-120 - Effect of inability to pay on right to care and treatment
+- Section 37-7-121 - Liability for expenses of transporting, examining, and caring for patients
+- Section 37-7-122 - Payment of expenses incurred in connection with hearings held under this chapter
+- Section 37-7-140 - Retention of rights and privileges by patients generally; right to due process
+- Section 37-7-141 - Patients' right to legal counsel
+- Section 37-7-142 - Right of patients to communicate with persons outside facility and to receive visitors; inspection, restriction, and censorship of patient correspondence; establishment by chief medical officer of regulations governing visits and use of telephones
+- Section 37-7-143 - Patients' rights in regard to personal effects; liability of facility's employees and staff members for loss of or damage to patients' personal effects
+- Section 37-7-144 - Patients' right to vote
+- Section 37-7-145 - Employment of patients outside facilities
+- Section 37-7-146 - Education of children undergoing treatment in a facility
+- Section 37-7-147 - Appointment of patient representatives and guardians ad litem; notice provisions; duration and scope of guardianship ad litem
+- Section 37-7-148 - Rights of patients or representatives to petition for writ of habeas corpus and for judicial protection of rights and privileges granted by this chapter
+- Section 37-7-149 - Establishment of patients and staff complaint procedures; making of final decisions; complaint procedures as alternative to legal remedies
+- Section 37-7-150 - Right to appeal orders of probate court, juvenile court, or hearing examiner; payment of costs of appeal; right of patient to subsequent appeal; right of patient to legal counsel on appeal
+- Section 37-7-160 - Individual dignity of patients to be respected; treatment of alcoholics and drug abusers as medical patients; use of criminal facilities and procedures
+- Section 37-7-161 - Securing of least restrictive alternative placement; assisting patient in securing placement in noninstitutional community facilities and programs
+- Section 37-7-162 - Patient's care and treatment rights
+- Section 37-7-163 - Recognition of patients' physical integrity; patients' right to refuse medication; obtaining consent to treatment and surgery; performance of emergency surgery; immunity of physician; direction of notice of actions taken under Code section
+- Section 37-7-164 - &quot;Representative,&quot; &quot;substantial change&quot; defined; consultation by patient's representative with treatment facility; notification of treatment change; guardian's consultation and notification rights
+- Section 37-7-165 - Mistreatment, neglect, or abuse of patients; use of medication, seclusion, or physical restraints
+- Section 37-7-166 - Maintenance, confidentiality, and release of clinical records; disclosure of confidential or privileged patient information
+- Section 37-7-167 - Right of patient to examine his records and to request correction of inaccuracies; promulgation of rules and regulations; judicial supervision of files and records relating to proceedings under this chapter
+- Section 37-7-168 - Right of patient's attorney to interview physician or psychologist and staff attending patient; establishment of regulations as to release of information to patient's attorney

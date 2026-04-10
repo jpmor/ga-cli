@@ -1,0 +1,21 @@
+# Chapter 38 - OPERATORS OF PRIVATE DETECTIVE BUSINESSES AND PRIVATE SECUR ITY BUSINESSES (§§ 43-38-1 — 43-38-17)
+
+- Section 43-38-1 - Short title
+- Section 43-38-2 - Declaration of purpose
+- Section 43-38-3 - Definitions
+- Section 43-38-4 - Creation of board; members; secretary; records; general powers and duties
+- Section 43-38-6 - Licenses; qualifications; criminal records; fingerprints; bond, insurance, or net worth affidavit; display of license; suspension; temporary permits; license recognition agreements
+- Section 43-38-7 - Licensing of armed employees; qualifications; continuing education; fingerprints; license card; suspension
+- Section 43-38-7.1 - Registration records of unarmed security employees; fingerprint identification of prospective registrants
+- Section 43-38-8 - Temporary employees
+- Section 43-38-9 - Disposition of applicants' fingerprints
+- Section 43-38-10 - Permits to carry firearms; proficiency requirement; exemption from specified laws; denial, refusal to renew, and suspension of permits; effect of license suspension and restoration
+- Section 43-38-10.1 - Training instructors and training programs
+- Section 43-38-11 - Denial, revocation, or sanction of licenses and registrations; action by board; judicial review
+- Section 43-38-11.1 - Suspension of license, registration, or weapons permit
+- Section 43-38-12 - Applicability of the &quot;Georgia Administrative Procedure Act.&quot;
+- Section 43-38-13 - [Repealed and Reserved] [Reserved] Arrest powers of licensees and registrants
+- Section 43-38-14 - Exceptions to operation of chapter; local regulation
+- Section 43-38-14.1 - Restrictions on local business licenses
+- Section 43-38-15 - Applicability of chapter
+- Section 43-38-16 - Penalty

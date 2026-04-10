@@ -1,0 +1,52 @@
+# Chapter 4 - MINERAL RESOURCES AND CAVES (§§ 12-4-1 — 12-4-147)
+
+- Section 12-4-1 - Powers and duties of Environmental Protection Division as to mineral and geological resources
+- Section 12-4-20 - Amount of reward; eligibility for reward
+- Section 12-4-21 - Manner of distribution of reward
+- Section 12-4-22 - Authorization for Governor to make payments from surplus or contingent funds
+- Section 12-4-40 - Short title
+- Section 12-4-41 - Legislative findings and declaration of policy
+- Section 12-4-42 - Definitions
+- Section 12-4-43 - Powers of board as to deep drilling
+- Section 12-4-44 - Authority to adopt and promulgate rules and regulations
+- Section 12-4-45 - Powers of board as to establishment of drilling and operation units; applicability of state antitrust laws to private agreements approved by board
+- Section 12-4-46 - Drilling permits
+- Section 12-4-47 - Bonds or undertaking by persons conducting drilling operations
+- Section 12-4-48 - Actions by director to enforce part; civil penalties; effect of Code section on cause of action by royalty owners, lienholders, or other claimants
+- Section 12-4-49 - Applicability of Chapter 13 of Title 50, the &quot;Georgia Administrative Procedure Act.&quot;
+- Section 12-4-50 - Obedience to subpoena required; self-incrimination not a defense; use of evidence in criminal prosecutions
+- Section 12-4-51 - Effect of part on other laws
+- Section 12-4-52 - Effect of part on authority and functions of other state officers and agencies
+- Section 12-4-52.1 - Local authority
+- Section 12-4-53 - Prohibited acts
+- Section 12-4-54 - Levying of severance tax
+- Section 12-4-70 - Short title
+- Section 12-4-71 - Legislative purpose; duty of Environmental Protection Division to administer part
+- Section 12-4-72 - Definitions
+- Section 12-4-73 - Powers and duties of division as to surface mining generally; division may decline to assert jurisdiction
+- Section 12-4-74 - Promulgation of rules and regulations by Board of Natural Resources
+- Section 12-4-75 - Permits for surface mining operations; submission of mining land use plan and amendment to plan; bonding of applicants
+- Section 12-4-76 - Substitution of mined areas
+- Section 12-4-77 - Renewal or replacement of revoked permit; mining on unauthorized site
+- Section 12-4-78 - Appeal to superior court
+- Section 12-4-79 - Injunctive relief
+- Section 12-4-80 - Removal of minerals, ores, and other solid matter as prima-facie evidence of surface mining
+- Section 12-4-81 - Judgment pursuant to order
+- Section 12-4-82 - Applicability of part
+- Section 12-4-83 - Civil penalty; procedure for imposing penalties; hearing; judicial review; disposition of recovered penalties
+- Section 12-4-84 - Criminal penalty
+- Section 12-4-100 - Licenses to dig, mine, and remove phosphate deposits; restrictions on license holders
+- Section 12-4-101 - Annual mining fee; license fee; affidavit and bond
+- Section 12-4-102 - Lapse of license
+- Section 12-4-103 - Penalty
+- Section 12-4-120 - Duties of purchasers of gold bullion, dust, nuggets, or amalgam
+- Section 12-4-121 - Annual reports by judges of probate court
+- Section 12-4-122 - Penalty
+- Section 12-4-140 - Short title
+- Section 12-4-141 - Legislative purpose
+- Section 12-4-142 - Definitions
+- Section 12-4-143 - Defacing or disturbing natural condition of cave; breaking or tampering with gates, doors, or other device controlling or preventing access to caves; trespass
+- Section 12-4-144 - Sale or offer to sell speleothems
+- Section 12-4-145 - Storing hazardous or detrimental chemicals or materials in caves or sinkholes; dumping or disposing of garbage, dead animals, or similar materials in caves or sinkholes
+- Section 12-4-146 - Killing, harming, removing, or disturbing wildlife found in a cave
+- Section 12-4-147 - Liability of owners of caves for injuries

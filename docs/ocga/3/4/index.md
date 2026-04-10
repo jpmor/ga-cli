@@ -1,0 +1,49 @@
+# Chapter 4 - DISTILLED SPIRITS (§§ 3-4-1 — 3-4-180)
+
+- Section 3-4-1 - Definitions
+- Section 3-4-2 - Applicability of chapter to ethyl alcohol used for certain purposes
+- Section 3-4-3 - Retail dealer's signs; signs advertising Georgia lottery
+- Section 3-4-20 - Levy and amount of state occupational license tax; application for license
+- Section 3-4-21 - Prohibition of holding or having beneficial interest in more than two retail dealer licenses
+- Section 3-4-21.1 - Requirement for retail license; application of existing license to new location
+- Section 3-4-22 - Filing of bonds by applicants for licenses generally
+- Section 3-4-23 - Certificate of residence required for retail dealer's license; intention of Code section
+- Section 3-4-24 - Issuance to fruit growers of license to manufacture distilled spirits; storage and disposition; limitations upon manufacture and sale; issuance of manufacturer's or distiller's license in certain counties or municipalities; tasting room limitations for certain licensees
+- Section 3-4-24.1 - Distiller's license authorizing manufacture of distilled spirits from agricultural products other than perishable fruits; storage
+- Section 3-4-24.2 - Three-tier system of distribution and sale of distilled spirits; reporting; days and times for sale; sale price; taxes; regulatory authority; violations
+- Section 3-4-24.3 - Licensing for the manufacture or distribution of distilled spirits on local level
+- Section 3-4-25 - Holder of retail dealer's license authorized to sell only unbroken packages; breaking of package or packages or drinking of contents thereof on premises prohibited
+- Section 3-4-26 - Display of advertisement or information regarding prices of distilled spirits in visible places; sales below cost prohibited; exceptions authorized
+- Section 3-4-27 - Notice of intention to secure retail dealer license for sale of distilled spirits
+- Section 3-4-40 - Requirement as to approval by referendum elections of issuance of licenses generally
+- Section 3-4-41 - Petition for referendum; notice of call for referendum
+- Section 3-4-42 - Form of ballots for referendum election
+- Section 3-4-43 - Applicability of general election laws
+- Section 3-4-44 - Certification of results; payment of expenses
+- Section 3-4-45 - Effect of majority vote in favor of package sales
+- Section 3-4-46 - Procedure for conduct of election for purpose of nullifying previous election result
+- Section 3-4-47 - Adoption of resolutions and ordinances; determination of location of retail or businesses licensed by local governing authorities
+- Section 3-4-48 - Maximum annual license fees for municipal or county licenses
+- Section 3-4-49 - Municipalities in wet counties
+- Section 3-4-50 - [Renumbered as 3-4-48] Redesignated
+- Section 3-4-51 - [Renumbered as 3-4-49] Redesignated
+- Section 3-4-60 - Levy and amount of tax
+- Section 3-4-61 - Payment of tax; report
+- Section 3-4-80 - Levy of tax on sale of distilled spirits by the package authorized; rate of tax; manner of imposition; imposition of tax by both county and municipality located within county
+- Section 3-4-90 - Authorization by counties or municipalities of issuance of licenses for sale of distilled spirits by the drink generally; procedure
+- Section 3-4-91 - Procedure for authorization of sale in counties and municipalities in which package sales lawful; procedure for nullifying prior approval and authorization of sales by the drink
+- Section 3-4-92 - Procedure for authorization of sale in counties and municipalities in which package sales are not lawful; procedure for nullifying prior approval and authorization of sales by the drink
+- Section 3-4-93 - Municipalities in wet counties
+- Section 3-4-110 - Adoption of local rules and regulations governing issuance of licenses and conduct of licensees
+- Section 3-4-111 - Sale by wholesalers to licensees; purchase by licensees from wholesalers; declaration of contraband
+- Section 3-4-111.1 - Occupational license tax upon retail consumption dealers; annual payment; application
+- Section 3-4-130 - Imposition of tax by municipalities authorized; rate of tax
+- Section 3-4-131 - Imposition of tax by counties authorized; rate of tax; taxation by both county and municipality located within county
+- Section 3-4-132 - Manner of imposition, payment, and collection of tax
+- Section 3-4-133 - Allowance and reimbursement to dealers collecting tax of percentage of tax due
+- Section 3-4-150 - Short title
+- Section 3-4-151 - Purposes and policies
+- Section 3-4-152 - Submission of labels; designation of sales territories and exclusive wholesale distributors; approval by commissioner
+- Section 3-4-153 - Regulations
+- Section 3-4-160 - Municipalities in wet counties
+- Section 3-4-180 - [Repealed] Tastings of distilled spirits; definitions; general provisions; prohibited sales; administration

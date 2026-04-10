@@ -1,0 +1,31 @@
+# Chapter 2 - SUPREME COURT (§§ 15-2-1 — 15-2-47)
+
+- Section 15-2-1 - One supreme judicial district
+- Section 15-2-1.1 - Number of Justices
+- Section 15-2-2 - When Justice providentially prevented from attending
+- Section 15-2-3 - Oath of Justices; compensation
+- Section 15-2-4 - Place of sessions; terms of court
+- Section 15-2-5 - Place of hearing oral argument
+- Section 15-2-6 - Duty of Justices to attend; quorum; adjournment
+- Section 15-2-7 - Adjournment for providential cause
+- Section 15-2-8 - Powers of court generally
+- Section 15-2-9 - Answers to questions certified by federal courts
+- Section 15-2-10 - Procedure for increasing the number of Supreme Court Justices
+- Section 15-2-11 - through 15-2-15 - [Reserved]
+- Section 15-2-16 - Reversal and affirmance; minutes and reports to show concurrences and dissents
+- Section 15-2-17 - Rules for regulating Supreme Court's proceedings
+- Section 15-2-18 - Power to prescribe and revise rules of practice and procedure in courts of state; ratification by General Assembly; assistance of bar committee
+- Section 15-2-19 - Law assistants
+- Section 15-2-20 - Officers of court
+- Section 15-2-21 - Employment and salaries of court staff
+- Section 15-2-22 - Sheriff of Supreme Court
+- Section 15-2-24 - Compensation of officers and employees
+- Section 15-2-25 - Books, supplies, and services
+- Section 15-2-40 - Term of office; oath
+- Section 15-2-41 - Deputy clerks
+- Section 15-2-42 - Employees in clerk's office
+- Section 15-2-43 - Duties of clerk
+- Section 15-2-44 - How costs taxed; notice of appeal and transcript not recorded
+- Section 15-2-45 - Compensation; disposition of fees
+- Section 15-2-46 - Disposition of costs
+- Section 15-2-47 - Attorneys liable for costs

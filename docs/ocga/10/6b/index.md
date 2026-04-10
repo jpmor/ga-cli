@@ -1,0 +1,46 @@
+# Chapter 6B - GEORGIA POWER OF ATTORNEY ACT (§§ 10-6B-1 — 10-6B-81)
+
+- Section 10-6B-1 - Short title
+- Section 10-6B-2 - Definitions
+- Section 10-6B-3 - Applicability
+- Section 10-6B-4 - Power of attorney is durable
+- Section 10-6B-5 - Execution of power of attorney
+- Section 10-6B-6 - Validity of power of attorney; effect of copy
+- Section 10-6B-7 - Controlling law
+- Section 10-6B-8 - Nomination of conservator; relationship of agent to court-appointed fiduciary; finding of incapacity
+- Section 10-6B-9 - When power of attorney effective
+- Section 10-6B-10 - Termination of power of attorney and agent's authority; third-party reliance; filing notice of revocation with clerk
+- Section 10-6B-11 - Designation of coagents; role of successor agent; notification of violation
+- Section 10-6B-12 - Compensation
+- Section 10-6B-13 - Agent's acceptance of appointment
+- Section 10-6B-14 - Duties of agents
+- Section 10-6B-15 - Waivers of agent liability
+- Section 10-6B-16 - Petition for construction of power of attorney or role of agent; reimbursement for fees and expenses
+- Section 10-6B-17 - Agent's liability to principal
+- Section 10-6B-18 - Resignation of agent
+- Section 10-6B-19 - Acceptance of and reliance upon attested power of attorney; request for additional information
+- Section 10-6B-20 - Liability for refusal to accept power of attorney
+- Section 10-6B-21 - Principles of law and equity
+- Section 10-6B-22 - Laws applicable to financial institutions and entities
+- Section 10-6B-23 - Rights and remedies under other law
+- Section 10-6B-40 - Agent authority that requires specific grant; granting of general authority; prohibited authorizations; petitions for authority
+- Section 10-6B-41 - References to general authority in powers of attorney; modifications
+- Section 10-6B-42 - Construction of authority of agent generally
+- Section 10-6B-43 - Real property
+- Section 10-6B-44 - Tangible personal property
+- Section 10-6B-45 - Stocks and bonds
+- Section 10-6B-46 - Commodities and options
+- Section 10-6B-47 - Banks and other financial institutions
+- Section 10-6B-48 - Operation of entity or business
+- Section 10-6B-49 - Insurance and annuities
+- Section 10-6B-50 - Estates, trusts, and other beneficial interests
+- Section 10-6B-51 - Claims and litigation
+- Section 10-6B-52 - Personal and family maintenance
+- Section 10-6B-53 - Benefits from governmental programs or civil or military service
+- Section 10-6B-54 - Retirement plans
+- Section 10-6B-55 - Taxes
+- Section 10-6B-56 - Gifts
+- Section 10-6B-70 - Form power of attorney
+- Section 10-6B-71 - Optional form for agent certification of facts
+- Section 10-6B-80 - Construction with federal Electronic Signatures in Global and National Commerce Act
+- Section 10-6B-81 - Application of Chapter 6B

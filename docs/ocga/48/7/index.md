@@ -1,0 +1,175 @@
+# Chapter 7 - INCOME TAXES (§§ 48-7-1 — 48-7-170)
+
+- Section 48-7-1 - Definitions
+- Section 48-7-2 - Unlawful failure to pay tax, file return, keep records, supply information, or exhibit books; penalty
+- Section 48-7-3 - Unlawful assisting, procuring, counseling, or advising in filing income tax return; penalty
+- Section 48-7-4 - Unlawful disregard of rules and regulations of commissioner in preparing returns; penalty
+- Section 48-7-5 - Evasion of income tax, penalty, interest, or other amount in excess of $3,000.00
+- Section 48-7-6 - License or registration extensions for National Guard members and reservists on active duty
+- Section 48-7-20 - Individual tax rates; credit for withholding and other payments; applicability to estates and trusts
+- Section 48-7-20.1 - Tax refund credit for qualified taxpayers filing in the 2021 tax year
+- Section 48-7-20.2 - Tax refund credit for qualified taxpayers filing in the 2022 tax year
+- Section 48-7-21 - Taxation of corporations
+- Section 48-7-21.1 - Compensation paid by taxpayer disallowed as business expense
+- Section 48-7-22 - Taxation of fiduciaries, estates, and trusts; rate; taxable net income; computation; exemptions; determination of taxable year; tax as charge against estate or trust
+- Section 48-7-23 - Taxation of partnerships
+- Section 48-7-24 - Nonresident members of resident partnerships; resident members of nonresident partnerships; profits; distributive shares; taxability
+- Section 48-7-25 - Exempt corporations and organizations; eligibility for and revocation of exempt status; retroactivity; statute of limitations; information returns; unrelated business income; deductibility of death benefit payments
+- Section 48-7-26 - Personal exemptions
+- Section 48-7-27 - Computation of taxable net income
+- Section 48-7-27.1 - Tax credits for taxpayers electing certain itemized nonbusiness deductions
+- Section 48-7-28 - Reciprocity
+- Section 48-7-28.1 - Tax repayments and benefits
+- Section 48-7-28.2 - Employer social security credits
+- Section 48-7-28.3 - Expenses from transactions with related members
+- Section 48-7-28.4 - Adjustments to taxes; disallowing expenses paid to certain real estate investment trusts; procedures, conditions, and limitations
+- Section 48-7-29 - [Repealed and Reserved Effective 12/31/2029] Tax credits for rural physicians
+- Section 48-7-29.1 - Tax credits for retrofitting certain single-family homes with accessibility features
+- Section 48-7-29.2 - Tax credits for qualified caregiving expenses
+- Section 48-7-29.3 - [Repealed] Tax credit for federal qualified transportation fringe benefits
+- Section 48-7-29.4 - Tax credits for disaster assistance funds received
+- Section 48-7-29.5 - [Repealed] Tax credit for private driver education courses of minors; required documentation; rules and regulations
+- Section 48-7-29.6 - Tax credits for qualified low-income buildings
+- Section 48-7-29.7 - Tax credits for depository financial institutions
+- Section 48-7-29.8 - [Repealed and Reserved Effective 12/31/2029] Tax credits for the rehabilitation of historic structures
+- Section 48-7-29.9 - Tax credits for qualified life insurance premiums for National Guard and Air National Guard members
+- Section 48-7-29.10 - Tax credits for qualified child and dependent care expenses
+- Section 48-7-29.11 - Tax credits for eligible teleworking expenses
+- Section 48-7-29.12 - Tax credits for qualified donation of real property
+- Section 48-7-29.13 - [Repealed and Reserved eff. 12/31/2029] Tax credits for qualified health insurance expenses
+- Section 48-7-29.14 - Tax credits for clean energy property
+- Section 48-7-29.15 - Tax credits for the adoption of foster children
+- Section 48-7-29.16 - Tax credits for contributions to student scholarship organizations
+- Section 48-7-29.17 - Tax credit for the purchase of one eligible single-family residence
+- Section 48-7-29.18 - Tax credits for purchasers of alternative fuel heavy-duty and medium-duty vehicles
+- Section 48-7-29.19 - Procedures, conditions, and limitations for the tax credits for purchasers of alternative fuel heavy-duty and medium-duty vehicles
+- Section 48-7-29.20 - [Repealed and Reserved Effective 12/31/2029] Tax credits for contributions to rural hospital organizations
+- Section 48-7-29.21 - [Repealed and Reserved Effective 12/31/2029] Tax credits for qualified education donations for the purpose of awarding grants to public schools
+- Section 48-7-29.22 - [Repealed Effective 12/31/2026] Tax credits for certain medical preceptor rotations
+- Section 48-7-29.23 - Tax credits for teachers in the teacher recruitment and retention program
+- Section 48-7-29.24 - Tax credits for contributions to foster child support organizations
+- Section 48-7-29.25 - Tax credits for contributions to law enforcement foundations
+- Section 48-7-29.26 - [Repealed and Reserved Effective 12/31/2029] Tax credits for rural health care professionals
+- Section 48-7-30 - Taxation of nonresident's net income derived from activities within state; separate accounting; deductions; applicability of provisions for corporations to nonresidents
+- Section 48-7-31 - Taxation of corporations; computation, allocation, and apportionment of income
+- Section 48-7-31.1 - Conditions for allocating taxpayer's income pursuant to agreement; public inspection; criteria for evaluating proposals
+- Section 48-7-32 - Taxation of railroad and public service corporations; computation of net income where business is within and outside state; net income for all other such corporations
+- Section 48-7-33 - Annual accounting periods
+- Section 48-7-34 - Returns of corporations and nonresidents based upon books of account; application to commissioner; time; contents
+- Section 48-7-35 - Application for permission to use other method of allocation by corporation or nonresident; contents; effect of failure to receive notice of rejection
+- Section 48-7-36 - Tolling of time limits for filings by reason of war related service in armed forces
+- Section 48-7-37 - Taxes due from members of armed forces dying on active duty; applicability of tax to particular taxable years; assessment of unpaid taxes; abatement; credit or refund of collected payments
+- Section 48-7-38 - Deduction for payments to classified subcontractors; disclosure of tax returns; maintenance of list of classified subcontractors
+- Section 48-7-39 - Depreciation of property placed in service in prior tax years
+- Section 48-7-40 - Designation of counties as less developed areas; tax credits for certain business enterprises
+- Section 48-7-40.1 - Tax credits for business enterprises in less developed areas
+- Section 48-7-40.1A - Additional job tax credits for manufacturers of personal protective equipment
+- Section 48-7-40.1B - Tax credit for jobs created by manufacturers of medical equipment, medical supplies, pharmaceuticals, or medicine
+- Section 48-7-40.2 - Tax credits for existing manufacturing and telecommunications facilities in tier 1 counties
+- Section 48-7-40.3 - Tax credits for existing manufacturing and telecommunications facilities in tier 2 counties
+- Section 48-7-40.4 - Tax credits for existing manufacturing and telecommunications facilities or manufacturing and telecommunications support facilities in tier 3 or 4 counties
+- Section 48-7-40.5 - Tax credits for employers providing approved retraining programs
+- Section 48-7-40.6 - Tax credits for employers providing child care
+- Section 48-7-40.7 - Optional tax credits for existing manufacturing and telecommunications facilities in tier 1 counties
+- Section 48-7-40.8 - Optional tax credits for existing manufacturing and telecommunications facilities in tier 2 counties
+- Section 48-7-40.9 - Optional tax credits for existing manufacturing and telecommunications facilities or manufacturing and telecommunications support facilities in tier 3 and 4 counties
+- Section 48-7-40.10 - [Repealed] [Reserved] Tax credits for water conservation facilities and qualified water conservation investment property
+- Section 48-7-40.11 - [Repealed] [Reserved] Tax credits for shift from ground-water usage
+- Section 48-7-40.12 - Tax credits for qualified research expenses
+- Section 48-7-40.13 - [Reserved]
+- Section 48-7-40.14 - Calculation of new full-time jobs
+- Section 48-7-40.15 - Alternative tax credits for base year port traffic increases
+- Section 48-7-40.15A - Increased job tax credit based on increase in port traffic
+- Section 48-7-40.16 - Tax credits for alternative fuel, low-emission and zero-emission vehicles, and electric vehicle chargers
+- Section 48-7-40.17 - Tax credits for establishing or relocating quality jobs
+- Section 48-7-40.18 - Tax credits for businesses headquartered in state; full-time jobs
+- Section 48-7-40.19 - [Repealed] Diesel particulate emission reduction technology equipment; tax credit
+- Section 48-7-40.20 - Tax credits for businesses engaged in manufacturing cigarettes for exportation; amount; required information
+- Section 48-7-40.21 - Tax credits for existing business enterprises undergoing qualified business expansion
+- Section 48-7-40.22 - Tax credits for business enterprises for leased motor vehicles; daily ridership; implementation
+- Section 48-7-40.23 - Election to count new jobs on calendar year basis
+- Section 48-7-40.24 - Tax credits for jobs associated with large-scale projects
+- Section 48-7-40.25 - Tax credits for investment in expanding existing manufacturing facilities; enhancements for high-impact aerospace defense projects
+- Section 48-7-40.26 - Tax credits for film, gaming, video, or digital production
+- Section 48-7-40.26A - Tax credits for postproduction expenditures
+- Section 48-7-40.27 - [Repealed and Reserved Effective 12/31/2029] Tax credits for qualified investments in a research fund
+- Section 48-7-40.28 - [Repealed and Reserved Effective 12/31/2029] Limitation on the aggregate amount of tax credits allowed for qualified investments in a research fund
+- Section 48-7-40.29 - [See Note] Tax credits for certain qualified equipment that reduces business or domestic energy or water usage
+- Section 48-7-40.30 - Tax credits for certain qualified investments for limited period of time
+- Section 48-7-40.31 - Tax credits for employing qualified parolees
+- Section 48-7-40.32 - [Repealed and Reserved Effective 12/31/2029] Revitalization zone tax credits
+- Section 48-7-40.33 - [Reserved] Tax credits for musical or theatrical performances
+- Section 48-7-40.34 - [Repealed Effective 1/1/2027] Tax credits for Class III railroads; reporting
+- Section 48-7-40.35 - [Reserved] Tax credits for certain post-consumer waste material recycling facilities
+- Section 48-7-40.36 - Tax credits for timber producers incurring losses from Hurricane Michael
+- Section 48-7-41 - [Reserved] Basic skills education program credits
+- Section 48-7-42 - Affiliated entities; assignment of corporate income tax credits; carryover of unused credits; joint and severable liability
+- Section 48-7-50 - Persons required to file returns; filing of copies of all or part of taxpayers' federal tax returns
+- Section 48-7-51 - Corporation returns; contents; consolidated returns of two or more corporations; returns by receivers, trustees, and assignees; collection
+- Section 48-7-52 - Returns by corporations of information concerning dividend payments; oath; contents
+- Section 48-7-53 - Partnership returns; contents; oath; reporting of final federal adjustments; administrative adjustment request; rules and regulations
+- Section 48-7-54 - Electronic filing for nonindividual taxpayers
+- Section 48-7-55 - [Repealed] [Reserved] Required questions on returns for individuals
+- Section 48-7-56 - Time and place of filing returns; extensions; tentative returns; extensions for members of armed forces; estimated returns
+- Section 48-7-57 - Penalties for failure to file timely return; exceptions; reduction of tax due by partial payment, credit, or other penalty; impact of federal return extensions
+- Section 48-7-57.1 - Filing of returns which are frivolous or desire to impede the administration of state income tax laws
+- Section 48-7-58 - Taxpayer activities distorting true net income; proper computation by commissioner; consideration of potential reasonable profits
+- Section 48-7-59 - Examination of federal income tax returns
+- Section 48-7-60 - Confidentiality of tax information; exceptions; authorized inspection by certain officials; furnishing information to local tax authorities; furnishing information to nonofficials; conditions; effect of Code section
+- Section 48-7-61 - Unlawful divulging of confidential information concerning income taxes under Code Section 48-7-60; penalties
+- Section 48-7-62 - Optional taxpayer contributions to the Georgia National Guard Foundation through income tax payment and refund process
+- Section 48-7-63 - Optional taxpayer contributions to permitted stem cell research through income tax payment and refund process
+- Section 48-7-64 - Tax exempt contributions to the Technical College System of Georgia Foundation for scholarships awards
+- Section 48-7-80 - Time and place of payment of tax on basis of calendar or fiscal year
+- Section 48-7-81 - Computation of interest due on taxes not timely paid; assessment, collection, and payment of interest on penalties or additions; assessment and collection period
+- Section 48-7-82 - Periods of limitation for assessment of taxes; collection by execution; change or correction of net income
+- Section 48-7-83 - Action for collection of tax out of assets of dissolved corporation; procedure
+- Section 48-7-84 - Actions in restraint of assessment or collection of income tax
+- Section 48-7-85 - Discretionary authority to prorate tax and exemptions for person moving into or out of state
+- Section 48-7-86 - Penalties for nonpayment, failure to pay, or underpayment of taxes; reduction of tax by partial payments and credits; relief of liability on joint return
+- Section 48-7-100 - Definitions
+- Section 48-7-100.1 - Withholding of income tax from retirement benefits of federal annuitants
+- Section 48-7-101 - Collection of income tax at source; withholding
+- Section 48-7-102 - Withholding exemption status
+- Section 48-7-102.1 - Withholding exemptions; rules and regulations; submission of certificates to commissioner
+- Section 48-7-103 - Quarterly, monthly, and jeopardy returns; tax payments; forms
+- Section 48-7-104 - Period adjustments for incorrect withholdings or payments
+- Section 48-7-105 - Statements of wages paid and taxes withheld to employees; time; penalties; enforcement
+- Section 48-7-106 - Annual and final returns; time; return to be filed upon sale of business; withholding unpaid withholding taxes from purchase prices; penalties for violations
+- Section 48-7-107 - Filing of returns; persons authorized to sign; verification; furnishing of required forms by commissioner; effect of failure to furnish forms
+- Section 48-7-108 - Employer's liability
+- Section 48-7-109 - Effect as to employer's liability of employee's payment of tax not deducted and withheld; effect on employee's income tax liability resulting from employer's failure to withhold tax
+- Section 48-7-109.1 - Special accounting for withheld tax by employer who fails to deduct, withhold, collect, account for, or pay over taxes as required by article
+- Section 48-7-110 - Effect of employer's voluntary compliance with requirements of article as to admission of doing business in state
+- Section 48-7-111 - Employer's records; contents; period of preservation
+- Section 48-7-112 - Employee refunds and credits; procedures
+- Section 48-7-113 - Employer refunds and credits; procedure; claim for abatement of overassessment
+- Section 48-7-114 - Estimated income tax due from individuals; returns, exemptions, and limitations; applicability to fiduciaries
+- Section 48-7-115 - Time for filing estimated income tax by individuals
+- Section 48-7-116 - Installment payments of estimated tax by individuals
+- Section 48-7-117 - Estimated income tax by corporations
+- Section 48-7-119 - Installment payments of estimated tax by corporations
+- Section 48-7-120 - Failure by taxpayer to pay estimated income tax
+- Section 48-7-121 - Credit of estimated tax payment; credit or refund of estimated tax overpayment; rate of interest on refund; time
+- Section 48-7-122 - Nondeductibility to employer of tax deducted and withheld
+- Section 48-7-123 - Disregard of fractional parts of dollar in allowance of credits or refunds or in assessment or collection of deficiencies or underpayments
+- Section 48-7-124 - Reciprocal arrangements for relief of taxpayers from operation of income tax payment laws of more than one jurisdiction
+- Section 48-7-125 - Application of article to short taxable years
+- Section 48-7-126 - Assessable penalties and interest
+- Section 48-7-127 - Other violations of article; penalties
+- Section 48-7-128 - Withholding tax on sale or transfer of real property and associated tangible personal property by nonresidents
+- Section 48-7-129 - Withholding tax on distributions to nonresident members of partnerships, Subchapter &quot;S&quot; corporations, and limited liability companies
+- Section 48-7-140 - Prohibition of local income taxes
+- Section 48-7-160 - Purposes
+- Section 48-7-161 - Definitions
+- Section 48-7-162 - Collection remedy additional
+- Section 48-7-162.1 - Submission of debts through Administrative Office of the Courts
+- Section 48-7-163 - Collection of debts through setoff; minimum debt; procedure; exceptions; request for setoff; administrative collection assistance fee
+- Section 48-7-164 - Procedure for setoffs and notification of taxpayers; certification of debts; transfer of refunds to claimant agency; notice to taxpayers; transferred funds in escrow account; costs borne by claimant agency
+- Section 48-7-165 - Hearing procedure; adjustments of incorrect debts; nonavailability of hearings before department; issues previously litigated; appeals
+- Section 48-7-165.1 - Hearing; final determination of debt
+- Section 48-7-166 - Final determination of debt due; escrow account transfers; crediting of debt due; notice of setoff; refund of excess; disbursement of funds
+- Section 48-7-167 - Effect of setoff on refund
+- Section 48-7-168 - Priority of department over claimant agencies for collection by setoff
+- Section 48-7-169 - Rules and regulations
+- Section 48-7-170 - Disclosure of taxpayer information to claimant agency or Administrative Office of the Courts; confidentiality; use of information

@@ -1,0 +1,34 @@
+# Chapter 6 - AUCTIONEERS (§§ 43-6-1 — 43-6-26)
+
+- Section 43-6-1 - Definitions
+- Section 43-6-2 - Georgia Auctioneers Commission; composition; terms of office; qualifications of members
+- Section 43-6-3 - Selection of chairman; rules and regulations; meetings
+- Section 43-6-4 - Reimbursement of commission members
+- Section 43-6-6 - Seal
+- Section 43-6-7 - Adoption of rules and regulations
+- Section 43-6-8 - Authority to regulate issuance of licenses, to revoke or suspend licenses, and to censure licensees
+- Section 43-6-9 - License requirement for auctioneers; registration for companies conducting auctions; restrictions as to sales of real property
+- Section 43-6-10 - Application by person for license
+- Section 43-6-11 - Qualifications of applicants
+- Section 43-6-11.1 - Application by company for registration; exemptions; trust accounts
+- Section 43-6-11.2 - Expiration of licenses; waiver of continuing education requirement; rules and regulations
+- Section 43-6-12 - Reciprocity; nonresident license requirement; designation of agents for service of process
+- Section 43-6-12.1 - Proof of residence
+- Section 43-6-13 - License fees; effect of nonpayment of checks submitted as fee
+- Section 43-6-14 - Contents and display of license
+- Section 43-6-14.1 - Carrying license identification card required
+- Section 43-6-16 - Grounds for refusal to issue license
+- Section 43-6-17 - Procedure upon nonacceptance of applications
+- Section 43-6-18 - Grounds for revocation or suspension of licenses and censure of licensees
+- Section 43-6-18.1 - Inspector
+- Section 43-6-18.2 - Sanctions
+- Section 43-6-19 - Hearings regarding revocation or suspension of licenses or censure of licensees; appeals
+- Section 43-6-20 - [Repealed] [Reserved] Effect of revocation of auctioneer's license on licenses of apprentice auctioneers
+- Section 43-6-21 - Notification of change of business address
+- Section 43-6-22 - Prerequisite for bringing action for compensation; power of commission to sue for violation
+- Section 43-6-22.1 - Auctioneers education, research, and recovery fund
+- Section 43-6-23 - Injunctions
+- Section 43-6-24 - Exceptions to operation of chapter
+- Section 43-6-24.1 - Liabilities of licensed auctioneer not relieved
+- Section 43-6-25 - Penalty
+- Section 43-6-25.1 - Local regulations and licensing

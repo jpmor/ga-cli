@@ -1,0 +1,145 @@
+# Chapter 8 - EMPLOYMENT SECURITY (§§ 34-8-1 — 34-8-290)
+
+- Section 34-8-1 - Short title
+- Section 34-8-2 - Declaration of public policy
+- Section 34-8-3 - Right of General Assembly to amend or repeal chapter; effect
+- Section 34-8-4 - Representation by Attorney General
+- Section 34-8-20 - Annual payroll; average annual payroll
+- Section 34-8-21 - Base period; alternative base period
+- Section 34-8-22 - Benefits
+- Section 34-8-23 - Benefit year
+- Section 34-8-24 - Bona fide in the labor market
+- Section 34-8-25 - Calendar quarter
+- Section 34-8-26 - Commissioner
+- Section 34-8-27 - Common paymaster
+- Section 34-8-28 - Computation date
+- Section 34-8-29 - Contributions; payments in lieu of contributions
+- Section 34-8-30 - Deductible earnings
+- Section 34-8-31 - Department
+- Section 34-8-32 - Employee leasing company
+- Section 34-8-33 - Employer
+- Section 34-8-34 - Employing unit
+- Section 34-8-35 - Employment
+- Section 34-8-36 - Employment office
+- Section 34-8-37 - Employment Security Administration Fund
+- Section 34-8-38 - Experience rating account
+- Section 34-8-39 - Extended benefits
+- Section 34-8-40 - Fund
+- Section 34-8-41 - Insured work
+- Section 34-8-42 - Liable employer
+- Section 34-8-43 - Most recent employer
+- Section 34-8-44 - State
+- Section 34-8-45 - Supplemental unemployment benefits
+- Section 34-8-46 - Temporary help contracting firm
+- Section 34-8-47 - Unemployed; unemployment
+- Section 34-8-48 - Valid claim
+- Section 34-8-49 - Wages
+- Section 34-8-50 - Week
+- Section 34-8-51 - Weekly benefit amount
+- Section 34-8-52 - &quot;Governor's designee&quot; defined
+- Section 34-8-70 - Duties and powers of Commissioner
+- Section 34-8-71 - Distribution of text of chapter and other materials
+- Section 34-8-72 - Appointment of state and local or industry advisory councils
+- Section 34-8-73 - Department to administer chapter and programs; authority to create, and delegate powers and duties to, Employment Security Agency
+- Section 34-8-74 - Appointment, compensation, powers, and duties of personnel administering chapter
+- Section 34-8-75 - Experience rating committee
+- Section 34-8-76 - Duties of Commissioner to reduce and prevent unemployment
+- Section 34-8-77 - Creation and financing of State Employment Service; cooperation with federal agencies; authority to establish and maintain free public employment offices
+- Section 34-8-78 - Board of review; appointment, term of office, compensation, and removal of members
+- Section 34-8-79 - State and federal cooperation in administration of chapter
+- Section 34-8-80 - Payment of compensation under two or more state unemployment compensation laws
+- Section 34-8-81 - Creation of Employment Security Administration Fund; sources of money for fund; management and control of moneys
+- Section 34-8-82 - State reimbursement of Employment Security Administration Fund for moneys lost, wrongfully expended, or overexpended
+- Section 34-8-83 - Establishment, composition, and administration of Unemployment Compensation Fund
+- Section 34-8-84 - Commissioner as custodian of fund; establishment of accounts within fund; deposits of money in accounts
+- Section 34-8-85 - Withdrawals from Unemployment Trust Fund for expenditures under chapter
+- Section 34-8-86 - Management of funds upon discontinuance of Unemployment Trust Fund
+- Section 34-8-87 - Borrowing funds from United States Treasury upon depletion of Unemployment Compensation Fund
+- Section 34-8-88 - Necessary powers in discharge of duties
+- Section 34-8-89 - Application for order requiring persons to obey subpoena issued by Commissioner
+- Section 34-8-90 - [Repealed] Authority to lease property
+- Section 34-8-91 - Benefits limited to extent funds are available
+- Section 34-8-92 - Disposition of fines, penalties, and interest collected; amounts collected pursuant to Code Section 34-8-255 to be returned to Unemployment Compensation Fund
+- Section 34-8-93 - Construction of chapter; severability
+- Section 34-8-120 - Legislative intent
+- Section 34-8-121 - Information or records shall be private and confidential; release authorized; maintenance of records; disclosure of private and confidential information; destruction of outdated records
+- Section 34-8-122 - Communications between employer and employee, or between employer or employee and department, privileged
+- Section 34-8-123 - Commissioner's authority to adopt, amend, or rescind rules and regulations
+- Section 34-8-124 - Access to records and information by individuals and employing units; fee for copies
+- Section 34-8-125 - Access to information or records by governmental agencies; penalty for violation
+- Section 34-8-126 - Information or records available to parties to judicial or formal administrative proceedings
+- Section 34-8-127 - Disclosure of information or records when necessary to permit private parties to assist in operation of department; penalty for violations; enforcement by Attorney General
+- Section 34-8-128 - Disclosure of information to contracting governmental or private organizations
+- Section 34-8-129 - Disclosure of information or records when identifying information deleted
+- Section 34-8-130 - Prevention of fraud and abuse of the Unemployment Trust Fund
+- Section 34-8-150 - Payment of contributions by employers; deferral of de minimis amounts
+- Section 34-8-151 - Rate of employer contributions
+- Section 34-8-152 - Standard rate
+- Section 34-8-153 - Liability of succeeding employer; computation of rate of contributions; transfers between employers with substantially common ownership, management, or control; transfers made for the purpose of obtaining a lower rate of contribution; penalties for violations
+- Section 34-8-154 - Separate accounts
+- Section 34-8-155 - Benefit experience; variations from standard rate
+- Section 34-8-156 - State-wide Reserve Ratio; reduction in tax rate
+- Section 34-8-157 - Regular benefits paid to be charged against experience rating account
+- Section 34-8-158 - Financing benefits paid employees of governmental entities and nonprofit organizations
+- Section 34-8-159 - Specific provisions for payments in lieu of contributions
+- Section 34-8-159.1 - [Effective until 12/31/2026] Installment payments by nonprofit organizations for finance unemployment benefits
+- Section 34-8-160 - Surety bond required
+- Section 34-8-161 - Group accounts
+- Section 34-8-162 - Establishment, administration, and contents of cash deposit escrow fund; deposit in and withdrawals from fund
+- Section 34-8-163 - Terminating liability to fund
+- Section 34-8-164 - Applications for adjustment or refund
+- Section 34-8-165 - Tax and wage reports; penalty for failure to file; fraudulent reports
+- Section 34-8-166 - Interest on delinquent contribution payments; waiver; reports
+- Section 34-8-167 - Collection of delinquent contribution payments generally
+- Section 34-8-168 - Authorized collection procedures; application of moneys obtained; procedure to contest execution; Attorney General to represent Commissioner; Commissioner's rights, authority, and prerogatives
+- Section 34-8-169 - Commissioner's authority to contract with outside entities to provide debt collection services
+- Section 34-8-170 - Commissioner authorized to estimate contributions due; notice of assessment; jeopardy assessment
+- Section 34-8-171 - Injunction against employing individuals if reports or payments due
+- Section 34-8-172 - Surety bond required of employee leasing company
+- Section 34-8-173 - Release or subordination of property subject to lien; authority to settle and compromise payment of contributions; annual reports
+- Section 34-8-174 - Payment of contributions in event of legal dissolution or distribution
+- Section 34-8-175 - Payment of contributions when employing unit sells or transfers business or stock of goods
+- Section 34-8-176 - Applicability of collection, penalty, and sanction provisions to public employers
+- Section 34-8-177 - Procedure for collecting delinquent contribution payments from public employers
+- Section 34-8-178 - Voluntary contributions by employers
+- Section 34-8-180 - [Repealed Effective 1/1/2027] Assessment on wages; quarterly payment
+- Section 34-8-181 - [Repealed Effective 1/1/2027] Additional assessment for new or newly covered employer
+- Section 34-8-182 - [Repealed Effective 1/1/2027] Allocation of funds
+- Section 34-8-183 - [Repealed Effective 1/1/2027] Regulatory authority
+- Section 34-8-184 - [Repealed Effective 1/1/2027] Administration of article; authority of Commissioner
+- Section 34-8-185 - [Repealed Effective 1/1/2027] Repealer
+- Section 34-8-190 - Requirements governing claims for benefits
+- Section 34-8-191 - Benefits to be paid pursuant to rules and regulations
+- Section 34-8-192 - Initial determination and redetermination of eligibility for, amount of, and duration of benefits
+- Section 34-8-193 - Determination of weekly benefit amount
+- Section 34-8-194 - Grounds for disqualification of benefits
+- Section 34-8-195 - Determination of eligibility for unemployment benefits generally; eligibility while in training; deductions and withholdings from compensation
+- Section 34-8-196 - Determination of eligibility for benefits of persons performing certain services; eligibility for benefits of aliens performing services
+- Section 34-8-197 - Eligibility requirements for extended benefits
+- Section 34-8-198 - Payment of child support obligation from benefits
+- Section 34-8-199 - Definitions; disclosure; withholding uncollected overissuance
+- Section 34-8-220 - Appointment of hearing officers to hear and decide appealed decisions
+- Section 34-8-221 - Review of decision of hearing officer by board of review
+- Section 34-8-222 - Procedure for appeal of claims to board of review; record of proceedings
+- Section 34-8-223 - Procedure for judicial review of final decisions of board of review
+- Section 34-8-224 - Fee for witnesses subpoenaed under article
+- Section 34-8-250 - Prohibited agreements and activities; penalty
+- Section 34-8-251 - Fees for claiming benefits prohibited; attorney's fees; penalty
+- Section 34-8-252 - Assignment, pledge, or encumbrance of right to benefits void; benefits exempt; waiver of exemption void
+- Section 34-8-253 - Obedience to subpoena required; self-incrimination; quashing, modification, or withdrawal of subpoena
+- Section 34-8-254 - Overpayments
+- Section 34-8-255 - Effect of false statements and misrepresentations made to obtain or increase benefits
+- Section 34-8-256 - Penalties for false representation or fraudulent claims
+- Section 34-8-257 - Civil penalties; waiver of any penalty, fine, or assessment
+- Section 34-8-270 - Short title
+- Section 34-8-271 - Legislative findings, declarations, and intent
+- Section 34-8-272 - Definitions
+- Section 34-8-273 - Development and administration of program; applicability and time period of program
+- Section 34-8-274 - Application for amnesty; conditions of participation in program; installment payments; penalties or criminal action
+- Section 34-8-275 - Amnesty granted to employers meeting requirements; exceptions
+- Section 34-8-276 - Interest on installment agreements
+- Section 34-8-277 - Administrative regulations, forms, and instructions; publicizing program
+- Section 34-8-278 - Accounting procedures; disposition of collections
+- Section 34-8-279 - Collection fees
+- Section 34-8-280 - Debt collection services
+- Section 34-8-290 - Work share as alternative to layoffs; program requirements

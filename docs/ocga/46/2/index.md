@@ -1,0 +1,64 @@
+# Chapter 2 - PUBLIC SERVICE COMMISSION (§§ 46-2-1 — 46-2-95)
+
+- Section 46-2-1 - Election of Commissioners; terms of office
+- Section 46-2-1.1 - Elections for Public Service Commission Districts 2, 3, and 5
+- Section 46-2-2 - Qualifications of Commissioners; restriction on any interest in companies under jurisdiction of commission; disqualification of Commissioner
+- Section 46-2-3 - Oath of office of Commissioners
+- Section 46-2-4 - Filling of vacancies on commission
+- Section 46-2-5 - Chairperson of commission; selection
+- Section 46-2-6 - Salary of Commissioners
+- Section 46-2-7 - Employment of officers, experts, and other employees by commission; compensation of employees
+- Section 46-2-7.1 - Director of utilities
+- Section 46-2-7.2 - Public information officer
+- Section 46-2-8 - Payment of salaries and expenses by commission; appropriations for salaries and expenses; designation of Public Service Commission Fund
+- Section 46-2-9 - Domicile of commission; jurisdiction of actions involving commission or business entities regulated by commission; furnishing commission with office and supplies
+- Section 46-2-10 - Payment of special fee by corporations and utilities subject to jurisdiction of commission; notice of amount due; procedure on default
+- Section 46-2-20 - Jurisdiction of commission generally; powers and duties of commission generally
+- Section 46-2-20.1 - Electric vehicle charging services; operation
+- Section 46-2-21 - Extension of commission's powers and duties to street railroads, telegraph companies, telephone companies, and gas and electric light and power companies
+- Section 46-2-22 - [Repealed] Jurisdiction of commission over express companies and telegraph companies
+- Section 46-2-23 - Rate-making power of commission generally; special provisions concerning telecommunications companies
+- Section 46-2-23.1 - &quot;Alternative form of regulation&quot; defined; filing; notice; approval; release of interstate pipeline capacity
+- Section 46-2-24 - Consideration by commission of quality of service in determining just and reasonable rates and charges
+- Section 46-2-25 - Procedure for changing any rate, charge, classification, or service; recovery of financing costs
+- Section 46-2-25.1 - County-wide local calling; modification of existing rate schedules; plans for implementing service; methods of funding; rate-making power of commission not affected
+- Section 46-2-25.2 - Sixteen-mile toll-free telephone calling; modification of rate schedules; recovery of expenses or lost revenues by telephone companies; rate-making power of Public Service Commission not affected
+- Section 46-2-25.3 - Toll-free calls within 22 miles of exchange; hearings; &quot;net gain&quot; defined
+- Section 46-2-26 - Restriction as to utilization of fuel-adjustment tariffs; procedure for rate change by utility based solely on change in fuel costs; extent of commission's power over rate changes; disclosure requirements for utilities seeking rate change
+- Section 46-2-26.1 - Accounting methods to be used by electric utilities in rate-making proceedings
+- Section 46-2-26.2 - Tax accounting by utilities in rate-making proceedings
+- Section 46-2-26.3 - Recovery of costs of conversion from oil-burning to coal-burning generating facility; filing of request; public hearing; determination of rate; adjustments
+- Section 46-2-26.4 - Accounting procedures in gas utility rate proceedings
+- Section 46-2-26.5 - Gas supply plans and adjustment factors; filings and hearing procedures; recovery of purchase gas cost
+- Section 46-2-27 - Notation on bill of charges for fuel adjustment, meter reading and consumption, and where rates charged may be obtained
+- Section 46-2-28 - Procedure for issuance of stocks, bonds, notes, or other debt by companies under commission's jurisdiction; exemptions
+- Section 46-2-29 - Requirement of confidentiality of information obtained by commission member or employee in a proceeding under Code Section 46-2-28
+- Section 46-2-30 - Power of commission to make rules and regulations generally
+- Section 46-2-31 - Annual report by commission to Governor
+- Section 46-2-32 - Payment of fines into state treasury; cumulative nature of remedies provided by this title
+- Section 46-2-33 - Costs incurred by commission charged to utility; invoicing; recovery
+- Section 46-2-40 - Creation of Utility Finance Section; composition of section
+- Section 46-2-41 - Appointment of director of Utility Finance Section; compensation; supervisory role of director of utilities; qualifications and responsibilities of director of section generally
+- Section 46-2-42 - Employment of assistant director of Utility Finance Section; employment of accountants, statisticians, experts, and clerical personnel; application of rules and regulations
+- Section 46-2-43 - Director, assistant director, or any other employee of Utility Finance Section prohibited from having any interest in or being employed by electric utilities
+- Section 46-2-44 - Duties of Utility Finance Section generally
+- Section 46-2-45 - Relationship of Utility Finance Section to commission
+- Section 46-2-50 - Conducting of hearings and investigations generally
+- Section 46-2-51 - Prescription by commission of rules of procedure and rules of evidence; promulgation of rules and regulations as to rehearing, reconsideration, and oral argument of orders
+- Section 46-2-52 - Keeping of records of proceedings on formal investigations; transcribing of testimony
+- Section 46-2-53 - [Repealed] Reports, rate schedules, orders, rules, or regulations of commission as admissible evidence in court proceedings
+- Section 46-2-54 - Power to issue subpoenas; payments to witnesses; failure or refusal to obey subpoenas
+- Section 46-2-55 - Compelling witnesses to testify before commission as to the giving or granting of rebates or as to discriminations in rates and charges by common carriers
+- Section 46-2-56 - Compelling witnesses to testify against common carriers or any other person in court
+- Section 46-2-57 - Obtaining of discovery by employees and agents of commission; petitions by commission for necessary orders, injunctions, and subpoenas; extension of suspension period by Superior Court of Fulton County; time of hearing of applications and petitions from commission
+- Section 46-2-58 - Conducting of hearings by hearing officers
+- Section 46-2-59 - Permissible parties in proceedings before commission; intervention in proceedings generally; limited appearances; procedure for granting leave to intervene
+- Section 46-2-70 - Definitions
+- Section 46-2-71 - Power of commission to allocate utility service and to alter, amend, suspend, or terminate existing rates, schedules, contracts, rules, or regulations; findings required before commission exercises powers of allocation
+- Section 46-2-72 - Immunity from liability of persons acting in accordance with ruling or order of commission entered pursuant to Code Section 46-2-71
+- Section 46-2-90 - Liability of companies subject to jurisdiction of commission generally; venue for actions generally; award of attorney's fee
+- Section 46-2-91 - Penalties recoverable before commission; superior court filing of certain commission orders; venue; effect of judgment
+- Section 46-2-92 - Penalties recoverable by state through civil action
+- Section 46-2-93 - Criminal penalty; venue for actions; calling of agents and employees of company as witnesses; use of testimony against agents and employees
+- Section 46-2-94 - [Repealed] Operation as household goods carrier for hire without having valid certificate prohibited
+- Section 46-2-95 - Civil actions; standard for obtaining an injunction

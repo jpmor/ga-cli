@@ -1,0 +1,24 @@
+# Chapter 14 - RESTITUTION AND DISTRIBUTION OF PROFITS TO VICTIMS OF CRIMES (§§ 17-14-1 — 17-14-32)
+
+- Section 17-14-1 - Declaration of public policy
+- Section 17-14-2 - Definitions
+- Section 17-14-3 - Requirement of restitution by offender as condition of relief generally
+- Section 17-14-4 - Granting of parole prior to completion of one-third of sentence conditioned on restitution
+- Section 17-14-5 - Restitution by juvenile delinquent; retention of jurisdiction to enforce order against juvenile after attainment of age 21; transfer of enforcement jurisdiction; parent's obligation for restitution
+- Section 17-14-6 - Setoff of prior total or partial restitution made to victim; reduction of award from the Crime Victims Compensation Board by the amount of restitution; payment of restitution to governmental entities that have compensated the victim
+- Section 17-14-7 - Right of offender to offer restitution plan to ordering authority; consideration and adoption of plan; hearing to determine restitution; burden of proof; liability among multiple offenders; payment for multiple victims; waiver of victim's rights
+- Section 17-14-8 - Apportionment of payments for fines and restitution; payment to victims
+- Section 17-14-9 - Amount of restitution
+- Section 17-14-10 - Factors to be considered by ordering authority in determining nature and amount of restitution
+- Section 17-14-11 - Effect of restitution order on civil actions against offender; setoff of restitution payments against civil judgments; admissibility of restitution orders or payments; determining setoff amount
+- Section 17-14-12 - Modification of restitution order
+- Section 17-14-13 - Manner of enforcement of restitution order generally; sanctions for failure to comply with order
+- Section 17-14-14 - Restitution payments; wage assignments; review of compliance; interest
+- Section 17-14-15 - Peonage not authorized by article; denial of benefits because of poverty prohibited
+- Section 17-14-16 - Transmission of copies of restitution orders to the Department of Corrections or the Department of Juvenile Justice, and to the Department of Community Supervision
+- Section 17-14-17 - Voidable transfers
+- Section 17-14-18 - Payments to and by the Crime Victims Emergency Fund
+- Section 17-14-19 - Effect of article on powers of courts
+- Section 17-14-30 - Definitions
+- Section 17-14-31 - Contract regarding reenactment of crime; deposit of consideration in escrow; claim notification; notice of availability of escrow moneys; disposition of escrow moneys; actions taken to defeat purpose
+- Section 17-14-32 - Penalties for violations of article

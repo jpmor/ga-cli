@@ -1,0 +1,24 @@
+# Chapter 13 - UNDERGROUND STORAGE TANKS (§§ 12-13-1 — 12-13-22)
+
+- Section 12-13-1 - Short title
+- Section 12-13-2 - Public policy
+- Section 12-13-3 - Definitions
+- Section 12-13-4 - Exceptions to chapter
+- Section 12-13-5 - Rules and regulations; enforcement powers
+- Section 12-13-6 - Powers and duties of director
+- Section 12-13-7 - Performance standards applicable until rules and regulations effective
+- Section 12-13-8 - Investigations
+- Section 12-13-9 - Establishing financial responsibility; claims against guarantor; Underground Storage Tank Trust Fund
+- Section 12-13-10 - Environmental assurance fees; late participation fee
+- Section 12-13-11 - Corrective action for release of petroleum product into environment
+- Section 12-13-12 - Recovery in event of discharge or threat of discharge of regulated substance; lien
+- Section 12-13-13 - Notification by owner of underground storage tank
+- Section 12-13-14 - Corrective action for violations of chapter, rules and regulations, or orders and for release of regulated substance into environment
+- Section 12-13-15 - Injunctions and restraining orders
+- Section 12-13-16 - Hearings and review
+- Section 12-13-17 - Judgment in accordance with division's order
+- Section 12-13-18 - Required compliance with chapter; proof that petroleum subjected to environmental fee; violations of chapter; access to property
+- Section 12-13-19 - Violations; imposition of penalties
+- Section 12-13-20 - Emergency orders; hearing
+- Section 12-13-21 - Public access to records
+- Section 12-13-22 - Representation by Attorney General

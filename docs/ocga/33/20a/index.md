@@ -1,0 +1,31 @@
+# Chapter 20A - MANAGED HEALTH CARE PLANS (§§ 33-20A-1 — 33-20A-70)
+
+- Section 33-20A-1 - Short title
+- Section 33-20A-2 - Legislative findings
+- Section 33-20A-3 - Definitions
+- Section 33-20A-4 - Certification requirements; review and recertification; sanctions for failure to meet requirements; alternative methods for certification
+- Section 33-20A-5 - Standards for certification
+- Section 33-20A-6 - Financial incentive programs prohibited; capitated payment arrangement allowed
+- Section 33-20A-7 - Penalizing provider for discussing necessary or appropriate care with patient prohibited; penalty for providing records and assistance prohibited; penalty for violations
+- Section 33-20A-7.1 - Application; managed care plan's liability following precertification; availability of personnel for precertification procedure
+- Section 33-20A-8 - Confidentiality and accuracy of patient records
+- Section 33-20A-9 - Emergency services requirements; restrictive formulary requirements
+- Section 33-20A-9.1 - Legislative intent; consumer choice option; provisions; increased expenses; covered benefits; forms
+- Section 33-20A-10 - Chapter inapplicable to workers' compensation provisions
+- Section 33-20A-30 - Short title
+- Section 33-20A-31 - Definitions
+- Section 33-20A-32 - Right to appeal
+- Section 33-20A-33 - Minimum expense of treatment prior to review
+- Section 33-20A-34 - Representatives for enrollee; cost of review; cooperation
+- Section 33-20A-35 - Request for independent review
+- Section 33-20A-36 - Additional information required for independent review
+- Section 33-20A-37 - Effect of favorable determinations
+- Section 33-20A-38 - Organizational and employee liability
+- Section 33-20A-39 - Certification of independent review organizations; conflict of interest; quality assurance mechanism; copies of nonproprietary information
+- Section 33-20A-40 - Determining medical necessity or whether a treatment is experimental
+- Section 33-20A-41 - Rules and regulations
+- Section 33-20A-42 - Grievance procedures and hearings for Medicaid care management members
+- Section 33-20A-60 - Definitions
+- Section 33-20A-61 - Physician contracts
+- Section 33-20A-62 - Payment
+- Section 33-20A-70 - [Repealed] Creation; members; meetings; duties; cooperation by the Department of Community Health; members' expenses; repealer

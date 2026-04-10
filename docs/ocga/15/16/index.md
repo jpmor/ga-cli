@@ -1,0 +1,43 @@
+# Chapter 16 - SHERIFFS (§§ 15-16-1 — 15-16-59)
+
+- Section 15-16-1 - Qualification requirements for sheriff; exemptions
+- Section 15-16-2 - Certain sureties ineligible
+- Section 15-16-3 - Basic training course; compensation and costs
+- Section 15-16-4 - Oath of office
+- Section 15-16-4.1 - Actions in violation of oath
+- Section 15-16-5 - Required bond
+- Section 15-16-6 - Examination and approval of bond
+- Section 15-16-7 - Recordation and filing of bond
+- Section 15-16-8 - How vacancies filled; failure to appoint; certification required
+- Section 15-16-9 - Sheriff's office
+- Section 15-16-10 - Duties; penalties; electronic storage
+- Section 15-16-11 - [Repealed] [Reserved] Disposition of books
+- Section 15-16-12 - Retention of newspapers
+- Section 15-16-13 - Law enforcement contracts with municipalities authorized; reimbursement to county
+- Section 15-16-14 - Administration of oaths
+- Section 15-16-15 - Entries and returns amendable
+- Section 15-16-16 - Entries and returns nunc pro tunc
+- Section 15-16-18 - Purchase at own sale not permitted
+- Section 15-16-19 - Fee system abolished; salary
+- Section 15-16-20 - Minimum annual salary; increase; operating expenses
+- Section 15-16-20.1 - Additional salary for court coverage
+- Section 15-16-20.2 - Monthly contingent expense allowance for the operation of the sheriff's office
+- Section 15-16-21 - Fees for sheriff's services; disposition of fees
+- Section 15-16-22 - Mileage fees for service outside county
+- Section 15-16-23 - Appointment of deputy sheriffs; bond
+- Section 15-16-24 - Liability for misconduct of jailers
+- Section 15-16-25 - Liability for hire received
+- Section 15-16-26 - Investigation of charges against sheriff; suspension; additional investigations; assumption of sheriff's duties; indictment for felony
+- Section 15-16-27 - Deposit of cash bonds and reserves of professional bondspersons in interest-bearing accounts; disposition of interest
+- Section 15-16-28 - Creation of merit board; appeals from disciplinary actions
+- Section 15-16-40 - Honorary office created; qualifications; certificate; effect
+- Section 15-16-50 - Short title
+- Section 15-16-51 - Use of sheriff's office name
+- Section 15-16-52 - Definitions
+- Section 15-16-53 - Unauthorized use of sheriff's office name a violation
+- Section 15-16-54 - Symbol, seal, or badge of sheriff's office; unauthorized use
+- Section 15-16-55 - Requests to use sheriff's office symbols
+- Section 15-16-56 - Injunction to restrain violation
+- Section 15-16-57 - Civil penalty; attorney's fees
+- Section 15-16-58 - Damages recoverable for unauthorized use of symbols
+- Section 15-16-59 - Violation a felony; penalty

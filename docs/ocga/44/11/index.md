@@ -1,0 +1,21 @@
+# Chapter 11 - EJECTMENT AND PROCEEDINGS AGAINST INTRUDERS (§§ 44-11-1 — 44-11-33)
+
+- Section 44-11-1 - Requirement that plaintiff recover on strength of own title; effect of common grantor on proof of title
+- Section 44-11-2 - When plaintiff may recover on prior possession alone
+- Section 44-11-3 - Right of joint owner to bring an action alone; effect of judgment
+- Section 44-11-4 - Joint action against separate claimants; when prohibited
+- Section 44-11-5 - Making true claimant a defendant; effect of judgment as to such defendant
+- Section 44-11-6 - Disclaimer by defendant; effect on costs
+- Section 44-11-7 - Recovery of mesne profits
+- Section 44-11-8 - Setoff of value of improvements against mesne profits by trespasser
+- Section 44-11-9 - Setoff of value of improvements against mesne profits by adverse claimant; right of plaintiff to election; payment by defendant to plaintiff and acquisition of title; sale; levy; molding of decree; title of purchaser
+- Section 44-11-10 - When previous warrantor may be codefendant
+- Section 44-11-11 - Necessity for substitution upon death of codefendant in ejectment
+- Section 44-11-12 - Annexation of title abstract to petition
+- Section 44-11-13 - When judgment conclusive of title
+- Section 44-11-14 - Issuance of writ of possession; levy and sale clause
+- Section 44-11-15 - Persons not subject to writ of possession
+- Section 44-11-30 - Manner of ejecting intruders; affidavit; ejection by sheriff and other peace officers; counteraffidavit
+- Section 44-11-31 - Sheriff and other peace officers competent to administer oath to person in possession
+- Section 44-11-32 - Procedure on submission of counteraffidavit; trial; nonmeritorious submission; appeal
+- Section 44-11-33 - Issuance of writ of possession; fi. fa. for costs; presentation to law enforcement

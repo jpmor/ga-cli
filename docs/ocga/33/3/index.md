@@ -1,0 +1,34 @@
+# Chapter 3 - AUTHORIZATION AND GENERAL REQUIREMENTS FOR TRANSACTION OF INSURANCE (§§ 33-3-1 — 33-3-30)
+
+- Section 33-3-1 - Definitions
+- Section 33-3-2 - Certificate of authority required for transaction of insurance within state; exceptions
+- Section 33-3-3 - Qualifications for transaction of insurance generally; transaction of insurance by insurers owned by states, foreign governments
+- Section 33-3-4 - Kinds of insurance in which insurers may transact
+- Section 33-3-5 - Classification of kinds of insurance
+- Section 33-3-6 - Requirements as to capital stock or surplus generally
+- Section 33-3-7 - Requirement of surplus for new insurers
+- Section 33-3-8 - Requirements as to deposit of securities generally
+- Section 33-3-9 - Requirement of additional deposits of securities by foreign and alien insurers
+- Section 33-3-10 - Requirement of additional special deposits of securities by domestic, foreign, or alien insurers
+- Section 33-3-12 - Requirements as to name of insurer
+- Section 33-3-13 - Information required in or attached to application for certificate of authority
+- Section 33-3-14 - Application fee
+- Section 33-3-15 - Issuance or refusal of certificate of authority generally; determining whether insurer meets definition of reinsurer; designation on certificate
+- Section 33-3-16 - Expiration of certificate; procedure for renewal; amendment of certificate by Commissioner
+- Section 33-3-17 - Discretionary refusal, revocation, or suspension of certificate generally
+- Section 33-3-18 - Administrative supervision or suspension of certificate of authority for cause
+- Section 33-3-19 - Mandatory refusal, revocation, or suspension of certificate
+- Section 33-3-20 - Imposition of administrative fine upon insurer for certain acts of officers, employees, agents, or representatives
+- Section 33-3-21 - Reports of business affairs and operations of insurers generally
+- Section 33-3-21.1 - Submission of reports by property and casualty insurers; types of insurance to which requirement applies; contents of report; public inspection
+- Section 33-3-21.2 - Analysis of adequacy of loss and loss adjustment expense reserves when reserves outside standard range
+- Section 33-3-21.3 - Annual filings with National Association of Insurance Commissioners; agents of Commissioner not subject to civil liability; confidentiality of information
+- Section 33-3-22 - Reports of insurers authorized to transact product liability insurance
+- Section 33-3-23 - Transaction restrictions on lending institutions and bank holding companies
+- Section 33-3-24 - Transaction restrictions on institutions of Farm Credit System
+- Section 33-3-25 - Language simplification and reading ease standards; applicability of Code section
+- Section 33-3-26 - Retaliation
+- Section 33-3-27 - Reports of awards under medical malpractice insurance policies
+- Section 33-3-28 - Request by claimant for information as to name of insurer, name of each insured, and limits of coverage
+- Section 33-3-29 - Licensing of foreign state insurers as domestic insurers
+- Section 33-3-30 - Principal United States place of business of alien insurer entering through this state

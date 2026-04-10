@@ -1,0 +1,40 @@
+# Chapter 14 - HABEAS CORPUS (§§ 9-14-1 — 9-14-53)
+
+- Section 9-14-1 - Who may seek writ
+- Section 9-14-2 - Habeas corpus on account of detention of spouse or child
+- Section 9-14-3 - Petition for writ - Contents
+- Section 9-14-4 - Petition for writ - Verification; to whom presented
+- Section 9-14-5 - When writ granted
+- Section 9-14-6 - Form of writ
+- Section 9-14-7 - Return day for writ
+- Section 9-14-8 - Service of writ
+- Section 9-14-9 - When warrant for arrest of person detained to be issued along with writ
+- Section 9-14-10 - Respondent's return to writ - When and where made
+- Section 9-14-11 - Respondent's return to writ - Verification; production of person detained
+- Section 9-14-12 - Respondent's return to writ - Statement of transfer of custody; procedure when transfer made to avoid writ
+- Section 9-14-13 - Production of legal process
+- Section 9-14-14 - Hearing of issue
+- Section 9-14-15 - To whom notice of hearing given
+- Section 9-14-16 - When person not to be discharged
+- Section 9-14-17 - Discharge for defect in affidavit, warrant, or commitment
+- Section 9-14-18 - Discharge after arrest for offense committed in another state
+- Section 9-14-19 - Powers of court in cases not covered by Code Sections 9-14-16 through 9-14-18
+- Section 9-14-20 - Recordation of proceedings by clerk of court; fees
+- Section 9-14-21 - Costs of proceedings
+- Section 9-14-22 - Appeals; speedy hearing; transmittal of remittitur
+- Section 9-14-23 - Attachment for contempt for disobedience of writ
+- Section 9-14-40 - Legislative intent
+- Section 9-14-41 - Article as exclusive procedure
+- Section 9-14-42 - Grounds for writ; waiver of objection to jury composition
+- Section 9-14-43 - Jurisdiction and venue
+- Section 9-14-44 - Petition - Contents and verification
+- Section 9-14-45 - Petition - Service
+- Section 9-14-46 - Custody and production of petitioner
+- Section 9-14-47 - Time for answer and hearing
+- Section 9-14-47.1 - Petitions challenging for the first time state court proceedings resulting in a death sentence
+- Section 9-14-48 - Hearing; evidence; depositions; affidavits; determination of compliance with procedural rules; disposition
+- Section 9-14-49 - Findings of fact and conclusions of law
+- Section 9-14-50 - Transcription of proceedings
+- Section 9-14-51 - Effect of failure to raise grounds for relief in original or amended petition
+- Section 9-14-52 - Appeal procedure; application to Supreme Court by petitioner for certificate of probable cause; effect of appeal by respondent
+- Section 9-14-53 - Reimbursement to counties for habeas corpus costs

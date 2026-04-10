@@ -1,0 +1,40 @@
+# Article 4A - FUNDS TRANSFERS (§§ 11-4A-101 — 11-4A-507)
+
+- Section 11-4A-101 - Short title
+- Section 11-4A-102 - Subject matter
+- Section 11-4A-103 - Payment order - Definitions
+- Section 11-4A-104 - Funds transfer - Definitions
+- Section 11-4A-105 - Other definitions
+- Section 11-4A-106 - Time payment order is received
+- Section 11-4A-107 - Federal Reserve regulations and operating circulars
+- Section 11-4A-108 - Relationship to federal Electronic Fund Transfer Act
+- Section 11-4A-201 - Security procedure
+- Section 11-4A-202 - Authorized and verified payment orders
+- Section 11-4A-203 - Unenforceability of certain verified payment orders
+- Section 11-4A-204 - Refund of payment and duty of customer to report with respect to unauthorized payment order
+- Section 11-4A-205 - Erroneous payment orders
+- Section 11-4A-206 - Transmission of payment order through funds-transfer or other communication system
+- Section 11-4A-207 - Misdescription of beneficiary
+- Section 11-4A-208 - Misdescription of intermediary bank or beneficiary's bank
+- Section 11-4A-209 - Acceptance of payment order
+- Section 11-4A-210 - Rejection of payment order
+- Section 11-4A-211 - Cancellation and amendment of payment order
+- Section 11-4A-212 - Liability and duty of receiving bank regarding unaccepted payment order
+- Section 11-4A-301 - Execution and execution date
+- Section 11-4A-302 - Obligations of receiving bank in execution of payment order
+- Section 11-4A-303 - Erroneous execution of payment order
+- Section 11-4A-304 - Duty of sender to report erroneously executed payment order
+- Section 11-4A-305 - Liability for late or improper execution or failure to execute payment order
+- Section 11-4A-401 - Payment date
+- Section 11-4A-402 - Obligation of sender to pay receiving bank
+- Section 11-4A-403 - Payment by sender to receiving bank
+- Section 11-4A-404 - Obligation of beneficiary's bank to pay and give notice to beneficiary
+- Section 11-4A-405 - Payment by beneficiary's bank to beneficiary
+- Section 11-4A-406 - Payment by originator to beneficiary; discharge of underlying obligation
+- Section 11-4A-501 - Variation by agreement and effect of funds-transfer system rule
+- Section 11-4A-502 - Creditor process served on receiving bank; setoff by beneficiary's bank
+- Section 11-4A-503 - Injunction or restraining order with respect to funds transfer
+- Section 11-4A-504 - Order in which items and payment orders may be charged to account; order of withdrawals from account
+- Section 11-4A-505 - Preclusion of objection to debit of customer's account
+- Section 11-4A-506 - Rate of interest
+- Section 11-4A-507 - Choice of law

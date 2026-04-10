@@ -1,0 +1,23 @@
+# Chapter 4 - RECALL OF PUBLIC OFFICERS (§§ 21-4-1 — 21-4-21)
+
+- Section 21-4-1 - Short title
+- Section 21-4-2 - Legislative intent
+- Section 21-4-3 - Definitions
+- Section 21-4-4 - Officers subject to recall; number of electors needed to demand recall; limitation on number of officers subject to a recall
+- Section 21-4-5 - Sponsor applications for recall petition; procedures; duties of election superintendents and Secretary of State
+- Section 21-4-6 - Review of grounds for recall petition
+- Section 21-4-7 - Form of recall petition
+- Section 21-4-8 - Circulation of recall petition; electors eligible to sign; procedures for collection and verification of signatures
+- Section 21-4-9 - Withdrawal of signatures from recall application or petition
+- Section 21-4-10 - Persons who may not circulate recall application or petition; effect of signatures obtained by unqualified persons
+- Section 21-4-11 - Determination of legal sufficiency of recall petition; time period for filing; amendments; notification of legal sufficiency
+- Section 21-4-12 - No recall election when officeholder resigns prior to the holding of a recall election
+- Section 21-4-13 - Procedures for recall election; number of votes required to effectuate recall; special election to fill vacancy created
+- Section 21-4-14 - Limitations on subsequent recall petitions following recall election
+- Section 21-4-15 - Manner of conducting recall elections
+- Section 21-4-16 - Campaign and financial disclosure requirements, restrictions, and qualifications
+- Section 21-4-17 - Promulgation of rules and regulations by Secretary of State
+- Section 21-4-18 - Application to court to compel election superintendent to comply with chapter; jurisdiction and venue of actions against election superintendent
+- Section 21-4-19 - Determination of eligibility to sign application for recall petition or petition for recall
+- Section 21-4-20 - Giving or receiving money or other thing of value to sign petition or affidavit; compelling person to sign petition or to remove name; signing another's name to petition; signing more than one; signing by ineligible person
+- Section 21-4-21 - Construction of chapter

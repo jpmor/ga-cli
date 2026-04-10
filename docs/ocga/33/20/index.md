@@ -1,0 +1,36 @@
+# Chapter 20 - HEALTH CARE PLANS (§§ 33-20-1 — 33-20-34)
+
+- Section 33-20-1 - Short title
+- Section 33-20-2 - Purpose and construction of chapter
+- Section 33-20-3 - Definitions
+- Section 33-20-4 - Authorization of formation of health care corporations generally
+- Section 33-20-5 - Procedure for formation of health care corporations; regulation and supervision of corporations by Commissioner generally
+- Section 33-20-6 - [Repealed] [Reserved] Board of directors; merger or consolidation of medical service corporations and hospital service corporations; powers of health care corporations generally
+- Section 33-20-7 - Bond of treasurer; deposit of funds collected from subscribers
+- Section 33-20-8 - Requirements for certificate of authority; application
+- Section 33-20-9 - Certificate of authority issuance
+- Section 33-20-10 - Expiration, renewal, and amendment of certificate of authority
+- Section 33-20-11 - Refusal, revocation, or suspension of certificate of authority generally
+- Section 33-20-12 - Mandatory refusal, revocation, or suspension
+- Section 33-20-13 - Management of corporations; general powers; requirements as to reserves, minimum subscriber's surpluses, and charges
+- Section 33-20-14 - Acceptance of applications
+- Section 33-20-15 - Issuance and contents of membership certificates
+- Section 33-20-16 - Right to become participating physician or approved health care provider
+- Section 33-20-17 - Powers of corporations to contract for provision of health care services; receipt of payments
+- Section 33-20-18 - Sale of contracts providing for payment of specified charges made by participating physicians; right of subscribers to select physicians; liability of corporations for negligence of physicians
+- Section 33-20-19 - Regulation and supervision of corporations by Commissioner generally; payment of fees and taxes by corporations generally
+- Section 33-20-20 - Submission to Commissioner of operating plan, schedule of rates, and amount of service; approval by Commissioner
+- Section 33-20-21 - Approval of Commissioner of rates to be paid to providers of services
+- Section 33-20-22 - Investment of funds of corporations
+- Section 33-20-23 - Maintenance of books and records showing funds collected and disbursed; examination of books and records by Commissioner
+- Section 33-20-24 - Filing of reports with Commissioner
+- Section 33-20-25 - Liability for expenses of Commissioner's supervisory and other activities
+- Section 33-20-26 - Powers of Commissioner as to protection of subscribers and public health and welfare
+- Section 33-20-27 - Imposition by Commissioner of administrative fine for certain acts of officers, employees, agents, or representatives of corporations
+- Section 33-20-28 - Termination of organizers, agents, solicitors engaging in unfair or deceptive practices
+- Section 33-20-29 - Unlawful actions by unauthorized persons
+- Section 33-20-30 - Resolution of disputes
+- Section 33-20-31 - Applicability and construction of chapter
+- Section 33-20-32 - Application of other provisions of Code to health care corporations
+- Section 33-20-33 - Payment of distribution of reserved funds or surplus; requirements for initial public offering; fees, taxes, and assessments; applicability of other provisions of Title 33; regulation
+- Section 33-20-34 - Conversion of nonprofit health care corporation; requirements and procedures; rules and regulations

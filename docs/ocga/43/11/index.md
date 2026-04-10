@@ -1,0 +1,56 @@
+# Chapter 11 - DENTISTS AND DENTAL HYGIENISTS (§§ 43-11-1 — 43-11-82)
+
+- Section 43-11-1 - Definitions
+- Section 43-11-2 - Georgia Board of Dentistry; members; qualifications; terms; voting; powers
+- Section 43-11-2.1 - Board authority; appointment, powers, and duties of executive director; meetings
+- Section 43-11-3 - Election of officers
+- Section 43-11-4 - Meetings
+- Section 43-11-5 - Address of board members
+- Section 43-11-6 - Expense and mileage allowances; other reimbursements
+- Section 43-11-7 - Powers and duties of board
+- Section 43-11-8 - [Repealed] [Reserved] Board to examine applicants, issue licenses, make bylaws and rules; seal; books and records
+- Section 43-11-9 - Rules and regulations affecting dental hygienists, dental assistants, or other persons
+- Section 43-11-10 - Dental specialties
+- Section 43-11-11 - Gathering of census data on practicing dentists and dental hygienists; standard form
+- Section 43-11-12 - Public inspection of board records; nondisclosure of confidential records
+- Section 43-11-13 - Service of orders and subpoenas of board; service of notice or process on executive director
+- Section 43-11-14 - Enforcement of orders and subpoenas of board; contempt
+- Section 43-11-15 - Enforcement of chapter
+- Section 43-11-16 - Liability for action of peer review committee or board
+- Section 43-11-17 - Acts which constitute the practice of dentistry
+- Section 43-11-18 - Use of full names of practitioners
+- Section 43-11-19 - Compliance with chapter as prerequisite to collection of fees for services
+- Section 43-11-20 - Training and affiliated sites; clinics; licensure examination
+- Section 43-11-21 - Conscious sedation
+- Section 43-11-21.1 - General anesthesia
+- Section 43-11-21.2 - Report of morbidity or mortality
+- Section 43-11-22 - Exceptions to application of chapter
+- Section 43-11-23 - Specialized training for dental assistant or hygienist performing certain procedures
+- Section 43-11-40 - Qualification of applicants; criminal background check
+- Section 43-11-41 - Application for provisional license to practice dentistry by credentials; procedure; criminal background check; expiration and revocation of license
+- Section 43-11-42 - Reciprocity; criminal background check
+- Section 43-11-43 - Fees
+- Section 43-11-44 - Discretionary decisions involving treatment of patients
+- Section 43-11-45.1 - Display of license
+- Section 43-11-46 - License renewal
+- Section 43-11-46.1 - Continuing education requirements; waiver
+- Section 43-11-47 - Refusal to grant, or revocation of, licenses; disciplining licensees; subpoenas; judicial review; investigations; immunity; failure to appear; voluntary surrender
+- Section 43-11-48 - Initiation of proceedings for violation of chapter; records
+- Section 43-11-49 - Burden of proof as to authority to practice dentistry
+- Section 43-11-50 - Practice of dentistry without a license
+- Section 43-11-51 - Practicing dentistry under another's license
+- Section 43-11-52 - Volunteers in dentistry and dental hygiene; special licensing; construction
+- Section 43-11-53 - Charitable dental events; temporary licenses for dentists and dental hygienists in good standing in other states; procedures
+- Section 43-11-70 - Examination requirement; issuance of license; posting license
+- Section 43-11-70.1 - Temporary license authorized
+- Section 43-11-71 - Qualifications of applicants for license; criminal background check
+- Section 43-11-71.1 - Application for license to practice dental hygiene by credentials; procedure; criminal background check; expiration of license
+- Section 43-11-72 - Corrective action against licensee
+- Section 43-11-73 - License renewal
+- Section 43-11-73.1 - Continuing education requirement; waiver; rules and regulations
+- Section 43-11-74 - Direct supervision required; scope of duties; exceptions to required supervision for dental screenings
+- Section 43-11-75 - Applicability of article
+- Section 43-11-76 - Unlicensed practice of dental hygiene
+- Section 43-11-80 - Acts, services, practices, and procedures authorized
+- Section 43-11-81 - Direct supervision required
+- Section 43-11-82 - Exceptions to application of article

@@ -1,0 +1,29 @@
+# Chapter 14 - PROOF GENERALLY (§§ 24-14-1 — 24-14-47)
+
+- Section 24-14-1 - Party with burden of proof
+- Section 24-14-2 - Change of burden in discretion of court
+- Section 24-14-3 - Required mental conviction in civil and criminal proceedings
+- Section 24-14-4 - Determining where preponderance of evidence lies
+- Section 24-14-5 - Reasonable doubt in criminal cases
+- Section 24-14-6 - Conviction based on circumstantial evidence
+- Section 24-14-7 - Positive testimony preferred over negative; exception
+- Section 24-14-8 - Number of witnesses required generally; exceptions; effect of corroboration
+- Section 24-14-9 - Inferences from evidence or lack thereof
+- Section 24-14-20 - Presumptions of law and of fact distinguished
+- Section 24-14-21 - Rebuttable presumptions of law
+- Section 24-14-22 - Presumption from failure to produce evidence
+- Section 24-14-23 - Presumption from failure to answer business letter
+- Section 24-14-24 - Presumption of occupancy of railroad right of way
+- Section 24-14-25 - Presumption of payment of check
+- Section 24-14-26 - Estoppels defined; enumeration generally
+- Section 24-14-27 - Estoppel relating to real estate
+- Section 24-14-28 - Trustees estopped to set up title adverse to trust
+- Section 24-14-29 - Equitable estoppel
+- Section 24-14-40 - Evidence of identity; burden in civil proceedings
+- Section 24-14-41 - Proof of de facto officer
+- Section 24-14-42 - Judgment admissible; effect
+- Section 24-14-43 - Calendars as proof of dates
+- Section 24-14-44 - American Experience Mortality Tables
+- Section 24-14-45 - Other mortality tables; supplemental nature
+- Section 24-14-46 - United States Department of Agriculture inspection certificates prima-facie evidence
+- Section 24-14-47 - Proof that person is dead or missing as evidence

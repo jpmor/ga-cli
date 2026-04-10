@@ -1,0 +1,245 @@
+# Chapter 2 - MILITARY AFFAIRS (§§ 38-2-1 — 38-2-1145)
+
+- Section 38-2-1 - Short title
+- Section 38-2-2 - Definitions
+- Section 38-2-3 - Division and composition of militia; membership of unorganized militia
+- Section 38-2-4 - Persons exempted from militia duty; exception
+- Section 38-2-5 - Federal call up of militia; Governor's duties; utilization of unorganized militia; effect of unit's absence
+- Section 38-2-6 - Ordering organized militia into active state service; Governor's duties; local officials' duties; declaration of state of emergency; pay
+- Section 38-2-6.1 - Request by Governor for members to report for active duty without first having declared an emergency
+- Section 38-2-7 - Declaration of martial rule; area encompassed specifically designated
+- Section 38-2-8 - State reserve list; composition; active duty; length of service computations; applicable rules and regulations
+- Section 38-2-9 - State retired list; officers; enlisted persons; grade upon transfer to list; return to active duty; computation of time
+- Section 38-2-10 - Use of National Guard in drug law enforcement, provision of medical care in medically underserved areas, and for youth opportunity training programs
+- Section 38-2-11 - Implementation of federally approved counterdrug law enforcement plans
+- Section 38-2-12 - Use of National Guard as honor guards for veterans' funerals
+- Section 38-2-20 - Land force; Army National Guard
+- Section 38-2-21 - Air force; Air National Guard
+- Section 38-2-22 - Naval force; Naval Militia
+- Section 38-2-23 - State Defense Force
+- Section 38-2-24 - Organizational and training guidelines
+- Section 38-2-25 - Assemblies; annual training; special duty; active duty; declaration of emergency
+- Section 38-2-26 - Maintenance of armories and training facilities for militia units
+- Section 38-2-27 - Organization of militia units to conform to federal regulations; Governor's organizational powers; restrictions on disbanding units
+- Section 38-2-28 - Inactive National Guard; composition
+- Section 38-2-29 - Credit for active federal service
+- Section 38-2-30 - Resumption of membership in organized militia by National Guard personnel on release from active federal service
+- Section 38-2-31 - Purchase and issue of military property; emergency purchases; disposal of obsolete property
+- Section 38-2-32 - Responsibility for military property or funds; bond; pay deductions for lost or damaged equipment; action by Attorney General to recover damages
+- Section 38-2-50 - Creation or disbandment; organization and administration; commander
+- Section 38-2-51 - Authority of Governor
+- Section 38-2-52 - Detail of officers from retired and reserve lists and National Guard to State Defense Force
+- Section 38-2-53 - Detail of National Guard enlisted personnel to State Defense Force
+- Section 38-2-54 - Duties, privileges, and immunities
+- Section 38-2-55 - Use and operation of state property
+- Section 38-2-70 - Organizations from unorganized militia; applicable regulations; enlistment and volunteers
+- Section 38-2-71 - Registration of members of unorganized militia
+- Section 38-2-72 - Volunteers or draftees from unorganized militia serving in organized militia; draft of unorganized militia; compensation and duration of duty
+- Section 38-2-73 - Failure to appear for registration or draft; penalty
+- Section 38-2-90 - Service outside state; application of state military law to such service
+- Section 38-2-91 - Rendering assistance to another state's armed forces; Governor's request and recall; requesting assistance for this state
+- Section 38-2-92 - Fresh pursuit into or beyond state; surrender; surrender not waiver of extradition
+- Section 38-2-93 - Compacts for military aid authorized
+- Section 38-2-110 - Governor as militia commander in chief; issuance and effect of regulations
+- Section 38-2-111 - Honorary Georgia Colonels and Georgia Lieutenant Colonels
+- Section 38-2-112 - Naval advisor and aide-de-camp; requirements; length of service
+- Section 38-2-130 - Creation; executive head; definition
+- Section 38-2-131 - Military division authorized; executive head; definition
+- Section 38-2-132 - Administration of militia and Department of Defense; personnel; State Personnel Board
+- Section 38-2-150 - Adjutant general - Eligibility; appointment; compensation; bond
+- Section 38-2-151 - Adjutant general - Duties; records; seal; effect of seal on documentary evidence
+- Section 38-2-152 - Assistant adjutants general; eligibility; appointment; duties; compensation; tenure
+- Section 38-2-153 - State property and fiscal officer; appointment; duties; reports; bonds; compensation
+- Section 38-2-170 - Military appropriations; military fund created; use of military funds
+- Section 38-2-171 - Appropriations for units of organized militia; apportionment by adjutant general
+- Section 38-2-172 - Transfer of funds in emergency; funds used in event of invasion
+- Section 38-2-173 - Governor authorized to borrow money
+- Section 38-2-174 - Governor authorized to accept donations for organized militia
+- Section 38-2-175 - Governor authorized to obtain all federal appropriations, property, and equipment
+- Section 38-2-176 - Appropriations of money or property by counties or municipal corporations for local military units
+- Section 38-2-177 - Establishment of defense finance and accounting services facility; steps toward establishment; intergovernmental cooperation
+- Section 38-2-190 - Definitions
+- Section 38-2-191 - Construction, conversion, expansion, or alteration of armories and other facilities authorized when adjutant general deems necessary
+- Section 38-2-192 - Funding, equipping, and maintenance of facilities
+- Section 38-2-193 - Military division authorized to accept and procure federal funds; adjutant general authorized to utilize funds for projects; recipient of federal funds
+- Section 38-2-194 - Control of armories and other facilities; officer in charge
+- Section 38-2-195 - Use of armories and other facilities
+- Section 38-2-210 - Appointment and promotion of commissioned officers; filling of vacancies; grounds for removal
+- Section 38-2-211 - Qualifications
+- Section 38-2-212 - Assignment and transfer
+- Section 38-2-213 - Oath of office; by whom administered
+- Section 38-2-214 - Uniforms and equipment
+- Section 38-2-215 - Efficiency and medical examining boards - Consideration by; composition and appointment of
+- Section 38-2-216 - Efficiency and medical examining boards - Powers; procedure for appearances; discharge; transfer to reserve or retired list
+- Section 38-2-217 - Resignations; acts constituting resignation; types of discharge after resignation; resignation of officers who are accountable for military funds or property
+- Section 38-2-218 - Absence without leave
+- Section 38-2-219 - Warrant officers
+- Section 38-2-230 - Enlistment; qualifications; period of service; transfer; discharge; extensions of enlistments
+- Section 38-2-231 - Contract and oath of enlistment; penalty
+- Section 38-2-232 - Noncommissioned officers and petty officers; appointments; appointing officer; termination of appointment
+- Section 38-2-233 - Discharges; conditions; form
+- Section 38-2-234 - Absent without leave; dropping from rolls
+- Section 38-2-250 - Pay while on active service; special duty; travel expenses; minimum base pay
+- Section 38-2-251 - [Repealed] [Reserved] Pay, care, etc., when injured or disabled in service; pensions; medical examining boards; rehearings
+- Section 38-2-252 - Uniform allowance for officers
+- Section 38-2-270 - Relief from civil or criminal liability; immunity not exclusive security for attorney's fees; defense by Attorney General authorized
+- Section 38-2-271 - Change of venue for persons indicted or subjected to civil action for performance of military duty
+- Section 38-2-272 - Exemption from arrest on civil process; uniform and equipment exempt from levy and sale
+- Section 38-2-273 - Free passage through tollgates, tunnels, toll bridges, and ferries while under orders
+- Section 38-2-274 - Unlawful conversion of military property; penalty
+- Section 38-2-275 - Unlawful wearing of uniforms and devices indicating rank; penalty
+- Section 38-2-276 - Exemptions from jury duty and street tax
+- Section 38-2-277 - Unauthorized military bodies prohibited; exceptions; support by counties or cities prohibited; penalty for membership
+- Section 38-2-278 - Devises, bequests, and conveyances to military units as societies; officers as trustees; effect of disbandment of unit
+- Section 38-2-279 - Rights of public officers and employees absent on military duty as members of organized militia or reserve forces
+- Section 38-2-280 - Reemployment in private industry; various types of absences; injunction to compel; Attorney General's aid
+- Section 38-2-281 - Exclusion of uniformed military personnel from places of amusement; penalty
+- Section 38-2-282 - Officers and warrant officers to administer oaths and witness documents
+- Section 38-2-283 - Awards; individual; unit
+- Section 38-2-284 - Applicability of part to residents who are personnel of the National Guard of other states
+- Section 38-2-285 - State sponsored life insurance program for the Georgia National Guard
+- Section 38-2-300 - Right of way for troops; exceptions; penalty
+- Section 38-2-301 - Closing places where firearms and ammunition sold, where disorder likely to occur; penalty for not obeying closing order
+- Section 38-2-302 - Control of streets in case of riot, rout, mob, tumult, or unlawful assembly; penalty for remaining on or failing to depart streets
+- Section 38-2-303 - Dispersion of mob; orders; where order unnecessary; penalty for failure to disperse
+- Section 38-2-304 - Duty of citizens to disperse when shot fired or missile thrown; penalty; felony upon failure to disperse after order
+- Section 38-2-305 - Authority of commanding officer to order vicinity of jail, building, or other place, off limits to unauthorized personnel; arrest; penalty
+- Section 38-2-306 - Prohibited conduct in area of military duty performance
+- Section 38-2-307 - Power of National Guard members to effect an arrest
+- Section 38-2-320 - through 38-2-577 - [Repealed]
+- Section 38-2-1000 - Short title
+- Section 38-2-1001 - Definitions
+- Section 38-2-1002 - Applicability; jurisdiction
+- Section 38-2-1003 - Discharge fraudulently obtained
+- Section 38-2-1004 - Calculating forfeiture punishments
+- Section 38-2-1005 - Territorial applicability of article
+- Section 38-2-1006 - State judge advocate; appointment; eligibility; staff judge advocate
+- Section 38-2-1007 - Apprehension
+- Section 38-2-1009 - Who may order the arrest or confinement of members
+- Section 38-2-1010 - Restraint of persons charged with offenses
+- Section 38-2-1011 - Confinement and imprisonment in civil jails
+- Section 38-2-1012 - No confinement with enemy prisoners
+- Section 38-2-1013 - Restriction on means of punishment
+- Section 38-2-1014 - Delivery of offenders to civil authorities
+- Section 38-2-1015 - Commanding officer's disciplinary punishment; regulations limiting; officers in charge; appeal; effect on more serious offenses
+- Section 38-2-1016 - Classification of courts-martial
+- Section 38-2-1017 - Jurisdiction of courts-martial; generally
+- Section 38-2-1018 - General courts-martial
+- Section 38-2-1019 - Special courts-martial
+- Section 38-2-1020 - Summary courts-martial
+- Section 38-2-1022 - Convening of general courts-martial
+- Section 38-2-1023 - Convening of special courts-martial
+- Section 38-2-1024 - Convening of summary courts-martial
+- Section 38-2-1025 - Eligibility to serve on courts-martial
+- Section 38-2-1026 - Military judge
+- Section 38-2-1027 - Trial counsel and assistants
+- Section 38-2-1028 - Appointment of court reporters and interpreters
+- Section 38-2-1029 - Absent and additional members; not less than six members required; disability of judge
+- Section 38-2-1030 - Charges and specification
+- Section 38-2-1031 - Compulsory self-incrimination prohibited
+- Section 38-2-1032 - Investigation; cross-examination; effect of failure to perform
+- Section 38-2-1033 - Forwarding of charges
+- Section 38-2-1034 - Advice of staff judge advocate and reference for trial; corrections
+- Section 38-2-1035 - Service of copy of charges; time period before trial
+- Section 38-2-1036 - Governor may prescribe rules and regulations
+- Section 38-2-1037 - Unlawfully influencing action of court
+- Section 38-2-1038 - Trial counsel
+- Section 38-2-1039 - Calling court into session without presence of members; purpose
+- Section 38-2-1040 - Granting continuance
+- Section 38-2-1041 - Challenges for cause; order of presentation; peremptory challenges
+- Section 38-2-1042 - Oaths
+- Section 38-2-1043 - Statute of limitations
+- Section 38-2-1044 - Double jeopardy
+- Section 38-2-1045 - Pleas of accused
+- Section 38-2-1046 - Opportunity to obtain witnesses and other evidence
+- Section 38-2-1046.1 - Issuance of process and mandates; who may issue; execution
+- Section 38-2-1047 - Refusal to appear or testify; penalty
+- Section 38-2-1048 - Contempt; penalty
+- Section 38-2-1049 - Depositions
+- Section 38-2-1050 - Admissibility of records of courts of inquiry
+- Section 38-2-1050.1 - Defense of mental disease or defect
+- Section 38-2-1051 - Voting, rulings, and charge
+- Section 38-2-1052 - Number of votes required for conviction
+- Section 38-2-1053 - Prompt announcement of findings and sentence
+- Section 38-2-1054 - Trial record; contents; authentication; accused entitled to copy
+- Section 38-2-1055 - Cruel and unusual punishments prohibited
+- Section 38-2-1056 - Maximum sentencing limits
+- Section 38-2-1057 - Effective date of sentences
+- Section 38-2-1057.1 - Deferment of sentence
+- Section 38-2-1058 - Execution of confinement; discipline while in civil jails; hard labor; civil confinement according to law
+- Section 38-2-1058.1 - Reduction of pay grade
+- Section 38-2-1058.2 - Forfeiture of pay and allowances
+- Section 38-2-1059 - Effect of error of law on appeal; material prejudice; lesser included offense
+- Section 38-2-1060 - Report of findings and sentence; submission of matters for consideration to convening authority; record of trial; modification of findings and sentence; recommendation of staff judge advocate; proceeding in revision; rehearing
+- Section 38-2-1061 - Withdrawal of appeal
+- Section 38-2-1062 - State may appeal certain rulings
+- Section 38-2-1063 - Rehearings; grounds; members of court; effect on sentence
+- Section 38-2-1064 - Guilty findings reviewed by state judge advocate
+- Section 38-2-1065 - Disposition of trial records
+- Section 38-2-1067 - Court-martial review panel; members; rules and regulations
+- Section 38-2-1070 - Appellate government counsel
+- Section 38-2-1071 - Execution of sentence extending to dismissal or dishonorable or bad conduct discharge
+- Section 38-2-1072 - Vacation of suspension of sentence; hearing; legal representation by military counsel; record of hearing
+- Section 38-2-1073 - Petition for new trial; time period; grounds
+- Section 38-2-1074 - Remission or suspension of sentence; modification of type of discharge by Governor
+- Section 38-2-1075 - Restoration of rights, privileges, and property, in event of remission; administrative discharge; reinstatement
+- Section 38-2-1076 - Finality of proceedings, findings, and sentences; binding effect
+- Section 38-2-1076.1 - Court-martial sentence requires taking leave
+- Section 38-2-1077 - Principals
+- Section 38-2-1078 - Accessory after the fact
+- Section 38-2-1079 - Conviction of lesser included offense
+- Section 38-2-1080 - Attempts
+- Section 38-2-1081 - Conspiracy
+- Section 38-2-1082 - Solicitation of desertion, mutiny, misbehavior before the enemy, or sedition
+- Section 38-2-1083 - Fraudulent enlistment, appointment, or separation
+- Section 38-2-1084 - Unlawful enlistment, appointment, or separation
+- Section 38-2-1085 - Desertion
+- Section 38-2-1086 - Absence without leave
+- Section 38-2-1087 - Missing movement of ship, aircraft, or unit
+- Section 38-2-1088 - Contempt toward officials
+- Section 38-2-1089 - Disrespect toward a superior officer
+- Section 38-2-1090 - Assaulting or willfully disobeying officer
+- Section 38-2-1091 - Insubordination toward warrant or noncommissioned officer
+- Section 38-2-1092 - Failure to obey order or regulation
+- Section 38-2-1093 - Cruelty and maltreatment of others under one's command
+- Section 38-2-1094 - Mutiny and sedition
+- Section 38-2-1095 - Resistance, breach of arrest, and escape
+- Section 38-2-1096 - Assistance in a prisoner's escape
+- Section 38-2-1097 - Unlawful detention
+- Section 38-2-1098 - Noncompliance with procedural rules; unnecessary delay
+- Section 38-2-1099 - Misbehavior before the enemy
+- Section 38-2-1100 - Compelling surrender
+- Section 38-2-1101 - Disclosure or improper use of countersign or parole
+- Section 38-2-1102 - Forcing a safeguard
+- Section 38-2-1103 - Captured or abandoned property; trading and looting prohibited
+- Section 38-2-1104 - Aiding the enemy
+- Section 38-2-1105 - Misconduct as prisoner of war
+- Section 38-2-1107 - Signing false official document; making false official statement
+- Section 38-2-1108 - Military property; loss, damage, destruction, or wrongful disposition
+- Section 38-2-1109 - Property other than military property; waste, spoilage, or destruction
+- Section 38-2-1110 - Willful or negligent hazarding of vessel
+- Section 38-2-1111 - Driving while under the influence of drugs or alcohol
+- Section 38-2-1112 - Under the influence of alcohol while on duty
+- Section 38-2-1112.1 - Use, possession, manufacture, distribution, or importation of certain controlled substances; exceptions
+- Section 38-2-1113 - Drunk or sleeping while standing post
+- Section 38-2-1115 - Malingering; feigning illness; self-infliction of injury
+- Section 38-2-1116 - Riot or breach of peace
+- Section 38-2-1117 - Provoking words or gestures
+- Section 38-2-1118 - through 38-2-1130 - Reserved
+- Section 38-2-1131 - Perjury
+- Section 38-2-1132 - Fraudulent claims against the government
+- Section 38-2-1133 - Conduct unbecoming an officer
+- Section 38-2-1134 - General provision
+- Section 38-2-1135 - Courts of inquiry; composition; parties; report
+- Section 38-2-1136 - Authority to administer oaths; limitations; effect of signature
+- Section 38-2-1136.1 - Marshals; duties, powers, immunities
+- Section 38-2-1137 - Explanation of Code sections to enlisted personnel
+- Section 38-2-1138 - Complaints of wrongs by commanding officers
+- Section 38-2-1138.1 - State administrative letter of reprimand
+- Section 38-2-1139 - Redress of injuries to private property; complaint; investigating board; assessment
+- Section 38-2-1140 - Delegation of authority by Governor
+- Section 38-2-1141 - Fees and authorized travel expenses of witnesses, victims, court reporters, and interpreters
+- Section 38-2-1142 - Fines for contempt; methods of collection and payment
+- Section 38-2-1143 - Construction with the federal Uniform Code of Military Justice
+- Section 38-2-1144 - Immunity
+- Section 38-2-1145 - Severability

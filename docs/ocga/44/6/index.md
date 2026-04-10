@@ -1,0 +1,85 @@
+# Chapter 6 - ESTATES (§§ 44-6-1 — 44-6-206)
+
+- Section 44-6-1 - [Repealed] Rule against perpetuities; exception for certain trusts for employees
+- Section 44-6-2 - Merger of lesser estate into greater
+- Section 44-6-3 - Lien on one's own property; purchase of lien on own property and enforcement thereof
+- Section 44-6-20 - &quot;Absolute or fee simple estate&quot; defined
+- Section 44-6-21 - Words necessary to create absolute estate; preference for construing as conveyance; maker's intention controls; parol evidence
+- Section 44-6-22 - Creation of estate to commence in future; fee in abeyance; fee limited upon fee
+- Section 44-6-23 - Construction of words such as &quot;heirs&quot; or &quot;heirs of body.&quot;
+- Section 44-6-24 - Estates tail abolished; effect of limitations which would create estate tail by implication
+- Section 44-6-25 - Construction and effect of limitations over after death of first taker
+- Section 44-6-40 - Grant of estates upon conditions
+- Section 44-6-41 - Conditions precedent and subsequent distinguished; preferred construction and remedy
+- Section 44-6-42 - Right of entry after breach of condition subsequent
+- Section 44-6-43 - Certain conditions void
+- Section 44-6-44 - Effect of legal disabilities on conditions; notice of condition
+- Section 44-6-60 - Nature of estates in remainder and in reversion; rights of reversioner
+- Section 44-6-61 - Vested and contingent remainders distinguished
+- Section 44-6-62 - Effect of defeat of estate on remainder
+- Section 44-6-63 - [Repealed] Interest of heirs of remainderman
+- Section 44-6-64 - Creation of remainders by parol
+- Section 44-6-65 - Creation of remainder for persons not in being; vested remainder subject to open
+- Section 44-6-66 - Preference for vested remainders; construction of words of survivorship in wills
+- Section 44-6-67 - Effect of executor's assent to legacy to life tenant on remainderman; possession at termination of life estate
+- Section 44-6-68 - Validity of limitations over upon marriage of widow
+- Section 44-6-80 - Nature of life estates; estates during widowhood
+- Section 44-6-81 - Length of life estate
+- Section 44-6-82 - How and in what property life estate may be created
+- Section 44-6-83 - Rights and duties of life tenant; forfeiture of interest to remainderman
+- Section 44-6-84 - Ownership of increase of property
+- Section 44-6-85 - When life tenant entitled to emblements
+- Section 44-6-86 - Rights of lessee upon termination of life estate
+- Section 44-6-87 - Effect of purported sale of estate by life tenant
+- Section 44-6-88 - Demand for bond by purchaser of life estate in personalty; effect of failure to give bond
+- Section 44-6-89 - Removal of personalty beyond state by life tenant; forfeiture; restraint
+- Section 44-6-90 - Jurisdiction of judge of superior court as to life estates and contingent remainders
+- Section 44-6-100 - &quot;Estate for years&quot; defined; estate for years in lands passes as realty
+- Section 44-6-101 - Estate for years distinguished from contract of hiring and from landlord and tenant relationship
+- Section 44-6-102 - &quot;Lease&quot; defined; extent of interest; when mining interest passes
+- Section 44-6-103 - Tenant's rights and duties; grounds of forfeiture
+- Section 44-6-104 - Right of tenant for years to emblements
+- Section 44-6-105 - Liability of tenant for years for repairs and expenses
+- Section 44-6-106 - Dependent and independent covenants or conditions
+- Section 44-6-120 - &quot;Tenancy in common&quot; defined; presumption of equality of shares; effect of inequality of shares on right of possession
+- Section 44-6-121 - Rights and liabilities of cotenants; accounting
+- Section 44-6-122 - Accounting between cotenants for unequal share of rents or profits; priority of claim over certain liens
+- Section 44-6-123 - Adverse possession against cotenant; action to recover possession
+- Section 44-6-140 - When equitable partition authorized
+- Section 44-6-141 - Molding of decree; discretion of court
+- Section 44-6-142 - Effect of decree on title
+- Section 44-6-160 - Grounds for partition; jurisdiction; contents of petition
+- Section 44-6-161 - Who may apply for partition
+- Section 44-6-162 - Notice of intention to apply for writ of partition
+- Section 44-6-163 - Issuance of writ of partition; appointment of partitioners
+- Section 44-6-164 - Appointment of surveyor; notice of time of execution of writ; oath of partitioners; principles governing partition; partitioner's return
+- Section 44-6-165 - Objections and defenses to right of applicant, writ, or return; jury trial
+- Section 44-6-166 - Return of partitioners as judgment of court; conclusiveness; when second partition ordered; effect
+- Section 44-6-166.1 - Partition when physical division of property is inequitable
+- Section 44-6-167 - When sale of lands ordered; procedure; place of sale; notice
+- Section 44-6-168 - Commissioners' return; distribution of proceeds; liability of commissioners for moneys received; contempt
+- Section 44-6-169 - Title to property sold; execution of deed of conveyance by commissioners
+- Section 44-6-170 - Treatment of extraordinary cases; denial of sale or partition
+- Section 44-6-171 - Setting aside judgment by parties under disability, absent, or not notified; time limitations; conclusiveness of judgment; effect of proceedings on bona fide purchaser
+- Section 44-6-172 - Partition of realty by life tenants - Effect on other parties; conditions
+- Section 44-6-173 - Partition of realty by life tenants - Appointment of guardians ad litem; service of notice of application; time for answer
+- Section 44-6-174 - Partition of realty by life tenants - Cumulative effect
+- Section 44-6-180 - Definitions
+- Section 44-6-181 - Application; determination of heirs property
+- Section 44-6-182 - Posting notice sign on property
+- Section 44-6-183 - Qualifications of partitioners
+- Section 44-6-184 - Appraisal of heirs property; other method to determine value; notice of value; required hearing
+- Section 44-6-185 - Partition by sale; purchase by party; buyouts; sale to others; notice and hearing
+- Section 44-6-186 - Partitions in kind
+- Section 44-6-187 - Open market sales; brokers and commissions; sealed bids or public sale
+- Section 44-6-188 - Obligation of brokers to court; reporting requirements
+- Section 44-6-189 - Uniformity among states
+- Section 44-6-189.1 - Construction with federal Electronic Signatures in Global and National Commerce Act
+- Section 44-6-190 - Creating joint tenancy with survivorship; severance; effect of Code section on other laws
+- Section 44-6-200 - Short title
+- Section 44-6-201 - Validity of nonvested property interest or power of appointment
+- Section 44-6-202 - Time of creation of nonvested property interest or power of appointment
+- Section 44-6-203 - Reform of disposition by court to approximate transferor's plan of distribution
+- Section 44-6-204 - Exceptions to applicability of article
+- Section 44-6-205 - Applicability of article; court reform of nonvested dispositions created before article became effective
+- Section 44-6-206 - Application and construction of article

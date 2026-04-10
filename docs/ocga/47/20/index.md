@@ -1,0 +1,38 @@
+# Chapter 20 - PUBLIC RETIREMENT SYSTEMS STANDARDS (§§ 47-20-1 — 47-20-88)
+
+- Section 47-20-1 - Short title
+- Section 47-20-2 - Legislative purpose
+- Section 47-20-3 - Definitions
+- Section 47-20-4 - Publicly funded retirement system subject to chapter; not applicable to defined contribution retirement system
+- Section 47-20-5 - Common law duties of trustees applicable
+- Section 47-20-10 - Minimum annual employer contribution
+- Section 47-20-10.1 - Other post-employment benefits
+- Section 47-20-11 - [Repealed] Minimum funding causing financial hardship in local retirement system
+- Section 47-20-12 - [Repealed] State controlled systems; certification of conformance to standards; freezing of benefits and other provisions when not in conformance
+- Section 47-20-13 - Financially sound systems exempt from minimum funding standards
+- Section 47-20-20 - Freezing of benefits and other provisions; amount of annual employer contribution
+- Section 47-20-21 - Triennial actuarial investigations; penalties for violations shown; list of local systems not in conformance reported triennially
+- Section 47-20-30 - Definitions
+- Section 47-20-31 - Retirement bills must carry legislative counsel number when introduced; changes in bills prior to introduction
+- Section 47-20-32 - Prerequisites to introduction of nonfiscal retirement bill
+- Section 47-20-33 - Amendment of a nonfiscal retirement bill
+- Section 47-20-34 - Introduction of bill and preliminary consideration by committee
+- Section 47-20-35 - Perfection of bill by committee; actuarial investigation
+- Section 47-20-36 - Scope of actuarial investigation; certificate and summary of investigation attached to bill
+- Section 47-20-37 - Consideration of bill on the floor; approval of amendments by state auditor; effect of passing bill in violation of this article
+- Section 47-20-50 - Effective date of enacted retirement bill with fiscal impact; unfunded enacted bills; requirements for retirement bills having fiscal impact
+- Section 47-20-50.1 - Report of funding of retirement bills having a fiscal impact; publication
+- Section 47-20-51 - Accrued retirement benefits are not created, enhanced, or diminished by this chapter
+- Section 47-20-60 - State auditor authorized to provide personnel to carry out duties under chapter; funds authorized; cooperation of state officials, agencies, and employees
+- Section 47-20-61 - Certificates and summaries of actuarial investigations attached to enrolled Act
+- Section 47-20-62 - Effective date of chapter; consideration of fiscal retirement bills by 1984 regular session
+- Section 47-20-80 - Short title
+- Section 47-20-81 - Fund defined; applicability
+- Section 47-20-82 - Investing funds; eligibility; investment limitation
+- Section 47-20-83 - Certificated or uncertificated forms of investment; real estate investments
+- Section 47-20-83.1 - [Expired] Definitions; identification of scrutinized companies where public funds held; Scrutinized Companies with Activities in the Iran Petroleum Energy Sector List; reporting
+- Section 47-20-84 - Large retirement systems
+- Section 47-20-85 - Compliance
+- Section 47-20-86 - Enforcement
+- Section 47-20-87 - Definitions; eligible large retirement systems authorized to invest in certain alternative investments; applicability
+- Section 47-20-88 - Role, duties, and responsibilities of a fiduciary

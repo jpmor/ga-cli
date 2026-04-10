@@ -1,0 +1,22 @@
+# Chapter 85 - INTERLOCAL RISK MANAGEMENT AGENCIES (§§ 36-85-1 — 36-85-20)
+
+- Section 36-85-1 - Definitions
+- Section 36-85-2 - Formation; functions; counties and municipalities as separate classes; agreements creating agencies; files of administrator are sole property of agency
+- Section 36-85-3 - Board of trustees
+- Section 36-85-4 - Agency not an insurer
+- Section 36-85-5 - Certificate of authority; application
+- Section 36-85-6 - Approval of certificate; renewal
+- Section 36-85-7 - Funds to be maintained
+- Section 36-85-8 - Investment of assets
+- Section 36-85-9 - Local government liability for funds
+- Section 36-85-10 - Contracts between agency and administrator
+- Section 36-85-11 - Fidelity bond and errors and omissions insurance; administrators to maintain office in state
+- Section 36-85-12 - Revocation, suspension, or refusal to renew certificate of authority; hearing; voluntary dissolution of fund
+- Section 36-85-13 - Exemption from state and local taxes and fees
+- Section 36-85-14 - Periodic examinations
+- Section 36-85-15 - Fund deficiencies; assessments upon members; liquidation of fund
+- Section 36-85-16 - Rules and regulations
+- Section 36-85-17 - Hearings
+- Section 36-85-18 - Excess loss funding program required
+- Section 36-85-19 - Audits of funds
+- Section 36-85-20 - Exercise of authority not provision of liability insurance; sovereign immunity

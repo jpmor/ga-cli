@@ -1,0 +1,37 @@
+# Chapter 32 - GEORGIA REGIONAL TRANSPORTATION AUTHORITY (§§ 50-32-1 — 50-32-71)
+
+- Section 50-32-1 - Short title
+- Section 50-32-2 - Definitions
+- Section 50-32-3 - Creation of authority and board; quorum; vacancies
+- Section 50-32-4 - Membership; terms; appointment; expenses; removal; applicability of Chapter 10 of Title 45; meetings; voting; assignment
+- Section 50-32-5 - [Repealed] Development of the Atlanta region's Concept 3 transit proposal; use of federal and state planning funds; assessment of economic benefit and environmental impact
+- Section 50-32-10 - Purpose of authority
+- Section 50-32-11 - Powers of authority generally
+- Section 50-32-12 - Creation and activation of special districts
+- Section 50-32-13 - Governor's power to delegate
+- Section 50-32-14 - Expenditure of state or federal funds
+- Section 50-32-15 - Issuance of bonds
+- Section 50-32-16 - Utilization of appropriated funds
+- Section 50-32-17 - Power of eminent domain
+- Section 50-32-18 - Rights of authority
+- Section 50-32-19 - Liability of authority
+- Section 50-32-20 - Access to all books, records, and other information resources; assistance of personnel; use of facilities, vehicles, aircraft, and other equipment
+- Section 50-32-30 - Funding resources
+- Section 50-32-31 - Revenue bonds
+- Section 50-32-32 - Guaranteed revenue bonds
+- Section 50-32-33 - Bonds are made securities
+- Section 50-32-34 - Pledge by the state
+- Section 50-32-35 - Applicability of Chapter 5 of Title 10
+- Section 50-32-36 - State immune from obligations or indebtedness created by authority
+- Section 50-32-37 - Legislative findings; bonds, notes, or other obligations issued by the authority exempt from taxation
+- Section 50-32-38 - Issuance of bonds or other obligations subject to approval of commission
+- Section 50-32-39 - Limitation of indebtedness
+- Section 50-32-50 - Local government services approval and funding
+- Section 50-32-51 - Lease agreements
+- Section 50-32-52 - Grants or loans to local government
+- Section 50-32-53 - Effect of failure to implement local government services on state and federal grants
+- Section 50-32-54 - Failure of local government to collect and remit amounts due to authority
+- Section 50-32-55 - Uninterrupted transit services
+- Section 50-32-60 - Department of Transportation's allocation of funds unaltered
+- Section 50-32-70 - Chapter to be liberally construed
+- Section 50-32-71 - [Repealed] Exemption of buses, motor vehicles, and rapid rail systems of the authority from motor carrier regulations

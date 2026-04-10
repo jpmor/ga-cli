@@ -1,0 +1,52 @@
+# Chapter 9 - GEO. L. SMITH II GEORGIA WORLD CONGRESS CENTER (§§ 10-9-1 — 10-9-61)
+
+- Section 10-9-1 - Short title
+- Section 10-9-2 - Re-creation of &quot;Geo. L. Smith II Georgia World Congress Center Authority.&quot;
+- Section 10-9-3 - Definitions
+- Section 10-9-4 - Purpose of authority; powers generally
+- Section 10-9-4.1 - Adoption and enforcement of ordinances relating to property, affairs, and administration of authority; penalties
+- Section 10-9-5 - Transfer of duties of Department of Economic Development; actions to be performed by authority under contract with and on behalf of department; costs; ratification of past actions
+- Section 10-9-6 - Appointment and terms of members of board of governors; vacancies; travel expenses and per diem
+- Section 10-9-7 - Management of business and affairs of authority; bylaws, rules, and regulations; quorum; delegation of authority to committees
+- Section 10-9-8 - Meetings of board; notice; removal of members from board
+- Section 10-9-9 - Officers of board; terms; authority; compensation
+- Section 10-9-10 - Exemption of authority from taxation
+- Section 10-9-11 - Venue and jurisdiction of actions under chapter
+- Section 10-9-12 - Acceptance of grants, contributions, and gifts of money, property, or services
+- Section 10-9-13 - Moneys received considered trust funds; exception
+- Section 10-9-14 - Authority to fix charges for use; use of earnings; terms and conditions for use of project; contract required; penalty for violation of commercial activity prohibition
+- Section 10-9-14.1 - Bylaws, resolutions, regulations, or ordinances governing use of facilities; exclusion of persons; grants for particular uses
+- Section 10-9-15 - Power of authority with regard to ensuring maximum use of project; rules and regulations for operation and use; security guards
+- Section 10-9-16 - Duties of Attorney General
+- Section 10-9-16.1 - Authority to contract with local entities with regard to local trade and convention center; provision of goods and services; costs, liabilities, and expenses
+- Section 10-9-16.2 - Disposition of real property not required by authority; excepted property
+- Section 10-9-17 - Powers declared supplemental and additional
+- Section 10-9-18 - Liberal construction of chapter
+- Section 10-9-19 - Accounts and audits
+- Section 10-9-20 - Geo. L. Smith II Georgia World Congress Center Authority Overview Committee created; composition; officers; duties
+- Section 10-9-21 - Cooperation of other state agencies; staff members and independent consultants
+- Section 10-9-22 - Authority to cooperate with committee; enforcement actions; annual committee reports
+- Section 10-9-23 - Criteria for evaluating authority
+- Section 10-9-24 - Expenditure of funds; expenses of committee members
+- Section 10-9-40 - Issuance of bonds authorized; purpose
+- Section 10-9-41 - Terms and conditions of bonds; form
+- Section 10-9-42 - Signatures; seal
+- Section 10-9-43 - Tax exemption
+- Section 10-9-44 - Sale of bonds; interest rate
+- Section 10-9-45 - Use of proceeds; issuance of additional bonds in case of deficit; use of surplus
+- Section 10-9-46 - Interim revenue receipts, certificates, or bonds
+- Section 10-9-47 - Replacement of mutilated, destroyed, or lost bonds
+- Section 10-9-48 - Proceedings and conditions for issuance; resolution
+- Section 10-9-49 - Lease of facilities; terms and conditions; contracts with public entities
+- Section 10-9-50 - Enforceability against authority; limitation on state liability
+- Section 10-9-51 - Security; provisions in resolution or trust indenture for protection of bondholder rights and remedies; sinking fund
+- Section 10-9-52 - Enforcement of rights by bondholder, receiver, or indenture trustee
+- Section 10-9-53 - Payment of sale proceeds to trustee
+- Section 10-9-54 - Use of services of Georgia State Financing and Investment Commission; professional services for projects
+- Section 10-9-55 - Refunding bonds
+- Section 10-9-56 - Bonds made securities for investment and deposit purposes
+- Section 10-9-57 - Validation of bonds; applicability of &quot;Revenue Bond Law.&quot;
+- Section 10-9-58 - Legislative findings; state covenants
+- Section 10-9-59 - Inapplicability of &quot;Georgia Uniform Securities Act of 2008.&quot;
+- Section 10-9-60 - Jurisdiction over actions
+- Section 10-9-61 - Cumulative nature of authority powers; power to pledge or assign rents, revenues, earnings, and funds as security for indebtedness

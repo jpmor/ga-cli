@@ -1,0 +1,36 @@
+# Chapter 7 - SURETYSHIP (§§ 10-7-1 — 10-7-57)
+
+- Section 10-7-1 - Contract of suretyship or guaranty defined; liability of surety generally
+- Section 10-7-2 - Nature of obligation of surety
+- Section 10-7-3 - Suretyship not extended by implication
+- Section 10-7-4 - Form of contract immaterial
+- Section 10-7-20 - Effect of release of or compounding with surety
+- Section 10-7-21 - Novation; effect
+- Section 10-7-22 - Discharge of surety by increase of risk
+- Section 10-7-23 - Refusal to deliver evidence of debt and securities on tender of amount of debt as discharging surety
+- Section 10-7-24 - Refusal to sue principal after notice by surety as discharge
+- Section 10-7-25 - Extending liability
+- Section 10-7-26 - Promise to pay in ignorance of discharge
+- Section 10-7-27 - Provisions of Uniform Commercial Code to control
+- Section 10-7-28 - Process sued out and judgment entered against surety as such
+- Section 10-7-29 - Judgment against principal and surety at same time
+- Section 10-7-30 - Bad faith refusal of corporate surety to perform suretyship contract
+- Section 10-7-31 - Rights of certain parties claiming protection under a payment bond or security deposit; notice of commencement of work
+- Section 10-7-40 - Attachment against principal
+- Section 10-7-41 - Right of surety or endorser to recover amount paid, interest, and costs
+- Section 10-7-42 - Effect of judgment against surety
+- Section 10-7-43 - Recovery of usury paid by surety
+- Section 10-7-44 - Foreclosure of mortgage or enforcement of security given by principal
+- Section 10-7-45 - Proof of suretyship by parol
+- Section 10-7-46 - Proof of suretyship after judgment
+- Section 10-7-47 - Control of execution and judgment by surety; subrogation to plaintiff's rights
+- Section 10-7-48 - Control of execution and judgment by surety when sued separately
+- Section 10-7-49 - Payment pending action; judgment for plaintiff for use of surety
+- Section 10-7-50 - Compelling contribution from cosureties after paying more than equal share; effect of cosurety's insolvency
+- Section 10-7-51 - Interest on sum recovered as contribution
+- Section 10-7-52 - Duty to account for indemnification from principal; compelling transfer of security from principal
+- Section 10-7-53 - Controlling action on debt and judgments therein against cosureties
+- Section 10-7-54 - Endorser's right to control judgment on debt and execution thereon
+- Section 10-7-55 - Protection of bona fide purchasers when surety controls judgment
+- Section 10-7-56 - Subrogation to rights of creditor; priority of claim
+- Section 10-7-57 - Substitution in place of creditor as to securities held by creditor

@@ -1,0 +1,92 @@
+# Chapter 3 - GEORGIA BUREAU OF INVESTIGATION (§§ 35-3-1 — 35-3-204)
+
+- Section 35-3-1 - Definitions
+- Section 35-3-2 - Creation
+- Section 35-3-3 - Divisions of bureau
+- Section 35-3-4 - Powers and duties of bureau generally
+- Section 35-3-4.1 - Subpoena for production of electronic communication service records for computer or electronic device used in furtherance of certain offenses against minors
+- Section 35-3-4.2 - Subpoena authority for investigating fraudulent real estate transactions
+- Section 35-3-4.3 - Subpoena power for investigations of violations involving trafficking of persons for labor or sexual servitude
+- Section 35-3-4.4 - Issuance of a subpoena; failure to comply
+- Section 35-3-4.5 - Subpoena for voting records; audit; penalty for noncompliance
+- Section 35-3-5 - Director - Creation; appointment and removal; powers and duties
+- Section 35-3-6 - Director - Unclassified service; compensation
+- Section 35-3-7 - Agreements by director and commissioner for provision of services and material
+- Section 35-3-8 - Powers of agents of bureau generally
+- Section 35-3-8.1 - Power of bureau to assist other law enforcement agencies; jurisdiction in terrorism cases
+- Section 35-3-9 - Narcotics agents
+- Section 35-3-9.1 - [Repealed] Special Cocaine Task Force
+- Section 35-3-9.2 - [Repealed] Mobile cocaine education van
+- Section 35-3-10 - Participation by bureau personnel and director in Employees' Retirement System of Georgia
+- Section 35-3-11 - Applicability of merit system to agents of bureau; retention of badge and weapon by disabled agent
+- Section 35-3-12 - Payment of medical and similar expenses of members injured in line of duty; procedure
+- Section 35-3-13 - Requests for investigation of criminal matters and crime related fires; access to local services and records
+- Section 35-3-14 - Bureau to publicly post and share on website certain information from Law Enforcement Notification System of United States Department of Homeland Security
+- Section 35-3-15 - and 35-3-16 - [Repealed]
+- Section 35-3-30 - Definitions
+- Section 35-3-31 - Establishment of center; staff and equipment generally; State Personnel Board status of personnel
+- Section 35-3-32 - Establishment of council; composition; duties and responsibilities of council generally
+- Section 35-3-33 - Powers and duties of center generally
+- Section 35-3-34 - Disclosure and dissemination of criminal records to private persons and businesses; resulting responsibility and liability of issuing center; provision of certain information to the FBI in conjunction with the National Instant Criminal Background Check System
+- Section 35-3-34.1 - Circumstances when exonerated first offender's criminal record may be disclosed
+- Section 35-3-34.2 - Exchange of national criminal history background checks on providers of care to children, the elderly, and persons with disabilities
+- Section 35-3-35 - Disclosure and dissemination of records to public agencies and political subdivisions; responsibility and liability of issuing center
+- Section 35-3-35.1 - Superseded
+- Section 35-3-36 - Duties of state criminal justice agencies as to submission of fingerprints, photographs, and other identifying data to center; responsibility for accuracy
+- Section 35-3-37 - Criminal history record information; review; corrections; restriction of access for certain dispositions
+- Section 35-3-38 - Unauthorized requests or disclosures of criminal history record information; disclosure of techniques used to ensure security or privacy of criminal history records
+- Section 35-3-39 - Effect of neglect or refusal of official to act as required by article
+- Section 35-3-39.1 - National Crime Prevention and Privacy Compact; ratification; criminal history records repository
+- Section 35-3-40 - Construction of article
+- Section 35-3-60 - Short title
+- Section 35-3-61 - Legislative findings; purpose; liberal construction
+- Section 35-3-62 - &quot;Terroristic act&quot; defined
+- Section 35-3-63 - Creation of task force; purposes
+- Section 35-3-64 - Confidentiality of investigative reports and identity of agents
+- Section 35-3-65 - Authority to work with other law enforcement agencies
+- Section 35-3-80 - Definitions
+- Section 35-3-81 - Establishment, development, maintenance, and operation of center; staff
+- Section 35-3-82 - Powers and duties
+- Section 35-3-83 - Missing child reports
+- Section 35-3-84 - Sending information to center
+- Section 35-3-85 - Registration of related organizations
+- Section 35-3-100 - Short title
+- Section 35-3-101 - Definitions
+- Section 35-3-102 - Permission required for use of bureau nomenclature
+- Section 35-3-103 - Permission required for use of bureau symbols
+- Section 35-3-104 - Procedures for seeking permission to use bureau nomenclature or symbols
+- Section 35-3-105 - Injunction against violations
+- Section 35-3-106 - Civil penalties
+- Section 35-3-107 - Damage suits against violators
+- Section 35-3-108 - Criminal penalties
+- Section 35-3-150 - Definitions
+- Section 35-3-151 - Responsibilities
+- Section 35-3-152 - Appointment, powers, and responsibilities of division director
+- Section 35-3-153 - Chief medical examiner office created; appointment; responsibilities
+- Section 35-3-154 - Division requirements
+- Section 35-3-154.1 - Admission of reports from state crime laboratory
+- Section 35-3-155 - Application of Administrative Procedure Act
+- Section 35-3-160 - DNA analysis in felony convictions and certain felony charges; performance of tests
+- Section 35-3-161 - Time and procedure for withdrawal of blood samples
+- Section 35-3-162 - Procedure for analysis and storage of blood sample; use of remainder of sample not subjected to analysis; confidentiality of results
+- Section 35-3-163 - Dissemination of information in data bank to law enforcement officials; comparison of profile; request for search; separate statistical data base authorized; fee for search and comparative analysis
+- Section 35-3-164 - Unlawful dissemination or use of information; obtaining sample without authority
+- Section 35-3-165 - Expungement of DNA profile in data bank; requirements
+- Section 35-3-170 - Short title
+- Section 35-3-171 - Definitions
+- Section 35-3-172 - Development and implementation of state-wide alert system for disabled adults and medically endangered persons
+- Section 35-3-173 - Director to be state-wide coordinator for alert system
+- Section 35-3-174 - Time for reporting elopement of disabled person from personal care home and assisted living community
+- Section 35-3-175 - Recruitment of media, private and governmental entities, and others for assistance in developing and implementing alert system; contractual agreements for system support
+- Section 35-3-176 - Criteria for activating alert system
+- Section 35-3-177 - Verification that criteria for activation have been met
+- Section 35-3-178 - Obligations of agencies participating in alert system; participation of Georgia Lottery Corporation in disseminating alert information through retail establishments
+- Section 35-3-179 - Termination of alert system with respect to particular disabled adult or medically endangered person
+- Section 35-3-180 - Immunity from civil damages for dissemination of alert information
+- Section 35-3-190 - State-wide alert system for unapprehended murder or rape suspects determined to be serious public threats
+- Section 35-3-191 - State-wide alert system for suspects of crimes involving death or serious injury of peace officer; alert system for missing peace officer
+- Section 35-3-200 - Definitions
+- Section 35-3-201 - Georgia Information Sharing and Analysis Center established; purpose
+- Section 35-3-202 - [Reserved] Responsibilities of director for center operations
+- Section 35-3-203 - Cooperative activities of center
+- Section 35-3-204 - Membership; availability of analysts

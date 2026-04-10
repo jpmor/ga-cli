@@ -1,0 +1,26 @@
+# Chapter 6 - DEPARTMENT OF AUDITS AND ACCOUNTS (§§ 50-6-1 — 50-6-32)
+
+- Section 50-6-1 - Department created; election of state auditor
+- Section 50-6-2 - Department to have suitable offices, equipment, and conveniences at state expense
+- Section 50-6-3 - Department to audit all state institutions; other auditing agencies not authorized
+- Section 50-6-4 - Special examinations, audits, and vulnerability assessments
+- Section 50-6-5 - Examination of motor fuel and tobacco products distributors
+- Section 50-6-6 - Audit of school and university systems; additional audits authorized; standards; reports
+- Section 50-6-7 - State officials to produce books, records, and other papers to the state auditor for examination
+- Section 50-6-8 - Chapter does not affect Department of Banking and Finance
+- Section 50-6-9 - Inspection of work papers and preliminary drafts of state auditor
+- Section 50-6-10 - Performance audit of homeless programs
+- Section 50-6-11 - Performance audit of State Housing Trust Fund for the Homeless
+- Section 50-6-20 - Salary; expenses; duties; bond
+- Section 50-6-21 - Investigation expenses
+- Section 50-6-22 - Officers and assistants
+- Section 50-6-23 - Cooperation with appropriations committees
+- Section 50-6-24 - Powers and duties
+- Section 50-6-25 - Maintenance of statistics on architectural and engineering firms doing business with the state; ineligibility of firms
+- Section 50-6-26 - [Repealed] [Reserved] Preparation and publication of forms; duty to use
+- Section 50-6-27 - Annual personnel report
+- Section 50-6-28 - Investigatory duties generally
+- Section 50-6-29 - Power to compel production of evidence; confidential information
+- Section 50-6-30 - Hearings; Attorney General assistance
+- Section 50-6-31 - Procedure for contempt of court where summons not obeyed
+- Section 50-6-32 - Public website for state expenditure information

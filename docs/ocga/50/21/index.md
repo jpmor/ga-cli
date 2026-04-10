@@ -1,0 +1,22 @@
+# Chapter 21 - WAIVER OF SOVEREIGN IMMUNITY AS TO ACTIONS EX CONTRACTU; STATE TORT CLAIMS (§§ 50-21-1 — 50-21-37)
+
+- Section 50-21-1 - Waiver of sovereign immunity as to actions ex contractu for breach of written contract to which state is party; venue
+- Section 50-21-20 - Short title
+- Section 50-21-21 - Legislative intent
+- Section 50-21-22 - Definitions
+- Section 50-21-23 - Limited waiver of sovereign immunity
+- Section 50-21-24 - Exceptions to state liability
+- Section 50-21-24.1 - Workers' compensation exclusive remedy not waived; workers' compensation fund to pay claims
+- Section 50-21-25 - Immunity of state officers or employees for acts within scope of official duties or employment; officer or employee not named in action against state; settlement or judgment
+- Section 50-21-26 - Notice of claim against state; time for commencement of action; examination of records to facilitate investigation of claims; confidential nature of documents and information furnished
+- Section 50-21-27 - Retroactive operation; limitations of actions; applicability of other related statutes
+- Section 50-21-28 - Venue of actions
+- Section 50-21-29 - Trial of actions; limitations on amounts of damages; caps to limit total damages regardless of the type claimed
+- Section 50-21-30 - Punitive or exemplary damages or interest prior to judgment not allowed
+- Section 50-21-31 - Interest rate after judgment
+- Section 50-21-32 - Signing of pleadings, motions, or other papers
+- Section 50-21-33 - Liability insurance or self-insurance programs; State Tort Claims Trust Fund; premiums and deductibles; incentive programs authorized; merger of preexisting programs and funds; additional coverages
+- Section 50-21-34 - Payment of claims or judgments; execution or levy against state funds or property prohibited; amount of fiscal year aggregate liability
+- Section 50-21-35 - Service of process; mailing of complaint
+- Section 50-21-36 - Settlement of claims
+- Section 50-21-37 - Hold harmless and indemnification agreements

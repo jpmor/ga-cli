@@ -1,0 +1,70 @@
+# Article 3 - NEGOTIABLE INSTRUMENTS (§§ 11-3-101 — 11-3-605)
+
+- Section 11-3-101 - Short title
+- Section 11-3-102 - Subject matter
+- Section 11-3-103 - Definitions
+- Section 11-3-104 - Negotiable instrument
+- Section 11-3-105 - Issue of instrument
+- Section 11-3-106 - Unconditional promise or order
+- Section 11-3-107 - Instrument payable in foreign money
+- Section 11-3-108 - Payable on demand or at definite time
+- Section 11-3-109 - Payable to bearer or to order
+- Section 11-3-110 - Identification of person to whom instrument is payable
+- Section 11-3-111 - Place of payment
+- Section 11-3-112 - Interest
+- Section 11-3-113 - Date of instrument
+- Section 11-3-114 - Contradictory terms of instrument
+- Section 11-3-115 - Incomplete instrument
+- Section 11-3-116 - Joint and several liability; contribution
+- Section 11-3-117 - Other agreements affecting instrument
+- Section 11-3-118 - Statute of limitations
+- Section 11-3-119 - Notice of right to defend action
+- Section 11-3-201 - Negotiation
+- Section 11-3-202 - Negotiation subject to rescission
+- Section 11-3-203 - Transfer of instrument; rights acquired by transfer
+- Section 11-3-204 - Indorsement
+- Section 11-3-205 - Special indorsement; blank indorsement; anomalous indorsement
+- Section 11-3-206 - Restrictive indorsement
+- Section 11-3-207 - Reacquisition
+- Section 11-3-301 - Person entitled to enforce instrument
+- Section 11-3-302 - Holder in due course
+- Section 11-3-303 - Value and consideration
+- Section 11-3-304 - Overdue instrument
+- Section 11-3-305 - Defenses and claims in recoupment
+- Section 11-3-306 - Claims to an instrument
+- Section 11-3-307 - Notice of breach of fiduciary duty
+- Section 11-3-308 - Proof of signatures and status as holder in due course
+- Section 11-3-309 - Enforcement of lost, destroyed, or stolen instrument
+- Section 11-3-310 - Effect of instrument on obligation for which taken
+- Section 11-3-311 - Accord and satisfaction by use of instrument
+- Section 11-3-312 - Lost, destroyed, or stolen cashier's check, teller's check, or certified check
+- Section 11-3-401 - Signature necessary for liability on instrument
+- Section 11-3-402 - Signature by representative
+- Section 11-3-403 - Unauthorized signature
+- Section 11-3-404 - Impostors; fictitious payees
+- Section 11-3-405 - Employer's responsibility for fraudulent indorsement by employee
+- Section 11-3-406 - Negligence contributing to forged signature or alteration of instrument
+- Section 11-3-407 - Alteration
+- Section 11-3-408 - Drawee not liable on unaccepted draft
+- Section 11-3-409 - Acceptance of draft; certified check
+- Section 11-3-410 - Acceptance varying draft
+- Section 11-3-411 - Refusal to pay cashier's checks, teller's checks, and certified checks
+- Section 11-3-412 - Obligation of issuer of note or cashier's check
+- Section 11-3-413 - Obligation of acceptor
+- Section 11-3-414 - Obligation of drawer
+- Section 11-3-415 - Obligation of indorser
+- Section 11-3-416 - Transfer warranties
+- Section 11-3-417 - Presentment warranties
+- Section 11-3-418 - Payment or acceptance by mistake
+- Section 11-3-419 - Instruments signed for accommodation
+- Section 11-3-420 - Conversion of instrument
+- Section 11-3-501 - Presentment
+- Section 11-3-502 - Dishonor
+- Section 11-3-503 - Notice of dishonor
+- Section 11-3-504 - Excused presentment and notice of dishonor
+- Section 11-3-505 - Evidence of dishonor
+- Section 11-3-601 - Discharge and effect of discharge
+- Section 11-3-602 - Payment
+- Section 11-3-603 - Tender of payment
+- Section 11-3-604 - Discharge by cancellation or renunciation
+- Section 11-3-605 - Discharge of indorsers and accommodation parties

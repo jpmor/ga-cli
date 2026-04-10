@@ -1,0 +1,26 @@
+# Chapter 7 - FALSE ARREST, FALSE IMPRISONMENT, MALICIOUS PROSECUTION, AND ABUSIVE LITIGATION (§§ 51-7-1 — 51-7-85)
+
+- Section 51-7-1 - Right of action for false arrest
+- Section 51-7-2 - Malice defined
+- Section 51-7-3 - Lack of probable cause defined; question for jury
+- Section 51-7-4 - Arrest under civil process of person exempt from such arrest
+- Section 51-7-20 - False imprisonment defined
+- Section 51-7-21 - Effect of good faith on liability for imprisonment under warrant
+- Section 51-7-22 - False imprisonment by several persons
+- Section 51-7-40 - Right of action for malicious prosecution
+- Section 51-7-41 - Accrual of right of action
+- Section 51-7-42 - Inquiry before committing court or magistrate as prosecution
+- Section 51-7-43 - Lack of probable cause defined; question for jury
+- Section 51-7-44 - Inference of malice from lack of probable cause; rebuttal of inference
+- Section 51-7-45 - Evidence in determination of probable cause
+- Section 51-7-46 - Immunity of grand jurors from action for malicious prosecution; liability of person instigating presentment
+- Section 51-7-47 - Measure of damages
+- Section 51-7-60 - Preclusion of recovery for detention of person suspected of theft under certain circumstances
+- Section 51-7-61 - Activation of antishoplifting device as constituting probable cause for detention; notice of such device to be posted
+- Section 51-7-62 - Actions for false arrest and false imprisonment for individuals suspected of film piracy
+- Section 51-7-80 - Definitions
+- Section 51-7-81 - Liability for abusive litigation
+- Section 51-7-82 - Defenses
+- Section 51-7-83 - Measure of damages
+- Section 51-7-84 - Notice of claim asserted; when action must be brought
+- Section 51-7-85 - Exclusive remedy

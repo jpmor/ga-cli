@@ -1,0 +1,104 @@
+# Chapter 11 - CIVIL PRACTICE ACT (§§ 9-11-1 — 9-11-133)
+
+- Section 9-11-1 - Scope of chapter; construction
+- Section 9-11-2 - One form of action
+- Section 9-11-3 - Commencement of action; filing of civil case filing form
+- Section 9-11-4 - Process
+- Section 9-11-4.1 - Certified process servers
+- Section 9-11-5 - Service and filing of pleadings subsequent to the original complaint and other papers
+- Section 9-11-6 - Time
+- Section 9-11-7 - Pleadings allowed; form of motions
+- Section 9-11-7.1 - Redacted information; exceptions and filings under seal; correction; protective orders; waivers
+- Section 9-11-8 - General rules of pleading
+- Section 9-11-9 - Pleading special matters
+- Section 9-11-9.1 - Affidavit to accompany charge of professional malpractice
+- Section 9-11-9.2 - Medical authorization forms; review of protected health information
+- Section 9-11-10 - Form of pleadings
+- Section 9-11-11 - Signing of pleadings; when verification required; rule abolished
+- Section 9-11-11.1 - Exercise of rights of freedom of speech and to petition government for redress of grievances; legislative findings; verification of claims; definitions; procedure on motions; exception; fees and expenses
+- Section 9-11-12 - Answer, defenses, and objections; when and how presented and heard; when defenses waived; stay of discovery
+- Section 9-11-13 - Counterclaim and cross-claim
+- Section 9-11-14 - Third-party practice
+- Section 9-11-15 - Amended and supplemental pleadings
+- Section 9-11-16 - Pretrial procedure; formulating issues; order; calendar
+- Section 9-11-17 - Real party in interest; capacity
+- Section 9-11-18 - Joinder of claims and remedies
+- Section 9-11-19 - Joinder of persons needed for just adjudication
+- Section 9-11-20 - Permissive joinder of parties
+- Section 9-11-21 - Misjoinder and nonjoinder of parties
+- Section 9-11-22 - Interpleader
+- Section 9-11-23 - Class actions
+- Section 9-11-24 - Intervention
+- Section 9-11-25 - Substitution of parties
+- Section 9-11-26 - General provisions governing discovery
+- Section 9-11-26.1 - Deposition from officers; protective orders
+- Section 9-11-27 - Depositions before action or pending appeal
+- Section 9-11-28 - Persons before whom depositions may be taken; disqualification for interest; consent of parties
+- Section 9-11-29 - Stipulations regarding discovery procedure
+- Section 9-11-29.1 - When depositions and other discovery material must be filed with court; custodian until filing; retention of depositions and other discovery materials
+- Section 9-11-30 - Depositions upon oral examination
+- Section 9-11-31 - Depositions upon written questions
+- Section 9-11-32 - Use of depositions in court proceedings; effect of errors and irregularities in depositions
+- Section 9-11-33 - Interrogatories to parties
+- Section 9-11-34 - Production of documents and things and entry upon land for inspection and other purposes; applicability to nonparties; confidentiality
+- Section 9-11-34.1 - Civil actions for evidence seized in criminal proceedings
+- Section 9-11-35 - Physical and mental examination of persons
+- Section 9-11-36 - Requests for admission
+- Section 9-11-37 - Failure to make discovery; motion to compel; sanctions; expenses
+- Section 9-11-38 - Right to jury trial
+- Section 9-11-39 - Consent to trial by court; jury trial on court order
+- Section 9-11-40 - Time and place of trial
+- Section 9-11-41 - Dismissal of actions; recommencement within six months
+- Section 9-11-42 - Consolidation; severance
+- Section 9-11-43 - Evidence
+- Section 9-11-44 - [Repealed] [Reserved] Official records
+- Section 9-11-45 - Subpoena for taking depositions; objections; place of examination
+- Section 9-11-46 - Exceptions unnecessary; objections to rulings or orders
+- Section 9-11-47 - Jurors
+- Section 9-11-49 - Special verdicts
+- Section 9-11-50 - Motions for directed verdict and for judgment notwithstanding the verdict
+- Section 9-11-52 - Findings by the court
+- Section 9-11-54 - Judgments
+- Section 9-11-55 - Default judgment
+- Section 9-11-56 - Summary judgment
+- Section 9-11-58 - Entry of judgment; judge's name to be typed, printed, or stamped after signature; filing of civil case disposition form
+- Section 9-11-60 - Relief from judgments
+- Section 9-11-61 - Harmless error
+- Section 9-11-62 - Stay of proceedings to enforce a judgment
+- Section 9-11-65 - Injunctions and restraining orders
+- Section 9-11-66 - Receivers
+- Section 9-11-67 - Deposit in court
+- Section 9-11-67.1 - Settlement offers and agreements for personal injury, bodily injury, and death from motor vehicle; payment methods
+- Section 9-11-68 - Offers of settlement; damages for frivolous claims or defenses
+- Section 9-11-69 - Execution; discovery in aid thereof
+- Section 9-11-70 - Judgment for specific acts; vesting title
+- Section 9-11-78 - Motion days
+- Section 9-11-81 - Applicability
+- Section 9-11-82 - Jurisdiction and venue unaffected
+- Section 9-11-83 - Local court rules
+- Section 9-11-84 - Forms
+- Section 9-11-85 - Short title
+- Section 9-11-101 - Form of summons
+- Section 9-11-103 - Form of complaint on a promissory note
+- Section 9-11-104 - Form of complaint on an account
+- Section 9-11-105 - Form of complaint for goods sold and delivered
+- Section 9-11-106 - Form of complaint for money lent
+- Section 9-11-107 - Form of complaint for money paid by mistake
+- Section 9-11-108 - Form of complaint for money had and received
+- Section 9-11-109 - Form of complaint for negligence
+- Section 9-11-110 - Form of complaint for negligence when plaintiff is unable to determine responsible person
+- Section 9-11-111 - Form of complaint for conversion
+- Section 9-11-112 - Form of complaint for specific performance of contract to convey land
+- Section 9-11-113 - Form of complaint on claim for debt and to set aside fraudulent conveyance under Code Section 9-11-18
+- Section 9-11-114 - Form of complaint for negligence under Federal Employers' Liability Act
+- Section 9-11-118 - Form of complaint for interpleader and declaratory relief
+- Section 9-11-119 - Form of motion to dismiss, presenting defense of failure to state a claim
+- Section 9-11-120 - Form of answer presenting defenses under subsection (b)
+- Section 9-11-121 - Form of answer to complaint set forth in Code Section 9-11-108, with counterclaim for interpleader
+- Section 9-11-122 - Form of summons and complaint against third-party defendant
+- Section 9-11-123 - Form of motion to intervene as a defendant under Code Section 9-11-24
+- Section 9-11-124 - Form of motion for production of documents under Code Section 9-11-34
+- Section 9-11-125 - Form of request for admission under Code Section 9-11-36
+- Section 9-11-131 - Form of judgment on jury verdict
+- Section 9-11-132 - Form of judgment on decision by the court
+- Section 9-11-133 - Forms meeting requirements for civil case filing and disposition information

@@ -1,0 +1,23 @@
+# Chapter 39 - PSYCHOLOGISTS (§§ 43-39-1 — 43-39-22)
+
+- Section 43-39-1 - Definitions
+- Section 43-39-2 - Creation of board of examiners; immunity
+- Section 43-39-3 - Appointment to board; qualifications; terms; vacancies; removal
+- Section 43-39-4 - Oath of office; certificate of appointment
+- Section 43-39-5 - Officers; meetings; seal; procedures; expenses
+- Section 43-39-6 - Authority of board to establish code of conduct and of ethics, administer oaths, summon witnesses, and take testimony; issuance of licenses; enforcement of chapter
+- Section 43-39-7 - Practicing without a license; use of title; exceptions
+- Section 43-39-8 - Application for license; qualifications
+- Section 43-39-9 - Examination of applicants
+- Section 43-39-10 - Reciprocity
+- Section 43-39-12 - Biennial renewal of licenses
+- Section 43-39-13 - Denial, revocation, suspension, and reinstatement of licenses; other disciplinary actions; hearings; appeals
+- Section 43-39-14 - Temporary and provisional licenses
+- Section 43-39-15 - Continuing education
+- Section 43-39-16 - Privileged communications
+- Section 43-39-17 - Use of title &quot;psychologist.&quot;
+- Section 43-39-18 - Injunctions against violators
+- Section 43-39-19 - Penalty
+- Section 43-39-20 - Immunity from civil and criminal liability for certain good faith actions
+- Section 43-39-21 - Short title
+- Section 43-39-22 - Compact terms

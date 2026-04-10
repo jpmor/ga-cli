@@ -1,0 +1,59 @@
+# Chapter 9 - PARDONS AND PAROLES (§§ 42-9-1 — 42-9-90)
+
+- Section 42-9-1 - Declaration of legislative policy
+- Section 42-9-2 - Creation of board
+- Section 42-9-3 - Definitions
+- Section 42-9-4 - Appointments to board when Senate not in session
+- Section 42-9-5 - Compensation of board members
+- Section 42-9-6 - Board chairman
+- Section 42-9-7 - Board quorum
+- Section 42-9-8 - Official board seal
+- Section 42-9-9 - Board employees; &quot;disability&quot; defined; awarding of badges
+- Section 42-9-9.1 - Assistance to law enforcement, correctional, or homeland security agencies; conferring powers of law enforcement officers by the board
+- Section 42-9-10 - Legal adviser of board
+- Section 42-9-11 - Office quarters for board; supplies and equipment
+- Section 42-9-12 - Appointment of replacement for incapacitated member; calling of appointing council by Governor; immunity of council from civil or criminal liability
+- Section 42-9-13 - Reinstatement of incapacitated member upon recovery
+- Section 42-9-14 - Removal of board members for cause
+- Section 42-9-15 - Conflicts of interest by members or employees of board
+- Section 42-9-16 - Persons permitted to appear or practice before board for remuneration generally
+- Section 42-9-17 - Appearance before board by members of General Assembly or other elected or appointed officials on behalf of persons under the jurisdiction of the board
+- Section 42-9-18 - Maintenance of records of persons contacting members of board on behalf of inmates
+- Section 42-9-19 - Annual report of board
+- Section 42-9-20 - General duties of board
+- Section 42-9-20.1 - Public access to information regarding paroled felons residing within state
+- Section 42-9-21 - Supervision of persons placed on parole or other conditional release; contracts for services and programs; collection of sums for restitution
+- Section 42-9-21.1 - [Repealed] Compensation of board employee injured by inmate or parolee
+- Section 42-9-22 - Construction of chapter
+- Section 42-9-39 - Restrictions on relief for person serving a second life sentence
+- Section 42-9-40 - Parole guidelines system
+- Section 42-9-41 - Duty of board to obtain and place in records information respecting persons subject to relief or placed on probation; investigations; rules
+- Section 42-9-42 - Procedure for granting relief from sentence; conditions and prerequisites; public access to information; violation of parole
+- Section 42-9-42.1 - Use of HIV test results in granting relief from sentence; conditions
+- Section 42-9-43 - Information to be considered by board generally; conduct of investigation and examination; determination as to grant of relief
+- Section 42-9-43.1 - Citizenship status of prisoner; deportation
+- Section 42-9-44 - Terms and conditions of parole; adoption of general and special rules; violation of parole; certain parolees or releasees to obtain high school diploma or state approved high school equivalency (HSE)
+- Section 42-9-44.1 - and 42-9-44.2 - Reserved
+- Section 42-9-44.3 - Definitions; required community service; liability; work during periods of natural disaster
+- Section 42-9-45 - General rule-making power
+- Section 42-9-46 - Cases in which inmate has failed to serve time required for automatic initial consideration; objections
+- Section 42-9-47 - Notification of decision to parole inmate
+- Section 42-9-48 - Arrest of parolee or conditional release violator
+- Section 42-9-49 - Reimbursement of counties for incarceration of persons arrested in accordance with Code Section 42-9-48
+- Section 42-9-50 - Preliminary hearing for parole or conditional release violator; ratification or overruling of decision of hearing officer by board; disposition of violator
+- Section 42-9-51 - Final hearing for parole or conditional release violator; order and statement as to disposition of violator; revocations without hearing and temporary revocations
+- Section 42-9-52 - Discharge from parole; earned-time allowance; granting of pardons, commutations, and remissions of fines, forfeitures, or penalties
+- Section 42-9-53 - Preservation of documents; classification of information and documents; divulgence of confidential state secrets; conduct of hearings
+- Section 42-9-54 - Effect of pardons upon civil and political disabilities; conditional pardons prohibited
+- Section 42-9-55 - Cooperation by jails or correctional institutions with board
+- Section 42-9-56 - Restriction on Governor's powers
+- Section 42-9-57 - Effect of chapter on probation power of courts; cooperation by board with the department
+- Section 42-9-58 - Effect of chapter on other laws respecting parole and probation
+- Section 42-9-59 - Effect of chapter on previously granted pardons, paroles, and probations
+- Section 42-9-60 - Overcrowding of prison system as creating state of emergency; paroling inmates to reduce prison system population to capacity; annual report of inmates paroled
+- Section 42-9-61 - Request for report; disclosure's impact on confidentiality
+- Section 42-9-70 - and 42-9-71 - Reserved
+- Section 42-9-80 - Short title
+- Section 42-9-81 - Execution of compact
+- Section 42-9-82 - Powers of Governor with respect to compact
+- Section 42-9-90 - Application fee required for transfer consideration

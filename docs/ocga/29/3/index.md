@@ -1,0 +1,70 @@
+# Chapter 3 - CONSERVATORS OF MINORS (§§ 29-3-1 — 29-3-120)
+
+- Section 29-3-1 - Natural guardian or next friend must qualify as conservator; exception
+- Section 29-3-2 - Release of debtor when collection doubtful
+- Section 29-3-3 - Compromise of claim; settlement
+- Section 29-3-4 - Disqualifications of conservator
+- Section 29-3-5 - Nomination of testamentary conservator; no notice, bond, or security required; rights, powers, and duties
+- Section 29-3-6 - Power to appoint conservator
+- Section 29-3-7 - Preference among individuals for appointment of conservator; court's ability to ignore preference for best interest of minor
+- Section 29-3-8 - Petition for appointment of conservator for minor; requirements of petition; notice
+- Section 29-3-9 - Hearing
+- Section 29-3-10 - Requirements of order granting conservatorship; required filing of certificate
+- Section 29-3-20 - Rights of minor; effect on testamentary capacity
+- Section 29-3-21 - Obligations of conservator; liability of conservator
+- Section 29-3-22 - Power of conservator; cooperation with guardian of minor
+- Section 29-3-23 - Rights of conservator to property; disclosure of conflicts of interest
+- Section 29-3-24 - Oath of conservator
+- Section 29-3-30 - Inventory of minor's property; plan for managing, expending, and distributing minor's property
+- Section 29-3-31 - Retention of property or securities; exchange or conversion of assets
+- Section 29-3-32 - Investment of funds
+- Section 29-3-33 - Investment in securities; open-end or closed-end management type investments; conflicts of interest
+- Section 29-3-34 - Investment decisions must coincide with those of a prudent person; acquiring and retention of assets
+- Section 29-3-35 - Sale of perishable property of minor; sale of stock; disposition of other property; appointment of guardian ad litem; full return to court required; authority of temporary substitute conservator
+- Section 29-3-36 - Estate plan for minor; appointment of guardian ad litem; considerations prior to property transfer
+- Section 29-3-40 - Bond required; exception; recording of bonds
+- Section 29-3-41 - Requirements of bond; term and value of bond; appointment without bond; substantial compliance sufficient
+- Section 29-3-42 - Reduction of bond
+- Section 29-3-43 - Requirement of additional bond; notice in event of sureties deficiencies; revocation of letters of conservatorship
+- Section 29-3-44 - Payment of bond premium
+- Section 29-3-45 - Responsibility of surety in event appointment of conservator void
+- Section 29-3-46 - Joint and several obligation
+- Section 29-3-47 - Levy upon property authorized; writ of execution authorized
+- Section 29-3-48 - Levy upon surety then conservator
+- Section 29-3-49 - Petition for release from surety obligation; order of discharge; appointment and liability of new surety; accounting requirement
+- Section 29-3-50 - Amount of compensation conservator owed; compensation to multiple conservators; failure to make annual returns results in forfeiture; renouncing of compensation
+- Section 29-3-51 - Allowance for reasonable expenses
+- Section 29-3-52 - Petition for larger compensation; procedural requirements
+- Section 29-3-53 - Compensation from corporation or business enterprise; effect of compensation; purpose of provisions
+- Section 29-3-54 - Compensation of temporary substitute conservator; reduction of conservator's compensation
+- Section 29-3-60 - Annual filing of verified return; change of reporting period; production of documents; effect of failure to file return
+- Section 29-3-61 - Interim settlement of accounts; reporting and requirements of report; procedure for objecting
+- Section 29-3-62 - Objections to conservator's interim settlement of accounts; hearing
+- Section 29-3-63 - Judgment against conservator and surety
+- Section 29-3-64 - Termination of conservatorship
+- Section 29-3-70 - Petition for order of dismissal of conservatorship; final return; notice; order of dismissal
+- Section 29-3-71 - Final settlements; settlement period; examination of returns and accounts by court; return of property to minor
+- Section 29-3-80 - Required showing for resignation of conservator; name of suitable alternate required; notice; order appointing successor conservator
+- Section 29-3-81 - Individuals entitled to notice; appointment of successor conservator; turning over of property
+- Section 29-3-82 - Suspension of conservatorship or imposition of sanctions; power of court; liability of conservator
+- Section 29-3-83 - Cause of action for breach of conservator's duties; remedies available to minor
+- Section 29-3-84 - Statute of limitations
+- Section 29-3-90 - Appointment of temporary substitute conservator; length of appointment; powers; notice; removal
+- Section 29-3-91 - Appointment of successor conservator; notice; hearing and bond requirements
+- Section 29-3-92 - Delivery of property; annual return; liability of surety
+- Section 29-3-100 - Petition for removal to jurisdiction where minor resides; appointment of guardian ad litem; bond; authority; liability of surety; retention of jurisdiction by initial court
+- Section 29-3-105 - &quot;Conservatorship&quot; defined; petition for transfer of jurisdiction; requirements of petition
+- Section 29-3-106 - Notice and other procedural requirements
+- Section 29-3-107 - Hearing
+- Section 29-3-108 - Required findings prior to granting foreign conservatorship; inventory; applicable law; orderly transfer
+- Section 29-3-110 - Transfer of jurisdiction in event minor has permanently moved; determining minor's residential status; filings
+- Section 29-3-111 - Requirements of petition to transfer conservatorship
+- Section 29-3-112 - Notice
+- Section 29-3-113 - Hearing
+- Section 29-3-114 - Required findings prior to granting petition to transfer; orderly and coordinated transfer of conservatorship
+- Section 29-3-115 - &quot;Foreign conservator&quot; defined; sale of minor's property
+- Section 29-3-116 - Right of foreign conservator to bring action
+- Section 29-3-117 - Filing of letters of conservatorship
+- Section 29-3-118 - Submission of foreign conservator to jurisdiction
+- Section 29-3-119 - Rights of interested parties prior to sale of minor's assets
+- Section 29-3-120 - Payment of funds or return of property to foreign conservator on minor's behalf

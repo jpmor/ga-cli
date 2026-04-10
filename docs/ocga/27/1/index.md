@@ -1,0 +1,40 @@
+# Chapter 1 - GENERAL PROVISIONS (§§ 27-1-1 — 27-1-39)
+
+- Section 27-1-1 - Short title
+- Section 27-1-2 - Definitions
+- Section 27-1-3 - Ownership and custody of wildlife; preservation of hunting and fishing opportunities; promotion and right to hunt, trap, or fish; local regulation; general offenses
+- Section 27-1-4 - Powers and duties of board generally
+- Section 27-1-5 - Applicability of &quot;Georgia Administrative Procedure Act&quot; to rules and regulations promulgated by board; affirmation of decision by operation of law; appellate review
+- Section 27-1-6 - Powers and duties of department generally
+- Section 27-1-7 - Technical assistance for control or elimination of wild or abandoned dogs
+- Section 27-1-8 - Construction of fish ladders; requiring construction by private persons; assessment of cost upon refusal; issuance of execution
+- Section 27-1-9 - Consent to federal rules and regulations pursuant to federal law authorizing purchase of land by United States government for river navigability purposes
+- Section 27-1-10 - Assent to federal law respecting wildlife conservation and restoration projects, fish restoration projects, wildlife conservation education, and wildlife associated recreation projects
+- Section 27-1-11 - Consent to acquisition of land by United States government for conservation purposes; notice of intended use
+- Section 27-1-12 - Federal-state cooperation in protection and management of wildlife in national forest; powers of board
+- Section 27-1-13 - Disposition of funds received by department; appropriations; grants and donations for natural resources conservation camps
+- Section 27-1-14 - Disposition of fines and bond forfeitures
+- Section 27-1-16 - Establishment of unit of game wardens; qualifications, appointment, and supervisory personnel; retention of badge and weapon upon disability retirement
+- Section 27-1-17 - Deputy game wardens
+- Section 27-1-18 - Powers of game wardens generally
+- Section 27-1-19 - Power of game wardens and deputy game wardens to arrest persons; procedure upon failure of person arrested to appear to answer charges
+- Section 27-1-20 - Additional powers of game wardens; functions of other agencies assigned to department
+- Section 27-1-21 - Seizure and disposal of wildlife illegally taken or possessed; civil action by possessor; disposal of wildlife unable to be stored; disposition of unmarketable items
+- Section 27-1-22 - Taking, possessing, and releasing of wildlife generally
+- Section 27-1-23 - Inspection of business premises and records of commercial license holders
+- Section 27-1-24 - Inspection of vessels and boats
+- Section 27-1-25 - Interference with arrest or performance of game warden's duties
+- Section 27-1-25.1 - Failure or refusal to bring motor vehicle or boat to a stop when ordered to do so
+- Section 27-1-27 - Damaging or destroying department property
+- Section 27-1-28 - Taking of nongame species
+- Section 27-1-29 - Sale or purchase of game
+- Section 27-1-30 - Disturbing or destroying wildlife habitats
+- Section 27-1-31 - Unlawful possession or use of wildlife; unlawful concealment
+- Section 27-1-32 - Hiring of another to take wildlife contrary to law
+- Section 27-1-33 - Noncompliance with laws while on fishing area, fish hatchery, natural area, or wildlife management area; acts constituting criminal trespass
+- Section 27-1-34 - Defenses not available in prosecutions for violations
+- Section 27-1-35 - Jurisdiction of probate courts; summons
+- Section 27-1-36 - Civil enforcement by department; disposition of penalties
+- Section 27-1-37 - Administrative orders; emergency administrative orders; administrative review
+- Section 27-1-38 - Penalty for violations of title
+- Section 27-1-39 - Rules and regulations used to establish criminal violations

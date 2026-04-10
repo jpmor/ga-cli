@@ -1,0 +1,23 @@
+# Chapter 11 - JUDGES OF THE PROBATE COURTS RETIREMENT FUND OF GEORGIA (§§ 47-11-1 — 47-11-91)
+
+- Section 47-11-1 - Definitions
+- Section 47-11-20 - Creation and membership of board of commissioners; appointment and terms; officers and compensation; vacancies
+- Section 47-11-21 - Creation of office of secretary-treasurer; credit for service rendered; retirement benefits; surety bonds; reports and accounting
+- Section 47-11-22 - Powers and duties of the board
+- Section 47-11-23 - Control of funds; special account for deposit and payment; powers regarding investments; power to employ agents as investment advisers
+- Section 47-11-24 - Power of board to take, hold, and invest any gift, grant, or bequest
+- Section 47-11-25 - Duty of board to keep records
+- Section 47-11-26 - Annual audit; power of state auditor to conduct audit when he or she sees fit or at request of the Governor
+- Section 47-11-40 - Eligibility to participate; credit for service rendered; requirements for judges to participate
+- Section 47-11-41 - Service credit not allowed for periods during which contributions not timely paid
+- Section 47-11-42 - Suspension of membership
+- Section 47-11-43 - Obtaining creditable service
+- Section 47-11-50 - Payment to fund of a portion of fees collected in connection with marriage licenses; duty to record and report collection; interest; delinquent payment; penalties
+- Section 47-11-51 - Payment to fund of a portion of criminal and quasi-criminal fines and forfeited bonds; duty to record and report collection; penalties
+- Section 47-11-70 - Eligibility and application for retirement benefits; early retirement
+- Section 47-11-71 - Amount of retirement benefits; optional retirement benefits; manner in which persons not eligible for maximum benefits at retirement may become eligible
+- Section 47-11-71.1 - Spouse's benefits; options; recalculation of benefits upon election to be covered by this Code section
+- Section 47-11-72 - Refund of contributions upon termination of office as judge of the probate court and waiver of benefits; interest on dues paid for purposes of computing refunds to deceased members
+- Section 47-11-73 - Retirement after disability
+- Section 47-11-90 - Effect of insufficiency of funds on payment of retirement benefits; liability of board for such insufficiencies
+- Section 47-11-91 - Exemption of funds from attachment, garnishment, or judgment; assignability

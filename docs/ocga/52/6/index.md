@@ -1,0 +1,37 @@
+# Chapter 6 - PILOTS AND PILOTAGE (§§ 52-6-1 — 52-6-54)
+
+- Section 52-6-1 - Composition of board; terms of commissioners
+- Section 52-6-2 - Filling of vacancies on board
+- Section 52-6-3 - Qualifications of commissioners
+- Section 52-6-4 - Areas for which commissioners appointed
+- Section 52-6-5 - Appointment of master pilot; duties of master pilot generally
+- Section 52-6-6 - Right of commissioners to bring an action to recover forfeitures
+- Section 52-6-7 - Manner of application of fines and forfeitures
+- Section 52-6-8 - Keeping of records by board; designation of chairperson of board; keeping list of pilots whose licenses have been revoked; access of public to records
+- Section 52-6-9 - Salary or fees of secretary
+- Section 52-6-10 - Determination of location of office of commissioners; location of books, papers, and records of commissioners
+- Section 52-6-11 - Rules and regulations; reciprocal pilotage in port of St. Marys and tributaries of St. Marys River
+- Section 52-6-30 - Qualifications for pilot's license
+- Section 52-6-31 - Number of pilots
+- Section 52-6-32 - Restrictions as to persons who may receive fees, gratuities, or rewards for conducting or piloting vessels
+- Section 52-6-33 - Form of license; oath of pilot
+- Section 52-6-34 - Pilots' bonds - Generally
+- Section 52-6-35 - Pilots' bonds - Continuation of existing bonds; venue of actions on bonds; parties to actions
+- Section 52-6-36 - Revocation of license for conducting or piloting vessel arrested under court process
+- Section 52-6-37 - Authority of commissioners to suspend pilots, to revoke licenses, and to assess fines and penalties; grounds for suspension, revocation, fines, or other penalties
+- Section 52-6-38 - Hearings before commissioners; enforcement of decrees and orders by execution or warrant of distress
+- Section 52-6-39 - Issuance of subpoenas
+- Section 52-6-40 - Failure of witness to answer subpoena
+- Section 52-6-41 - Taking of interrogatories and depositions from nonresidents and seamen
+- Section 52-6-42 - Appeal to superior court - Generally
+- Section 52-6-43 - Appeal to superior court - Use of interrogatories and depositions
+- Section 52-6-44 - Fees relating to hearings before commissioners
+- Section 52-6-45 - Vessels to be under direction and control of licensed pilots; exemptions; use of docking pilots
+- Section 52-6-47 - Pilotage fees - Time of payment; security for payment
+- Section 52-6-48 - Pilotage fees - Requests or demands by pilots of fees different than those fixed by commissioners
+- Section 52-6-49 - Liabilities and penalties for failure to take pilot or pay pilotage fees
+- Section 52-6-50 - Fees of pilots aiding vessel in distress
+- Section 52-6-51 - Right of pilot boat to one-third of inward and outward pilotage fee
+- Section 52-6-52 - Liability for detaining pilots on vessels
+- Section 52-6-53 - Compulsory retirement of pilots
+- Section 52-6-54 - Acting as pilot without license; interfering with or disturbing licensed pilot

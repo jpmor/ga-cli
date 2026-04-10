@@ -1,0 +1,48 @@
+# Chapter 4 - WAREHOUSEMEN (§§ 10-4-1 — 10-4-218)
+
+- Section 10-4-1 - Short title
+- Section 10-4-2 - Definitions
+- Section 10-4-3 - State warehouse section established; supervisor of section
+- Section 10-4-4 - Exemptions from article; warehousemen electing to be covered
+- Section 10-4-5 - Powers and duties of Commissioner; annual reports; adoption of rules and regulations
+- Section 10-4-6 - Procedure for adopting or changing rules and regulations; administrative review of objections
+- Section 10-4-7 - Uniform application of orders, fees, rules, and regulations
+- Section 10-4-8 - Existing interstate commerce regulations not affected
+- Section 10-4-9 - Judicial review of administrative decision
+- Section 10-4-10 - Annual license required; issuance by Commissioner; application for license or renewal
+- Section 10-4-11 - License for person electing to comply with article and regulations
+- Section 10-4-12 - Bond required; additional bond
+- Section 10-4-13 - Bonded and licensed warehouse may be designated as state bonded
+- Section 10-4-14 - Actions on bonds
+- Section 10-4-15 - Inspections of warehouses
+- Section 10-4-16 - Inspectors and examiners to be bonded
+- Section 10-4-17 - License fees
+- Section 10-4-18 - Delivery to warehouse presumably for storage
+- Section 10-4-19 - Warehouse receipts required; obtaining printed forms; use of electronic receipts authorized
+- Section 10-4-20 - Essential terms of warehouse receipts; liability for omission
+- Section 10-4-21 - Obligation of warehouseman to deliver; effect of loss or damage
+- Section 10-4-22 - Surrender and cancellation of warehouse receipts on delivery
+- Section 10-4-23 - Records of warehousemen
+- Section 10-4-24 - Inspection of records; preservation of records when license terminated
+- Section 10-4-25 - When insurance on stored products required
+- Section 10-4-26 - Schedules of charges to be filed; changes in charges; special rates for United States; duplication of charges prohibited
+- Section 10-4-27 - Certified public weighers to be provided
+- Section 10-4-28 - Scales to be provided; examination; disapproved scales not to be used
+- Section 10-4-29 - Suspension of license pending investigation or correction of violation; impoundment of records and commodities
+- Section 10-4-30 - Suspension or revocation of license for violation; liquidation proceedings; impoundment of unused receipts
+- Section 10-4-31 - Publishing lists of licensed and bonded warehouses, license terminations, and findings as to violations
+- Section 10-4-32 - Criminal penalties for violations; immunity of sureties
+- Section 10-4-33 - Duty of persons accepting warehouse receipts to take adequate measures regarding goods
+- Section 10-4-190 - Short title
+- Section 10-4-191 - Definitions; exemption of state licensed or bonded warehouses
+- Section 10-4-192 - Information required for storage rental or lease; property ownership statement
+- Section 10-4-193 - Penalties
+- Section 10-4-210 - Short title
+- Section 10-4-211 - Definitions
+- Section 10-4-212 - Lien of owner of self-service storage facility upon property located at facility; priority; attachment
+- Section 10-4-213 - Enforcement of lien without judicial intervention; execution of rental agreement
+- Section 10-4-214 - Compliance with Servicemembers Civil Relief Act; additional rights, duties, and obligations not impaired; rights under article additional
+- Section 10-4-215 - Rental agreements entered into before July 1, 2013, not affected
+- Section 10-4-216 - Self-service storage facility not residence; no application of public bonded warehouseman provisions
+- Section 10-4-217 - Late penalty; calculations; application
+- Section 10-4-218 - Deemed acceptance of rental agreement; notice of termination or nonrenewal; removal of personal property

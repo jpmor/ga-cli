@@ -1,0 +1,27 @@
+# Chapter 10 - CODES OF ETHICS AND CONFLICTS OF INTEREST (§§ 45-10-1 — 45-10-92)
+
+- Section 45-10-1 - Code of ethics for government service generally - Establishment and text
+- Section 45-10-2 - Secretary of State to print and distribute code of ethics
+- Section 45-10-3 - Code of ethics for members of boards, commissions, and authorities - Establishment and text
+- Section 45-10-4 - Code of ethics for members of boards, commissions, and authorities - Hearing; notice; removal of member from office; filling vacancies; judicial review
+- Section 45-10-5 - Authority to enact rules and regulations
+- Section 45-10-20 - Definitions
+- Section 45-10-21 - Legislative purposes and intent
+- Section 45-10-22 - Full-time public officials with state-wide powers prohibitions; public officials or employees with limited powers prohibitions
+- Section 45-10-23 - Full-time employees prohibited from transacting business with own state agency; exception for Board of Regents employees
+- Section 45-10-24 - Part-time public officials with state-wide powers prohibitions; part-time employees prohibitions; exceptions to prohibitions
+- Section 45-10-24.1 - Exemption for transactions by family owned business when university system employee has interest; requirements
+- Section 45-10-25 - Exceptions to prohibitions on transactions with state agencies
+- Section 45-10-26 - Annual disclosure statements concerning business transactions with state; public records
+- Section 45-10-27 - Construction of part with provisions, rules, and regulations of Chapter 20 of this title
+- Section 45-10-28 - Penalties for violation of part; civil actions by Attorney General to collect penalties; violations by public official, agency head, or employee
+- Section 45-10-29 - Public officials prohibited from granting themselves licenses by waiving certain requirements; requirements to be satisfied prior to renewal of licenses; penalties for violations
+- Section 45-10-40 - Contracting with state institutions not allowed; exceptions
+- Section 45-10-41 - Penalty for profiting from contracts with state institutions generally; discharge from office
+- Section 45-10-42 - Reporters for State Board of Workers' Compensation may sell transcripts to state agencies
+- Section 45-10-60 - Requirements for sales of real property by county commissioner to county
+- Section 45-10-70 - Holding office in political subdivision, political party, or political organization by nonelective state officers or employees
+- Section 45-10-80 - Public officers prohibited from advancing, employing, or advocating the employment of family members
+- Section 45-10-90 - Definitions
+- Section 45-10-91 - Method of addressing improper conduct
+- Section 45-10-92 - Abuse of power and improper use of state employees by General Assembly members

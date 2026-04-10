@@ -1,0 +1,38 @@
+# Chapter 19 - LABOR PRACTICES (§§ 45-19-1 — 45-19-63)
+
+- Section 45-19-1 - Definitions; right to express complaints or opinions not impaired
+- Section 45-19-2 - Public employees not to promote, participate in, or encourage strikes
+- Section 45-19-3 - Supervising personnel not to authorize, approve, or consent to strikes
+- Section 45-19-4 - Termination of employment, forfeiture of civil service status, job rights, seniority, and emoluments upon violation of Code Section 45-19-2; eligibility of employee for reappointment
+- Section 45-19-5 - Action by person not a public employee to encourage strike
+- Section 45-19-20 - Short title
+- Section 45-19-21 - Purposes and construction of article
+- Section 45-19-22 - Definitions
+- Section 45-19-23 - Creation of Board of Commissioners of the Commission on Equal Opportunity; members; terms; officers; meetings; compensation of members; powers and duties of board; annual report to Governor and General Assembly; special masters' list
+- Section 45-19-24 - Commission on Equal Opportunity created; administrator; assignment of commission to Governor for administrative purposes
+- Section 45-19-25 - Function of administrator
+- Section 45-19-26 - Role of Attorney General
+- Section 45-19-27 - Additional powers and duties of administrator
+- Section 45-19-28 - Limitation on provisions of article relating to age discrimination
+- Section 45-19-29 - Unlawful practices generally
+- Section 45-19-30 - Unlawful practices in training or apprenticeship programs
+- Section 45-19-31 - Unlawful practices in advertisement of employment
+- Section 45-19-32 - Unlawful practice for party to violate conciliation agreement
+- Section 45-19-33 - Different standards of compensation or different terms and conditions of employment when not based on race, color, religion, sex, national origin, disability, or age
+- Section 45-19-34 - Hiring, employing, or selecting for training programs when religion or national origin a bona fide occupational qualification
+- Section 45-19-35 - Use of quotas because of imbalances in employee ratios prohibited; grants of preferential treatment to certain individuals or groups not required by article; adoption of plans required by Governor to reduce imbalance; effect of article upon certain employment practices
+- Section 45-19-36 - Filing complaints of unlawful practice; action by administrator
+- Section 45-19-37 - Referral of complaint to hearing officer or special master; notice; answer
+- Section 45-19-38 - Findings, conclusions, and order of hearing officer generally; order to cease and desist from unlawful practice and to take remedial action
+- Section 45-19-39 - Appeal to superior court
+- Section 45-19-40 - Entry of court judgment based upon final order
+- Section 45-19-41 - Administrator to have exclusive jurisdiction over claims under article; final determination of claim bars further state actions
+- Section 45-19-42 - Procurement of violation of article by person not subject thereto not a defense
+- Section 45-19-43 - Access of administrator or designee to premises, records, and documents; persons required to make and keep employment records; application for relief from order due to hardship; unlawful to make information public
+- Section 45-19-44 - Unlawful practices punishable by civil fine
+- Section 45-19-45 - Unlawful conspiracies
+- Section 45-19-46 - Overtime compensation
+- Section 45-19-60 - Purpose of article
+- Section 45-19-61 - Definitions
+- Section 45-19-62 - Creation of the GAME Program; elements; construction
+- Section 45-19-63 - Annual reports

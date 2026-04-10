@@ -1,0 +1,36 @@
+# Chapter 21 - OPERATORS OF HOTELS, INNS, AND ROADHOUSES (§§ 43-21-1 — 43-21-62)
+
+- Section 43-21-1 - Definitions
+- Section 43-21-2 - Depositories for hire
+- Section 43-21-3 - Duty of innkeeper to receive guests
+- Section 43-21-3.1 - Notice of termination of occupancy by innkeeper
+- Section 43-21-3.2 - Written statement of period of occupancy signed by guest; rights of innkeeper and guest under contract
+- Section 43-21-4 - Innkeeper as depository for hire; rules governing liability
+- Section 43-21-5 - Attachment of lien on property of guests or their agents; priorities
+- Section 43-21-6 - Enforcement of lien created by Code Section 43-21-5
+- Section 43-21-7 - Checks or receipts for baggage
+- Section 43-21-8 - Liability of innkeeper for stolen goods
+- Section 43-21-9 - Acts constituting entrustment of property to innkeeper
+- Section 43-21-10 - Deposit of valuables by guest with innkeeper
+- Section 43-21-11 - Limitation on liability of innkeeper when valuables deposited with him
+- Section 43-21-12 - Loss of or injury to property by innkeeper
+- Section 43-21-13 - Defrauding innkeeper
+- Section 43-21-14 - Proof of intent to defraud
+- Section 43-21-15 - Posting copies of law as to fraud
+- Section 43-21-30 - Bed linens
+- Section 43-21-31 - Screens on doors and windows
+- Section 43-21-32 - Closets and restrooms
+- Section 43-21-33 - Penalty
+- Section 43-21-50 - License requirement
+- Section 43-21-51 - Application for license
+- Section 43-21-52 - Term of licenses; fees; engaging in business under an expired license
+- Section 43-21-53 - License fee as supplemental to other licenses and taxes
+- Section 43-21-54 - Revocation of license after conviction for violation of article; barring of issuance of new license after revocation
+- Section 43-21-55 - Furnishing list of employees to sheriff; notice of change of ownership
+- Section 43-21-56 - Registration of guests; maintaining register
+- Section 43-21-57 - Injunctions
+- Section 43-21-58 - Authority of municipality to adopt provisions of article for establishments located in municipality
+- Section 43-21-59 - Applicability of article
+- Section 43-21-60 - Supplemental nature of article
+- Section 43-21-61 - Occupying rooms for immoral purposes
+- Section 43-21-62 - Penalty

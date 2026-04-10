@@ -1,0 +1,103 @@
+# Chapter 82 - BONDS (§§ 36-82-1 — 36-82-256)
+
+- Section 36-82-1 - Election for bonded debt; right to sell bonds at discount; advertisements as binding statements of intention; use of surpluses; meetings open to public; refunding
+- Section 36-82-2 - Voting in election for bonded debt; returns and declaration of election result
+- Section 36-82-3 - Issuance of bonds upon favorable election vote; ordinance or resolution authorizing refunding bonds; issuance, content, and form of refunding bonds
+- Section 36-82-4 - Action for collection of bonds by holders
+- Section 36-82-4.1 - Advertisement of bond elections in counties having population of 400,000 to 500,000; use of bond funds
+- Section 36-82-4.2 - Expenditure of bond funds for purposes other than stated in public bond notice
+- Section 36-82-5 - Destruction of unsold bonds
+- Section 36-82-6 - Notice, hearing, order of court, and affidavit of two disinterested witnesses as to destruction of bonds; compensation of witnesses; payment of costs of proceedings
+- Section 36-82-7 - Authorized investments for bond proceeds
+- Section 36-82-7.1 - Assessment and collection of tax to pay refunding bonds
+- Section 36-82-8 - Deduction of sinking fund in computing bonded indebtedness
+- Section 36-82-9 - Certification requirement for pension obligation bonds; requirement for reserve fund
+- Section 36-82-10 - Reporting requirements
+- Section 36-82-20 - Notice to district attorney or Attorney General of election or resolution favoring issuance of bonds or refunding bonds
+- Section 36-82-21 - Petition to superior court to show cause; service of petition and order; answers
+- Section 36-82-22 - Notice of superior court hearing on show cause order
+- Section 36-82-23 - Hearing and judgment on show cause order; parties to proceedings; appeal
+- Section 36-82-24 - Effect of judgment of validation
+- Section 36-82-25 - Entry of reference to judgment of validation on bonds; use of entry as evidence
+- Section 36-82-26 - Payment of costs of judicial validation proceedings
+- Section 36-82-27 - Procedure upon failure of district attorney or Attorney General to file petition with superior court generally
+- Section 36-82-28 - Effect of judgment of validation upon failure to file petition
+- Section 36-82-40 - Authorization and procedure generally
+- Section 36-82-41 - Furnishing of indemnity bond by holder
+- Section 36-82-42 - Petition by holder to district attorney or Attorney General
+- Section 36-82-43 - Petition by district attorney or Attorney General to superior court; order to show cause; service of petition and order; answer
+- Section 36-82-44 - Hearing and judgment; parties to proceedings; appeal
+- Section 36-82-45 - Effect of judgment of validation
+- Section 36-82-46 - Applicability of Code Sections 36-82-22 and 36-82-25
+- Section 36-82-47 - Payment of costs of proceedings
+- Section 36-82-60 - Short title
+- Section 36-82-61 - Definitions
+- Section 36-82-62 - Powers as to undertakings and revenue bonds generally
+- Section 36-82-63 - Adoption of resolution authorizing undertaking and issuance of revenue bonds
+- Section 36-82-64 - Issuance of revenue bonds generally; form; terms; signatures; interim receipts; negotiability; nontaxability
+- Section 36-82-65 - Covenants in resolution authorizing issuance of bonds; article and resolution as enforceable contract with bondholders
+- Section 36-82-66 - Governmental liability for payment of bonds; recitation on bond
+- Section 36-82-67 - Right of bondholder or trustee to apply for receivership upon default in payment on bond; procedure for appointment
+- Section 36-82-68 - Powers and duties of receiver generally
+- Section 36-82-69 - Limitations on authority of receiver and supervising court
+- Section 36-82-70 - Supervision of receiver by court
+- Section 36-82-71 - Surrender of receivership upon cure of default
+- Section 36-82-72 - Construction of Code Sections 36-82-67 through 36-82-71 and this Code section
+- Section 36-82-73 - Proceedings for validation of revenue bonds generally
+- Section 36-82-74 - Notice to district attorney or Attorney General of resolution authorizing revenue bonds
+- Section 36-82-75 - Duty of district attorney or Attorney General to file petition; order to show cause; service of petition and order; answer
+- Section 36-82-76 - Notice of hearing on validation
+- Section 36-82-77 - Hearing and judgment on validation; parties to proceedings; right of appeal; review of valuation of existing undertakings
+- Section 36-82-78 - Effect of judgment of validation
+- Section 36-82-79 - Entry of reference to judgment on validated bonds; use of entry as evidence; clerk's fee
+- Section 36-82-80 - Payment of costs of proceedings
+- Section 36-82-81 - Procedure when district attorney or Attorney General fails to file petition
+- Section 36-82-82 - Effect of judgment of validation upon failure to file petition
+- Section 36-82-83 - Validation of revenue bonds of certain hospital authorities
+- Section 36-82-84 - Applicability of article to common carriers of passengers for hire
+- Section 36-82-85 - Construction of article generally; applicability of certain other provisions of law
+- Section 36-82-100 - Expenditure of bond proceeds; auditing
+- Section 36-82-120 - Purpose of article
+- Section 36-82-121 - Definitions
+- Section 36-82-122 - Exemption of bonds from Constitution and laws of Georgia regulating interest rates; fixing of rates of interest by resolution or ordinance
+- Section 36-82-123 - Repeal of regulations as to interest rates contained in other laws
+- Section 36-82-124 - Construction of article
+- Section 36-82-140 - Use of facsimile signatures and seals; contracts with financial institutions to perform certain repayment functions; evidence of repayment obligations
+- Section 36-82-141 - Records of ownership, registration, transfer, and exchange of repayment obligations not public records
+- Section 36-82-142 - Construction of article
+- Section 36-82-160 - [Repealed] Requirements for filing; forms; exemptions
+- Section 36-82-180 - Short title
+- Section 36-82-181 - Legislative purpose
+- Section 36-82-182 - Definitions
+- Section 36-82-183 - Powers of department
+- Section 36-82-184 - Determination of state ceiling; records required
+- Section 36-82-185 - Application for notice of allocation; receipt of application; issue of notice; confirmation of bond issue; certificates under Federal Code
+- Section 36-82-186 - Economic development share
+- Section 36-82-187 - Application for economic development share and competitive pool allocation; priority of and approval of application; carrying over; time and amount limitation
+- Section 36-82-188 - Employment test
+- Section 36-82-189 - Housing share
+- Section 36-82-190 - Reservations from housing share
+- Section 36-82-191 - Applications for single-family bond projects; issue of notice; confirmation; exploration
+- Section 36-82-192 - Requirements for applications for qualified residential rental projects; periods for notices of allocation; expiration dates for notices; confirmation of issuance required
+- Section 36-82-193 - Flexible share for 1990
+- Section 36-82-194 - Application for flexible pool allocation; issue of notice; confirmation; expiration
+- Section 36-82-195 - Policy guidelines for making allocations
+- Section 36-82-196 - Factors to consider in applying policy guidelines
+- Section 36-82-197 - Transfer of fund from economic development share or applicable reservation component of housing share to the flexible share
+- Section 36-82-198 - Flexible share carryforward funds
+- Section 36-82-199 - Carryforward applications
+- Section 36-82-200 - Mortgage credit certificate carryforward election
+- Section 36-82-201 - State ceiling deemed allocated and assigned
+- Section 36-82-202 - Applicability
+- Section 36-82-220 - Definitions
+- Section 36-82-221 - Sponsoring governmental unit requirement
+- Section 36-82-222 - Construction
+- Section 36-82-240 - Definitions
+- Section 36-82-241 - Governed by general provisions on commercial paper; issuance of security by governmental entity; requirements of governing body renewal and reissuance of commercial paper
+- Section 36-82-250 - Definitions
+- Section 36-82-251 - Qualified interest rate management agreements authorized
+- Section 36-82-252 - Plan required; annual review of plan and report
+- Section 36-82-253 - Requirements for plans; renewal or termination; provisions and limitations regarding obligation for payment; credit enhancement and liquidity agreements
+- Section 36-82-254 - Required information in annual financial statements
+- Section 36-82-255 - Applicability of Georgia law; jurisdiction
+- Section 36-82-256 - Applicability to prior contracts

@@ -1,0 +1,74 @@
+# Chapter 11 - INVESTMENTS (§§ 33-11-1 — 33-11-89)
+
+- Section 33-11-1 - Scope of article
+- Section 33-11-2 - Eligible investments; investment limitations
+- Section 33-11-3 - Acquisition of securities or investments by insurers generally
+- Section 33-11-4 - Authorization of loan or investment of insurer
+- Section 33-11-5 - Required investments; limitations
+- Section 33-11-6 - Authorized investments generally; cash or deposits
+- Section 33-11-7 - Securities of open-end management investment company or investment trust
+- Section 33-11-8 - Foreign securities
+- Section 33-11-9 - Obligations of government of United States generally
+- Section 33-11-10 - Securities which are not evidenced by certificates
+- Section 33-11-11 - Loans guaranteed by government of United States
+- Section 33-11-12 - Securities of states of United States, District of Columbia, or government of Canada
+- Section 33-11-12.1 - Investment in direct obligations of foreign governments
+- Section 33-11-13 - Obligations of political subdivisions or public authorities of states of United States, District of Columbia, or government of Canada
+- Section 33-11-14 - Industrial development obligations
+- Section 33-11-14.1 - Securities of federal agencies
+- Section 33-11-15 - Securities of public housing authorities or agencies
+- Section 33-11-16 - Obligations issued, assumed, or guaranteed by International Bank for Reconstruction and Development or International Finance Corporation
+- Section 33-11-17 - Obligations issued, assumed, or guaranteed by Asian Development Bank
+- Section 33-11-18 - Obligations issued, assumed, or guaranteed by Inter-American Development Bank
+- Section 33-11-19 - [Repealed] [Reserved] Loans guaranteed by Georgia Higher Education Assistance Corporation
+- Section 33-11-19.1 - Obligations issued, assumed, or guaranteed by African Development Bank
+- Section 33-11-19.2 - Loans guaranteed by United Student Aid Funds, Inc
+- Section 33-11-20 - Obligations of corporations generally
+- Section 33-11-21 - Corporate stocks
+- Section 33-11-22 - Equipment trust obligations or certificates
+- Section 33-11-23 - Loans secured by pledge of securities or by pledge or assignment of life insurance policies
+- Section 33-11-25 - Obligations secured by first mortgage or deed of trust upon improved or income-producing real property in United States or Canada
+- Section 33-11-25.1 - Security representing interest in pool of loans secured by mortgage or deed of trust upon property in United States or Canada
+- Section 33-11-26 - Chattel mortgage loans
+- Section 33-11-27 - Abstract plant and equipment and stocks of abstract companies
+- Section 33-11-28 - Investments incidental to preservation or enhancement of earnings of real property securing evidence of indebtedness held by insurer
+- Section 33-11-29 - Acquisition or holding of real property generally
+- Section 33-11-30 - Investment of assets in real estate acquired for purposes of leasing
+- Section 33-11-31 - Acquisition and holding of real property for recreation, hospitalization, convalescence, and retirement of employees
+- Section 33-11-32 - Limitation on investments pursuant to Code Sections 33-11-30 or 33-11-31
+- Section 33-11-33 - Prohibited investments; underwriting of offering of securities or property by other persons
+- Section 33-11-37 - Investment of funds in excess of reserve and capital, or surplus, in authorized and approved investments
+- Section 33-11-38 - Authority of insurers to convey property or securities in which moneys or assets invested or upon which loans made
+- Section 33-11-39 - Time limit for disposal by insurer of real estate
+- Section 33-11-40 - Time limit for disposal by insurer of personal property or securities deemed unauthorized investments
+- Section 33-11-41 - Effect of failure of insurer to dispose of real estate, personal property, or securities
+- Section 33-11-42 - Investments of foreign and alien insurers; place of domicile
+- Section 33-11-43 - Compliance with Secondary Mortgage Market Enhancement Act
+- Section 33-11-50 - Legislative purpose; application of article; separate accounts
+- Section 33-11-51 - Definitions
+- Section 33-11-52 - Determining minimum financial security benchmark
+- Section 33-11-53 - Factors to be considered in determining prudence
+- Section 33-11-54 - Written plan and policy; duty of board of directors
+- Section 33-11-55 - Investments eligible for support of outstanding liabilities
+- Section 33-11-56 - Conditions for engaging in derivative transactions
+- Section 33-11-57 - Requirements regarding admitted assets at time of acquisition; nonadmitted assets; relation of investment limitation; qualification of investments; documentation; authority of Commissioner; insurance futures
+- Section 33-11-58 - Percentage of securities from single issuer; assignment of excesses; compliance; investment in government obligations
+- Section 33-11-59 - Obligations in different currencies
+- Section 33-11-60 - Prohibited investments and activities
+- Section 33-11-61 - Using investment assets to satisfy minimum assets requirements; qualification of admitted assets; determining financially hazardous insurer
+- Section 33-11-62 - Retention of personnel to assist Commissioner; confidentiality
+- Section 33-11-63 - Determination by Commissioner of noncompliance; reasonable additional restrictions; consideration of other assets by Commissioner
+- Section 33-11-64 - Conditions under which insurer shall not acquire an investment; special rated credit instruments
+- Section 33-11-65 - Establishment of separate accounts by domestic life insurance companies
+- Section 33-11-66 - Cumulative nature of Code section; variable annuity contract; separate accounts; conduct of business; licensed or organized to do business in state; Commissioner's role
+- Section 33-11-67 - Variable contract insurance policies; separate accounts; power of company; statement of essential features in determining benefits; certificate of authority; Commissioner's role; insurance license required
+- Section 33-11-80 - Short title
+- Section 33-11-81 - Applicability
+- Section 33-11-82 - Definitions
+- Section 33-11-83 - Authorization and requirements for insurers acquiring investments in investment pools
+- Section 33-11-84 - Qualification in investment pool
+- Section 33-11-85 - Limitations to insurer's investment
+- Section 33-11-86 - Management of investment pool
+- Section 33-11-87 - Notification to Commissioner; ownership; inspection
+- Section 33-11-88 - Business entity requirement
+- Section 33-11-89 - Standards not applicable; reporting

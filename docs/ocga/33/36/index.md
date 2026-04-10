@@ -1,0 +1,25 @@
+# Chapter 36 - GEORGIA INSURERS INSOLVENCY POOL (§§ 33-36-1 — 33-36-20)
+
+- Section 33-36-1 - Short title
+- Section 33-36-2 - Creation; accounts; responsibility; supervision and regulation
+- Section 33-36-3 - Definitions
+- Section 33-36-4 - Insurers Solvency Board
+- Section 33-36-5 - Insurers required to become members of pool
+- Section 33-36-6 - Plan to govern members; rules; requirements for plan; assignment of claims or judgments against insolvent insurers; claimants of assets of insolvent insurers; jurisdiction; venue
+- Section 33-36-7 - Levy of assessments against insurers; reimbursement of expenses; refunds of assessments
+- Section 33-36-7.1 - Surcharge on premiums to recoup assessments; disclosure to insureds; excess surcharges, exception where the expense of collection would exceed the amount of the surcharge
+- Section 33-36-8 - Issuance by Commissioner of notice of judicial determination of insolvency of insurer; requirement of notification of insureds by agents of insurer; publication of notice
+- Section 33-36-9 - Coverage afforded by insolvent insurers to become obligation of pool; investigation and settlement of claims by pool
+- Section 33-36-10 - Recovery under chapter of covered claims recoverable under insolvency funds of other states
+- Section 33-36-11 - Limitation for filing claims; claims filed after final date set by court; default judgments
+- Section 33-36-12 - Powers and duties of Commissioner as to collection of assessments; judicial review
+- Section 33-36-13 - Allowance of claims by receivers, liquidators, or statutory successors; appointment of pool as insurer's agent
+- Section 33-36-14 - Exhaustion of rights by claimants against insolvent insurers prior to recovery; recovery of payment to claimants in excess of amounts authorized; reduction of liability of insured; recovery of amounts paid on behalf of certain persons
+- Section 33-36-14.1 - Recommendations and report by the board of trustees
+- Section 33-36-15 - Examination of pool
+- Section 33-36-16 - Exemption from taxation of pool
+- Section 33-36-16.1 - Immunity from liability for performance of powers and duties under this chapter
+- Section 33-36-17 - Termination of operation of pool as to particular kinds of insurance; proceeds upon termination of operation of pool; expiration of pool
+- Section 33-36-18 - Appeal to Commissioner; judicial review
+- Section 33-36-19 - Advertisements, announcements, or statements using insolvency pool for purpose of sales
+- Section 33-36-20 - Liability of pool to claimants and electing insureds in emergency circumstances; definitions; exceptions

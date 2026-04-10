@@ -1,0 +1,27 @@
+# Chapter 74 - LOCAL GOVERNMENT CODE ENFORCEMENT BOARDS (§§ 36-74-1 — 36-74-50)
+
+- Section 36-74-1 - Short title
+- Section 36-74-2 - Legislative intent
+- Section 36-74-3 - Creating or abolishing boards; hearings and fines
+- Section 36-74-20 - Application
+- Section 36-74-21 - Definitions
+- Section 36-74-22 - Membership of boards; requirements of members; chairperson; attorney's role
+- Section 36-74-23 - Initiating of proceedings; time to correct violations; repeat violations; hearings
+- Section 36-74-24 - Calling of hearings; hearing proceedings
+- Section 36-74-25 - Powers of enforcement boards
+- Section 36-74-26 - Administrative fines; public record
+- Section 36-74-27 - Length of liens
+- Section 36-74-28 - Appeals to superior court
+- Section 36-74-29 - Notice required; form of notice
+- Section 36-74-30 - Other enforcement methods; probable cause for investigation required
+- Section 36-74-40 - Application of article
+- Section 36-74-41 - Definitions
+- Section 36-74-42 - Membership of boards; requirements of members; chairperson; attorney's role
+- Section 36-74-43 - Initiating of proceedings; time to correct violations; repeat violations; hearings
+- Section 36-74-44 - Calling of hearings; hearing proceedings; orders
+- Section 36-74-45 - Powers of enforcement boards
+- Section 36-74-46 - Administrative fines; public record
+- Section 36-74-47 - Length of liens
+- Section 36-74-48 - Petition for review to superior court
+- Section 36-74-49 - Notice required; form of notice
+- Section 36-74-50 - Other enforcement methods

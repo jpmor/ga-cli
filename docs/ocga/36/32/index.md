@@ -1,0 +1,32 @@
+# Chapter 32 - MUNICIPAL COURTS (§§ 36-32-1 — 36-32-41)
+
+- Section 36-32-1 - Establishment of municipal court; punishments; selection, election, or appointment of mayor pro tempore or recorder pro tempore
+- Section 36-32-1.1 - Municipal court judges; qualifications to serve
+- Section 36-32-2 - Appointment of judges
+- Section 36-32-2.1 - Removal of judges
+- Section 36-32-3 - Powers of judges
+- Section 36-32-4 - Authority of municipal corporations to provide for forfeiture of appearance bonds
+- Section 36-32-5 - Sentences and fines which may be imposed
+- Section 36-32-6 - Jurisdiction in marijuana possession cases; retention of fines and bond forfeitures; transfer of cases
+- Section 36-32-6.1 - Jurisdiction in cases involving transactions in drug objects; disposition of fines; transfer of cases
+- Section 36-32-7 - Jurisdiction in cases of operating motor vehicle without effective insurance; retention of fines and bond forfeitures; transfer of cases
+- Section 36-32-8 - Jurisdiction in cases of operating motor vehicle without certificate of emission inspection; retention of fines and bond forfeitures; transfer of cases
+- Section 36-32-9 - Misdemeanor theft by shoplifting or misdemeanor refund fraud; transfer of cases; penalties; retention of fines and bond forfeitures; reports
+- Section 36-32-10 - Jurisdiction in cases of furnishing alcoholic beverages to and purchase and possession of alcoholic beverages by underage persons; retention of fines and bond forfeitures; transfer of cases; penalties
+- Section 36-32-10.1 - Jurisdiction in counties without state court to try violations of Code Section 16-7-21; retention of fines and bond forfeitures; transfer of cases; penalties
+- Section 36-32-10.2 - Trial upon citation, summons, or accusation
+- Section 36-32-10.3 - Jurisdiction over littering offenses
+- Section 36-32-11 - Required training for judges
+- Section 36-32-12 - Municipal court held outside municipality
+- Section 36-32-13 - Municipal court clerks; role of Municipal Courts Training Council
+- Section 36-32-20 - Short title
+- Section 36-32-21 - Definitions
+- Section 36-32-22 - Establishment of Georgia Municipal Courts Training Council; membership
+- Section 36-32-23 - Oath of office
+- Section 36-32-24 - Election of chairman and vice-chairman; secretary; quorum; minutes; annual report
+- Section 36-32-25 - Remuneration
+- Section 36-32-26 - Functions, powers, and responsibilities
+- Section 36-32-27 - Mandatory training of municipal judges
+- Section 36-32-40 - [Effective Until 7/1/2025] Creation of council; membership and organization; purpose; expenses; contracts; assistance to council; members not ineligible to hold office of judge
+- Section 36-32-40 - [Effective 7/1/2025] Creation of council; membership and organization; purpose; expenses; contracts; assistance to council; members not ineligible to hold office of judge
+- Section 36-32-41 - Savings plans and deferred compensation plans for council members

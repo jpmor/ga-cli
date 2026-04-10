@@ -1,0 +1,25 @@
+# Chapter 44 - REDEVELOPMENT POWERS LAW (§§ 36-44-1 — 36-44-23)
+
+- Section 36-44-1 - Short title
+- Section 36-44-2 - Legislative findings and purpose
+- Section 36-44-3 - Definitions
+- Section 36-44-4 - Local legislative bodies serving as redevelopment agency; common redevelopment agency
+- Section 36-44-5 - Power of political subdivision
+- Section 36-44-6 - Delegation of powers; limitations on delegation
+- Section 36-44-7 - Approval of redevelopment plans
+- Section 36-44-8 - Creation and implementation of tax allocation districts
+- Section 36-44-9 - Computing tax allocation increments; property tax included; use of tax funds
+- Section 36-44-10 - Determination of tax allocation increment base of tax allocation district; annual notice
+- Section 36-44-11 - Positive tax allocation increments
+- Section 36-44-12 - Termination of tax allocation districts
+- Section 36-44-13 - Payment of redevelopment costs
+- Section 36-44-14 - Issuance of tax allocation bonds; authorization of tax allocation notes and other obligations; increasing security and marketability amount; certificate of validation; interest; redevelopment cost anticipation notes
+- Section 36-44-15 - Determining tax millage rate; no freeze to ad valorem tax millage
+- Section 36-44-16 - Loans for financing redevelopment costs
+- Section 36-44-17 - Limitation on creation of tax allocation district
+- Section 36-44-18 - Application of Urban Redevelopment Law
+- Section 36-44-19 - Contracting with private individuals or entities
+- Section 36-44-20 - Requirement of insufficiency
+- Section 36-44-21 - Public employees and officials prohibited from holding interest disclosures; voidability of prohibited transactions; misconduct in office
+- Section 36-44-22 - Approval of local law; expansion of authorities by localities prohibited
+- Section 36-44-23 - Cumulative and supplemental powers

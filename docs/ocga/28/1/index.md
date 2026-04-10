@@ -1,0 +1,22 @@
+# Chapter 1 - GENERAL PROVISIONS (§§ 28-1-1 — 28-1-17)
+
+- Section 28-1-1 - Membership and apportionment of General Assembly
+- Section 28-1-2 - Time and place of meetings
+- Section 28-1-3 - Initial organization
+- Section 28-1-4 - Form and administration of oath of office to members
+- Section 28-1-5 - Commission of members
+- Section 28-1-6 - Powers and duties of President Pro Tempore of the Senate and Speaker Pro Tempore of the House of Representatives
+- Section 28-1-6.1 - Method for determining permanent disability of Speaker of the House of Representatives
+- Section 28-1-7 - Failure of officer to organize emergency session
+- Section 28-1-8 - Salary and allowances of members and officers
+- Section 28-1-8.1 - Failure of members to file state income tax returns
+- Section 28-1-9 - Service in General Assembly to be credited to pension plan of employee of political subdivision
+- Section 28-1-10 - Seals of the General Assembly and of each house
+- Section 28-1-11 - Maintenance of engrossed and enrolled bills and resolutions; Secretary of State to publish enrolled Acts
+- Section 28-1-12 - Election of state officers for whom manner and time of election not provided
+- Section 28-1-13 - Eligibility of elected county or municipal officials for membership in General Assembly
+- Section 28-1-14 - Notice of intention to introduce local bill; copies to governing authorities
+- Section 28-1-14.1 - Requirements for revising districts; proposed plans submitted electronically; legislative requirements
+- Section 28-1-15 - Restrictions on population bills; &quot;population bill&quot; defined
+- Section 28-1-16 - Issuance of subpoenas by Superior Court of Fulton County on behalf of the Committees on Ethics of the Senate and House of Representatives
+- Section 28-1-17 - [Repealed] Prefiling of proposed bills and resolutions prior to each legislative session; administrative procedure

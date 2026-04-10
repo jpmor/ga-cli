@@ -1,0 +1,31 @@
+# Chapter 6 - COUNTY TREASURER (§§ 36-6-1 — 36-6-28)
+
+- Section 36-6-1 - Qualifications for office; election; commission; term; abolishment and fixing compensation of office by General Assembly
+- Section 36-6-2 - Requirement of bond and oath
+- Section 36-6-3 - Form of oath
+- Section 36-6-4 - When bond to be given; form and amount
+- Section 36-6-5 - Filing and recordation of oath and bond
+- Section 36-6-6 - Recordation of bond to bind third parties; effect of recordation after 30 days
+- Section 36-6-7 - Effect of Code Sections 36-6-5 and 36-6-6 on lien of bond
+- Section 36-6-8 - Time at which lien of bond arises
+- Section 36-6-9 - Governor's directions relating to bond; payment of costs of transmitting and recording bond
+- Section 36-6-10 - Location of office
+- Section 36-6-11 - Books and stationery furnished by county
+- Section 36-6-12 - Compensation and fees
+- Section 36-6-13 - Receipt of commission or fees in connection with certain road contracts; collection and disbursement of road contract funds
+- Section 36-6-14 - Duties generally
+- Section 36-6-15 - Collection and disbursal of funds generally
+- Section 36-6-16 - Deposits of county funds in designated depositories
+- Section 36-6-16.1 - Deposit of funds held for benefit of third persons by officer of county or court in treasury of counties having population of 600,000 or more
+- Section 36-6-17 - Furnishing of bonds by depositories selected by treasurer
+- Section 36-6-18 - Arrangements for payment of interest on deposits; disposition of interest payments
+- Section 36-6-19 - Disposition of books of treasurer when full
+- Section 36-6-20 - Delivery of money, books, papers, and property to successor
+- Section 36-6-21 - Final settlement of accounts
+- Section 36-6-22 - Requirement of accountings by treasurer
+- Section 36-6-23 - Proceedings upon failure of treasurer to render accounting
+- Section 36-6-24 - Removal of treasurer
+- Section 36-6-25 - Filling of vacancies
+- Section 36-6-26 - Bonds of persons appointed to fill vacancies
+- Section 36-6-27 - Execution against county treasurer for failure to pay over money
+- Section 36-6-28 - Purchase of county orders at less than full value or refusal to pay order

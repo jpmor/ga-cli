@@ -1,0 +1,48 @@
+# Chapter 6 - BONDS AND RECOGNIZANCES (§§ 17-6-1 — 17-6-114)
+
+- Section 17-6-1 - When offenses bailable; procedure; schedule of bails; appeal bonds
+- Section 17-6-1.1 - Electronic pretrial release and monitoring program for defendants; requirements; procedures; fees
+- Section 17-6-2 - Acceptance of bail in misdemeanor cases; posting driver's license as collateral for bail
+- Section 17-6-3 - Acceptance of recognizance bonds for military personnel
+- Section 17-6-4 - Authorization of posting of cash bonds generally; furnishing of receipt to person posting bond; recordation of receipt of bond on docket; disposal of unclaimed bonds
+- Section 17-6-5 - Acceptance of cash bonds for certain offenses; authorization
+- Section 17-6-6 - Clerk of court or judge to provide cash receipt book; furnishing of copies of receipt; disposition of original receipt and bond
+- Section 17-6-7 - Liability of arresting officer for failure to account for cash receipts and bonds
+- Section 17-6-8 - Proceedings upon failure of person arrested to appear; forfeiture of bond not a bar to subsequent prosecution
+- Section 17-6-9 - Acceptance of cash bonds in lieu of statutory bond or recognizance by officers or officials authorized to enforce &quot;Comprehensive Litter Prevention and Abatement Act of 2006.&quot;
+- Section 17-6-10 - Acceptance of cash bonds for violations of ordinances or other offenses against municipalities; issuance of receipt; designated officials; effect of failure to appear in court; applicability to municipalities having similar provisions
+- Section 17-6-11 - Issuance of uniform traffic citation; failure to appear or dispose of charges; examination of driver's license at motor vehicle accident scene for organ donor designation
+- Section 17-6-12 - Unsecured judicial release; requirement; effect of failure of person charged to appear for trial; consideration of criminal record
+- Section 17-6-13 - First bail for offense permitted as matter of right; subsequent bails to be in discretion of court
+- Section 17-6-14 - Use of bail bond posted for preliminary hearing for trial appearance; applicability to federal proceedings; proceedings in county other than where commitment hearing held; effect where bail bond required is less than bond originally posted
+- Section 17-6-15 - Necessity for commitment where bail tendered and accepted; opportunity for bail; receipt of bail after commitment and imprisonment; limitations on cash bonds
+- Section 17-6-16 - Entry of memorandum on warrant after waiver of commitment hearing and tender of bail
+- Section 17-6-17 - Bond or recognizance to be conditioned on appearance of person accused of crime at arraignment; proceedings upon failure of accused to appear
+- Section 17-6-18 - Amendment of bonds and giving of new security
+- Section 17-6-30 - Fees of sureties
+- Section 17-6-31 - Surrender of principal by surety; release of surety liability prior to entry of judgment
+- Section 17-6-50 - Persons deemed professional bondsmen; criminal background investigation information to be provided to clerk of court
+- Section 17-6-50.1 - Continuing education programs for professional bondsmen; fee; annual requirement; certificate of completion
+- Section 17-6-51 - Suggesting employment of attorneys during negotiations regarding signing of bond or any time subsequent thereto
+- Section 17-6-52 - Soliciting business or loitering around jails or courts to solicit business; giving of advice by law enforcement officers as to services of professional bondsmen
+- Section 17-6-53 - Giving advice or directions to defendants who are principals in bonds regarding defense or disposition of cases
+- Section 17-6-54 - No further compensation after becoming surety; when sum received to be returned to defendant; right to surrender defendant and to keep sum paid when defendant forfeits
+- Section 17-6-55 - Penalty for violation of part
+- Section 17-6-56 - Bail recovery agents; requirements; registration
+- Section 17-6-56.1 - Continuing education programs for bail recovery agents; fee; annual requirement; certificate of completion
+- Section 17-6-57 - Bail recovery agents; notification to local police; out-of-state agents; identification card
+- Section 17-6-58 - Penalty for violation; liability
+- Section 17-6-70 - When forfeiture occurs
+- Section 17-6-71 - Execution hearing on failure of principal to appear; notice of judgment and writ of fieri facias
+- Section 17-6-72 - Conditions not warranting forfeiture of bond for failure to appear; remission of forfeiture
+- Section 17-6-73 - Address of principal and surety on bond or recognizance
+- Section 17-6-90 - Issuance of notice to appear for show cause hearing; requirement of bond; hearing; payment of court costs by affiant; issuance of order of arrest
+- Section 17-6-91 - Extension of bond by court; right of sureties to surrender principal
+- Section 17-6-92 - Violation of bond; contempt of court
+- Section 17-6-93 - [Renumbered] Redesignated
+- Section 17-6-94 - [Renumbered] Redesignated
+- Section 17-6-110 - Issuance of warrant; requirement of bond; hearing; payment of costs by affiant
+- Section 17-6-111 - Right of person to require bond against spouse
+- Section 17-6-112 - Actions constituting violations of bond; right of action for breach of bond generally; imposition of additional penalty for contempt of court; finding of prosecuting witness in contempt
+- Section 17-6-113 - Effect of provoking breach of bond
+- Section 17-6-114 - Discharge or extension of bond by court

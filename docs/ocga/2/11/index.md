@@ -1,0 +1,31 @@
+# Chapter 11 - SEEDS AND PLANTS (§§ 2-11-1 — 2-11-77)
+
+- Section 2-11-1 - Misrepresentation of count or variety of agricultural plants
+- Section 2-11-2 - Fraudulent sale of nursery stock or seedlings; misrepresenting fruit or nut trees
+- Section 2-11-20 - Short title
+- Section 2-11-21 - Definitions
+- Section 2-11-22 - Labeling requirements
+- Section 2-11-23 - Prohibited acts
+- Section 2-11-24 - Records and samples to be kept; inspection thereof
+- Section 2-11-25 - Powers and duties of Commissioner - Generally
+- Section 2-11-26 - Powers and duties of Commissioner - Licensing authority; penalties
+- Section 2-11-28 - Powers and duties of Commissioner - Rule-making authority
+- Section 2-11-30 - Seizure of seed for violation of article; disposition thereof
+- Section 2-11-31 - Injunctions
+- Section 2-11-32 - Exemption from article
+- Section 2-11-33 - Applicability of Code Sections 2-11-21 and 2-11-22
+- Section 2-11-34 - Penalty for violations of article or rules and regulations; Commissioner authorized to utilize warning for minor violations
+- Section 2-11-35 - Local regulation prohibited
+- Section 2-11-36 - Seeds used in production of low THC oil
+- Section 2-11-50 - Legislative intent
+- Section 2-11-51 - Definitions
+- Section 2-11-52 - Designation of agency for certification of seeds and plants; liability for damages resulting from certification work; immunity
+- Section 2-11-53 - False use of evidence of certification in sale of seeds or plants
+- Section 2-11-70 - Purpose; creation of Seed Arbitration Council
+- Section 2-11-71 - Definitions
+- Section 2-11-72 - Notice of requirements for filing complaint printed on seed container, label, or invoice; effect of failure to provide notice
+- Section 2-11-73 - Filing complaint; fee; procedure
+- Section 2-11-74 - Membership of Seed Arbitration Council; terms; chairperson and secretary; sessions; expenses
+- Section 2-11-75 - Hearings and investigations
+- Section 2-11-76 - Findings and recommendations
+- Section 2-11-77 - Rules and regulations

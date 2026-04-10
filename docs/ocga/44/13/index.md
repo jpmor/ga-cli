@@ -1,0 +1,50 @@
+# Chapter 13 - EXEMPTIONS FROM LEVY AND SALE (§§ 44-13-1 — 44-13-120)
+
+- Section 44-13-1 - Amount of exemption; who may claim exemption; what charges enforceable
+- Section 44-13-1.1 - &quot;Dependent&quot; defined
+- Section 44-13-2 - Application for exemption by spouse, minor children or representative of dependents upon debtor's refusal to apply
+- Section 44-13-3 - Supplementation of exemption
+- Section 44-13-4 - Application for exemptions; to whom made; contents; schedule of property and list of creditors; effect of failure to comply; survey
+- Section 44-13-5 - Survey of lands in different county
+- Section 44-13-6 - Duty to provide full schedule of property; effect of fraudulent omissions
+- Section 44-13-7 - Publication of notice of application; form
+- Section 44-13-8 - Written notice to creditors; how given
+- Section 44-13-9 - Time fixed by notice for hearing
+- Section 44-13-10 - Survey of exempted real property; affidavit of surveyor; return to probate court; objection to survey; failure of surveyor to comply as contempt
+- Section 44-13-11 - Approval of application; transmittal of copy of exempted real property to other counties; recordation
+- Section 44-13-12 - Objections to schedule
+- Section 44-13-13 - Appointment of appraisers upon filing of objections; examination and valuation of property; alterations in plat and schedule; approval and recordation; appeal
+- Section 44-13-14 - Procedure for exempting town realty valued in excess of exemption; order of probate court; reinvestment of sale proceeds; liability of judge or officer
+- Section 44-13-15 - How cash exempted; investment in personalty
+- Section 44-13-16 - Sale of exempted property for reinvestment; procedure; effect
+- Section 44-13-17 - Sale for reinvestment when application made for debtor's children or dependents or by divorced spouse
+- Section 44-13-18 - Disposition of rents and profits arising from exempted property
+- Section 44-13-19 - Costs of proceedings
+- Section 44-13-20 - Reversion of property set apart for spouse, children, or dependents
+- Section 44-13-21 - Effect of article on other exemptions
+- Section 44-13-40 - Right of debtor to waive exemption
+- Section 44-13-41 - Selection of property as to which exemption not waived; affidavit as to valuation; jury trial; penalty for harassment of debtor
+- Section 44-13-42 - Mode of setting apart household and kitchen furniture and provisions; schedule; recordation; fee
+- Section 44-13-43 - Spouse or dependent claiming exemption for debtor may not claim own exemption
+- Section 44-13-60 - Affidavit disputing exemption of exempted real property from execution; levy and sale by officer; effect of debtor's counteraffidavit
+- Section 44-13-61 - When and how issue tried
+- Section 44-13-62 - Findings upon the trial; effect
+- Section 44-13-63 - Levy or sale of exempted real property as trespass; persons entitled to recovery
+- Section 44-13-80 - Appointment of receiver to sell excess realty
+- Section 44-13-81 - Delivery of excess personalty to receiver for disposition
+- Section 44-13-82 - Sale of realty and distribution of proceeds; priorities
+- Section 44-13-83 - Procedure for sale of personalty
+- Section 44-13-84 - Only one receiver authorized
+- Section 44-13-85 - Cancellation of sale upon failure of any creditor to appear and file claim
+- Section 44-13-86 - Bond required of receiver; power of superior court over receiver; settling of conflicts; disposition of excess
+- Section 44-13-87 - Right of applicant to select exempt property
+- Section 44-13-100 - Exemptions for purposes of bankruptcy and intestate insolvent estates
+- Section 44-13-101 - Method of obtaining exemption
+- Section 44-13-102 - Survey and plat of exempted land; return to probate court; recordation
+- Section 44-13-103 - Objections to survey or to valuation of improvements; application to probate court; appointment of appraisers; alterations in survey
+- Section 44-13-104 - Town property worth more than $500.00; sale and reinvestment
+- Section 44-13-105 - Sale of property subject to encumbrance of homestead
+- Section 44-13-106 - Use of exempted property
+- Section 44-13-107 - Exempted property subject to levy and sale for purchase money and taxes
+- Section 44-13-108 - Levy or sale of exempt property as trespass; cause of action
+- Section 44-13-120 - Rights of Georgia residents

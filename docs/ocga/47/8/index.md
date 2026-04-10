@@ -1,0 +1,26 @@
+# Chapter 8 - SUPERIOR COURT JUDGES RETIREMENT FUND OF GEORGIA; SENIOR JUDGES (EMERITUS)
+
+- Section 47-8-1 - Creation of the office of senior judge of the superior courts
+- Section 47-8-2 - Creation of the Superior Court Judges Retirement Fund of Georgia; trustees of the fund; payment to the fund
+- Section 47-8-3 - Power of trustees to make rules and regulations for administration of the fund
+- Section 47-8-4 - Power of trustees to invest moneys of the fund
+- Section 47-8-5 - Annual audit of the fund
+- Section 47-8-6 - Administration of the fund
+- Section 47-8-20 - Membership in the fund; effect of contributions on eligibility for benefits and participation in the fund; payment of contributions for service rendered before becoming a member
+- Section 47-8-21 - When payments shall be made to the fund
+- Section 47-8-40 - Eligibility for appointment to the office of senior judge; salary; creditable service
+- Section 47-8-41 - Eligibility for appointment as a senior judge or retirement; salary or benefits; creditable service
+- Section 47-8-42 - Eligibility for retirement; benefits
+- Section 47-8-43 - Payments by superior court judges to the fund
+- Section 47-8-44 - Payment of contributions on behalf of superior court judges
+- Section 47-8-45 - Credit for service rendered during the year in which a superior court judge would become eligible for retirement and appointment as a senior judge
+- Section 47-8-60 - Appointment to the office of senior judge; resignation from the office of superior court judge
+- Section 47-8-61 - Term of office as senior judge; power of Governor to call upon senior judges to serve as superior court judges
+- Section 47-8-62 - Salaries paid to senior judges
+- Section 47-8-63 - Duties of senior judges generally
+- Section 47-8-64 - Service as superior court judge; compensation
+- Section 47-8-65 - Retention of office as a senior judge despite nonresidency; power to preside as a judge during the period of nonresidence
+- Section 47-8-67 - Election of survivors benefits coverage; contributions required for such coverage; effect of such coverage on appointment to the office of senior judge; amount of survivors benefits
+- Section 47-8-68 - Withdrawal of payments to the fund; effect on right to participate in the fund
+- Section 47-8-69 - Withdrawal of payments to the fund by superior court judges who have been disqualified or resigned from office; payments upon the death of a superior court judge
+- Section 47-8-80 - Effect of sufficiency of the fund on payment of retirement benefits; order of liability for payment of benefits

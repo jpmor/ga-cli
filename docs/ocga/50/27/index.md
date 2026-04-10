@@ -1,0 +1,71 @@
+# Chapter 27 - LOTTERY FOR EDUCATION (§§ 50-27-1 — 50-27-104)
+
+- Section 50-27-1 - Short title
+- Section 50-27-2 - Legislative findings and declarations
+- Section 50-27-3 - Definitions
+- Section 50-27-4 - Georgia Lottery Corporation created; venue
+- Section 50-27-5 - Membership of board of directors; appointment; terms; filling of vacancies; conflict of interests; reimbursement for expenses; officers; quorum
+- Section 50-27-6 - Lottery Retailer Advisory Board
+- Section 50-27-7 - General duties of board of directors
+- Section 50-27-8 - Appointment of chief executive officer; compensation
+- Section 50-27-9 - General powers of corporation
+- Section 50-27-10 - Adoption by board of procedures regulating conduct of lottery games
+- Section 50-27-11 - Duties of chief executive officer
+- Section 50-27-12 - Employees; compensation; restrictions; background investigations; bonding
+- Section 50-27-13 - Disposition of lottery proceeds; budget report by Governor; appropriations by General Assembly; shortfall reserve subaccount
+- Section 50-27-14 - Participation by minority businesses
+- Section 50-27-15 - Investigation of vendors; disclosure requirements; restrictions on entry into procurement contracts
+- Section 50-27-16 - Bonding requirements for vendors; qualifications of vendors; competitive bid requirement
+- Section 50-27-17 - State-wide network of retailers; commissions; certificate of authority; qualifications of retailers; fees for outlets; review of activities; gifts or gratuities
+- Section 50-27-18 - Retailer contracts not transferable or assignable; restriction on contracts and sales
+- Section 50-27-19 - Fidelity fund for retailers; assessments
+- Section 50-27-20 - Cancellation, suspension, revocation, or termination of retail contracts
+- Section 50-27-21 - Preservation of lottery proceeds by retailers; accounting procedures; preference accorded proceeds of insolvent retailers
+- Section 50-27-22 - Computation of rental payments of retailers
+- Section 50-27-23 - Restrictions on sale of tickets or shares; price; gifts and promotions
+- Section 50-27-24 - Prize proceeds subject to state income tax; attachments, garnishments, or executions; validation of winning tickets; prohibited purchases; money-dispensing machines; unclaimed prize money
+- Section 50-27-24.1 - Payment of prize to person other than winner; assignment of prize rights; hearing; findings justifying approval of voluntary assignment; other requirements
+- Section 50-27-25 - Confidentiality of information; investigations; supervision and inspections; reports of suspected violations; assistance in investigation of violations; confidentiality
+- Section 50-27-26 - Sales to minors; penalty; affirmative defense
+- Section 50-27-27 - Penalty for falsely making, altering, forging, uttering, passing, or counterfeiting ticket; penalty for attempting to influence winning of prize
+- Section 50-27-28 - Penalty for making false statements or false entries in books or records
+- Section 50-27-29 - Agreements with agencies of other jurisdictions; restriction on release of records, documents, and information
+- Section 50-27-30 - Bidding requirements and procedures for contracts
+- Section 50-27-31 - Appeals from actions of board
+- Section 50-27-32 - Corporation authorized to borrow money; validation of debt; restriction on use of money in state general fund; purchase or release of goods and services
+- Section 50-27-33 - Reports by corporation; audits; budget; fiscal year
+- Section 50-27-34 - Legislative oversight committee
+- Section 50-27-50 - Purpose
+- Section 50-27-51 - Definitions
+- Section 50-27-52 - Collection remedy in addition to other remedies
+- Section 50-27-53 - Debts owed to state agencies lien against lottery winnings; prizes paid out by retailers or noncorporate entities; time period involved; rules and regulations; immunity; costs
+- Section 50-27-54 - Information provided to claimant agency; confidentiality
+- Section 50-27-55 - Article applicable to prizes of $5,000.00 or more
+- Section 50-27-70 - Legislative findings; definitions
+- Section 50-27-71 - License fees; issuance of license; display of license; control number; duplicate certificates; application for license or renewal; penalty for noncompliance
+- Section 50-27-71.1 - Gift cards; redemption
+- Section 50-27-72 - Refund of license
+- Section 50-27-73 - Refusal to issue or renew license; revocation or suspension; hearing; limitation on issuance of licenses
+- Section 50-27-74 - Right to notice and hearing; service of notice; establishment of procedures; prohibition on assigning, transferring or selling by master licensee
+- Section 50-27-75 - Delivery of order refusing application or imposing sanction
+- Section 50-27-76 - Judicial review of action by corporation or chief executive officer
+- Section 50-27-77 - Appeal from superior court
+- Section 50-27-78 - Payment and collection of annual permit fee; permit stickers; treatment of fees; penalty for defacing sticker
+- Section 50-27-79 - Refund of annual permit fee
+- Section 50-27-80 - Permit fees for additional machines; penalty fee
+- Section 50-27-81 - Administration of article
+- Section 50-27-81.1 - Regulatory guidance letter
+- Section 50-27-82 - Criminal violations; investigations; seizure and confiscation of machines; repossession; sealing of machines
+- Section 50-27-83 - Validity of prior existing obligations to state
+- Section 50-27-84 - Limitation on percent of monthly gross retail receipts derived from machines; verified reports; consequence for violations; submission of electronic reports
+- Section 50-27-85 - Penalties for violations by location owners or operators
+- Section 50-27-86 - Local enactment and enforcement of ordinances authorized
+- Section 50-27-87 - Master licenses; requirements and restrictions for licensees
+- Section 50-27-87.1 - Unfair methods of competition; unfair and deceptive acts
+- Section 50-27-88 - Establishment of rules and policies; application for license
+- Section 50-27-89 - Bona Fide Coin Operated Amusement Machine Operator Advisory Board; membership; terms; policies and procedures; selection of vendors
+- Section 50-27-100 - Legislative findings
+- Section 50-27-101 - Class B accounting terminal; communication networks; other procedures and policies
+- Section 50-27-102 - Role of corporation; implementation and certification; separation of funds and accounting; disputes
+- Section 50-27-103 - Removal of Class B machines; notification; audits
+- Section 50-27-104 - Penalties

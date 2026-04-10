@@ -1,0 +1,39 @@
+# Chapter 5 - REGULATION OF UNAUTHORIZED INSURERS (§§ 33-5-1 — 33-5-59)
+
+- Section 33-5-1 - Representation of unauthorized insurers prohibited
+- Section 33-5-2 - Validity of contracts effectuated by unauthorized insurers; dissemination of advertising for or on behalf of unauthorized insurers
+- Section 33-5-3 - Penalty for violations of chapter
+- Section 33-5-20 - Short title
+- Section 33-5-20.1 - Definitions
+- Section 33-5-20.2 - Criteria for domestic surplus lines insurer; construction with federal provisions; eligibility to write insurance; taxes; protection; financial and solvency requirements; exemption from statutory requirements
+- Section 33-5-21 - Authorization of procurement of surplus line insurance; conditions; procuring or placing nonadmitted insurance for exempt commercial purchaser
+- Section 33-5-21.1 - Application of Chapter 9 or Code Section 33-24-9
+- Section 33-5-22 - Licensing of surplus line brokers generally
+- Section 33-5-23 - Revocation or suspension of broker's license
+- Section 33-5-24 - Acceptance and placement of business by surplus line brokers generally
+- Section 33-5-25 - Broker to ascertain financial condition of unauthorized insurer prior to placement of insurance therewith; placement of insurance with foreign or alien insurers
+- Section 33-5-26 - Endorsement of insurance contract by broker
+- Section 33-5-27 - Issuance to insured by broker of evidence of insurance; issuance of substitute certificate or endorsement; delivery of policy to insured; penalties
+- Section 33-5-28 - Maintenance by broker of records of policies written or renewed
+- Section 33-5-29 - Filing of quarterly affidavits by surplus line brokers; filing of reports of affairs and operations by brokers
+- Section 33-5-30 - Validity and enforceability of contracts procured as surplus line insurance
+- Section 33-5-31 - Payment by broker of tax for privilege of doing business; computation and allocation of tax
+- Section 33-5-32 - Penalty for failure to file quarterly affidavit or remit tax within time prescribed by law; collection and disposition of penalty
+- Section 33-5-33 - Filing of report by persons procuring insurance with unauthorized insurers; levy, collection, and disposition of tax by persons procuring such insurance
+- Section 33-5-34 - Venue of actions against unauthorized insurers issuing surplus line policies; service of process; filing of pleading by insurer
+- Section 33-5-35 - Applicability of article
+- Section 33-5-40 - Legislative findings
+- Section 33-5-41 - Governor authorized to enter into cooperative agreement, compact, or reciprocal agreement for collection of insurance premium taxes
+- Section 33-5-42 - Agreement to substantially follow form of model Surplus Lines Insurance Multi-State Compliance Compact
+- Section 33-5-43 - Governor to select agreement providing best financial advantage
+- Section 33-5-44 - Notice; report
+- Section 33-5-50 - Short title; construction
+- Section 33-5-51 - Purpose of article
+- Section 33-5-52 - Acts by insurer which constitute appointment of Commissioner as agent for service
+- Section 33-5-53 - Service of action and process upon Commissioner; sending of notice of service to defendant; applicability
+- Section 33-5-54 - Service of process upon solicitor, collector, or other agent of insurer
+- Section 33-5-55 - Mode of service prescribed by article cumulative
+- Section 33-5-56 - Right of plaintiff or complainant to default judgment or judgment with leave to prove damages
+- Section 33-5-57 - Conditions precedent to filing of pleadings by insurer generally; granting of postponements; filing by insurer of motion to quash writ or set aside service
+- Section 33-5-58 - Recovery of penalty and attorney's fees by plaintiff; effect of failure of insurer to defend action
+- Section 33-5-59 - Applicability of article

@@ -1,0 +1,22 @@
+# Chapter 44 - SPEECH-LANGUAGE PATHOLOGISTS AND AUDIOLOGISTS (§§ 43-44-1 — 43-44-31)
+
+- Section 43-44-1 - Short title
+- Section 43-44-2 - Declaration of purpose
+- Section 43-44-3 - Definitions
+- Section 43-44-4 - Creation of board; effect on prior board; composition; appointment; vacancies; terms of office; removal of members; liability for official acts
+- Section 43-44-5 - Meetings; officers; reimbursement of members
+- Section 43-44-6 - General powers and duties of board
+- Section 43-44-7 - License required; exemptions; posting license
+- Section 43-44-8 - Requirements for licensure; continuing validity of licenses; renewal of licenses
+- Section 43-44-9 - Reciprocity; holders of Certificate of Clinical Competence of the American Speech-Language and Hearing Association
+- Section 43-44-10 - Issuance of license
+- Section 43-44-10.1 - [Repealed] Speech-language pathology aides; determination of minimum requirements
+- Section 43-44-11 - Licensure in specialty; provisional and inactive licenses; renewal
+- Section 43-44-12 - Advertising by licensees
+- Section 43-44-13 - Investigatory and disciplinary authority of the board
+- Section 43-44-14 - Applicability of the &quot;Georgia Administrative Procedure Act.&quot;
+- Section 43-44-15 - Effect of other laws
+- Section 43-44-16 - Penalties
+- Section 43-44-17 - Effect on activities of employers acting under Occupational Safety and Health Act of 1970
+- Section 43-44-30 - Short title
+- Section 43-44-31 - Text of compact

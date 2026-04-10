@@ -1,0 +1,59 @@
+# Chapter 4 - GARNISHMENT PROCEEDINGS (§§ 18-4-1 — 18-4-90)
+
+- Section 18-4-1 - Definitions
+- Section 18-4-2 - Uniform procedures for garnishment; entitlement to procedures; application of the Civil Practice Act; amendment
+- Section 18-4-3 - Affidavit and requirements; summons of garnishment
+- Section 18-4-4 - Process of garnishment; period of garnishment
+- Section 18-4-5 - Maximum part of disposable earnings subject to garnishment; adverse employment action prohibited
+- Section 18-4-6 - Exemption from garnishment
+- Section 18-4-7 - Required information on summons of garnishment or attachment thereto; form usage; failure to use correct form
+- Section 18-4-8 - Required documents and service thereof
+- Section 18-4-9 - Periodic summonses; original filing date limiting extension
+- Section 18-4-10 - Responses by garnishee; judgment by default
+- Section 18-4-11 - Garnishee answer; property located in area with restricted access; physical filings allowed
+- Section 18-4-12 - Entity as garnishee
+- Section 18-4-13 - Service of garnishee's answer
+- Section 18-4-14 - Recovery of reasonable expenses; recovery of actual expenses; refunds
+- Section 18-4-15 - Parties to garnishment; basis for exemption; form; challenge to garnishment
+- Section 18-4-16 - Plaintiff filing traverse
+- Section 18-4-17 - Third-party claimants
+- Section 18-4-18 - Priority of conflicting claims to money or property
+- Section 18-4-19 - Order of trial; introduction of evidence; expenses
+- Section 18-4-20 - Failure to file claim or traverse in timely manner
+- Section 18-4-21 - Failure of garnishee to file answer; default
+- Section 18-4-22 - Financial institution as garnishee; failure to answer
+- Section 18-4-23 - Grounds for relief from liability
+- Section 18-4-24 - Modification of default judgments; burden of proof
+- Section 18-4-25 - Release of summons of garnishment; release of garnishment
+- Section 18-4-26 - Local government organization and employees subject to garnishment; procedure
+- Section 18-4-40 - Right to continuing garnishment process; applicable provisions
+- Section 18-4-41 - Affidavit of continuing garnishment; summons; notice of exemptions; form
+- Section 18-4-42 - Filing and contents of summons of continuing garnishment; filing of subsequent answers
+- Section 18-4-43 - Default judgment against garnishee in continuing garnishment; relief from default
+- Section 18-4-50 - Definitions
+- Section 18-4-51 - Continuing garnishment of support
+- Section 18-4-52 - Affidavit of continuing garnishment for support; service
+- Section 18-4-53 - Summons of continuing garnishment for support; maximum disposable income subject to garnishment; retirement funds not exempted
+- Section 18-4-54 - Application of money paid into court; additional garnishee answers; termination
+- Section 18-4-55 - Termination of continuing garnishment for support; garnishee's reliance upon information in affidavit
+- Section 18-4-70 - Required use of forms
+- Section 18-4-71 - Affidavit of garnishment
+- Section 18-4-72 - Affidavit of continuing garnishment
+- Section 18-4-73 - Affidavit of continuing garnishment for support
+- Section 18-4-74 - Summons of garnishment
+- Section 18-4-75 - Attachment for summons of garnishment
+- Section 18-4-76 - Summons of garnishment on financial institution
+- Section 18-4-77 - Attachment for summons of garnishment on a financial institution
+- Section 18-4-78 - Summons of continuing garnishment
+- Section 18-4-79 - Attachment for summons of continuing garnishment
+- Section 18-4-80 - Summons of continuing garnishment for support
+- Section 18-4-81 - Attachment for summons of continuing garnishment for support
+- Section 18-4-82 - Notice to defendant of right against garnishment of money, including wages, and other property
+- Section 18-4-83 - Order for hearing on defendant's claim
+- Section 18-4-84 - Garnishee answer
+- Section 18-4-85 - Financial institution garnishee answer
+- Section 18-4-86 - Garnishee answer to continuing garnishment
+- Section 18-4-87 - Plaintiff's traverse
+- Section 18-4-88 - Third-party claim
+- Section 18-4-89 - Release of garnishment
+- Section 18-4-90 - Modification of continuing garnishment

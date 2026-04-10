@@ -1,0 +1,21 @@
+# Chapter 11A - DIETETICS PRACTICE ACT (§§ 43-11A-1 — 43-11A-13)
+
+- Section 43-11A-1 - Short title
+- Section 43-11A-2 - Purpose of chapter
+- Section 43-11A-3 - Definitions
+- Section 43-11A-4 - Creation of Georgia Board of Examiners of Licensed Dietitians
+- Section 43-11A-5 - Qualifications, appointment, and removal of board members
+- Section 43-11A-6 - Election of officers; meetings of board
+- Section 43-11A-7 - Powers of board
+- Section 43-11A-8 - Grant of license without examination
+- Section 43-11A-9 - Eligibility for license
+- Section 43-11A-14 - Surrender of license on demand; display requirement; notice of change of address; renewal; inactive status
+- Section 43-11A-15 - Refusal, suspension, or revocation of license; other disciplinary actions
+- Section 43-11A-16 - License requirement; registered dieticians
+- Section 43-11A-17 - Applicability of &quot;Georgia Administrative Procedure Act.&quot;
+- Section 43-11A-18 - Exceptions
+- Section 43-11A-19 - Eligibility of nutritionists for license
+- Section 43-11A-10 - Provisional permits
+- Section 43-11A-11 - Power of board to require applications be made under oath
+- Section 43-11A-12 - Notification of applicants of acceptance or rejection
+- Section 43-11A-13 - Examinations

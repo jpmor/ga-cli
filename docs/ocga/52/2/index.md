@@ -1,0 +1,41 @@
+# Chapter 2 - GEORGIA PORTS AUTHORITY (§§ 52-2-1 — 52-2-39)
+
+- Section 52-2-1 - Short title
+- Section 52-2-2 - Definitions
+- Section 52-2-3 - Projects which may be considered self-liquidating; lease or sale of manufacturing or processing facilities; inclusion in projects of leased facilities and facilities acquired for use as ports
+- Section 52-2-4 - Creation of authority; status of authority as an instrumentality of state and a public corporation
+- Section 52-2-5 - Composition of authority; appointment, terms, and qualifications of members generally; filling of vacancies; election of chairperson, vice chairperson, and secretary-treasurer; quorum
+- Section 52-2-6 - Compensation of members and reimbursement for expenses
+- Section 52-2-7 - Making of rules and regulations; delegation of powers and duties; perpetual existence of authority
+- Section 52-2-8 - Eligibility for membership
+- Section 52-2-9 - Powers of authority generally
+- Section 52-2-10 - Peace officers of the authority; jurisdiction; qualifications; additional duties and powers
+- Section 52-2-11 - Power of authority to borrow money, to execute evidences of indebtedness, and to secure such indebtedness; sale and other disposition of property; utilization of proceeds of sale
+- Section 52-2-12 - Funds for acquisition of land and construction of port facilities
+- Section 52-2-13 - Approval and consent of State Properties Commission for acquisition of real property by authority
+- Section 52-2-14 - Conveyance of Medical Depot site to authority; power to sell conveyed surplus lands and improvements; power to borrow and to issue revenue anticipation certificates
+- Section 52-2-15 - Revenue bonds - Issuance; payment of principal and interest from special fund; dating of bonds; determination of rate of interest; time of maturity; redemption before maturity
+- Section 52-2-16 - Revenue bonds - Form of bonds; denominations; place of payment of principal and interest
+- Section 52-2-17 - Revenue bonds - Signatures; seal
+- Section 52-2-18 - Revenue bonds - Status of bonds as negotiable instruments; tax exemption for bonds and for income therefrom
+- Section 52-2-19 - Revenue bonds - Issuance in coupon, registered, or book-entry form
+- Section 52-2-20 - Revenue bonds - Determination of price; use and manner of disbursement of proceeds; procedure where proceeds are less than or greater than cost of projects
+- Section 52-2-21 - Revenue bonds - Issuance of interim receipts, interim certificates, and temporary bonds; replacement of mutilated, destroyed, or lost bonds
+- Section 52-2-22 - Revenue bonds - Conditions precedent to issuance; application of bonds of a single issue to payment of one or more projects; effective date of resolutions providing for issuance; passage of resolutions
+- Section 52-2-23 - Revenue bonds - Aid by Georgia State Financing and Investment Commission
+- Section 52-2-24 - Revenue bonds - Status of bonds as a debt of state or a pledge of faith and credit of state; issuance as obligating state to levy tax or make appropriation; obligation to pay principal and interest on bonds; recitals on face of bonds
+- Section 52-2-25 - Revenue bonds - Securing of bonds by trust indenture
+- Section 52-2-26 - Revenue bonds - Remedies of bondholders and trustee
+- Section 52-2-27 - Revenue bonds - Protection of rights of bondholders
+- Section 52-2-28 - Revenue bonds - Revenue refunding bonds
+- Section 52-2-29 - Revenue bonds - Status of bonds as legal investments and as securities for deposits
+- Section 52-2-30 - Revenue bonds - Confirmation and validation of bonds; venue of actions to confirm and validate bonds or to enforce rights under chapter
+- Section 52-2-31 - Power of authority to fix, revise, and collect charges; factors governing determination of amount of rentals and other charges; creation, use, and disposition of sinking fund; cancellation of purchased or redeemed bonds
+- Section 52-2-32 - Status of contracted-for rentals as obligations of state; payment of rentals; power of authority to enforce lessees' duty to perform covenants and obligations; assignment of rentals due
+- Section 52-2-33 - Duty of authority to prescribe rules and regulations for operation of projects; duty of authority to impose and collect rentals and other charges for use of facilities of projects
+- Section 52-2-34 - Acceptance of grants from federal agencies and of contributions of money and property from other sources
+- Section 52-2-35 - Requirement as to competitive bidding for contracts for new construction
+- Section 52-2-36 - Status of moneys received under chapter as trust funds; provision by authority for payment of moneys to designated trustee; investment of moneys; sale of investments and reinvestment
+- Section 52-2-37 - Creation of authority and carrying out of authority's corporate purpose as constituting a public purpose; covenant with bondholders as to tax-exempt status of authority's property
+- Section 52-2-38 - Construction of chapter
+- Section 52-2-39 - Supplemental nature of chapter

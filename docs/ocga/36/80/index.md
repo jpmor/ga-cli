@@ -1,0 +1,34 @@
+# Chapter 80 - GENERAL PROVISIONS (§§ 36-80-1 — 36-80-31)
+
+- Section 36-80-1 - Code of ethics; members of local board of education allowed to discuss policies and actions of such board outside of board meetings; exceptions
+- Section 36-80-2 - Power to issue notes, certificates, and other evidence of indebtedness in anticipation of taxes
+- Section 36-80-3 - Authorized investments of funds by governing bodies
+- Section 36-80-4 - Delegation of governing body's investment authority to financial officer
+- Section 36-80-5 - Relief from or composition of debts under federal statute prohibited
+- Section 36-80-6 - State furnished services, assistance, funds, property, and other incentives for consolidated programs
+- Section 36-80-7 - Execution of contracts, plans, and documents for consolidated programs
+- Section 36-80-8 - Establishment of area offices for consolidated programs
+- Section 36-80-9 - Promulgation of rules and regulations for consolidated programs; requirement of submission of plans and reports
+- Section 36-80-10 - Election for unbonded debt - Requirement and procedure
+- Section 36-80-11 - Notice of election for unbonded debt
+- Section 36-80-12 - Voting in election for unbonded debt; returns and declaration of election result
+- Section 36-80-13 - Authorization to incur unbonded debt following favorable vote
+- Section 36-80-14 - Annual sinking fund for unbonded debt
+- Section 36-80-15 - Allocation and expenditure of proceeds from timber sales from military installations and facilities
+- Section 36-80-16 - Local Government Authorities Registration
+- Section 36-80-16.1 - PILOT restriction; payments in lieu of taxes defined; financing capital projects
+- Section 36-80-17 - Authorization to contract for utility services; conditions and limitations
+- Section 36-80-18 - Environmental assessment required prior to acquiring real property for recreational area; continuing assessment
+- Section 36-80-19 - General codification of ordinances and resolutions; publication and availability of code; official state repository for general codifications
+- Section 36-80-20 - Decal or seal required on vehicles owned or leased by any county, municipality, regional commission, school system, commission, board, or public authority
+- Section 36-80-21 - Definitions; electronic transmission of budgets
+- Section 36-80-22 - Definitions; restrictions; requirements
+- Section 36-80-23 - Prohibition on immigration sanctuary policies by local governmental entities; certification of compliance; punishment
+- Section 36-80-24 - Limitation on elected official's or constitutional officer's use of government issued purchasing or credit cards; policy development
+- Section 36-80-25 - Financing of public projects by local entities
+- Section 36-80-26 - Multi-county community improvement districts for transit projects
+- Section 36-80-27 - Advertisement of bid or proposal opportunities
+- Section 36-80-28 - Role of consultants; disclosures; application
+- Section 36-80-29 - Electronic posting of legal notice; correction of errors
+- Section 36-80-30 - Lemonade stands
+- Section 36-80-31 - Transporting homeless outside of jurisdiction

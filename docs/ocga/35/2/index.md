@@ -1,0 +1,79 @@
+# Chapter 2 - DEPARTMENT OF PUBLIC SAFETY (§§ 35-2-1 — 35-2-164)
+
+- Section 35-2-1 - Creation of Board of Public Safety; composition; appointment and terms of office of members
+- Section 35-2-2 - Creation of Department of Public Safety
+- Section 35-2-3 - Commissioner of public safety-Creation; appointment and removal; powers and duties; rules and regulations
+- Section 35-2-4 - Commissioner of public safety - Membership in Uniform Division; reversion to original rank upon removal without prejudice from office
+- Section 35-2-5 - Commissioner of public safety - Rank in Uniform Division; chief officer
+- Section 35-2-6 - Employment of temporary expert assistance
+- Section 35-2-7 - Deputy commissioner of public safety - Appointment; term of office; rank; membership in Uniform Division; duties; oath
+- Section 35-2-8 - Comptroller - Appointment; membership in Uniform Division prohibited; bond
+- Section 35-2-9 - Payment of medical and other similar expenses of members of Georgia State Patrol injured in line of duty; procedure
+- Section 35-2-10 - Awards to employees for outstanding service, heroism, or other exemplary acts; maximum amount of award; promulgation of rules and regulations for granting awards
+- Section 35-2-11 - Commissioner authorized to provide and equip lecturers for lectures and demonstrations in public schools
+- Section 35-2-12 - Contribution to political campaigns by employees of department
+- Section 35-2-13 - Headquarters for commissioner and deputy commissioner of public safety and divisions
+- Section 35-2-14 - &quot;Peace officer&quot; defined; enforcement of immigration and custom laws
+- Section 35-2-15 - Off-duty use of motor vehicles and other equipment by certain law enforcement officers; conditions for use; rules and regulations
+- Section 35-2-16 - Subsistence and per diem for employees; retention of badge and weapon upon retirement; salary increases; impact on other statutory provisions
+- Section 35-2-30 - Creation and designation
+- Section 35-2-31 - Composition
+- Section 35-2-32 - Jurisdiction; primary duty; patrolling of safety rest areas and welcome centers
+- Section 35-2-33 - Additional duties
+- Section 35-2-34 - Composition of headquarters staff
+- Section 35-2-35 - Performance of clerical duties by headquarters staff; transfer of members of headquarters staff by commissioner
+- Section 35-2-36 - Composition of battalion; rank of battalion personnel; employment of recruits or cadets by commissioner; promulgation of rules and regulations as to enlistment and training of recruits or cadets
+- Section 35-2-36.1 - Auxiliary Service of the Uniform Division; appointment of members; salary; authority and powers; equipment; eligibility
+- Section 35-2-37 - Employment of communications officers to support battalion generally
+- Section 35-2-38 - Division of state into districts or divisions by commissioner
+- Section 35-2-39 - Provision of barracks and quarters for officers and troopers of Uniform Division
+- Section 35-2-40 - Purchase, lease, or construction of barracks and equipment for districts or divisions; acceptance of property, equipment, or services
+- Section 35-2-41 - Municipality and county purchase or conveyance of property for use as division or district headquarters; effect if property has reversionary clause; approval of contracts
+- Section 35-2-41.1 - Donation or conveyance of property, equipment, or services to the department; procedure
+- Section 35-2-42 - Personnel administration
+- Section 35-2-43 - [Repealed] [Reserved] Eligibility for appointment to or enlistment in Uniform Division; appointment or reappointment of discharged members of National Guard, armed forces of the United States, and law enforcement agencies
+- Section 35-2-44 - Enlistment, examination, preliminary training, subsequent instruction, and rules and regulations for discipline and conduct of recruits and troopers of Uniform Division
+- Section 35-2-45 - Promotions of personnel in Uniform Division
+- Section 35-2-46 - Dismissal of officers, troopers, and communications officers
+- Section 35-2-47 - Suspension pending dismissal
+- Section 35-2-48 - [Repealed] [Reserved] State Patrol Disciplinary Board; composition; appointment and terms of members; conduct of hearings by board; recommendation to commissioner; finality of commissioner's decision
+- Section 35-2-49 - Provision of uniforms and equipment to sworn members of the Department of Public Safety and radio operators; retention of weapons and badges upon retirement
+- Section 35-2-49.1 - Retention of badge and weapon by disabled law enforcement officer
+- Section 35-2-50 - Purchasing of uniforms, supplies, and equipment
+- Section 35-2-51 - Storeroom for excess clothing, equipment, and other articles; disposition of old and worn equipment
+- Section 35-2-52 - Clothing allowance for members of Uniform Division assigned permanently to personal security or special duty assignments
+- Section 35-2-53 - Members of Uniform Division to receive no costs or emoluments; exception for rewards; payment and distribution of fines and costs
+- Section 35-2-54 - Purchase of group insurance
+- Section 35-2-55 - Compensatory time off for members of Uniform Division working on state holiday
+- Section 35-2-56 - [Repealed] [Reserved] Use of motor vehicles or other equipment by members of Uniform Division
+- Section 35-2-57 - Use of retired unmarked pursuit cars for training
+- Section 35-2-58 - Approval by board to sell or trade surplus motor vehicles towards purchase of new motor vehicles
+- Section 35-2-70 - Establishment
+- Section 35-2-71 - Powers and duties of security guards
+- Section 35-2-72 - Compensation, uniforms, and equipment of security guards
+- Section 35-2-73 - Security guards for protection of Governor, Lieutenant Governor, Speaker of the House, and their families and executive department; transportation of family members at state expense
+- Section 35-2-74 - Governor to prescribe coverage by State Personnel Board
+- Section 35-2-75 - Adoption of rules, regulations, and orders by board
+- Section 35-2-80 - Short title
+- Section 35-2-81 - Definitions
+- Section 35-2-82 - Permission required for use of department nomenclature
+- Section 35-2-83 - Permission required for use of department symbols
+- Section 35-2-84 - Procedure for seeking permission to use department nomenclature or symbols
+- Section 35-2-85 - Injunctions against violations
+- Section 35-2-86 - Civil penalties
+- Section 35-2-87 - Damage suits against violators
+- Section 35-2-88 - Criminal penalties
+- Section 35-2-100 - Creation; members designated as law enforcement officers
+- Section 35-2-101 - Jurisdiction; duties and powers; use of dogs to detect controlled substances
+- Section 35-2-102 - Weight inspector positions; training; powers and responsibilities; presence of certified peace officer
+- Section 35-2-120 - Definitions
+- Section 35-2-121 - Establishment of Capitol Police Division; staffing
+- Section 35-2-122 - Jurisdiction; duties; power
+- Section 35-2-123 - [Repealed] [Reserved] Use of vehicles by off-duty law enforcement officer
+- Section 35-2-124 - Reimbursement to the department for costs
+- Section 35-2-140 - Transfer of certain personnel, aircraft, and other assets from the Georgia Aviation Authority to the Department of Public Safety
+- Section 35-2-160 - Definitions
+- Section 35-2-161 - Office of Public Safety Support established
+- Section 35-2-162 - Support coordinator
+- Section 35-2-163 - Peer counseling and critical incident support services; certification; employment of necessary staff
+- Section 35-2-164 - Provision and designation of office space, personnel, supplies, and materials; policies and procedures

@@ -1,0 +1,22 @@
+# Chapter 3 - DEFENSES TO CRIMINAL PROSECUTIONS (§§ 16-3-1 — 16-3-40)
+
+- Section 16-3-1 - Minimum age
+- Section 16-3-2 - Mental capacity; insanity
+- Section 16-3-3 - Delusional compulsion
+- Section 16-3-4 - Intoxication
+- Section 16-3-5 - Mistake of fact
+- Section 16-3-6 - Affirmative defenses to certain sexual crimes
+- Section 16-3-20 - Justification
+- Section 16-3-21 - Use of force in defense of self or others; evidence of belief that force was necessary in murder or manslaughter prosecution
+- Section 16-3-22 - Immunity from criminal liability of persons rendering assistance to law enforcement officers
+- Section 16-3-22.1 - Persons who provide assistance to law enforcement officers or the Division of Family and Children Services when the health and safety of children are adversely affected and threatened
+- Section 16-3-23 - Use of force in defense of habitation
+- Section 16-3-23.1 - No duty to retreat prior to use of force in self-defense
+- Section 16-3-24 - Use of force in defense of property other than a habitation
+- Section 16-3-24.1 - Habitation and personal property defined
+- Section 16-3-24.2 - Immunity from prosecution; exception
+- Section 16-3-25 - Entrapment
+- Section 16-3-26 - Coercion
+- Section 16-3-27 - Benefit of clergy
+- Section 16-3-28 - Affirmative defenses
+- Section 16-3-40 - Alibi

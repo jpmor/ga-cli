@@ -1,0 +1,57 @@
+# Chapter 9 - INSURING AND INDEMNIFICATION OF PUBLIC OFFICERS AND EMPLOYEES (§§ 45-9-1 — 45-9-110)
+
+- Section 45-9-1 - General provisions
+- Section 45-9-2 - Members of organized militia serving on state active duty
+- Section 45-9-3 - Insurance and other protections afforded personnel employed by district attorney
+- Section 45-9-3.1 - [Repealed] Immunity from liability for law enforcement officers directing or escorting funeral processions
+- Section 45-9-4 - Purchase of insurance or indemnity contracts; self-insurance program; Hazardous Materials Liability Reserve Fund; insurer insolvency; Liability coverage to nonprofit agencies and employees contracting with state agencies
+- Section 45-9-4.1 - Participation in self-insurance by Georgia Correctional Industries Administration; extension of coverage to officers, officials, and employees
+- Section 45-9-4.2 - Liability coverage for nonprofit agencies providing services to the developmentally disabled
+- Section 45-9-5 - Article not waiver of immunity from action or provision of liability insurance protection
+- Section 45-9-20 - Insurance or contracts of indemnity; actions against insurers or indemnitors
+- Section 45-9-21 - Defense of civil, criminal, or quasi-criminal actions in lieu of insurance
+- Section 45-9-22 - Payment of claims or judgment against members of municipal, county, or other public body
+- Section 45-9-23 - Waiver of immunity from action
+- Section 45-9-40 - through 45-9-43 - [Repealed]
+- Section 45-9-60 - Indemnification of public officers or officials subjected to liability; opinion of Attorney General or Governor that liability not breach of duty
+- Section 45-9-61 - Benefit derived under article declared to be compensation
+- Section 45-9-62 - Applicability of article
+- Section 45-9-70 - Purpose of article
+- Section 45-9-71 - Definitions
+- Section 45-9-72 - Establishment of indemnification program
+- Section 45-9-73 - Indemnification commission created; composition; assignment to Department of Administrative Services for administrative purposes
+- Section 45-9-74 - Commission to promulgate rules and regulations; use of personnel and resources of other agencies
+- Section 45-9-75 - Georgia Public School Personnel Indemnification Fund - Creation; general provisions
+- Section 45-9-76 - Georgia Public School Personnel Indemnification Fund - Revenues from sale of license plates; funds from other sources
+- Section 45-9-77 - Georgia Public School Personnel Indemnification Fund - Authority of Department of Administrative Services
+- Section 45-9-78 - Payment of indemnification for death or disability generally; designation of method of payment; procedure for making payments
+- Section 45-9-79 - Insufficient funds; procedure for making payments
+- Section 45-9-79.1 - Application for indemnification
+- Section 45-9-79.2 - Indemnification not taxable
+- Section 45-9-79.3 - Indemnification not to be awarded when penal violation caused or contributed to death or disability
+- Section 45-9-79.4 - Annual report to General Assembly
+- Section 45-9-79.5 - Giving false information or testimony; liability to state
+- Section 45-9-80 - [Reserved] Purpose of part
+- Section 45-9-81 - Definitions
+- Section 45-9-82 - Establishment of indemnification program
+- Section 45-9-83 - [Reserved] Indemnification commission created; composition; assignment to Department of Administrative Services for administrative purposes; meetings
+- Section 45-9-84 - Appeals of department decisions; use of personnel and resources of other agencies
+- Section 45-9-84.1 - Georgia State Indemnification Fund - Creation; administration; investment fund paid over to Office of the State Treasurer
+- Section 45-9-84.2 - Georgia State Indemnification Fund - Authorization for appropriation of moneys to the fund; moneys from other sources
+- Section 45-9-84.3 - Georgia State Indemnification Fund - Authority of department as to payments from fund
+- Section 45-9-85 - Payment of indemnification for death or disability; procedure for making payments; appeal
+- Section 45-9-86 - Application for indemnification
+- Section 45-9-86.1 - and 45-9-86.2 - [Repealed]
+- Section 45-9-87 - Indemnification not taxable
+- Section 45-9-88 - Indemnification not to be awarded when penal violation, suicide, intentionally self-inflicted injuries, natural causes, or performance of certain routine duties caused or contributed to death or disability
+- Section 45-9-89 - Annual report to General Assembly
+- Section 45-9-90 - Giving false information or testimony
+- Section 45-9-91 - Redesignated
+- Section 45-9-100 - Purpose
+- Section 45-9-101 - Definitions
+- Section 45-9-102 - Payment of compensation; limitation; benefits subordinate to workers' compensation benefits; appeal of decision
+- Section 45-9-103 - Submission of application
+- Section 45-9-104 - Compensation not to be awarded when penal violation, intentionally self-inflicted injuries, natural causes, or performance of certain routine duties caused or contributed to disability
+- Section 45-9-105 - Giving false information or testimony; penalty
+- Section 45-9-106 - Redesignated
+- Section 45-9-110 - Authorization for consolidation; billing procedure; reserve fund; investment of funds; contracting for services; unemployment compensation benefits to certain county employees

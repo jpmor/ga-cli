@@ -21,10 +21,11 @@ This project makes the General Assembly's own data accessible to anyone — rese
 | `./ga-cli sessions` | All legislative sessions on record, back to 2001 |
 | `./ga-cli members [id] [--chamber] [--session]` | List all members with district and party, or show detail for one |
 | `./ga-cli committees [id] [--chamber] [--session]` | List committees, or show membership and subcommittees for one |
-| `./ga-cli titles` | All 53 Georgia Code titles |
 | `./ga-cli list [--session] [--chamber] [--type] [--enacted] [--limit]` | Search and list bills |
 | `./ga-cli show <id>` | Full detail for a bill — sponsors, committees, status history |
 | `./ga-cli fetch [--session] [--enacted] [--dry-run]` | Fetch bills and write as markdown files |
+| `./ga-cli code [id]` | Browse the Georgia Code — no arg lists all 53 titles; `1` lists chapters; `1-1` lists sections; `1-1-1` shows statute text |
+| `./ga-cli codefetch [--title N]` | Fetch and cache OCGA content locally |
 
 ### Example output
 
@@ -65,6 +66,10 @@ The tool has access to all sessions back to 2001, including special sessions:
 | 2021 | Special |
 | 2020 | Special |
 | … back to 2001 | |
+
+## Georgia Code browser
+
+The OCGA is also browsable on the web at **https://jpmor.github.io/ga-cli/**. The site is a static single-page app served directly from this repository — no backend, no third-party services.
 
 ## What's next
 

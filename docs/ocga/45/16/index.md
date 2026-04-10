@@ -1,0 +1,58 @@
+# Chapter 16 - CORONERS (§§ 45-16-1 — 45-16-80)
+
+- Section 45-16-1 - Election, commission, removal; qualifications; affidavit of qualification
+- Section 45-16-2 - Appointment of coroners where coroners not elected; filling vacancies
+- Section 45-16-3 - Oath
+- Section 45-16-4 - Bond generally; liability for moneys collected or failing to do duties
+- Section 45-16-5 - Additional bond when acting for sheriff
+- Section 45-16-6 - Participation in training course
+- Section 45-16-7 - Appointment of deputy coroners; oath, bond, fees, powers, and qualifications
+- Section 45-16-8 - Service of process when sheriff disqualified
+- Section 45-16-9 - Fees
+- Section 45-16-10 - Furnishing information to out-of-state coroners
+- Section 45-16-11 - Compensation of county coroners; increases; calculation; supplements; expenses
+- Section 45-16-11.1 - Compensation of county coroners for inmate deaths in state correctional institutions
+- Section 45-16-11.2 - Monthly contingent expense allowance for the operation of the office of coroner
+- Section 45-16-20 - Short title
+- Section 45-16-21 - Definitions
+- Section 45-16-22 - Medical examiners' inquiries - Facilities, persons authorized to perform inquiries, payment of fees, jurisdiction, and clerical and secretarial assistance
+- Section 45-16-23 - Delegation of power by coroner or county medical examiner; qualifications of those authorized to perform examinations
+- Section 45-16-24 - Notification of suspicious or unusual deaths; court ordered medical examiner's inquiry; written report of inquiry
+- Section 45-16-25 - Coroner's or county medical examiner's duties after notice of suspicious or unusual death; embalmment; inventory and disposition of deceased's property; use of deceased's property for evidence; autopsy required
+- Section 45-16-25.1 - Releasing remains of deceased to next of kin; exception
+- Section 45-16-26 - Assumption of duties by medical examiner in absence of coroner or deputy coroner; signing of death certificates
+- Section 45-16-27 - When inquest to be held; special situations; coroner's fee; issuance of subpoenas; cost of copying; limited disclosure of photographs
+- Section 45-16-27.1 - Medical examination of unexpected or unexplained death of person under seven years of age
+- Section 45-16-28 - Performance of autopsy when not required under Code Section 45-16-24
+- Section 45-16-29 - Removal of body generally
+- Section 45-16-30 - Transport of body across state line
+- Section 45-16-31 - Authorization of removal of body for convenience of examination; investigation of premises before removal
+- Section 45-16-32 - Report of examination and investigation; maintenance of copies; verification of foul play by forensic laboratory; transmittal of copies of reports to district attorneys
+- Section 45-16-33 - Coroner to make inquest upon completion of examination and verification
+- Section 45-16-34 - Issuance of subpoenas; administration of oath to witnesses
+- Section 45-16-35 - Coroner to require material witnesses to enter into recognizance; petition for issuance of warrant for arrest of suspected person
+- Section 45-16-36 - Impaneling of jury to hold inquest; compensation of jurors
+- Section 45-16-37 - When jury to be impaneled; jury not required to view body
+- Section 45-16-38 - Issuance of precept to sheriff to summon inquest jury; form
+- Section 45-16-39 - Oath for foreperson and jury of inquest
+- Section 45-16-40 - Coroner's charge to jury; power of jury
+- Section 45-16-41 - Defaulting juror to be fined by coroner
+- Section 45-16-42 - Offering in evidence of results of examination
+- Section 45-16-43 - [Repealed] Receipt as evidence of records, findings, and reports of medical examiners' inquiries
+- Section 45-16-44 - Disposition of bodies after examination and inquest; payment of burial expenses from deceased's estate
+- Section 45-16-45 - Authority of coroners and medical examiners to disinter bodies
+- Section 45-16-46 - Obtaining blood sample when person unable to consent; analysis of blood specimens; certified report
+- Section 45-16-47 - Penalty for violation of article
+- Section 45-16-48 - Coroner's employment of court reporter
+- Section 45-16-49 - Fees
+- Section 45-16-50 - Providing biological substances to canine instructors or schools
+- Section 45-16-51 - Interment of unidentified human remains; disinterment for identification
+- Section 45-16-60 - Short title
+- Section 45-16-61 - Definitions
+- Section 45-16-62 - Council established; membership; terms of office; curriculum advisory committee; filling of vacancies
+- Section 45-16-63 - Oath of office; issuance of certificates of appointment
+- Section 45-16-64 - Council officers; quorum; record keeping; annual reports
+- Section 45-16-65 - Powers and duties of council generally
+- Section 45-16-66 - Annual training requirement for certified coroners; fees
+- Section 45-16-67 - Actions to restrain violations of this article
+- Section 45-16-80 - Abolition of office of coroner; qualifications, appointment, compensation, powers, and duties of medical examiners

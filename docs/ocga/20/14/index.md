@@ -1,0 +1,54 @@
+# Chapter 14 - ALLIANCE OF EDUCATION AGENCY HEADS (§§ 20-14-1 — 20-14-97)
+
+- Section 20-14-1 - Responsibility of alliance
+- Section 20-14-2 - Creation of alliance
+- Section 20-14-3 - Membership; officers; meetings
+- Section 20-14-4 - Quorum; committees
+- Section 20-14-5 - Annual reports
+- Section 20-14-6 - Selection of personnel to support alliance
+- Section 20-14-7 - Powers of alliance
+- Section 20-14-8 - General powers and duties
+- Section 20-14-9 - Access to records or data
+- Section 20-14-10 - Decisions or actions by alliance directing action by department, board, or office
+- Section 20-14-11 - Appointment by Governor of study commissions; findings and recommendations; staff and expenses
+- Section 20-14-20 - Definitions
+- Section 20-14-25 - Creation; director; authority; seal; administrative assignment
+- Section 20-14-26 - Duties
+- Section 20-14-26.1 - Authority to incorporate nonprofit corporation as public foundation; requirements; Public Education Innovation Fund Foundation; reporting
+- Section 20-14-27 - Required reports; publication format
+- Section 20-14-28 - Reporting on effect of nationally certified teachers on student performance
+- Section 20-14-29 - Limitation on liability of private postsecondary institutions for sharing confidential information
+- Section 20-14-30 - Creation of performance based accountability assessment program
+- Section 20-14-31 - Establishing standard for satisfactory performance
+- Section 20-14-32 - Obtaining nationally comparative results and benchmarks
+- Section 20-14-33 - Indicators of quality of learning in individual schools and school systems; comparison to state standards; rating schools and school systems; providing information; uniform definition of &quot;dropout&quot; and &quot;below grade level&quot;
+- Section 20-14-34 - School and system report cards; required information; dissemination of reports
+- Section 20-14-35 - Office powers; on-site audits; reporting findings and recommendations; authorization of other school audits
+- Section 20-14-36 - Written procedures; training
+- Section 20-14-37 - Creation of school awards system recognizing progress and achievements in schools
+- Section 20-14-38 - Financial awards; proclamations by Governor
+- Section 20-14-39 - Funding of award system
+- Section 20-14-40 - Confidentiality of identifiable individual student performance data
+- Section 20-14-41 - Appropriate levels of intervention for failing schools; master or management team; school improvement team; annual reports; data revision; hearing
+- Section 20-14-43 - Chief Turnaround Officer; qualifications; duties
+- Section 20-14-44 - Turnaround coaches; role
+- Section 20-14-45 - Turnaround eligible schools defined; identification; role of local boards of education
+- Section 20-14-46 - On-site diagnostic review by third-party specialist; development of intensive school improvement plan
+- Section 20-14-47 - Individual assessments of low performing students in turnaround eligible schools
+- Section 20-14-48 - Resources and supports for turnaround eligible schools
+- Section 20-14-49 - Failure to progress after implementation of intensive school improvement plan; interventions
+- Section 20-14-49.1 - Education Turnaround Advisory Council created; composition; administration; role
+- Section 20-14-49.2 - Biannual reporting by Chief Turnaround Officer; required meetings
+- Section 20-14-49.10 - Legislative intent
+- Section 20-14-49.11 - Financial information available on websites
+- Section 20-14-49.12 - Rules and regulations; deadline for publication of information required by Code Section 20-14-49.11
+- Section 20-14-49.13 - Reporting of percentage of students with each state funded characteristic included in Code Section 20-2-161; online sortable database; underlying fiscal data for financial efficiency ratings; inter-agency cooperation
+- Section 20-14-50 - Creation; adoption of performance measures; report cards; audit
+- Section 20-14-60 - Performance based accountability assessment program; annual accountability report card; audits
+- Section 20-14-70 - Creation; adoption of performance measures; report cards; audit
+- Section 20-14-80 - [Reserved] Creation; member from Office of Student Achievement
+- Section 20-14-90 - Agricultural Education Advisory Commission created; membership; requirements; meetings; reimbursement
+- Section 20-14-91 - Career and Technical Education Advisory Commission created; membership; requirements; meetings; reimbursement
+- Section 20-14-95 - [Repealed effective 12/31/2028] Short title; creation of commission; intent; membership; repealer
+- Section 20-14-96 - Accrediting agencies; standards; applicability; construction
+- Section 20-14-97 - Appeals by public schools or systems of accrediting agency findings

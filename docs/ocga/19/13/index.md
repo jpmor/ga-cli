@@ -1,0 +1,33 @@
+# Chapter 13 - FAMILY VIOLENCE (§§ 19-13-1 — 19-13-56)
+
+- Section 19-13-1 - &quot;Family violence&quot; defined
+- Section 19-13-2 - Jurisdiction of superior court
+- Section 19-13-3 - Petition seeking relief from family violence; temporary relief ex parte; hearing; dismissal of petition upon failure to hold hearing; procedural advice for victims; delays
+- Section 19-13-4 - Protective orders and consent agreements; contents; delivery to sheriff; expiration; enforcement
+- Section 19-13-4.1 - &quot;Local law enforcement agency&quot; defined; security checks
+- Section 19-13-5 - Supplemental nature of remedies provided by article
+- Section 19-13-6 - Penalties
+- Section 19-13-10 - Definitions
+- Section 19-13-11 - Fee for certification application; valid period of certification
+- Section 19-13-13 - Administration and supervision of certification
+- Section 19-13-14 - Standards and requirements for course content; course operators; certification of programs; maintenance of list of certified programs
+- Section 19-13-15 - Cooperation with State Board of Pardons and Paroles
+- Section 19-13-16 - Mandatory participation; cost for participation
+- Section 19-13-17 - Administrative fine
+- Section 19-13-20 - Definitions
+- Section 19-13-21 - Powers and duties of council
+- Section 19-13-22 - Eligibility for licensing and funding; application; receiving and referral functions; shelters and programs; admission procedures; board of shelter
+- Section 19-13-23 - Confidentiality of location of family violence shelter; exceptions
+- Section 19-13-30 - State Commission on Family Violence
+- Section 19-13-31 - Commission created; comprehensive state plan for ending family violence; establishment of community task forces
+- Section 19-13-32 - Membership; terms; filling of vacancies; officers
+- Section 19-13-33 - Meetings; quorum; reimbursement for expenses
+- Section 19-13-34 - Powers and duties of commission
+- Section 19-13-35 - [Repealed] Termination provisions
+- Section 19-13-50 - Short title
+- Section 19-13-51 - Definitions
+- Section 19-13-52 - Purpose of registry; maintenance; access to information; linking to National Crime Information Center Network
+- Section 19-13-53 - Standardized forms; timing of transmission of information and data entry; sheriff's responsibility
+- Section 19-13-54 - Foreign protective orders
+- Section 19-13-55 - Confidential nature of information in registry
+- Section 19-13-56 - Liability of court or law enforcement personnel

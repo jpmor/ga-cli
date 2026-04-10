@@ -1,0 +1,35 @@
+# Chapter 19 - ATTORNEYS (§§ 15-19-1 — 15-19-60)
+
+- Section 15-19-1 - Scope of admission to practice
+- Section 15-19-2 - Rules governing board of examiners; amount and disposition of examination fees
+- Section 15-19-3 - Rules governing examinations; time and place thereof
+- Section 15-19-4 - Duties of attorneys
+- Section 15-19-5 - Authority of attorney to bind client
+- Section 15-19-6 - Handling client's funds
+- Section 15-19-7 - Proof of authority
+- Section 15-19-8 - Relief from acts of unauthorized attorney
+- Section 15-19-9 - Unauthorized appearance as contempt; penalty
+- Section 15-19-10 - Which of several counsel to be given preference in absence of client
+- Section 15-19-11 - Attorney's retainer; recovery for services rendered
+- Section 15-19-12 - Status of note or obligation given as fee when service not rendered; penalty for transfer
+- Section 15-19-13 - Right to fees in claim cases
+- Section 15-19-14 - Liens for services rendered; priority; modes of enforcement; other rights
+- Section 15-19-15 - Satisfaction of liens
+- Section 15-19-16 - Liability of attorneys
+- Section 15-19-17 - Effect of advice of counsel on client's liability; redress
+- Section 15-19-30 - Establishment of unified state bar authorized
+- Section 15-19-31 - Adoption of rules for organization and government of State Bar
+- Section 15-19-32 - Option of jury trial prior to final order or disbarment
+- Section 15-19-33 - Procedure for adoption of rules
+- Section 15-19-34 - Amendment of rules
+- Section 15-19-50 - &quot;Practice of law&quot; defined
+- Section 15-19-51 - Unauthorized practice of law forbidden
+- Section 15-19-52 - Lawful acts by parties involved; financial services advice; legal instruments; title papers
+- Section 15-19-53 - Examination and abstract of titles; title insurance; employment of attorneys
+- Section 15-19-54 - Furnishing of information or clerical services to attorneys permitted
+- Section 15-19-55 - Certain solicitation prohibited
+- Section 15-19-56 - Penalty for prohibited conduct
+- Section 15-19-57 - Investigation of unauthorized practice of law
+- Section 15-19-58 - Injunctive relief; venue; procedure; other remedies not curtailed
+- Section 15-19-59 - Authorized actions by brokers, associates, and salepersons
+- Section 15-19-60 - Consumer action for damages for violations

@@ -1,0 +1,21 @@
+# Chapter 22 - INSURANCE PREMIUM FINANCE COMPANIES (§§ 33-22-1 — 33-22-999)
+
+- Section 33-22-1 - Short title
+- Section 33-22-2 - Definitions
+- Section 33-22-3 - Requirement of license for transaction of business; fees; change of address; examination of applicants
+- Section 33-22-4 - Investigation of applicants for licenses; issuance or denial of license generally; hearing; grounds for issuance or denial
+- Section 33-22-5 - Minimum capital requirements; deposit of securities or filing of bond
+- Section 33-22-6 - Grounds and procedure for revocation, suspension, or nonrenewal of license or imposition of probation or fine
+- Section 33-22-7 - Maintenance of records of transactions by licensees; examination of records by Commissioner
+- Section 33-22-8 - Form, contents, execution, and delivery of premium finance agreement; financing of additional premiums
+- Section 33-22-9 - Service charges
+- Section 33-22-10 - Delinquency charges; returned check fees
+- Section 33-22-11 - Necessity of filing of premium finance agreement
+- Section 33-22-12 - Notification of insurer by finance company of existence of premium finance agreement
+- Section 33-22-12.1 - Notice to insured by premium finance company; copy of premium finance agreement; notice of existence of power of attorney
+- Section 33-22-13 - Procedure for cancellation of insurance contract upon default
+- Section 33-22-14 - Disposition of unearned premiums upon cancellation of insurance policy
+- Section 33-22-14.1 - Transmissions of electronic records subject to provisions of Uniform Electronic Transactions Act
+- Section 33-22-15 - Promulgation of rules and regulations by Commissioner
+- Section 33-22-16 - Applicability of chapter
+- Section 33-22-999

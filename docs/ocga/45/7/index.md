@@ -1,0 +1,49 @@
+# Chapter 7 - SALARIES AND FEES (§§ 45-7-1 — 45-7-110)
+
+- Section 45-7-1 - Payment for personal services by state departments
+- Section 45-7-2 - Compensation of state official for serving in ex officio position
+- Section 45-7-3 - Compensation of state officials designated in Code Sections 45-7-4, 45-7-20, and 45-7-21; reimbursement of members of General Assembly serving on advisory boards and similar entities of the executive and judicial branches
+- Section 45-7-4 - [Effective until 7/1/2026] Annual salaries of certain state officials; cost-of-living adjustments
+- Section 45-7-4 - [Effective 7/1/2026] Annual salaries of certain state officials; cost-of-living adjustments
+- Section 45-7-5 - Compensation of Lieutenant Governor
+- Section 45-7-6 - Members of boards and other public entities not to be paid for more than one meeting per day
+- Section 45-7-7 - Compensation and allowances of certain officials not to be changed without giving public notice
+- Section 45-7-8 - Officer dismissal for charging or taking fees not allowed or for services not performed
+- Section 45-7-9 - Compensation for line-of-duty injuries of full-time state employees; exceptions
+- Section 45-7-20 - Reimbursement of travel costs for certain officials
+- Section 45-7-21 - Expense allowance and travel cost reimbursement for members of certain boards and commissions
+- Section 45-7-22 - Reimbursement for relocation expenses - Authorization generally
+- Section 45-7-23 - Reimbursement for relocation expenses - Conditions
+- Section 45-7-24 - Reimbursement for relocation expenses - Rules, regulations, and policies
+- Section 45-7-25 - Advance travel funds - Employee trust accounts authorized
+- Section 45-7-26 - Advance travel funds - Rules and regulations for accounting of funds
+- Section 45-7-27 - Advance travel funds - Accounting and reimbursement of unused funds
+- Section 45-7-28 - Advance travel funds - Lien when employee fails to file accounting or reimburse funds
+- Section 45-7-28.1 - [Repealed] Employee travel reimbursement; rules and regulations to be issued by the Department of Audits and Accounts and the Office of Planning and Budget
+- Section 45-7-29 - Reimbursement for expenses of lodging and air fare - Supporting documentation required
+- Section 45-7-30 - Reimbursement for expenses of first-class air fare
+- Section 45-7-31 - Reimbursement for expenses - Per diem allowances
+- Section 45-7-32 - Unlawful use of travel advance received from public funds for nongovernmental purposes; fraudulent request for reimbursement of expenses; penalty for violations
+- Section 45-7-33 - Reimbursement for expenses in filing application for commercial driver's license
+- Section 45-7-34 - Rules and regulations for administering reimbursement programs
+- Section 45-7-50 - Deductions for United States savings bonds
+- Section 45-7-51 - Deductions for payment of insurance premiums
+- Section 45-7-52 - Deductions for payments to credit unions
+- Section 45-7-53 - Deductions for payment of parking and van pool fees
+- Section 45-7-54 - Voluntary contributions by state government employees through payroll deductions to certain not for profit organizations
+- Section 45-7-55 - Deductions for transit passes and other fare media
+- Section 45-7-56 - Deductions for purchase of personal computing and computer related equipment
+- Section 45-7-57 - Deduction from wages for contributions into savings trust accounts
+- Section 45-7-70 - Purpose of article
+- Section 45-7-71 - Professional services fees to be identified in financial records
+- Section 45-7-72 - Statements or reports to Attorney General and state auditor
+- Section 45-7-73 - State auditor to prescribe form and date for submission of reports
+- Section 45-7-74 - State auditor to provide report of fees to various state officials
+- Section 45-7-90 - Creation; purpose
+- Section 45-7-91 - Composition; qualifications, appointment, vacancies of members
+- Section 45-7-92 - Oath; expenses of members; meetings generally
+- Section 45-7-93 - Organizational meeting; employment of staff
+- Section 45-7-94 - Commission to make comparative study of compensation
+- Section 45-7-95 - Commission to file written report of recommended compensation
+- Section 45-7-96 - Construction of article
+- Section 45-7-110 - [Repealed] Criteria for order; notice; applicability; effect of other laws; effect on retirement or pension system; repealer

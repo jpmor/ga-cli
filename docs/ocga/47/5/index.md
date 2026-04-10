@@ -1,0 +1,26 @@
+# Chapter 5 - GEORGIA MUNICIPAL EMPLOYEES BENEFIT SYSTEM (§§ 47-5-1 — 47-5-72)
+
+- Section 47-5-1 - Legislative intent; construction of this chapter
+- Section 47-5-2 - Definitions
+- Section 47-5-20 - Creation of board of trustees
+- Section 47-5-21 - Membership of board
+- Section 47-5-22 - Officers of the board of trustees; election; merger of offices of secretary and treasurer; compensation of the secretary and treasurer; treasurer's performance bond
+- Section 47-5-23 - Powers of the board of trustees generally
+- Section 47-5-24 - Powers of board with regard to funds held by it
+- Section 47-5-25 - Valuation of assets of the retirement system
+- Section 47-5-26 - Duty of board of trustees to file an annual financial report with each member employer; filing of objections to transactions shown in such report
+- Section 47-5-27 - Payment of administrative expenses of the board of trustees; allocation of expenses among member municipalities
+- Section 47-5-28 - Accounts for participating employees, member employers, and as otherwise required; authorization of funds; commingling restriction
+- Section 47-5-29 - Periodic determination of principal and income of the funds; periodic merger of principal and income; method for determination of principal value of each unit of funds
+- Section 47-5-30 - Periodic audit of the accounts of the board of trustees; contents and availability of report of such audit; standard of care in conduct of the audit and liability of auditors
+- Section 47-5-40 - Power of employers to establish retirement plans; benefits under such plans; power to implement such plans by contract; financing of such plans
+- Section 47-5-41 - Establishment and use of master plans
+- Section 47-5-42 - Provisions of contracts and plans
+- Section 47-5-43 - Provisions for early and normal retirement ages
+- Section 47-5-44 - Credit for prior service
+- Section 47-5-45 - Uninterrupted participation during transfer from one member municipality to another
+- Section 47-5-46 - Transfer of credits
+- Section 47-5-47 - Return of contributions to employee or employee's estate
+- Section 47-5-70 - Creation of debts of the state under this chapter
+- Section 47-5-71 - Exemption from levy, attachment, or other process of funds held by the board of trustees or for its account; assignment of benefits or contracts established under this chapter
+- Section 47-5-72 - Exemption of chapter from regulation under Title 33

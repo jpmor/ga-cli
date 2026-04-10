@@ -1,0 +1,80 @@
+# Chapter 14 - DOMESTIC STOCK AND MUTUAL INSURERS (§§ 33-14-1 — 33-14-128)
+
+- Section 33-14-1 - Applicability of chapter
+- Section 33-14-2 - Definitions
+- Section 33-14-3 - Applicability of general corporation statutes
+- Section 33-14-4 - Execution and contents of application for charter
+- Section 33-14-5 - Filing of application for charter; fee; certification and publication of application; approval or disapproval of charter
+- Section 33-14-6 - Grant of corporate powers and privileges; issuance of certificate of incorporation; recordation of documents; appointment of attorney for acceptance of service of process
+- Section 33-14-7 - Name of corporation
+- Section 33-14-8 - Procedures for amendment or renewal of charter
+- Section 33-14-9 - Powers of corporations generally
+- Section 33-14-10 - Sale of subscriptions for insurance securities and sale offer of insurance securities
+- Section 33-14-11 - Charitable, scientific, or educational donations
+- Section 33-14-12 - Number, qualifications, election, and terms of directors
+- Section 33-14-13 - Maintenance of principal place of business and records; maintenance of assets within state; removal of records or assets from state without approval
+- Section 33-14-14 - Filing and terms of management and exclusive agency contracts; approval or disapproval of contracts by Commissioner
+- Section 33-14-15 - Borrowing of money
+- Section 33-14-16 - Participating and nonparticipating policies; earned dividend not to be made contingent upon payment of renewal premium
+- Section 33-14-17 - Voting securities
+- Section 33-14-18 - Filing of registration statement by holding company prior to offering of stock for sale to public; contents of statement; approval or disapproval of sale by Commissioner
+- Section 33-14-19 - Regulation of financial interests in and transactions with insurers by officers, directors, committee members, or employees
+- Section 33-14-20 - Limitation on commission received by persons selling stock of insurers; participation by corporate officers in commissions
+- Section 33-14-21 - Limitation on organizational expenses
+- Section 33-14-22 - Proceedings for correction of deficiency in assets or capital of insurer; institution of delinquency proceedings upon failure to correct deficiency
+- Section 33-14-23 - Extinguishment of charters of corporations not actively engaged in business; automatic extinguishment of charter upon merger or consolidation
+- Section 33-14-24 - Procedure for voluntary dissolution generally; effective date of dissolution; conditions precedent to effectuation of dissolution
+- Section 33-14-25 - Procedure for surrender of charter
+- Section 33-14-26 - Powers and duties of directors as trustees upon expiration of period of corporate existence; filling of vacancies and replacement of directors
+- Section 33-14-27 - Continuance of corporate existence subsequent to dissolution or expiration
+- Section 33-14-40 - Reinsurance of risks generally; bulk insurance agreements
+- Section 33-14-41 - Dividends payable only out of realized profits or upon special approval of Commissioner
+- Section 33-14-42 - Illegal dividends
+- Section 33-14-43 - Authorization and procedure for merger or consolidation; receipt of consideration by directors, officers, agents, or employees; formation of domestic insurance company for sole purpose of merging or consolidating with existing domestic insurer
+- Section 33-14-44 - Authorization and procedure for conversion of stock insurer to mutual insurer
+- Section 33-14-45 - Classes of common or preferred shares
+- Section 33-14-60 - Bylaws
+- Section 33-14-61 - Types of insurance in which newly organized insurers authorized to transact business; requirements as to transaction of particular kinds of insurance generally
+- Section 33-14-62 - Authorization of transaction of additional kinds of insurance
+- Section 33-14-63 - Filing of surety bond or deposit by incorporators of proposed insurer; conditions of bond or deposit; release and discharge
+- Section 33-14-64 - Solicitation of applications for policies upon approval of bond or deposit; provisions and execution of applications; requirement of cash premiums
+- Section 33-14-65 - Deposit of premiums and fees collected; issuance and delivery of policies by insurers; effective date of insurance
+- Section 33-14-66 - Return of deposits or premiums upon failure of proposed insurer to complete organization and secure original certificate of authority
+- Section 33-14-67 - Policyholders deemed members of insurers; persons entitled to become members; liability upon insurance contracts of representatives of members; rights of members generally
+- Section 33-14-68 - Contingent liability of members
+- Section 33-14-69 - Levy of assessment by directors; computation of assessment; allowance of offsets against assessments
+- Section 33-14-70 - Notice of assessment; presumption as to correctness of assessment; proceedings upon failure of member to pay assessment
+- Section 33-14-71 - Extinguishment of contingent liability; revocation of authority to issue policies without contingent liability; issuance of nonassessable policies by foreign or alien insurers
+- Section 33-14-72 - Reinsurance of risks
+- Section 33-14-73 - Dividends payable only out of net realized savings and earnings
+- Section 33-14-74 - Liability of directors for declaration or payment of illegal dividend
+- Section 33-14-75 - Procedure for merger or consolidation
+- Section 33-14-76 - Authorization and procedure for conversion of mutual insurer to stock insurer
+- Section 33-14-77 - Distribution of assets to members upon liquidation of insurers generally; calculation of distributive shares of members
+- Section 33-14-90 - &quot;Equity security&quot; defined
+- Section 33-14-91 - Filing of statements of equity securities ownership
+- Section 33-14-92 - Authorization of actions to recover for insurer profits from purchases and sales, or sale and purchase, within period of less than six months
+- Section 33-14-93 - Unlawful sales of securities
+- Section 33-14-94 - Sales by dealers in ordinary course of business and incident to establishment or maintenance of primary or secondary market exempted from article
+- Section 33-14-95 - Foreign or domestic arbitrage transactions exempted from article
+- Section 33-14-96 - Transactions in securities registered under Section 12 of Securities Exchange Act of 1934 exempted from article
+- Section 33-14-97 - Promulgation of rules and regulations by Commissioner; effect of rules and regulations upon liability under Code Sections 33-14-91 through 33-14-93
+- Section 33-14-100 - Definitions
+- Section 33-14-101 - Authorization to organize domestic limited purpose subsidiary
+- Section 33-14-102 - Approval of operation plan and certificate of authority requirements; certain disclosure requirements; examination by Commissioner
+- Section 33-14-103 - Powers of limited purpose subsidiary
+- Section 33-14-104 - Investment of funds
+- Section 33-14-105 - Officers and directors
+- Section 33-14-106 - Reinsurance
+- Section 33-14-107 - Assets
+- Section 33-14-108 - Applicability of certain provisions of this title
+- Section 33-14-109 - Adoption of rules
+- Section 33-14-120 - Definitions
+- Section 33-14-121 - Plans of division; requirements; amendment
+- Section 33-14-122 - Approval of plan of division
+- Section 33-14-123 - Approval by Commissioner after public notice and hearing; when plan of division not approved; factors for consideration; confidentiality; allocation of expenses; findings; final orders; additional procedures
+- Section 33-14-124 - Requirements for certificates of division; articles of incorporation; effective date
+- Section 33-14-125 - Upon division becoming effective; rights upon division; requirement for new financing statement; distributions
+- Section 33-14-126 - Responsibilities of resulting insurers
+- Section 33-14-127 - Rights of shareholders of dividing insurer
+- Section 33-14-128 - Regulatory authority

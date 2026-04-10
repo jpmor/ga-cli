@@ -1,0 +1,95 @@
+# Chapter 3 - EMERGENCY MANAGEMENT (§§ 38-3-1 — 38-3-191)
+
+- Section 38-3-1 - Short title
+- Section 38-3-2 - Policy and purpose
+- Section 38-3-3 - Definitions
+- Section 38-3-4 - Enforcement
+- Section 38-3-5 - Injunction; who may obtain; remedy at law irrelevant
+- Section 38-3-6 - Liberality of construction
+- Section 38-3-7 - Penalty for violation
+- Section 38-3-20 - Georgia Emergency Management and Homeland Security Agency created; director; staff; offices; director's duties; disaster coordinator
+- Section 38-3-21 - Director authorized to make rules and regulations
+- Section 38-3-22 - Governor's emergency management powers and duties
+- Section 38-3-22.1 - Safety plan addressing threat of terrorism required of state agencies or authorities; exemptions; training and technical assistance; confidentiality of plans and related documentation
+- Section 38-3-22.2 - Sharing and reporting of cyber attacks and data breaches; reports or records confidential; construction with other provisions
+- Section 38-3-22.3 - Memorandum of agreement with military commands in this state to enhance opportunities for Georgians
+- Section 38-3-23 - Investigations and surveys; subpoena power; cooperation
+- Section 38-3-24 - Traffic control; plans, regulations, and coordination
+- Section 38-3-25 - Lease or loan of state property for national or local purposes; transfer of state personnel; local authorities empowered to utilize property
+- Section 38-3-26 - Mobile support units; organization; rights, powers, duties, privileges, immunities, and compensation, of employees; reimbursement to localities and out-of-state units; service out of state
+- Section 38-3-27 - Local organizations for emergency management; creation; structure; powers; directors; appointment, qualifications, and compensation; state to provide financial assistance; entitlement for funding
+- Section 38-3-28 - Authority of political subdivisions; filing of orders, rules, and regulations; effect; consideration of federal emergency management regulations
+- Section 38-3-29 - Local mutual aid arrangements; out-of-state arrangements; conformity with state plan
+- Section 38-3-30 - Aid rendered by local employees to other political subdivisions; reimbursement of personnel and equipment expenses by aided locality; procedure
+- Section 38-3-31 - Authority of state and localities to accept gifts, grants, or loans, from federal or private sources
+- Section 38-3-32 - Sovereign immunity granted those who allow premises to be used for emergency management purposes; when
+- Section 38-3-33 - Immunity granted those who provide equipment in emergencies
+- Section 38-3-34 - Emergency management personnel; qualifications; oath; who may administer
+- Section 38-3-35 - Immunity of state and political subdivisions; of emergency management workers
+- Section 38-3-36 - Director to license nongovernmental rescue organizations; exception; registration of public and private search and rescue dog teams
+- Section 38-3-37 - Prohibited actions by government official or employee during declared state of emergency
+- Section 38-3-38 - Entrance upon private property by Department of Corrections personnel during state of emergency or disaster
+- Section 38-3-40 - Definitions
+- Section 38-3-41 - Creation; membership; allowances
+- Section 38-3-42 - Board's duty to advise Governor; development of state-wide homeland security strategy; coordination with federal strategic guidance on homeland security; rules and regulations
+- Section 38-3-50 - Emergency interim successors to various officials; necessity of declared emergency
+- Section 38-3-51 - Emergency powers of Governor; termination of emergency; limitations in energy emergency; immunity
+- Section 38-3-52 - Emergency locations - State government; proclamation; effect of official acts
+- Section 38-3-53 - Emergency locations - Meeting of General Assembly; call; suspension of constitutional rules
+- Section 38-3-54 - Emergency locations - Local government; who may call meeting; effect of acts
+- Section 38-3-55 - Emergency locations - When authorized; proclamation
+- Section 38-3-56 - Registration of businesses during emergency
+- Section 38-3-57 - Establishment of standardized, verifiable, performance based unified incident command system; utilization; training; implementation; funding; first informer broadcasters
+- Section 38-3-58 - &quot;Essentials&quot; defined; system to facilitate transport and distribution; certification
+- Section 38-3-60 - Definitions
+- Section 38-3-61 - Declaration of judicial emergency; duration of judicial emergency declaration; designation of alternative facility in lieu of court
+- Section 38-3-62 - Suspension or tolling of deadlines and time schedules in event of judicial emergency; statutory speedy trial requirements defined
+- Section 38-3-63 - Notification to other judicial officials and public
+- Section 38-3-64 - Appeal rights of adversely affected parties; cost of appeal borne by state
+- Section 38-3-70 - Short title
+- Section 38-3-71 - Text of compact
+- Section 38-3-80 - Short title
+- Section 38-3-81 - Enactment; text
+- Section 38-3-90 - Short title
+- Section 38-3-91 - Definitions
+- Section 38-3-92 - Legislative finding
+- Section 38-3-93 - Authorization for certain employees of state agencies to be granted leave from work with pay in order to participate in specialized disaster relief services
+- Section 38-3-110 - through 38-3-119 - [Revised and Redesignated] Redesignated
+- Section 38-3-120 - Redesignated
+- Section 38-3-140 - Short title
+- Section 38-3-141 - Definitions
+- Section 38-3-142 - Use of agency name without written permission prohibited in certain circumstances
+- Section 38-3-143 - Use or display of agency symbols without written permission prohibited
+- Section 38-3-144 - Requests for permission; grants of permission at director's discretion
+- Section 38-3-145 - Injunctions to restrain violations
+- Section 38-3-146 - Civil penalties for willful violators
+- Section 38-3-147 - Private cause of action; recovery of treble damages, punitive damages, and attorney's fees
+- Section 38-3-148 - Criminal penalties for willful violators
+- Section 38-3-150 - Legislative findings
+- Section 38-3-151 - Definitions
+- Section 38-3-152 - Creation and operation of building mapping information system; availability to government agencies; rules and regulations; federal funding sources; exemption of information from public disclosure; recommendations for training guidelines; limitations
+- Section 38-3-153 - Immunity from civil liability
+- Section 38-3-160 - Uniform Emergency Volunteer Health Practitioners Act
+- Section 38-3-161 - Definitions
+- Section 38-3-162 - Applicability to volunteer health practitioners
+- Section 38-3-163 - Regulation of volunteer health practitioners during an emergency
+- Section 38-3-164 - Registration systems
+- Section 38-3-165 - Recognition of volunteer health practitioners licensed in other states
+- Section 38-3-166 - Credentialing or privileging standards of health facilities
+- Section 38-3-167 - Limitation on services provided
+- Section 38-3-168 - Construction with other provisions; inclusion
+- Section 38-3-169 - Regulatory authority
+- Section 38-3-170 - Liability of volunteer health practitioners
+- Section 38-3-171 - Uniformity
+- Section 38-3-180 - Short title
+- Section 38-3-181 - Definitions
+- Section 38-3-182 - Establishment of Georgia Emergency Communications Authority; purpose; duties and responsibilities; board of directors; perpetual existence; power and authority; operation; regulation
+- Section 38-3-183 - Appointment of executive director; role; additional staffing
+- Section 38-3-184 - Role of Attorney General
+- Section 38-3-185 - Remission of 9-1-1 and enhanced 9-1-1 charges
+- Section 38-3-186 - Contracting with Department of Revenue for collection and disbursement of charges remitted and for collection and disbursement of prepaid wireless 9-1-1 charges
+- Section 38-3-187 - Planning and implementation of state-wide public safety communications network
+- Section 38-3-188 - Retention of funds by Department of Revenue; payments to local governments
+- Section 38-3-189 - Audit; penalties for noncompliance; approval of billing practices
+- Section 38-3-190 - Confidential nature of information; aggregate complying of data and release; compliance with judicial orders
+- Section 38-3-191 - Limitation on use of funds, rights, and privileges

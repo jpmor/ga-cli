@@ -1,0 +1,22 @@
+# Chapter 2 - DEPARTMENT OF COMMUNITY HEALTH (§§ 31-2-1 — 31-2-20)
+
+- Section 31-2-1 - Legislative intent; grant of authority
+- Section 31-2-2 - Definitions
+- Section 31-2-3 - Board of Community Health reconstituted; powers, functions, and duties; terms of board members; vacancies; removal; chairperson; expenses
+- Section 31-2-4 - Department's powers, duties, functions, and responsibilities; divisions; directors; contracts for health benefits
+- Section 31-2-5 - Transfer of personnel and functions; conforming to federal standards of personnel administration; existing procedures, regulations, and agreements; rules adoption and implementation
+- Section 31-2-6 - Commissioner of community health created; creation of divisions; allocation of functions
+- Section 31-2-7 - Rules and regulations; variances and waivers to rules and regulations establishing licensure standards for facilities; exemption of classes of facilities from regulation
+- Section 31-2-8 - Actions against certain applicants or licensees
+- Section 31-2-9 - [Repealed] [Reserved] Records check requirement for certain health care facilities; definitions; use of information gathered in investigation; penalties for unauthorized release or disclosure; rules and regulations; retention of fingerprints
+- Section 31-2-10 - Information and comparisons regarding state-wide cost and quality of health care
+- Section 31-2-11 - Biopharmaceuticals; expedited review for Georgia based companies
+- Section 31-2-12 - [Reserved] Pilot program to provide coverage for bariatric surgical procedures for treatment of obesity and related conditions; definitions; eligibility; requirements; evaluation report on two-year pilot program
+- Section 31-2-13 - Inspection warrant
+- Section 31-2-14 - Nurse aide registry; complaint filing; public access
+- Section 31-2-15 - Streamlining and expediting credentialing and billing processes
+- Section 31-2-16 - Rural Health System Innovation Center created; purposes and duties; reporting
+- Section 31-2-17 - [Repealed] Study of mental health care services under state health plans; reporting; repealer
+- Section 31-2-18 - Website reporting on state health plans
+- Section 31-2-19 - Employment of certified medication aides in penal institutions; annual clinical skills competency review; role; recording and handling of medications
+- Section 31-2-20 - [Repealed] Public Health Commission; members; purpose; authority

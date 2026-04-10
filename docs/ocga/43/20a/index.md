@@ -1,0 +1,23 @@
+# Chapter 20A - REGISTRATION OF IMMIGRATION ASSISTANCE (§§ 43-20A-1 — 43-20A-21)
+
+- Section 43-20A-1 - Short title
+- Section 43-20A-2 - Definitions
+- Section 43-20A-3 - Purpose and intent of chapter; administration and enforcement
+- Section 43-20A-4 - Licensing of immigration assistance providers
+- Section 43-20A-5 - Permissible services; terms of contract for immigration services
+- Section 43-20A-6 - Exemptions from provisions of this chapter
+- Section 43-20A-7 - Civil penalties for violations; private cause of action; rules and regulations
+- Section 43-20A-8 - Maintaining documents
+- Section 43-20A-9 - Obligation of service provider to provide notice of pending disciplinary, administrative, civil, or criminal action
+- Section 43-20A-10 - Fees
+- Section 43-20A-11 - Amendment of license application to account for events or developments after license granted
+- Section 43-20A-12 - Service member
+- Section 43-20A-13 - Authority to employ investigators
+- Section 43-20A-14 - Disclosure of information
+- Section 43-20A-15 - Formal order of investigation; authorized action; emergency order; notice requirements
+- Section 43-20A-16 - Cause for disciplinary actions; disciplinary order a final order
+- Section 43-20A-17 - Suspension of license for nonpayment, default, or breach of repayment or service obligation under certain educational loan or scholarship programs prohibited
+- Section 43-20A-18 - Cease and desist order
+- Section 43-20A-19 - Notice of opportunity for hearing
+- Section 43-20A-20 - Licensee required to notify licensing authority within 10 days of felony conviction
+- Section 43-20A-21 - Criminal penalties for violations

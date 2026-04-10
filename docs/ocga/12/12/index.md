@@ -1,0 +1,23 @@
+# Chapter 12 - ASBESTOS SAFETY ACT (§§ 12-12-1 — 12-12-21)
+
+- Section 12-12-1 - Short title
+- Section 12-12-2 - Purpose of chapter
+- Section 12-12-3 - Definitions
+- Section 12-12-4 - Rules and regulations; schedule of contractor license and project fees
+- Section 12-12-5 - Powers and duties of director
+- Section 12-12-6 - License requirement; application; renewal; exception
+- Section 12-12-7 - Training requirements
+- Section 12-12-8 - Reciprocity
+- Section 12-12-9 - Denial, revocation, or suspension of license; grounds; review of decision
+- Section 12-12-10 - Notice of commencement of project; contents; project fee; certification of completion
+- Section 12-12-11 - Compliance with chapter required
+- Section 12-12-12 - Investigation rights of director; contractor to make records available
+- Section 12-12-13 - Cease and desist orders
+- Section 12-12-14 - Injunctions; restraining and other orders
+- Section 12-12-15 - Imminent and substantial danger; remedies of director
+- Section 12-12-16 - Civil penalty for violation; hearing and judicial review; disposition of penalties
+- Section 12-12-17 - Hearing and judicial review procedure
+- Section 12-12-18 - Judgment in accordance with order of director or administrative law judge
+- Section 12-12-19 - Attorney General to provide legal representation
+- Section 12-12-20 - Sovereign immunity not waived; legal duties of contractor, project monitor, or asbestos worker not relieved by chapter
+- Section 12-12-21 - Sovereign immunity

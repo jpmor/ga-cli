@@ -1,0 +1,41 @@
+# Chapter 91 - PUBLIC WORKS CONSTRUCTION (§§ 36-91-1 — 36-91-119)
+
+- Section 36-91-1 - Short title
+- Section 36-91-2 - Definitions
+- Section 36-91-20 - Written contract required; advertising; competitive sealed bidding; timing of addendums; prequalification
+- Section 36-91-21 - Competitive award requirements
+- Section 36-91-22 - Exceptions; use of inmate labor; emergency situations
+- Section 36-91-23 - Prohibition of disqualification of otherwise qualified bidder from bid or proposal or prequalification based upon lack of previous experience; conditions
+- Section 36-91-24 - Liquidated damages and other incentive provisions for project completion
+- Section 36-91-40 - Approval and filing of bonds with treasurer
+- Section 36-91-41 - No bid bond required under certain circumstances
+- Section 36-91-42 - Acceptance of electronic signatures and corporate seals
+- Section 36-91-43 - through 36-91-45 - Redesignated
+- Section 36-91-50 - Projects requiring bid bonds; revocation of bids; surety
+- Section 36-91-51 - Cash in lieu of bid bonds; letters of credit
+- Section 36-91-52 - Bid and bidder defined; withdrawal of bids for appreciable errors; resubmission
+- Section 36-91-53 - Affiliated corporation defined; forfeit of security by affiliated corporation
+- Section 36-91-54 - Action on breach of bond
+- Section 36-91-70 - Requirement of performance bonds
+- Section 36-91-71 - Acceptable substitutes for bond
+- Section 36-91-72 - Action on performance bond
+- Section 36-91-73 - through 36-91-75 - Redesignated
+- Section 36-91-90 - Requirement for payment bonds
+- Section 36-91-91 - Liability of contracting party to subcontractors for noncompliance
+- Section 36-91-92 - Notice of commencement
+- Section 36-91-93 - Rights of persons protected by payment bond or security deposit; governmental entity not a party
+- Section 36-91-94 - Providing copy of bond or security deposit agreement
+- Section 36-91-95 - Time limitation
+- Section 36-91-100 - Definitions
+- Section 36-91-101 - Authority to enter into contracts; costs; grants or loans; eminent domain
+- Section 36-91-102 - Planning, finance, construction, acquisition, leasing, operation, and maintenance of projects; implementation; lobbying restrictions
+- Section 36-91-110 - Definitions
+- Section 36-91-111 - [Repealed and Reserved] Creation of Partnership for Public Facilities and Infrastructure Act Guidelines Committee; membership; terms; allowances; duties; support
+- Section 36-91-112 - Guidelines
+- Section 36-91-113 - Unsolicited proposals
+- Section 36-91-114 - Approval process
+- Section 36-91-115 - Comprehensive agreement
+- Section 36-91-116 - Default and remedies
+- Section 36-91-117 - Powers
+- Section 36-91-118 - Sovereign or official immunity
+- Section 36-91-119 - Article inapplicable to local government procurement via competitive sealed bidding; article inapplicable to certain transportation projects; public meeting requirements

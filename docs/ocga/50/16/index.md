@@ -1,0 +1,87 @@
+# Chapter 16 - PUBLIC PROPERTY (§§ 50-16-1 — 50-16-183)
+
+- Section 50-16-1 - Land reserved to the state
+- Section 50-16-2 - State owned stock
+- Section 50-16-3 - Property of state boards and departments
+- Section 50-16-3.1 - State authorities prohibited from selling real property; exceptions
+- Section 50-16-4 - Use and keeper of capitol buildings and grounds
+- Section 50-16-5 - Defacing or injuring capitol building or grounds
+- Section 50-16-5.1 - [Repealed] Commission on the Preservation of the State Capitol
+- Section 50-16-5.2 - [Repealed] Georgia Art Policy Committee created; composition; terms; annual meetings; expense allowance; powers and duties
+- Section 50-16-6 - [Repealed] [Reserved] Janitors and watchmen of public buildings and grounds to make arrests, prevent abuse, suppress disorderly conduct, and protect property
+- Section 50-16-7 - Improvement of real estate held by state in fee simple with reversionary interest in federal government or under long-term federal license
+- Section 50-16-8 - Insurance of state property required; self-insurance program authorized
+- Section 50-16-9 - Formulation of self-insurance plan for state's properties; incentive programs authorized
+- Section 50-16-10 - [Repealed] [Reserved] Formulation of self-insurance plan for public school buildings
+- Section 50-16-11 - Employment of personnel to carry out self-insurance plans
+- Section 50-16-11.1 - Commercial property policies for coverage of buildings, contents, and other property owned by community service boards
+- Section 50-16-12 - Authorization for state insurance and hazard reserve fund to retain certain moneys for the payment of liabilities and expenses; deposit of investment funds with Office of the State Treasurer
+- Section 50-16-13 - Authorization for state insurance and hazard reserve fund to contract for fire protection systems; cost limitation; approval by legislative subcommittees
+- Section 50-16-14 - Authorization of law enforcement officers and security personnel to deny entrance and remove persons from state property; assistance
+- Section 50-16-15 - Adjutant general authorized to empower contract security guards to make arrests and carry firearms upon and surrounding National Guard facilities
+- Section 50-16-16 - Penalty for refusal to obey security personnel or law enforcement officer
+- Section 50-16-17 - Rights and remedies of state and other governmental entities relating to property ownership
+- Section 50-16-18 - Writing off small amounts due to state
+- Section 50-16-19 - State development projects; landscape plan requirements
+- Section 50-16-20 - [Repealed] Timing of official designations in honor of state agency or state officials
+- Section 50-16-30 - Short title
+- Section 50-16-31 - Definitions
+- Section 50-16-32 - Creation, membership, and organization of State Properties Commission; transfer of assets, obligations, responsibilities, funds, personnel, equipment, and facilities from the Department of Administrative Services
+- Section 50-16-33 - [Repealed] [Reserved] Assignment of State Properties Commission to Department of Administrative Services
+- Section 50-16-34 - Powers and duties of State Properties Commission generally
+- Section 50-16-34.1 - Acquisition of property within railroad lines abandoned as operating rail lines
+- Section 50-16-35 - State Property Officer; employment of personnel by the commission; merit system; rights under Employees' Retirement System of Georgia
+- Section 50-16-36 - Maintenance of records by State Properties Commission; open to public inspection
+- Section 50-16-37 - Adoption of rules and regulations by State Properties Commission; penalty for violation
+- Section 50-16-38 - All state entities to acquire real property through commission; exceptions; procedure for handling acquisition requests; funds for acquisitions; donations; conveyance of title
+- Section 50-16-39 - Public competitive bidding procedure for sales and leases; acceptance or rejection of bids by commission, General Assembly, or Governor; execution of leases and deeds
+- Section 50-16-40 - Consideration of conveyances by the General Assembly
+- Section 50-16-41 - Rental agreements without competitive bidding authorized; limitations; commission charged with managing administrative space of all state entities; standards governing the utilization and reassignment of administrative space; rules and regulations
+- Section 50-16-42 - Revocable license agreements without competitive bidding authorized; terms and conditions; telephone lines construction provisions unaffected; exception
+- Section 50-16-43 - Leasing of state owned lands for exploration and extraction of mineral resources
+- Section 50-16-44 - Power of eminent domain; provisions cumulative and not to supersede other powers; form of proceedings; acquisition of public property or interest
+- Section 50-16-45 - Department of Natural Resources authorized to convey certain property without commission approval
+- Section 50-16-46 - State agencies directed to provide State Properties Commission with technical assistance
+- Section 50-16-47 - Article to be construed liberally
+- Section 50-16-60 - Governor to issue land grants
+- Section 50-16-61 - General supervision and office assignment
+- Section 50-16-62 - Actions for recovery of state debts
+- Section 50-16-63 - Governor authorized to lend art objects, pictures, and other personal property to institutions for display
+- Section 50-16-64 - Authority for Governor to purchase property at sheriff's sale under execution in favor of state
+- Section 50-16-65 - Authority for Governor to rent or sell property purchased at sheriff's sale; manner of sales
+- Section 50-16-66 - Authority to pay exemptions and superior liens and encumbrances on property purchased at sheriff's sale
+- Section 50-16-67 - Report to General Assembly of transactions involving property purchased at sheriff's sale
+- Section 50-16-68 - Use and title of property purchased at sheriff's sale
+- Section 50-16-80 - Sale or disposition of state livestock or swine
+- Section 50-16-81 - Contracts by state or subdivision for purchase, lease, or acquisition of United States equipment, supplies, materials, or other property
+- Section 50-16-82 - Effect of payment of purchase money or other consideration causing property to be transferred to state
+- Section 50-16-100 - Exclusive state property
+- Section 50-16-101 - Relationship of state as owner of railroad
+- Section 50-16-102 - All railroad laws to apply
+- Section 50-16-103 - Landowners authorized to build stock gaps
+- Section 50-16-104 - Power of condemnation authorized
+- Section 50-16-105 - Width of land taken by condemnation
+- Section 50-16-106 - Manner for determining rights and compensation in condemnation proceeding
+- Section 50-16-107 - Rights acquired by condemnation to vest in state
+- Section 50-16-108 - Lessee subject to Public Service Commission regulation
+- Section 50-16-120 - Definitions
+- Section 50-16-121 - Real property inventory; form; filing of duplicate with State Properties Commission; index inventories and devising of forms; completion of forms within 30 days
+- Section 50-16-122 - Requirements for real property acquired or disposed of by the state; filing conveyances with State Properties Commission
+- Section 50-16-123 - Conveyances and condemnation orders to be filed with State Properties Commission
+- Section 50-16-124 - State entities to compile information for an inventory of all state owned or leased facilities and real property
+- Section 50-16-125 - Rules and regulations authorized
+- Section 50-16-140 - &quot;Proper authority&quot; defined
+- Section 50-16-141 - Inventory required of state and county officers; entry of inventory into book
+- Section 50-16-142 - Receipt for property received from predecessor in office; accounting for property not turned over
+- Section 50-16-143 - Examination of predecessor's inventories; report
+- Section 50-16-144 - [Repealed] [Reserved] Sale or disposition of unserviceable property
+- Section 50-16-145 - Actions against public officers for violations of part
+- Section 50-16-160 - Department of Administrative Services to establish and maintain inventory; state employees to furnish information; inspection and copies of records
+- Section 50-16-161 - [Reserved] Part applicable to movable personal property; determination to include or exclude items from inventory binding
+- Section 50-16-161.1 - [Repealed] &quot;Movable personal property&quot; defined; inclusion or exclusion of items from inventory
+- Section 50-16-162 - Rules and regulations
+- Section 50-16-163 - Power to examine books, records, papers, or personal property of state entities to ensure compliance
+- Section 50-16-180 - Definitions
+- Section 50-16-181 - Creation; membership; officers; quorum; voting requirements; call, notice, and minutes or transcripts of meetings; seal; bylaws; expenses
+- Section 50-16-182 - Powers and duties
+- Section 50-16-183 - Procedure for acquisition of public property by condemnation

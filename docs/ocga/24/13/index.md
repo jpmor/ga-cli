@@ -1,0 +1,52 @@
+# Chapter 13 - SECURING ATTENDANCE OF WITNESSES AND PRODUCTION AND PRESERVATION OF EVIDENCE (§§ 24-13-1 — 24-13-154)
+
+- Section 24-13-1 - Freedom of witnesses from arrest
+- Section 24-13-2 - Procedure for claiming witness fees
+- Section 24-13-3 - Witness fee exceptions
+- Section 24-13-4 - Penalty for excessive witness fee claim
+- Section 24-13-5 - Production of evidence when item not available; oath
+- Section 24-13-6 - Procedure when adverse party dissatisfied with response pursuant to Code Section 24-13-5
+- Section 24-13-7 - Withdrawal of originals introduced in evidence; substitution of copies; discretion of court
+- Section 24-13-20 - Applicability
+- Section 24-13-21 - Issuance of subpoena; form; punishment for misuse
+- Section 24-13-22 - Issuance of subpoena requiring attendance; service
+- Section 24-13-23 - Subpoena for production of documentary evidence; motion to quash or modify
+- Section 24-13-24 - Service of subpoenas
+- Section 24-13-25 - Fees and mileage; when tender required
+- Section 24-13-26 - Enforcement of subpoenas; continuance; secondary evidence of books, papers, or documents
+- Section 24-13-27 - Notice to produce
+- Section 24-13-28 - Witness fees for law enforcement officers
+- Section 24-13-29 - Legislators' exemption
+- Section 24-13-60 - Order requiring prisoner's delivery to serve as witness or criminal defendant generally; expenses; prisoner under death sentence as witness
+- Section 24-13-61 - Issuance of order requiring prisoner's delivery to serve as witness in superior court
+- Section 24-13-62 - Issuance of writ of habeas corpus requiring prisoner's delivery to serve as witness in superior court
+- Section 24-13-90 - Short title
+- Section 24-13-91 - Definitions
+- Section 24-13-92 - Procedure for compelling witness attendance before a foreign court in criminal or grand jury proceedings; expenses; punishment
+- Section 24-13-93 - Procedure for compelling witness attendance of persons confined in a state penal institution before a foreign court in criminal or grand jury proceedings; exceptions
+- Section 24-13-94 - Procedure for compelling an out-of-state witness to attend criminal or grand jury proceedings
+- Section 24-13-95 - Procedure for compelling witness attendance of persons confined in a penal institution out of state in criminal or grand jury proceedings; order of compliance
+- Section 24-13-96 - Exemption of witnesses from arrest and service of process
+- Section 24-13-97 - Construction
+- Section 24-13-110 - Short title
+- Section 24-13-111 - Definitions
+- Section 24-13-112 - Requirements for issuance of foreign subpoenas; application
+- Section 24-13-113 - Compelling foreign witness to appear and testify
+- Section 24-13-114 - Service of foreign subpoena
+- Section 24-13-115 - Applicability of Article 2 to certain provisions of this article
+- Section 24-13-116 - Protective order or enforcement, quashing, or modification of foreign subpoena
+- Section 24-13-130 - When deposition to preserve testimony in criminal proceedings may be taken
+- Section 24-13-131 - Notice of deposition; presence of defendant at examination; child witness
+- Section 24-13-132 - Appointment of counsel; payment of costs and expenses
+- Section 24-13-133 - Manner of taking and filing deposition
+- Section 24-13-134 - Availability to state and defendant of deponent's previous statements
+- Section 24-13-135 - Admissibility and use of deposition
+- Section 24-13-136 - Objections to admission of deposition
+- Section 24-13-137 - Recordation of deposition
+- Section 24-13-138 - Agreement of parties to deposition
+- Section 24-13-139 - Depositions taken only in exceptional circumstances; misuse of procedures
+- Section 24-13-150 - Proceedings to perpetuate testimony
+- Section 24-13-151 - Inadequacy of usual proceeding to be shown
+- Section 24-13-152 - Materiality of possession of property; availability of parties in interest
+- Section 24-13-153 - Use of testimony
+- Section 24-13-154 - Costs of proceedings

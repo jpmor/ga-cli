@@ -1,0 +1,24 @@
+# Chapter 3 - SUPERIOR AND STATE COURT APPELLATE PRACTICE (§§ 5-3-1 — 5-3-21)
+
+- Section 5-3-1 - Short title
+- Section 5-3-2 - Legislative findings and intent
+- Section 5-3-3 - Definitions
+- Section 5-3-4 - [Effective until 7/1/2026] Jurisdiction
+- Section 5-3-4 - [Effective 7/1/2026] Jurisdiction
+- Section 5-3-5 - Obligations of court; de novo proceedings; jury trials
+- Section 5-3-6 - Petitioning for review
+- Section 5-3-7 - Governing practices and procedures; time for petitioning for review; parties; requirements of petition; amendable defects; service
+- Section 5-3-8 - Filing of response; timing; amendment; service
+- Section 5-3-9 - Management of court proceedings
+- Section 5-3-10 - Manner for service of process
+- Section 5-3-11 - Extension of filing deadlines
+- Section 5-3-12 - Requirements for dismissal by reviewing court
+- Section 5-3-13 - Filings in court with appropriate venue and jurisdiction; transfers
+- Section 5-3-14 - Audio or video recording, reporting, or transcription; expense of preparation; transcripts prepared from recollection; corrections; stipulations
+- Section 5-3-15 - Transmittal of court records to reviewing court; petitions; orders
+- Section 5-3-16 - Payment of costs; affidavit of indigency
+- Section 5-3-17 - Supersedeas bonds; requirements; forfeiture
+- Section 5-3-18 - Final decision by reviewing court; service; appeals
+- Section 5-3-19 - Status after dismissal or withdrawal of petition for review
+- Section 5-3-20 - Attorney's fees and expenses
+- Section 5-3-21 - Awarding of costs; entering of judgments

@@ -1,0 +1,51 @@
+# Chapter 4 - WILLS (§§ 53-4-1 — 53-4-75)
+
+- Section 53-4-1 - Power of testator
+- Section 53-4-2 - When will takes effect
+- Section 53-4-3 - Determination whether instrument is will
+- Section 53-4-4 - Incorporation of extrinsic documents into will
+- Section 53-4-5 - Written statement or list disposing of items of tangible personal property
+- Section 53-4-10 - Minimum age; conviction of crime
+- Section 53-4-11 - Decided and rational desire; incapacity to contract; insanity; advanced age or eccentricity
+- Section 53-4-12 - Freedom of volition
+- Section 53-4-20 - Required writing; signing; witnesses; codicil
+- Section 53-4-21 - Knowledge of contents of will by testator
+- Section 53-4-22 - Competency of witness
+- Section 53-4-23 - Testamentary gift to witness or witness's spouse
+- Section 53-4-24 - Self-proved will or codicil
+- Section 53-4-30 - Contract concerning succession
+- Section 53-4-31 - Definitions
+- Section 53-4-32 - Effect of execution
+- Section 53-4-33 - Revocation
+- Section 53-4-40 - Power of testator
+- Section 53-4-41 - Intent
+- Section 53-4-42 - Express or implied revocation
+- Section 53-4-43 - Subsequent will or other written instrument
+- Section 53-4-44 - Destruction or obliteration of will or material portion thereof
+- Section 53-4-45 - Revival or republication of previous will
+- Section 53-4-46 - Presumption of intent
+- Section 53-4-47 - Effect of implied revocation
+- Section 53-4-48 - Effect of testator's marriage, or birth or adoption of child; provision in will for class of children
+- Section 53-4-49 - Effect of testator's divorce, annulment, or remarriage to former spouse
+- Section 53-4-50 - Republication of revoked will
+- Section 53-4-55 - Construction of wills; intention of testator
+- Section 53-4-56 - Construction of wills; parol evidence
+- Section 53-4-57 - Partial illegality of will
+- Section 53-4-58 - Failure to provide for living child believed dead
+- Section 53-4-59 - Specific, demonstrative, general, or residuary testamentary gifts
+- Section 53-4-60 - Income, profit, or increase of specific testamentary gifts
+- Section 53-4-61 - Time at which general or demonstrative testamentary gift bears interest
+- Section 53-4-62 - Testamentary gift to charity
+- Section 53-4-63 - Payment of debts of testator and expenses of estate administrator
+- Section 53-4-64 - Death of beneficiary before will executed or before death of testator
+- Section 53-4-65 - Disposition of lapsed or void testamentary gift of residuum
+- Section 53-4-66 - Ademption or destruction of specific testamentary gift
+- Section 53-4-67 - Exchange, loss, theft, destruction, or condemnation of testamentary gift
+- Section 53-4-68 - Conditions that are impossible, illegal, or against public policy; conditions in terrorem
+- Section 53-4-69 - Election by beneficiary with claim adverse to will
+- Section 53-4-70 - Election by beneficiary owning testamentary gift of property
+- Section 53-4-71 - Compensation to defeated beneficiary electing against will
+- Section 53-4-72 - Passing of after-acquired property
+- Section 53-4-73 - Disposition of heart pacemakers
+- Section 53-4-74 - Pecuniary marital deduction testamentary gift or transfer
+- Section 53-4-75 - [Repealed] Construction of wills and trust instruments referring to federal estate and generation-skipping transfer tax laws

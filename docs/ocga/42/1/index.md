@@ -1,0 +1,27 @@
+# Chapter 1 - GENERAL PROVISIONS (§§ 42-1-1 — 42-1-19)
+
+- Section 42-1-1 - Definitions
+- Section 42-1-2 - Reward for information leading to capture of escaped inmate of penal institution under jurisdiction of Board of Corrections
+- Section 42-1-3 - Defendant not to be made trusty during time case on appeal; manner of confinement
+- Section 42-1-4 - Work-release programs for county prisoners
+- Section 42-1-5 - Use of inmate for private gain
+- Section 42-1-6 - Injury or contact by inmate presenting possible threat of transmission of communicable disease
+- Section 42-1-7 - Notification to transporting law enforcement agency of inmate's or patient's infectious or communicable disease
+- Section 42-1-8 - Home arrest program
+- Section 42-1-9 - Work-release, educational, and habilitative programs for county prisoners
+- Section 42-1-10 - Preliminary urine screen drug tests
+- Section 42-1-11 - Notification of crime victim of impending release of offender from imprisonment
+- Section 42-1-11.1 - Alien prisoners eligible for deportation; cooperation with federal deportation program; waiver of extradition rights; transportation
+- Section 42-1-11.2 - Advice on employment of attorney prohibited; penalty
+- Section 42-1-11.3 - Treatment of pregnant and postpartum female inmates
+- Section 42-1-11.4 - Reports regarding foreign-born inmates in custody
+- Section 42-1-11.5 - Compliance with immigration detainer notices
+- Section 42-1-12 - State Sexual Offender Registry
+- Section 42-1-13 - Sexual Offender Risk Review Board; composition; appointment; administration and duties; immunity from liability
+- Section 42-1-13.1 - Electronic location tracking of sexual offenders; petitioning for exemption
+- Section 42-1-14 - Risk assessment classification; classification as &quot;sexually dangerous predator&quot;; reevaluations; periodic reporting to sheriffs
+- Section 42-1-15 - Restriction on registered sexual offenders residing, working, or loitering within certain distance of child care facilities, churches, schools, or areas where minors congregate; penalties
+- Section 42-1-16 - Definitions; employment restrictions for sexual offenders; penalties
+- Section 42-1-17 - Definitions; residency restrictions for sexual offenders; penalties
+- Section 42-1-18 - Photographing minor without consent of parent or guardian; use of unmanned aircraft systems
+- Section 42-1-19 - Petition for release from registration requirements

@@ -1,0 +1,108 @@
+# Chapter 9 - TRANSPORTATION OF FREIGHT AND PASSENGERS GENERALLY (§§ 46-9-1 — 46-9-332)
+
+- Section 46-9-1 - Standard of care for carriers and common carriers; presumption of negligence by common carriers arising from loss of goods
+- Section 46-9-2 - Power of common carrier to limit liability
+- Section 46-9-3 - Showings required by common carrier as prerequisite to use of exceptions under Code Sections 46-9-1 and 46-9-2
+- Section 46-9-4 - Liability of common carrier corporation for acts committed outside of scope of charter
+- Section 46-9-5 - Limitation of actions by common carriers for recovery of charges
+- Section 46-9-6 - [Repealed] Limitation of actions against carriers for recovery of overcharges; requirements regarding rates, charges, and claims for loss or damage
+- Section 46-9-7 - Time of accrual of actions under Code Section 46-9-5
+- Section 46-9-8 - Requiring specific bonding company as surety
+- Section 46-9-9 - Right of employee or surety to cancel bond; notice of cancellation
+- Section 46-9-20 - Schedules of transportation rates for passengers and freight by railroad companies as evidence of just and reasonable nature of rates; commission to change and revise schedules periodically
+- Section 46-9-21 - Giving notice of new and revised rate schedules; giving proof of authenticity of schedules
+- Section 46-9-22 - Investigation by commission of through rates
+- Section 46-9-23 - Report by commission of excessive, unreasonable, or discriminatory through rates to proper state railroad officials
+- Section 46-9-24 - Report by commission of excessive, unreasonable, or discriminatory through rates to Interstate Commerce Commission
+- Section 46-9-25 - Representation of commission by Attorney General
+- Section 46-9-26 - Commission to prescribe schedule of maximum rates and charges for freight storage by railroad companies
+- Section 46-9-40 - Duty of common carriers to receive goods
+- Section 46-9-41 - Duty of common carriers to transport and deliver goods safely and without unreasonable delay
+- Section 46-9-42 - Effect of strike by carrier's employees on carrier's duty to transport goods
+- Section 46-9-43 - Measure of damages for delay in delivery of goods by carrier
+- Section 46-9-44 - Estoppel of carrier to dispute title to goods delivered to him for shipment
+- Section 46-9-45 - Commencement and termination of carrier's responsibility for goods
+- Section 46-9-46 - Effect of delivery to consignee at intermediate point
+- Section 46-9-47 - Fraud on carrier as to nature and value of goods
+- Section 46-9-48 - Adjustment and payment by common carriers of claims for loss of property or overcharge for freight; effect of failure by common carrier to adjust and pay claim
+- Section 46-9-49 - Duty of railroad or transportation company to furnish facilities for weighing freight; measure of damages for overcharges caused by overweights or false billing
+- Section 46-9-50 - Weighing of railroad cars by certified public weighers; manner of weighing cars
+- Section 46-9-51 - Written application for railroad cars as prerequisite for consignors' and shippers' taking advantage of penalties or forfeitures for failure of company to supply cars
+- Section 46-9-52 - Unjust discrimination in freight-transportation rates by common carriers generally
+- Section 46-9-53 - Discrimination by railroad companies in applying freight-storage charges
+- Section 46-9-54 - Making and retaining freight-storage charges in accordance with rates fixed by commission
+- Section 46-9-55 - Remedy for persons charged excessive freight-storage rates or subjected to discrimination in application of freight-storage rates
+- Section 46-9-56 - False billing, false weighing, or false report of weight by common carriers
+- Section 46-9-57 - False billing or false weighing by a person who delivers property for transportation to a common carrier or for whom, as consignor or consignee, such carrier transports property
+- Section 46-9-90 - Duty of railroad companies to furnish refrigerator cars; filing of application for cars by shipper
+- Section 46-9-91 - Liability of company for failure to furnish cars; written claim for damages by shipper; time of payment by company; liquidated damages
+- Section 46-9-92 - Liability of shipper for failing or refusing to accept cars; liability of shipper for failure or refusal to pay damages upon written demand therefor
+- Section 46-9-110 - Issuance of receipts by common carriers to persons delivering goods for transportation; contents of receipts
+- Section 46-9-111 - Issuance by railroad companies of duplicate freight receipts to shippers; contents of receipts; delivery of freight to consignee on presentation of railroad receipt
+- Section 46-9-112 - Contents of freight bills and freight lists
+- Section 46-9-130 - Duty of common carrier to receive passengers generally
+- Section 46-9-131 - Extent of right of carriers to refuse admittance to persons and to eject passengers
+- Section 46-9-132 - Duty of carriers of passengers to exercise extraordinary diligence
+- Section 46-9-133 - Duty of common carriers of passengers to furnish comfortable seats and to light and ventilate cars
+- Section 46-9-134 - Duty of conductors or other railroad employees to assign passengers to cars and compartments; investing of conductors and railroad employees with police powers
+- Section 46-9-135 - Duty of passengers to remain in assigned car, compartment, or seat; ejectment of passenger by conductor and railroad employees
+- Section 46-9-136 - Carriage of baggage
+- Section 46-9-137 - Granting of passes by common carriers to former employees and their immediate family
+- Section 46-9-138 - Granting of annual passes by common carriers to sheriffs and their deputies
+- Section 46-9-139 - Selling or dealing in passenger tickets by person other than authorized agent of common carrier issuing such tickets
+- Section 46-9-140 - Duty of common carriers to redeem unused tickets and unused portions of tickets
+- Section 46-9-150 - Duty of railroad companies to furnish passengers with drinking water and lights
+- Section 46-9-151 - Duty of railroad companies to telegraph and post bulletins of delayed trains
+- Section 46-9-152 - Duty of railroad companies to provide conductors and other employees with baggage checks; duty of conductors to check trunks and baggage
+- Section 46-9-170 - Failure of person issuing or selling passenger tickets on board vessel to include country of registry on advertisement, circular, or other printed paper in regard to passage
+- Section 46-9-171 - Contents of tickets, certificates, orders, or receipts issued as evidence of a right of passage on the high seas; required signatures on such tickets, certificates, orders, or receipts
+- Section 46-9-172 - Penalty
+- Section 46-9-190 - Lien of carrier for fare and baggage charges
+- Section 46-9-191 - Lien of carrier for freight charges
+- Section 46-9-192 - Priority of carriers' liens
+- Section 46-9-210 - Duty of railroad companies to put on sale and to sell tickets of connecting roads and to check baggage over such roads
+- Section 46-9-211 - Duty of railroad companies to place their tickets for sale with connecting roads; duty to accept such tickets and to receive and transport baggage checked upon such tickets; security for tickets
+- Section 46-9-212 - Switching off and delivering to connecting roads all cars consigned to points over or beyond the connecting roads
+- Section 46-9-213 - Discrimination by railroad companies in freight-transportation rates charged to connecting lines and routes
+- Section 46-9-214 - Applicability of Code Sections 46-9-212 and 46-9-213 to interstate shipments and consignments
+- Section 46-9-215 - Duty of railroad companies to receive freight cars from connecting roads; measure of damages for failure or refusal to receive cars
+- Section 46-9-216 - Civil penalty
+- Section 46-9-230 - Manner of incorporation of express companies
+- Section 46-9-231 - Organization of express companies
+- Section 46-9-232 - Location of principal office
+- Section 46-9-233 - Powers of express companies generally
+- Section 46-9-234 - Venue; binding effect of judgment
+- Section 46-9-235 - Service of process; effect of judgment
+- Section 46-9-236 - Posting of name of president or chief officer of express company
+- Section 46-9-250 - Demand or receipt by railroad companies of more than a fair and reasonable rate for transportation of passengers or freight or for transportation of railroad cars
+- Section 46-9-251 - Unjust discrimination by railroad companies as to rates or charges for transportation of passengers or freight and for use and transportation of railroad cars
+- Section 46-9-252 - Overcharging by officers, agents, or other employees of common carriers
+- Section 46-9-253 - Transportation of gunpowder, dynamite, or other explosives
+- Section 46-9-270 - Short title
+- Section 46-9-271 - Legislative purpose
+- Section 46-9-272 - Definitions
+- Section 46-9-273 - Powers of authority generally
+- Section 46-9-274 - Membership of authority; filling of vacancies; disclosure of pecuniary interests; election of officers; expense allowance and travel costs
+- Section 46-9-275 - Issuance of revenue bonds, notes, or other obligations; refunding bonds
+- Section 46-9-276 - Authority to execute agreements or instruments; use of proceeds from sale of bonds and other obligations; issuance of subsequent obligations; bond anticipation notes; validation and form of bonds
+- Section 46-9-277 - Public purpose of article
+- Section 46-9-278 - Liberal construction to effect stated purpose
+- Section 46-9-279 - Status of bonds and other obligations as constituting debt or obligation of state, county, or other political subdivisions
+- Section 46-9-280 - Exemption of authority from taxes or assessments
+- Section 46-9-281 - Effect of article on other authorities
+- Section 46-9-290 - Designated Georgia Rail Passenger Corridors
+- Section 46-9-291 - Planning and development
+- Section 46-9-300 - Authority of Governor to execute compact for a designated state; legislative approval of compact; text of compact
+- Section 46-9-320 - Short title
+- Section 46-9-321 - Creation; administrative assignment
+- Section 46-9-322 - Definitions
+- Section 46-9-323 - Powers
+- Section 46-9-324 - Membership; civil office; chairperson; conflicts of interest; compensation
+- Section 46-9-325 - Members accountable as trustees; records
+- Section 46-9-326 - Revenue bonds, notes, and other obligations
+- Section 46-9-327 - Provisions of obligations; use of proceeds; form of bonds
+- Section 46-9-328 - Implementation of rail passenger excursion projects
+- Section 46-9-329 - Liberal construction of provisions
+- Section 46-9-330 - Indebtedness not obligation of state or political subdivision
+- Section 46-9-331 - Purpose of authority's creation; tax exemption
+- Section 46-9-332 - Authorization for rail passenger excursion projects not limited

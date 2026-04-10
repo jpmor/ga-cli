@@ -1,0 +1,30 @@
+# Chapter 13 - RADIATION CONTROL (§§ 31-13-1 — 31-13-25)
+
+- Section 31-13-1 - Short title
+- Section 31-13-2 - Declaration of policy
+- Section 31-13-3 - Definitions
+- Section 31-13-4 - Administration of state-wide radiation control program for radiation generating equipment
+- Section 31-13-4.1 - Administration of state-wide radiation control program for radioactive materials
+- Section 31-13-5 - Powers and duties of Department of Community Health and Department of Natural Resources; enforcement of chapter through inspection; training programs
+- Section 31-13-6 - Bonding licensees
+- Section 31-13-7 - Permits for disposal of radioactive waste; bonding of permittees
+- Section 31-13-8 - Licensing users of by-product, source, and special nuclear materials as sources of ionizing radiation
+- Section 31-13-8.1 - General or specific licensing for use, manufacture, transport, transactions in, and possession of radioactive material
+- Section 31-13-8.2 - Licensing of diagnostic and therapeutic medical uses of radioactive materials
+- Section 31-13-9 - Records of use of radiation sources and exposure of employees to radiation
+- Section 31-13-10 - Suspension, revocation, and amendment of license or registration; emergency orders; review
+- Section 31-13-11 - Impounding and condemnation of radiation generating equipment and radioactive materials
+- Section 31-13-12 - License required
+- Section 31-13-13 - Penalties
+- Section 31-13-14 - Inspections and investigations
+- Section 31-13-15 - Investigation of apparent violations; initiation of legal proceedings
+- Section 31-13-16 - Authorization to remedy violation by conference, conciliation, or persuasion; order to undertake corrective action
+- Section 31-13-17 - Declaration of existence of emergency
+- Section 31-13-18 - Hearing on order or notice of action
+- Section 31-13-19 - Judicial review
+- Section 31-13-20 - Filing certified copy of unappealed final order or affirmed order
+- Section 31-13-21 - Temporary or permanent injunction; restraining order
+- Section 31-13-22 - Representation of director in actions
+- Section 31-13-23 - Transfer of powers and duties between Department of Natural Resources and Department of Community Health
+- Section 31-13-24 - Effect on proceedings commenced before April 4, 1990; continuation of federal aid to agency receiving transfer of functions
+- Section 31-13-25 - Rules, regulations, agreements, and contracts formerly under Department of Human Resources (now known as the Department of Community Health for these purposes)

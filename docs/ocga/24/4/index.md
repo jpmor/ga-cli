@@ -1,0 +1,21 @@
+# Chapter 4 - RELEVANT EVIDENCE (§§ 24-4-401 — 24-4-419)
+
+- Section 24-4-401 - &quot;Relevant evidence&quot; defined
+- Section 24-4-402 - Relevant evidence generally admissible; irrelevant evidence not admissible
+- Section 24-4-403 - Exclusion of relevant evidence on the grounds of prejudice, confusion, or waste of time
+- Section 24-4-404 - Character evidence not admissible to prove conduct; exceptions; evidence of other crimes
+- Section 24-4-405 - Methods of proving character
+- Section 24-4-406 - Habit; routine practice
+- Section 24-4-407 - Subsequent remedial measures
+- Section 24-4-408 - Compromises and offers to compromise
+- Section 24-4-409 - Payment of medical and similar expenses
+- Section 24-4-410 - Inadmissibility of pleas, plea discussions, and related statements; exceptions
+- Section 24-4-411 - Liability insurance
+- Section 24-4-412 - Complainant's past sexual behavior not admissible in prosecutions for certain sexual offenses; exceptions
+- Section 24-4-413 - Evidence of similar transaction crimes in sexual assault cases
+- Section 24-4-414 - Evidence of similar transaction crimes in child molestation cases
+- Section 24-4-415 - Evidence of similar acts in civil or administrative proceedings concerning sexual assault or child molestation
+- Section 24-4-416 - Statements of sympathy in medical malpractice cases
+- Section 24-4-417 - Evidence of similar acts in prosecutions for violations of Code Section 40-6-391
+- Section 24-4-418 - Admissibility of criminal gang activity; disclosure
+- Section 24-4-419 - Admissibility of criminal history record information

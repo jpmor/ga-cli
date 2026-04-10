@@ -1,0 +1,29 @@
+# Chapter 4 - ARREST OF PERSONS (§§ 17-4-1 — 17-4-80)
+
+- Section 17-4-1 - Actions constituting an arrest
+- Section 17-4-2 - Privilege from arrest of active duty military personnel
+- Section 17-4-3 - Right of forcible entry into private dwellings pursuant to execution of arrest warrant
+- Section 17-4-20 - Authorization of arrests with and without warrants generally; use of deadly force; adoption or promulgation of conflicting regulations, policies, ordinances, and resolutions; authority of nuclear power facility security officer
+- Section 17-4-20.1 - Investigation of family violence; preparation of written report; review of report by defendant arrested for family violence; compilation of statistics
+- Section 17-4-20.2 - Bias Crime Report; requirements; use of reports; publication
+- Section 17-4-21 - Duty of arresting officer to take arrested person before judicial officer; right of arrested person to select judicial officer
+- Section 17-4-22 - Authority of peace officers to make arrests not to be denied because of race, creed, or national origin of peace officers or persons arrested
+- Section 17-4-23 - Issuance of citation in lieu of arrest; issuance of warrants for arrest for failure of persons charged to appear in court; bond
+- Section 17-4-24 - Duty of law enforcement officers to execute penal warrants; summoning of posses
+- Section 17-4-25 - Power to make arrests in any county; arrested persons taken before judicial officer; transportation costs; holding in county other than one in which offense committed; transport to regional jail
+- Section 17-4-25.1 - Transport of arrested person to jurisdiction in which offense committed; transport of prisoner outside county or municipality
+- Section 17-4-26 - Duty to bring persons arrested before judicial officer within 72 hours; notice to accused of time and place of commitment hearing; effect of failure to notify
+- Section 17-4-27 - Duty to maintain information about persons arrested by law enforcement officers under their supervision; inspection of records
+- Section 17-4-28 - Advising, encouraging, or procuring dismissal or settlement of warrant by arresting officer
+- Section 17-4-29 - Collecting or receiving costs or other charges of prosecutor or defendant by arresting officer before warrant returned
+- Section 17-4-30 - Arrest of hearing impaired persons
+- Section 17-4-40 - Persons who may issue warrants for arrest of offenders against penal laws; warrants requested by others; persons who may issue warrants for arrest of peace or law enforcement officers, DFCS case managers, or school teachers or administrators
+- Section 17-4-41 - Contents of affidavits made or warrants issued for arrest of penal offenders
+- Section 17-4-42 - Issuance of special warrants for arrest; treatment of special warrants as general arrest warrants
+- Section 17-4-43 - Requirement by judicial officer of bond to prosecute
+- Section 17-4-44 - Warrants may be issued in any county; execution of warrants without backing or endorsement of judicial officer in county where warrant is executed
+- Section 17-4-45 - Form of affidavit for arrest warrant
+- Section 17-4-46 - Form of warrant for arrest
+- Section 17-4-47 - Issuance of warrants by video conference; testimony; initial bond hearings; oaths
+- Section 17-4-60 - through 17-4-62 - Reserved
+- Section 17-4-80 - Limited detention by certain private individuals for certain offenses; definitions; involvement of law enforcement; defenses; limited use of force

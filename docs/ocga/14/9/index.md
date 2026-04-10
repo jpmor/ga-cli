@@ -1,0 +1,74 @@
+# Chapter 9 - REVISED UNIFORM LIMITED PARTNERSHIP ACT (§§ 14-9-100 — 14-9-1204)
+
+- Section 14-9-100 - Short title
+- Section 14-9-101 - Definitions
+- Section 14-9-102 - Partnership name
+- Section 14-9-103 - Reservation of name
+- Section 14-9-104 - Registered office and agents
+- Section 14-9-105 - Records to be kept
+- Section 14-9-106 - Authorized activity; acquisition or conveyance of interest in real property
+- Section 14-9-107 - Business transactions of partner with partnership
+- Section 14-9-108 - Indemnification of partners or other persons; expansion, restriction, or elimination of partner's duties and liabilities in partnership agreement
+- Section 14-9-109 - Evidence of filing
+- Section 14-9-201 - Certificate of limited partnership
+- Section 14-9-202 - Amendment of certificate
+- Section 14-9-203 - Certificate of cancellation
+- Section 14-9-204 - Execution of certificates
+- Section 14-9-205 - Execution by judicial act
+- Section 14-9-206 - Filing with Secretary of State
+- Section 14-9-206.1 - Merger
+- Section 14-9-206.2 - Conversion to limited partnership
+- Section 14-9-206.3 - Articles of correction; effective date
+- Section 14-9-206.5 - Annual registration
+- Section 14-9-206.7 - Failure to file under chapter for three consecutive years
+- Section 14-9-206.8 - Conversion to foreign limited liability company, foreign limited partnership, or foreign corporation, requirement
+- Section 14-9-206.9 - Valid period for annual registration
+- Section 14-9-301 - Admission of limited partners
+- Section 14-9-302 - Voting rights; additional rights, powers, and duties
+- Section 14-9-303 - Liability
+- Section 14-9-304 - Person erroneously believing himself limited partner
+- Section 14-9-305 - Inspection of partnership records; information
+- Section 14-9-401 - Admission of additional general partners
+- Section 14-9-403 - Rights, powers, and liabilities generally
+- Section 14-9-404 - Rights, powers, and liabilities of general partner who is also limited partner
+- Section 14-9-405 - Voting rights; additional rights, powers, and duties
+- Section 14-9-501 - Form of contribution
+- Section 14-9-502 - Promise to contribute; liability for contribution
+- Section 14-9-503 - Allocations among partners
+- Section 14-9-601 - Interim distributions; redemption of interest of partner
+- Section 14-9-602 - Withdrawal of general partner
+- Section 14-9-603 - Withdrawal of limited partner
+- Section 14-9-604 - Distribution upon withdrawal
+- Section 14-9-605 - Form of distribution
+- Section 14-9-606 - Right to distribution
+- Section 14-9-701 - Nature of partnership interest
+- Section 14-9-702 - Assignment of partnership interest
+- Section 14-9-703 - Rights of creditor
+- Section 14-9-704 - Right of assignee to become limited partner
+- Section 14-9-705 - Power of legal representative of deceased or incompetent partner
+- Section 14-9-801 - Events triggering dissolution
+- Section 14-9-802 - Judicial dissolution
+- Section 14-9-803 - Winding up
+- Section 14-9-804 - Distribution of assets
+- Section 14-9-805 - Execution of deeds or other transfer instruments
+- Section 14-9-901 - Laws governing
+- Section 14-9-902 - Certificate of authority; activities not constituting transacting business
+- Section 14-9-902.1 - Registered agent; office
+- Section 14-9-903 - Issuance of certificate
+- Section 14-9-904 - Name
+- Section 14-9-905 - Change of name or state of organization; foreign limited partnership converting to foreign limited liability company or foreign corporation
+- Section 14-9-906 - Certificate of withdrawal
+- Section 14-9-907 - Transaction of business without registering
+- Section 14-9-908 - Action by Attorney General
+- Section 14-9-1001 - Right of limited partner to bring action
+- Section 14-9-1002 - Requirements for plaintiff
+- Section 14-9-1003 - Complaint
+- Section 14-9-1004 - Expenses
+- Section 14-9-1101 - Fees
+- Section 14-9-1102 - Administrative powers of Secretary of State
+- Section 14-9-1103 - Rules and regulations
+- Section 14-9-1104 - Duty of Secretary of State to file documents
+- Section 14-9-1201 - Partnerships covered by chapter
+- Section 14-9-1202 - Effect on partnerships existing prior to July 1, 1988
+- Section 14-9-1203 - Nonrenewable one-year name reservation for partnerships existing prior to July 1, 1988
+- Section 14-9-1204 - Applicability of Uniform Partnership Act

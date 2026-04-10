@@ -1,0 +1,163 @@
+# Chapter 2 - RECORDATION AND REGISTRATION OF DEEDS AND OTHER INSTRUMENTS (§§ 44-2-1 — 44-2-253)
+
+- Section 44-2-1 - Where and when deeds recorded; priority as to subsequent deeds taken without notice from same vendor
+- Section 44-2-2 - Duty of clerk to record certain transaction affecting real estate and personal property; priority of recorded instruments; electronic filings; effect of incorrect tax parcel identification number; effect of recording on rights between parties to instruments
+- Section 44-2-3 - Voluntary deeds or conveyances of land; effect of recording
+- Section 44-2-4 - Protection of good faith purchases and liens without notice against unrecorded liens or conveyances
+- Section 44-2-5 - Recording execution and deed after sheriff's sale
+- Section 44-2-6 - Recording bond for title, contracts, transfers, and assignments; priority as to subsequent deeds taken without notice from same vendor
+- Section 44-2-7 - Recording of surrender or satisfaction of bond for title
+- Section 44-2-8 - Recording of options to purchase land and assignments of such options; effect as notice
+- Section 44-2-9 - Recording leases, usufructs, and assignments thereof; effect as notice
+- Section 44-2-10 - Recording deeds and bills of sale to personalty; effect as notice
+- Section 44-2-11 - Recording copy of instrument recorded in other counties in which part of affected land is located in cases where original lost or destroyed
+- Section 44-2-12 - Rerecording lost or destroyed deeds and other instruments; validity
+- Section 44-2-13 - Rerecording instruments upon creation of new county or change in county lines; effect on validity of original record
+- Section 44-2-14 - Requirements for recordation
+- Section 44-2-15 - Officers authorized to attest registrable instruments
+- Section 44-2-16 - Effect of acknowledgment subsequent to execution
+- Section 44-2-17 - Validity of attestation by a state or county officer who appears to have no jurisdiction to attest the instrument
+- Section 44-2-18 - Recording deed upon affidavit of subscribing witness; effect of substantial compliance
+- Section 44-2-19 - Recording deed on affidavit of third person
+- Section 44-2-20 - Recorded affidavits relating to land as notice of facts cited therein; filing and recording
+- Section 44-2-21 - Recording instrument executed out of state; attestation and acknowledgment; validity of attestation by officer who appears to have no jurisdiction to attest the instrument
+- Section 44-2-22 - Legal effect of good record title for 40 years
+- Section 44-2-23 - [Repealed] When deed serves as evidence; effect of affidavit alleging forgery
+- Section 44-2-24 - Withdrawal of affidavit of forgery upon loss of deed by affiant
+- Section 44-2-25 - Recording techniques; copies of plats
+- Section 44-2-26 - Recording of plat or copy of plat - When and where authorized; duty of clerk
+- Section 44-2-27 - Recording of plat - When deemed recorded
+- Section 44-2-28 - Recording of plat or copy of plat - Incorporation by reference
+- Section 44-2-29 - Recording of plat or copy of plat - Ratification of record made prior to statutory authorization; effect of incorporation by reference of plat prior to authorization
+- Section 44-2-30 - Filing and recording of notice of settlement
+- Section 44-2-35 - Short title
+- Section 44-2-36 - Definitions
+- Section 44-2-37 - Electronic documents treated as original; electronic signatures acceptable
+- Section 44-2-38 - Role of clerk of court
+- Section 44-2-39 - Adoption of rules and regulations; standardization
+- Section 44-2-39.1 - Promotion of uniformity
+- Section 44-2-39.2 - Construction with federal law
+- Section 44-2-40 - Short title
+- Section 44-2-41 - Definitions
+- Section 44-2-42 - Performance of clerk's and sheriff's duties by deputies; liability
+- Section 44-2-43 - Fraud, forgery, and theft in connection with registration of title to land; penalty
+- Section 44-2-44 - Fraudulent acts by office of clerk personnel; penalties
+- Section 44-2-45 - Fraud or false entries by sheriffs and deputies; penalties
+- Section 44-2-46 - Fraudulent acts and malpractice of examiners; penalty
+- Section 44-2-47 - Reduction of felonies under this article to misdemeanors
+- Section 44-2-60 - Jurisdiction of superior court over matters in this article
+- Section 44-2-61 - Proceedings to be in rem; operation of decree
+- Section 44-2-62 - Procedure as to actions for registration; persons under disability
+- Section 44-2-63 - Persons claiming less than fee; establishing title without registration
+- Section 44-2-64 - Petition - Verification; contents; description of land; surveys; amendments
+- Section 44-2-65 - Petition - Inclusion of separate parcels in one proceeding; individual registration of separate parts of one tract
+- Section 44-2-66 - Petition - Persons included as defendants
+- Section 44-2-67 - Issuance and service of process or summons; service by publication; notice to nonresidents; request for petition; guardians ad litem
+- Section 44-2-68 - Appointment of resident agent for service on nonresident petitioner
+- Section 44-2-69 - Service upon state, county, or municipality
+- Section 44-2-70 - Waiver or acknowledgment of service
+- Section 44-2-71 - Conclusive effect of evidence of service of process and notice; liability of officers for false returns or failure to publish or mail notice
+- Section 44-2-72 - Posting notice on land and buildings; ascertainment of and notice to occupants; return to court; seizure and custody of the land and attachment of jurisdiction
+- Section 44-2-73 - Effect of notice; appearances or pleadings as waiver of service, notice, and defects
+- Section 44-2-74 - Service on other persons found by examiner to be entitled to notice
+- Section 44-2-75 - Additional notice; judge's discretion
+- Section 44-2-76 - Who may file objections or cross-action to petition
+- Section 44-2-77 - Survey of land upon order of judge or examiner; notice to adjoining landowners; protest; procedure for trying issue
+- Section 44-2-78 - Dismissal without prejudice
+- Section 44-2-79 - Amendment or severance of petitions or other pleadings; power of court or examiner to require additional facts
+- Section 44-2-80 - Treatment of land pending registration; appearance of person acquiring interest in land pending registration
+- Section 44-2-81 - No default judgment or decree
+- Section 44-2-82 - Entry of judgment and decree; inclusion of limitations and encumbrances; decree in favor of cross-action; separate decree for each parcel
+- Section 44-2-83 - Conclusiveness of decree; effect of disability on conclusiveness; recourse of persons under a disability against assurance fund
+- Section 44-2-84 - Review by Court of Appeals
+- Section 44-2-100 - Appointment and qualification of examiners and special examiners; filing order of appointment and affidavit
+- Section 44-2-101 - Referral of case to examiner; preliminary report; contents; time of filing
+- Section 44-2-102 - Hearing; final report; delay of hearing to add new parties; notice
+- Section 44-2-103 - Examiner's powers; contents, filing, and notice of examiner's report; right to jury trial, new trial, and appeal; recommitment to examiner after trial or reversal on appeal
+- Section 44-2-104 - Authority to inspect pertinent records
+- Section 44-2-105 - Appointment of stenographer; compensation
+- Section 44-2-120 - Furnishing and maintaining register books; issuance of owner's certificate of title
+- Section 44-2-121 - Signing and dating register entries and owners' certificates
+- Section 44-2-122 - Clerk's duties and liabilities; conclusive effect of registration entries; time for filing caveat; petition for direction
+- Section 44-2-123 - Clerk's duty to ensure proper execution of voluntary transfer; liability for damage or loss arising from registration of improperly executed transfer
+- Section 44-2-124 - Performance of duties upon disqualification, death, or disability of clerk
+- Section 44-2-125 - When recordation other than registration not required; filing instruments; admissibility of certified copies and use as evidence; recordation procedure when instrument is not in short form
+- Section 44-2-126 - Notation of lien or encumbrance on certificate of title - In general
+- Section 44-2-127 - Notation of lien or encumbrance on certificate of title - Registered encumbrances, rights, and adverse claims
+- Section 44-2-128 - Registration of transactions affecting unregistered land as notice
+- Section 44-2-129 - Registration of involuntary transactions on court's order; form
+- Section 44-2-130 - Cancellation of decedent's certificate and issuance of new certificate to personal representative
+- Section 44-2-131 - Declaration of title by descent upon petition; service of petition and publication of notice; transfer of registered title and issuance of new certificates; rights of surviving spouse
+- Section 44-2-132 - Compelling production of owner's certificate for registration of involuntary transfer; cancellation of certificate upon failure to produce it; notice of cancellation
+- Section 44-2-133 - Procedure for obtaining duplicate of lost owner's certificate
+- Section 44-2-134 - Filing caveat objecting to entry in title register; show cause hearing upon caveat
+- Section 44-2-135 - Obtaining notations in title register
+- Section 44-2-136 - Cancellation of mortgage, lien, equity, or lis pendens; entry of cancellation on title register and certificate; procedure upon refusal to authorize cancellation
+- Section 44-2-137 - What adverse claims affect registered land; effect of fraud or forgery; limitations on actions to set aside
+- Section 44-2-138 - What limitations govern actions by injured party for fraud or negligence
+- Section 44-2-139 - [Repealed] Registration and title certificate to run with land
+- Section 44-2-140 - Availability of prescription or adverse possession against registered land
+- Section 44-2-141 - Rights, burdens, and incidents as to both registered and unregistered land; validity of transfers of title by last registered owner
+- Section 44-2-142 - Notation of change of name on register and certificate
+- Section 44-2-143 - Notation of liens and lis pendens on register; effect absent notation
+- Section 44-2-144 - Freeing land from further registration; certificates as conclusive source of title; notation of encumbrances; when land automatically freed; registered land free of further registration; exception
+- Section 44-2-160 - Manner of recording deeds conveying title to registered land; validity of previous conveyances of registered land
+- Section 44-2-161 - Partial transfer of registered land; undivided interest; interest in particular portion; notations on register; issuance of certificates
+- Section 44-2-162 - Subdivision of registered land; procedure
+- Section 44-2-163 - Conveyance to secure debt; form; notation and registration; creditor's certificate
+- Section 44-2-164 - Assignment or negotiation of creditor's certificate; effect of transfer of indebtedness; surrender and cancellation of certificate; order of cancellation; notation
+- Section 44-2-165 - Sale by holder of creditor's certificate; application for transfer to purchaser; opportunity to object to transfer; order of application of sale proceeds
+- Section 44-2-166 - Transfer to secure debt; notation of bond for title or to reconvey
+- Section 44-2-167 - Validity and priority of unrecorded transfers of owner's certificate to registered lands
+- Section 44-2-168 - [Repealed] Descent of registered land as personalty
+- Section 44-2-169 - Personal representative as trustee; right of personal representative to a commission; power of heirs to require transfer
+- Section 44-2-170 - Right of personal representative to have registered land transferred to him where such land transferred to heirs before his appointment; action against heirs who have improperly appropriated land
+- Section 44-2-171 - Procedure for ascertaining, and transfer to, heirs or beneficiaries
+- Section 44-2-172 - Transfer by clerk pursuant to judgment; production of copy of decree and order
+- Section 44-2-173 - Petition for involuntary transfer; referral to examiner; notice; appointment of guardians ad litem; order of transfer
+- Section 44-2-174 - Attack on transfers made to hinder, delay, or defraud creditors; decree voiding such transfer; entry of cancellations and transfers on register and certificate
+- Section 44-2-175 - Registering subsequent transfers or voluntary conveyances of land held in trust or otherwise restricted
+- Section 44-2-176 - Duty of tax officer to have delinquent taxes or assessments noted; effect of delinquencies prior to notation; liability of officer
+- Section 44-2-190 - Payment into assurance fund upon original registration; determination of amount
+- Section 44-2-191 - Separate account for assurance fund
+- Section 44-2-192 - Investment of fund; application of income; transfer of excess
+- Section 44-2-193 - Action against fund - Limitations; defense by Attorney General; measure of damages; tolling of limitations during disability; notice to unknown persons
+- Section 44-2-194 - Action against fund - Parties defendant
+- Section 44-2-195 - Action against fund - Execution on judgment; payment from fund; liability of other defendants to plaintiff and to fund
+- Section 44-2-196 - Action against fund - How judgments satisfied when fund insufficient; interest
+- Section 44-2-197 - Liability of fund for registered owner's breach of trust
+- Section 44-2-210 - Fees under article; deposit and payment of fees; award of costs
+- Section 44-2-220 - Power of judges to make general rules and forms for matters under this article; power to modify forms; uniformity of forms
+- Section 44-2-221 - Petition to register land
+- Section 44-2-222 - Process
+- Section 44-2-223 - Advertisement
+- Section 44-2-224 - Acknowledgment of service
+- Section 44-2-225 - Sheriff's return
+- Section 44-2-226 - Certificate of mailing; entry of such certificate on petition
+- Section 44-2-227 - Examiner's appointment
+- Section 44-2-228 - Oath of examiner
+- Section 44-2-229 - Referral to examiner
+- Section 44-2-230 - Preliminary report of examiner; schedules
+- Section 44-2-231 - Final report of examiner
+- Section 44-2-232 - Decrees of title
+- Section 44-2-233 - Book of decrees; index
+- Section 44-2-234 - Title register book; registered title number; index of title register
+- Section 44-2-235 - Duty of clerk to enter on new certificate all entries and notations of record
+- Section 44-2-236 - Certified copies of certificates of title or entries thereon
+- Section 44-2-237 - Recordation and notation of plat
+- Section 44-2-238 - Recordation of lengthy description - Reference on title register; effect
+- Section 44-2-239 - Recordation of lengthy description - Notation on owner's or creditor's certificate; attaching certified copy; fee
+- Section 44-2-240 - Owner's certificate of title
+- Section 44-2-241 - Transfer of whole of registered estates, undivided interests, divided portions, and to secure debt, with power of sale
+- Section 44-2-242 - Creditor's certificate; endorsement of certificate
+- Section 44-2-243 - Transfer of portion or undivided interest to secure debt
+- Section 44-2-244 - Judge's order of transfer
+- Section 44-2-245 - Registration and recordation of mortgages
+- Section 44-2-246 - Notation of delinquent taxes or assessments
+- Section 44-2-247 - Notation of judgment
+- Section 44-2-248 - Notation of special right; notice of lis pendens; recordation and notation of lengthy descriptions
+- Section 44-2-249 - Cancellation of creditor's certificate
+- Section 44-2-250 - Request to cancel entries
+- Section 44-2-251 - [Repealed] Registration and notation of other voluntary transactions
+- Section 44-2-252 - Updating entries and notations on owner's certificate; clerk's endorsement
+- Section 44-2-253 - Filing cases; method of filing papers relating to registered lands

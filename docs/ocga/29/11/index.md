@@ -1,0 +1,25 @@
+# Chapter 11 - UNIFORM ADULT GUARDIANSHIP AND CONSERVATORSHIP PROCEEDINGS JURISDICTION ACT (§§ 29-11-1 — 29-11-42)
+
+- Section 29-11-1 - Short title
+- Section 29-11-2 - Definitions
+- Section 29-11-3 - Treatment of foreign countries
+- Section 29-11-4 - Communication with out of state courts
+- Section 29-11-5 - Appropriate requests to and from courts of other jurisdictions
+- Section 29-11-6 - Procedure for testimony of out of state witnesses
+- Section 29-11-10 - Determination of connection with state
+- Section 29-11-11 - Exclusive jurisdiction for appointment
+- Section 29-11-12 - Requirements for jurisdiction
+- Section 29-11-13 - Special jurisdiction; emergency appointment of guardian
+- Section 29-11-14 - Special jurisdiction; emergency appointment of guardian
+- Section 29-11-15 - Declining exercise of jurisdiction; factors for determining jurisdiction
+- Section 29-11-16 - Unjustifiable conduct leading to jurisdiction
+- Section 29-11-17 - Notice required; process for service
+- Section 29-11-18 - Multiple court jurisdictional rules
+- Section 29-11-20 - Transfer proceedings to another state; notice; hearing; provisional orders; required findings; finalization; denial of petition
+- Section 29-11-21 - Petition for acceptance; notice; hearing; provisional and final orders; modification to conform to law
+- Section 29-11-30 - Registration of guardianship order; recordation of order
+- Section 29-11-31 - Registration of conservatorship order; recordation of order
+- Section 29-11-32 - Exercise of powers authorized; enforcement
+- Section 29-11-40 - Promotion of uniformity
+- Section 29-11-41 - Construction with federal law
+- Section 29-11-42 - Application

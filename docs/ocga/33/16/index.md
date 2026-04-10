@@ -1,0 +1,24 @@
+# Chapter 16 - FARMERS' MUTUAL FIRE INSURANCE COMPANIES (§§ 33-16-1 — 33-16-22)
+
+- Section 33-16-1 - Scope of chapter
+- Section 33-16-2 - &quot;Domestic farmers' mutual fire insurance companies&quot; defined; risks against which companies may write insurance
+- Section 33-16-3 - Procedure for incorporation of companies generally; filing and contents of application for charter; granting of charter by Secretary of State
+- Section 33-16-4 - Issuance of certificate of authority; qualifications; proposed changes to plan of operation
+- Section 33-16-5 - Annual license fee
+- Section 33-16-6 - Board of directors generally
+- Section 33-16-7 - Power of board to borrow money and pledge assets of company
+- Section 33-16-8 - Contents of bylaws generally; amendment of bylaws; provision for exclusion of members
+- Section 33-16-9 - Inclusion of bylaws in insurance policy; inclusion in policy of statement of contingent liability of members
+- Section 33-16-10 - Inclusion in policy of provision against waiver of bylaws
+- Section 33-16-11 - Holding of annual and special meetings of members; notice of meetings
+- Section 33-16-12 - Voting by policyholders at meetings
+- Section 33-16-13 - Amount of minimum surplus required
+- Section 33-16-14 - Limitations on amounts of risks
+- Section 33-16-15 - Reinsurance
+- Section 33-16-16 - Liability of members for losses and expenses of companies
+- Section 33-16-17 - Actions by or against companies
+- Section 33-16-18 - Filing of annual statement with Commissioner
+- Section 33-16-19 - Examination of companies by Commissioner; payment of costs of examinations
+- Section 33-16-20 - Exemption from taxes, costs, and fees
+- Section 33-16-21 - Applicability of other provisions of title to companies
+- Section 33-16-22 - Conversion of companies into mutual insurance companies

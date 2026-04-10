@@ -1,0 +1,22 @@
+# Chapter 20 - HEARING AID DEALERS AND DISPENSERS (§§ 43-20-1 — 43-20-21)
+
+- Section 43-20-1 - Short title
+- Section 43-20-2 - Declaration of policy
+- Section 43-20-3 - Definitions
+- Section 43-20-4 - State Board of Hearing Aid Dealers and Dispensers; composition; qualifications of members; terms of office; vacancies; selection of officers
+- Section 43-20-5 - Meetings; reimbursement of members; notice of meetings
+- Section 43-20-6 - General powers and duties of board; division director
+- Section 43-20-7 - License required; scope of authority of license holders; issuance of duplicate licenses
+- Section 43-20-8 - Issuance of licenses; fees
+- Section 43-20-9 - Examinations; qualifications; apprentice dispensers; establishment of uniform criteria for passing and failing
+- Section 43-20-10 - Nonresident licenses; reciprocity
+- Section 43-20-11 - Apprentice dispenser's permit; training permits
+- Section 43-20-12 - Notice to division director of place of practice and identification of dispensers, apprentice dispensers, and trainees; notice to holders of licenses and permits
+- Section 43-20-13 - Furnishing bill of sale or receipt to person supplied with hearing aid
+- Section 43-20-14 - Biennial renewal of licenses; posting licenses; duplicate licenses
+- Section 43-20-15 - Continuing education requirement
+- Section 43-20-16 - Denial, nonrenewal, suspension, or revocation of licenses or permits; reprimands
+- Section 43-20-17 - Procedure as to contested cases; judicial review
+- Section 43-20-18 - Injunctions
+- Section 43-20-19 - Exceptions to operation of chapter
+- Section 43-20-20 - Penalty

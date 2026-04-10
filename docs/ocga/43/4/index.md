@@ -1,0 +1,29 @@
+# Chapter 4 - ARCHITECTS (§§ 43-4-1 — 43-4-37)
+
+- Section 43-4-1 - Definitions
+- Section 43-4-2 - Georgia State Board of Architects and Interior Designers; composition; qualifications of members; terms of office; vacancies
+- Section 43-4-3 - Oath of office
+- Section 43-4-4 - Election of board president and vice president
+- Section 43-4-5 - Record of proceedings
+- Section 43-4-6 - Reimbursement of board members
+- Section 43-4-7 - Authority to confer and attend meetings
+- Section 43-4-8 - Enforcement of chapter; expenses
+- Section 43-4-9 - Adoption of rules, regulations, and standards of conduct; posting of information
+- Section 43-4-10 - Compliance with requirements of article; practice of architecture by firms, sole proprietorships, partnerships, and corporations
+- Section 43-4-11 - Qualifications of applicants for examination or certificate of registration; regulatory authority
+- Section 43-4-12 - Certificate of registration; renewal
+- Section 43-4-13 - Suspension or revocation of certificate; reprimand; hearing; reinstatement
+- Section 43-4-14 - Qualification for practice of architecture; exemptions
+- Section 43-4-15 - Enforcement of Code Section 43-4-14
+- Section 43-4-16 - Registered architect seal; requirements
+- Section 43-4-17 - Unlawful practice of architecture; enforcement; injunctions
+- Section 43-4-18 - Cease and desist orders; violations; notice and hearing; judicial review
+- Section 43-4-19 - Issuance of restraining order or injunction
+- Section 43-4-30 - &quot;Registered interior designer&quot; defined
+- Section 43-4-31 - Duty of State Board of Architects and Interior Designers to grant certificates and administer provisions of article; registry
+- Section 43-4-32 - Application for certificate of registration; requirements; term of certificate; renewal
+- Section 43-4-33 - Form of certificate of registration; seal
+- Section 43-4-34 - Scope of practice; effect on practice of architecture and interior decoration
+- Section 43-4-35 - Applicability of provisions of Chapter 1 of this title
+- Section 43-4-36 - Registration of persons certified or registered in other states or foreign countries
+- Section 43-4-37 - Unlawful use of title &quot;registered interior designer.&quot;

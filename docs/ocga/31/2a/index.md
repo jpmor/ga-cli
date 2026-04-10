@@ -1,0 +1,42 @@
+# Chapter 2A - DEPARTMENT OF PUBLIC HEALTH (§§ 31-2A-1 — 31-2A-57)
+
+- Section 31-2A-1 - Creation of Board of Public Health; powers, duties, and functions of Board of Community Health transferred to the Board of Public Health; board composition and terms; vacancies, removal; chairperson; reimbursement of expenses
+- Section 31-2A-2 - Creation of Department of Public Health; transition of powers, function, and duties to new agency; commissioner of public health; creation of divisions
+- Section 31-2A-3 - Department of Public Health successor to certain rules, regulations, policies, procedures, administrative orders, rights, interests, and obligations of Department of Community Health
+- Section 31-2A-4 - Obligation to safeguard and promote health of people of the state
+- Section 31-2A-5 - Office of Women's Health; duties
+- Section 31-2A-6 - Rules and regulations
+- Section 31-2A-7 - &quot;Conviction data&quot; defined; department authorized to receive data from law enforcement relevant to employment decisions; criminal history information; retention of fingerprints
+- Section 31-2A-8 - Department as agency of state for receipt and administration of federal and other funds
+- Section 31-2A-9 - Studies and surveys of programs
+- Section 31-2A-10 - Venue of actions against department or board
+- Section 31-2A-11 - Standards for sewage management systems
+- Section 31-2A-12 - [Repealed Effective 7/1/2026] Georgia Commission on Maternal and Infant Health; composition, membership, duties, and responsibilities
+- Section 31-2A-13 - Diabetes coordinator; central repository for data related to prevention and treatment of diabetes
+- Section 31-2A-14 - [Reserved]
+- Section 31-2A-15 - Additional duties of commissioner; authority to convene expert panels and consult with experts
+- Section 31-2A-16 - Maternal Mortality Review Committee established
+- Section 31-2A-17 - Alzheimer's Disease Registry established; purpose; procedures; rules and regulations; confidentiality of data
+- Section 31-2A-18 - Low THC Oil Patient Registry; registration cards; reports; waiver forms; annual review and recommendations
+- Section 31-2A-19 - Pilot program for home visitation during pregnancy and early childhood; reporting; funding requirement
+- Section 31-2A-20 - Accessibility to opioid antagonists in government buildings and courthouses; guidelines and training; limitations on liability
+- Section 31-2A-30 - [Repealed] [Reserved] Legislative authority
+- Section 31-2A-31 - Definitions
+- Section 31-2A-32 - Positive Alternatives for Pregnancy and Parenting Grant Program
+- Section 31-2A-33 - Administration and duties
+- Section 31-2A-34 - Services funded by program
+- Section 31-2A-35 - Grants
+- Section 31-2A-36 - Criteria for grant consideration
+- Section 31-2A-37 - Record maintenance and reporting
+- Section 31-2A-38 - Confidentiality
+- Section 31-2A-39 - Annual audit
+- Section 31-2A-40 - Reports to the General Assembly
+- Section 31-2A-41 - Acceptance of donations, contributions, and gifts
+- Section 31-2A-50 - Legislative findings
+- Section 31-2A-51 - Definitions
+- Section 31-2A-52 - Approval as designated perinatal facility; establishing criteria for levels of maternal and neonatal care
+- Section 31-2A-53 - Application process; review and redesignation of facilities; failure to comply with criteria
+- Section 31-2A-54 - Listing of designated facilities; self-assessment tool
+- Section 31-2A-55 - Provisions are not medical care; individualized care and treatment
+- Section 31-2A-56 - Advertisement prohibited unless designated by department
+- Section 31-2A-57 - Regulatory authority

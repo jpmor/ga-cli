@@ -1,0 +1,380 @@
+# Chapter 2 - ELECTIONS AND PRIMARIES GENERALLY (§§ 21-2-1 — 21-2-604)
+
+- Section 21-2-1 - Short title; references to Chapter 3 of Title 21 or the municipal election code
+- Section 21-2-2 - Definitions
+- Section 21-2-3 - Telephone hotline for electors reporting voter intimidation or illegal election activities
+- Section 21-2-4 - Preparation, publicizing, and distributing of summary of constitutional amendments
+- Section 21-2-4.1 - [Repealed] [Repealed] Continuation in office, dismissal, or appointment of members of constitutional or statutory boards or bodies for which membership based on residency within congressional district
+- Section 21-2-5 - Qualifications of candidates for federal and state office; determination of qualifications
+- Section 21-2-6 - Qualifications of candidates for county and municipal office; determination of qualifications
+- Section 21-2-7 - Eligibility of subversive persons for nomination or election to public office
+- Section 21-2-8 - Eligibility for party nomination, public office, or performance of certain official acts of persons convicted and sentenced for certain crimes; illegally holding any public funds; effect of disqualification of superintendent
+- Section 21-2-9 - Date of election for offices
+- Section 21-2-10 - Election of presidential electors
+- Section 21-2-11 - Performance of duties by presidential electors
+- Section 21-2-12 - Procedure for filling presidential elector vacancies
+- Section 21-2-13 - Compensation of presidential electors; payment of expenses of electoral college
+- Section 21-2-14 - Computation of time as to exercise of privilege or discharge of duty under chapter
+- Section 21-2-15 - Applicability of chapter
+- Section 21-2-16 - Construction of chapter
+- Section 21-2-17 - Designation of candidate's chief deputy clerk in elections for clerk of state court of certain counties
+- Section 21-2-18 - Payment for costs of elections; no solicitation of additional funding
+- Section 21-2-19 - Conflict of interest for election officers, officials, and employees regarding providers of voting equipment goods and services
+- Section 21-2-30 - Creation; membership; terms of service; vacancies; quorum; bylaws; meetings; executive director
+- Section 21-2-31 - Duties
+- Section 21-2-32 - Institution of and intervention in court actions; procedures; appellate review
+- Section 21-2-33 - Hearings before board
+- Section 21-2-33.1 - Enforcement of chapter; suspension of election superintendents; support and assistance from the Secretary of State
+- Section 21-2-33.2 - Extraordinary relief; hearings; suspension and reinstatement of superintendents; litigation expenses
+- Section 21-2-34 - Compensation and expenses of members
+- Section 21-2-35 - Emergency rules and regulations; imminent peril requirement; procedures
+- Section 21-2-36 - Notification of proposed consent agreement, settlement, or consent order
+- Section 21-2-40 - Creation of county board of elections and county board of elections and registration
+- Section 21-2-40.1 - Boards of elections and registration in counties where the probate court judge serves as the election superintendent
+- Section 21-2-45 - Creation of joint county-municipal board of elections and board of elections and registration
+- Section 21-2-45.1 - Special elections on bonded debt; publication; date; discount
+- Section 21-2-50 - Powers and duties; prohibition against serving in fiduciary capacity
+- Section 21-2-50.1 - Postponement and extension of qualifying periods for elections for public office during state of emergency; limitation
+- Section 21-2-50.2 - Obligations of the state under the federal Help America Vote Act of 2002
+- Section 21-2-51 - Opening of election records to members of public
+- Section 21-2-52 - Preservation of primary and election records
+- Section 21-2-70 - Powers and duties
+- Section 21-2-70.1 - Municipal superintendents
+- Section 21-2-71 - Payment by county or municipality of superintendent's expenses; study and report on acceptance and equitable distribution of donations
+- Section 21-2-72 - Primary and election records to be open to public
+- Section 21-2-73 - Preservation of primary and election records
+- Section 21-2-74 - [Reserved]
+- Section 21-2-74.1 - [Repealed]
+- Section 21-2-75 - Eligibility of persons holding elective public office, or office in political party, to serve on county board of elections
+- Section 21-2-76 - Eligibility of person to serve as county election superintendent
+- Section 21-2-77 - Electronic election returns
+- Section 21-2-78 - Eligibility of person to undertake any election related duties
+- Section 21-2-90 - Appointment of chief manager and assistant managers
+- Section 21-2-91 - Appointment of clerks
+- Section 21-2-92 - Qualifications of poll officers; service during municipal election or primary; Student Teen Election Participant (STEP)
+- Section 21-2-93 - Oath of office for managers and clerks
+- Section 21-2-94 - Form of manager's oath
+- Section 21-2-95 - Form of clerk's oath
+- Section 21-2-96 - Administration of oaths by managers
+- Section 21-2-97 - Identification badges for poll officers
+- Section 21-2-98 - Compensation of poll officers
+- Section 21-2-99 - Instruction of poll officers and workers in election procedures
+- Section 21-2-100 - Training of local election officials
+- Section 21-2-101 - Certification program for county and municipal election superintendents or election board designee; waiver of certification; failure to comply; remedial training; regulatory authority
+- Section 21-2-105 - Local election official defined
+- Section 21-2-106 - Performance review of local election official; role of performance review board; findings as grounds for removal
+- Section 21-2-107 - Authority of State Election Board to appoint independent performance review board; operation and reporting
+- Section 21-2-108 - Promulgation of rules and regulations
+- Section 21-2-110 - Filing of registration statements by political parties or bodies; amendments; filing fees; failure to file
+- Section 21-2-111 - Establishment of state and county executive committees; membership and officers; duties; applicability of chapter to persons seeking party office in a primary
+- Section 21-2-112 - Hearings before state committee; suspension of powers and duties of county committee; delegation of powers by state committee
+- Section 21-2-113 - Chief executive and county executive committees
+- Section 21-2-130 - Procedures for qualification of candidates generally
+- Section 21-2-131 - Fixing and publishing of qualification fees; manner of payment; distribution of fees paid
+- Section 21-2-132 - Filing notice of candidacy, nomination petition, and affidavit; reopening qualifying period; payment of qualifying fee; pauper's affidavit and qualifying petition for exemption from qualifying fee
+- Section 21-2-132.1 - Certification of presidential electors for independent candidate for President or Vice President of the United States; qualification
+- Section 21-2-133 - Giving notice of intent of write-in candidacy; filing of affidavit; limitations on candidacy; certification of candidates
+- Section 21-2-134 - Withdrawal, death, or disqualification of candidate for office; return of qualifying fee; nomination certificate
+- Section 21-2-135 - Designation of specific office sought where office has multiple officeholders with same title
+- Section 21-2-136 - Restriction on number of offices for which an individual may be nominated or be a candidate at any one election
+- Section 21-2-137 - Qualifying with two political parties; qualifying as independent or political body candidate and as political party candidate
+- Section 21-2-138 - Nonpartisan elections for judicial offices
+- Section 21-2-139 - Nonpartisan elections authorized; conduct
+- Section 21-2-150 - Date of general primary
+- Section 21-2-151 - Conduct of political party primaries
+- Section 21-2-152 - Conduct of primaries generally; run-off primary
+- Section 21-2-153 - Qualification of candidates for party nomination in a state or county primary; posting of list of all qualified candidates; filing of affidavit with political party by each qualifying candidate; performance of military service does not create vacancy
+- Section 21-2-153.1 - Qualification of candidates for party nomination in a municipal primary; unopposed candidates; filing of affidavit with political party; posting of list of all qualified candidates
+- Section 21-2-154 - Certification of political party candidates
+- Section 21-2-155 - Reopening of qualification for office in event of candidate's death or withdrawal of incumbent who qualified as candidate prior to political party primary
+- Section 21-2-156 - Payment of primary expenses
+- Section 21-2-157 - Municipal nonpartisan primary; qualifying as a candidate; payment of expenses
+- Section 21-2-158 - Unopposed candidate failing to receive a single vote
+- Section 21-2-170 - Nomination of candidates by petition; form of petition; signatures; limitations as to circulation and amendment of petitions; listing of such candidates on ballots; charter or ordinance authorization
+- Section 21-2-171 - Examination of petitions; basis for grant or denial of filing; review and appeal of denial
+- Section 21-2-172 - Nomination of presidential electors and candidates of political bodies by convention
+- Section 21-2-180 - Manner of qualification
+- Section 21-2-181 - Filing of petitions generally
+- Section 21-2-182 - Contents of petitions; signatures
+- Section 21-2-183 - Form of petitions; affidavits of circulators
+- Section 21-2-184 - Restriction on amendment or supplementation
+- Section 21-2-185 - Filing deadline
+- Section 21-2-186 - Examination of petitions; judicial review
+- Section 21-2-187 - Holding of conventions; filing notice of candidacy
+- Section 21-2-190 - Short title
+- Section 21-2-191 - Parties entitled to hold primaries; dates; decision to elect delegates to presidential nominating convention in primary; qualifying periods for candidates for delegate
+- Section 21-2-192 - Proclamation by Governor; copies of proclamation transmitted to superintendents
+- Section 21-2-193 - List of names of candidates to appear on ballot; publication of list
+- Section 21-2-195 - Procedures by which delegates and alternates to national nominating conventions selected
+- Section 21-2-196 - Qualification oath of delegates and alternates to national convention
+- Section 21-2-197 - Effect of withdrawal of presidential candidate
+- Section 21-2-198 - Assessment of qualifying fee for candidates listed on presidential preference primary ballot
+- Section 21-2-199 - Election of political party committee members or officers at primary
+- Section 21-2-200 - Applicability of general primary provisions; form of ballot
+- Section 21-2-210 - Secretary of State deemed the chief state election official
+- Section 21-2-211 - List of registered electors; provision of equipment to access and utilize list
+- Section 21-2-212 - County registrars; appointment; certification; term of service; vacancies; compensation and expenses of chief registrar, registrars, and other officers and employees; budget estimates
+- Section 21-2-213 - County deputy registrars; clerical help; appointment of county officer or employee as chief deputy registrar
+- Section 21-2-213.1 - Monthly contingent expense allowance for the operation of the office of the board of registrars
+- Section 21-2-214 - Qualifications of registrars and deputy registrars; prohibited political activities; oath of office; privilege from arrest; duties conducted in public
+- Section 21-2-215 - Main office of board of registrars; location; business hours; additional registration places; educators to serve as deputy registrars; training; registration cards and papers
+- Section 21-2-216 - Qualifications of electors generally; reregistration of electors purged from list; eligibility of nonresidents who vote in presidential elections; retention of qualification for standing as elector; evidence of citizenship; check of convicted felons and deceased persons databases
+- Section 21-2-217 - Rules for determining residence
+- Section 21-2-218 - Cancellation of registration in former state or county; address changes and corrections
+- Section 21-2-219 - Registration cards; form; registration by members of armed forces or merchant marine and permanent overseas citizen; Secretary of State to provide information regarding registration and absentee ballot procedures; reports regarding absentee ballots
+- Section 21-2-220 - Application for registration; identification requirement; rejection for failure to provide required information or for submission of false information; aid to disabled or illiterate
+- Section 21-2-220.1 - Required documentation for voter registration
+- Section 21-2-221 - Driver's license or identification card application as application for voter registration
+- Section 21-2-221.1 - Voter registration incorporated into resident hunting, fishing, or trapping license; design of forms; record keeping; opting out by businesses selling alcohol for on-premises consumption
+- Section 21-2-221.2 - Voter registration application for electronic voter registration
+- Section 21-2-222 - Designated voter registration agencies and offices; definitions; duties of agencies and offices
+- Section 21-2-223 - Mail voter registration application forms
+- Section 21-2-224 - Registration deadlines; restrictions on voting in primaries; official list of electors; voting procedure when portion of county changed from one county to another
+- Section 21-2-225 - Restrictions on public inspection of applications for voter registration and data on electors; membership of Secretary of State in nongovernmental entity for purpose of improving voter registration systems
+- Section 21-2-225.1 - Confidentiality of address of registered electors; term of request; procedure
+- Section 21-2-226 - Duties of county board in determining eligibility of voters; maps of municipal boundaries; notice of ineligibility; issuance of registration cards; reimbursement for postage cost
+- Section 21-2-227 - Duty of registrars to furnish list of electors for elections held in governmental subdivisions
+- Section 21-2-228 - Examination of electors' qualifications; subpoenas; notice and hearing; right of appeal
+- Section 21-2-229 - Challenge of applicant for registration by other electors; notice and hearing; right of appeal; sanctions for board's noncompliance
+- Section 21-2-230 - Challenge of persons on list of electors by other electors; procedure; hearing; right of appeal
+- Section 21-2-231 - Identification of convicted felons, noncitizens, persons declared mentally incompetent, and deceased persons and process for removal of such persons from list of electors; inactive voter list
+- Section 21-2-232 - Removal of elector's name from list of electors
+- Section 21-2-233 - Comparison of change of address information supplied by United States Postal Service with electors list; removal from list of electors; notice to electors
+- Section 21-2-234 - Electors who have failed to vote and with whom there has been no contact in five years; confirmation notice requirements and procedure; time for completion of list maintenance activities
+- Section 21-2-235 - Inactive list of electors
+- Section 21-2-236 - Periods of retention of registration cards, applications, and records of list maintenance activities; rules and regulations regarding safekeeping and maintenance of electronic records
+- Section 21-2-260 - Designation of precincts
+- Section 21-2-261 - Change in boundaries of precinct; creation of new precincts
+- Section 21-2-261.1 - Boundary requirements for precincts
+- Section 21-2-262 - Investigation as to division, redivision, alteration, formation, or consolidation of precincts; petition of electors or board of registrars
+- Section 21-2-263 - Reduction in size of, or provision of additional voting equipment or poll workers to, precincts containing more than 2,000 electors when voting in such precincts at previous general election not completed one hour after closing of polls
+- Section 21-2-264 - Reimbursement of counties and municipalities for costs incurred pursuant to alteration of precinct boundaries
+- Section 21-2-265 - Selection of polling places; change; notice; objection; facilities for disabled voters; selection of polling places outside precinct; restriction on changes close to election date
+- Section 21-2-266 - Polling places and advance voting locations - Use of public buildings; use of portable or movable facilities; unrestricted access to residential communities
+- Section 21-2-267 - Polling places - Equipment; arrangement; storage
+- Section 21-2-268 - Compensation for rent, heat, light, and janitorial services
+- Section 21-2-269 - Construction of rooms for use as temporary polling places
+- Section 21-2-270 - County-wide polling place in certain run-off primaries
+- Section 21-2-280 - Requirement as to conduct of primaries and elections by ballot; requirement as to use of official ballots only
+- Section 21-2-281 - Voting by paper ballot when use of voting equipment impossible or impracticable
+- Section 21-2-282 - [Repealed] [Reserved] Voting by paper ballot when use of vote recorders impossible or impracticable
+- Section 21-2-283 - Printing and safekeeping of ballots and labels by superintendent
+- Section 21-2-283.1 - Ballot proof check and review procedures
+- Section 21-2-284 - Form of official primary ballot; attestation regarding receiving value in exchange for vote
+- Section 21-2-284.1 - Nonpartisan municipal primary ballot form
+- Section 21-2-285 - Form of official election ballot; attestation on receipt of benefit in exchange for vote; when an election is not required
+- Section 21-2-285.1 - Nonpartisan elections ballot form; run-off election; declaration of prevailing candidate as duly elected
+- Section 21-2-286 - Printing specifications, numbering, and binding of ballots
+- Section 21-2-287 - Form of absentee ballot
+- Section 21-2-288 - Procedure as to printing of ballots when candidates for same nomination or office have same or similar names
+- Section 21-2-289 - Printing on ballots of names of substitute candidates
+- Section 21-2-290 - Superintendent to provide number of ballots equal to number of registered electors in precinct
+- Section 21-2-291 - Procedure as to unopposed candidates
+- Section 21-2-292 - Duty of superintendent to have forms of ballots on file for public inspection prior to election
+- Section 21-2-293 - Correction of mistakes and omissions on ballot
+- Section 21-2-294 - Responsibility of superintendent for recording number of ballots furnished and number of stubs, unused ballots, and canceled ballots returned
+- Section 21-2-300 - Provision of new voting equipment by state; uniform system using ballot scanners; pilot programs; county obligations; use of physical ballots
+- Section 21-2-301 - [Repealed] Pilot program; testing and evaluation of electronic voting systems; creation of Twenty-first Century Voting Commission
+- Section 21-2-310 - Definitions
+- Section 21-2-320 - Power of municipal governing authority to authorize use of and to procure voting machines
+- Section 21-2-321 - Referendum on question of use of voting machines
+- Section 21-2-322 - General requirements as to voting machines
+- Section 21-2-323 - Installation of voting machines; discontinuance of use of paper ballots; minimum number; different types; requirements as to working order and capacity
+- Section 21-2-324 - Examination and approval of voting machines by Secretary of State; appointment and compensation of examiners; revocation of approval; written verification and certification prior to election or primary; penalties; conflicts of interest
+- Section 21-2-325 - Form of ballot labels generally
+- Section 21-2-325.1 - Candidates with same or similar names
+- Section 21-2-326 - Unofficial ballot labels
+- Section 21-2-327 - Preparation of voting machines; custodians and their deputies; inspection; furnishing of supplies
+- Section 21-2-328 - Delivery, set up, and sealing of properly furnished voting machines prior to primary or election; protection of voting machines against molestation or injury
+- Section 21-2-329 - Delivery of voting machine keys to chief manager
+- Section 21-2-330 - Public exhibition of and instruction on sample voting machine
+- Section 21-2-331 - Designation and compensation of custodians of voting machines and keys; storage of voting machines when not in use
+- Section 21-2-332 - Use of portable polling facilities
+- Section 21-2-333 - Responsibility of municipal governing authority to provide for payment for voting machines; issuance of bonds or other indebtedness to meet costs
+- Section 21-2-334 - Voting by paper ballot when use of voting machine impossible or impracticable
+- Section 21-2-350 - through 21-2-364 - Reserved
+- Section 21-2-365 - Requirements for use of optical scanning voting systems
+- Section 21-2-366 - Authorization for utilization of optical scanning systems
+- Section 21-2-367 - Installation of systems; number of systems; good working order
+- Section 21-2-368 - Review of manufacturer's systems by Secretary of State; appointment and compensation of examiners; revocation of approval; written verification and certification prior to election or primary; penalties; conflicts of interest
+- Section 21-2-369 - Printing of ballots; arrangement
+- Section 21-2-369.1 - Candidates with similar names
+- Section 21-2-371 - Unofficial ballots; out-of-order systems
+- Section 21-2-372 - Ballot description; watermark required
+- Section 21-2-373 - Write-in votes; secrecy
+- Section 21-2-374 - Proper programming; proper order; testing; supplies
+- Section 21-2-375 - Delivery of equipment to polling places; protection for equipment; required accessories
+- Section 21-2-376 - Demonstration of equipment
+- Section 21-2-377 - Custody and storage when not in use
+- Section 21-2-378 - Payment for systems
+- Section 21-2-379 - Arrangements for appropriate ballots when use of optical scanning voting systems impracticable
+- Section 21-2-379.1 - Requirements for use of direct recording electronic voting systems
+- Section 21-2-379.2 - Review of manufacturer's recording electronic voting system by Secretary of State; appointment and compensation of examiners; revocation of approval; penalties; conflicts of interest
+- Section 21-2-379.3 - State furnishing direct recording voting systems; purchase by municipalities or counties
+- Section 21-2-379.4 - Ballot appearance; write in votes on DRE systems
+- Section 21-2-379.5 - Ballot information
+- Section 21-2-379.6 - Maintenance of voting systems and supplies
+- Section 21-2-379.7 - Preparation of polling places
+- Section 21-2-379.8 - Public exhibition of voting system and sample ballot
+- Section 21-2-379.9 - Storage of voting equipment
+- Section 21-2-379.10 - Procedure for electors
+- Section 21-2-379.11 - Procedure for tabulation of votes
+- Section 21-2-379.12 - [Repealed] Direct recording electronic (DRE)
+- Section 21-2-379.21 - Access to optical scanning voting systems for disabled
+- Section 21-2-379.22 - Requirements for electronic ballot marking
+- Section 21-2-379.23 - [Effective Until 7/1/2026] Requirements for ballot display; official ballot for recount
+- Section 21-2-379.23 - [Effective 7/1/2026] Requirements for ballot display; official ballot for vote tabulation, recount, and audit
+- Section 21-2-379.24 - Examination of electronic ballot markers; revocation of approval; penalty to vendors for inappropriate sale; improvements or changes to devices; prohibition on pecuniary interest; limitation on public inspection
+- Section 21-2-379.25 - Programming for ballot design and style; verification; appointment of custodians; role of custodians; testing of electronic ballot marker; public notice of testing
+- Section 21-2-379.26 - Storage of equipment
+- Section 21-2-380 - &quot;Absentee elector&quot; defined; when reason for absentee ballot not required
+- Section 21-2-380.1 - Appointment of absentee ballot clerk
+- Section 21-2-381 - Making of application for absentee ballot; determination of eligibility by ballot clerk; furnishing of applications to colleges and universities; persons entitled to make application
+- Section 21-2-381.1 - Procedures for voting with special write-in absentee ballots by qualified absentee electors
+- Section 21-2-381.2 - State write-in absentee ballot for certain electors
+- Section 21-2-382 - Additional buildings as additional registrar's office or place of registration for receiving absentee ballots and for advance voting; drop boxes
+- Section 21-2-383 - Preparation and delivery of ballots; form of ballots; casting ballot in person using DRE unit; casting ballot in person or as absentee using electronic ballot markers
+- Section 21-2-384 - Preparation and delivery of supplies; mailing of ballots; oath of absentee electors and persons assisting absentee electors; master list of ballots sent; challenges; special absentee run-off ballots; electronic transmission of ballots
+- Section 21-2-385 - Procedure for voting by absentee ballot; advance voting
+- Section 21-2-385.1 - Preferential treatment for older and disabled voters
+- Section 21-2-386 - Procedures regarding absentee ballots
+- Section 21-2-387 - Pilot program for electronic handling of absentee ballots; requirements; reporting; termination
+- Section 21-2-388 - Cancellation of absentee ballots of electors who are present in election precinct during primaries and elections
+- Section 21-2-389 - Payment of postage for mailing absentee ballots
+- Section 21-2-390 - Delivery of election materials to clerk of superior court or city clerk; accounting for ballots; inspection and audit of information contained in absentee ballot applications or envelopes
+- Section 21-2-400 - Duty of superintendent to obtain cards of instruction, blank forms of oaths, and other forms and supplies; preparation and distribution of sample or facsimile ballot labels
+- Section 21-2-401 - Delivery of forms and supplies to precincts; distribution of copy of certified electors list; contents of list; authentication; return receipts; master list of county or municipal electors; items to be provided at polling place
+- Section 21-2-402 - Voter's certificates; preparation, forms, and procedures
+- Section 21-2-403 - Time for opening and closing of polls; extended poll hours
+- Section 21-2-404 - Affording employees time off to vote
+- Section 21-2-405 - Poll officers; arrival at precinct; failure to appear; custodians of voting materials
+- Section 21-2-406 - Public performance of duties by officials
+- Section 21-2-407 - Duty of registrars to review qualifications of electors who may have been erroneously omitted from list of electors; authority to place such electors on the list
+- Section 21-2-408 - Poll watchers; designation; duties; removal for interference with election; reports of infractions or irregularities; ineligibility of candidates to serve; training
+- Section 21-2-409 - Assisting electors who cannot read English or who have disabilities
+- Section 21-2-409.1 - Voting by electors who are 75 years of age or older or disabled electors without having to wait in line
+- Section 21-2-410 - Poll officers authorized to give instructions to electors upon request
+- Section 21-2-411 - Return of checked list of electors and voter's certificates to superintendent; disposition of list and certificates by registrars
+- Section 21-2-412 - Duties of superior courts on days of primaries and elections
+- Section 21-2-413 - Conduct of voters, campaigners, and others at polling places generally
+- Section 21-2-414 - Restrictions on campaign activities, giving of food or water, and public opinion polling within the vicinity of a polling place; cellular phone use prohibited; prohibition of candidates from entering certain polling places
+- Section 21-2-415 - [Repealed and Reserved] [Reserved] Requirements as to identification of campaign literature; unauthorized use of another's name in connection with campaign material; penalty
+- Section 21-2-417 - Presentation of proper identification to poll workers; swearing of statement when unable to produce; use of provisional ballots; penalty for false swearing
+- Section 21-2-417.1 - Voter identification card
+- Section 21-2-418 - Provisional ballots
+- Section 21-2-419 - Validation of provisional ballots; reporting to Secretary of State
+- Section 21-2-420 - Procedure for counting and tabulation of ballots
+- Section 21-2-421 - Posting of required information after closing of polls; reporting to Secretary of State
+- Section 21-2-430 - Opening of ballot boxes; destruction of irrelevant materials; locking of ballot box; public breaking of seals; instruction cards and notices of penalties
+- Section 21-2-431 - Execution of voter's certificate; procedure upon qualification of elector; elector unable to sign name; voting outside precinct of residence; registration as prerequisite to voting
+- Section 21-2-432 - Voter's certificate binder as official list of electors; preservation and disposition of refused applications
+- Section 21-2-433 - Admission of electors to enclosed space; detachment of ballots from stubs and distribution of ballots to electors; return of canceled ballots to superintendent
+- Section 21-2-434 - Restrictions as to removal of ballots from book or polling place; deposit of official ballots in box; disposition of unofficial ballots
+- Section 21-2-435 - Procedure as to marking and depositing of ballots
+- Section 21-2-436 - Duties of poll officers after the close of the polls
+- Section 21-2-437 - Procedure as to count and return of votes generally; void ballots
+- Section 21-2-438 - Ballots identifying voter, not marked, or improperly marked declared void
+- Section 21-2-439 - Decisions concerning questionable marks or defaced or mutilated ballots
+- Section 21-2-440 - Duty of poll officers to sign general returns; posting of copy of returns; delivery of copy of materials to superintendent
+- Section 21-2-450 - Opening of polls; procedure when ballot labels misplaced; certification by managers; machines to be locked until polls open; officers to be near machines; inspection of machines; broken machines
+- Section 21-2-451 - Execution of voter's certificate; procedure upon qualification of elector; elector unable to sign name; voting outside of precinct of residence; registration prerequisite to voting
+- Section 21-2-452 - Admission of electors to enclosed space; voting procedure generally; procedure as to write-in votes; voting by electors whose right to vote is challenged; disabled voters
+- Section 21-2-453 - Voter's certificate binder as constituting official list; separate preservation and return of refused applications
+- Section 21-2-454 - Duties of poll officers after the close of the polls
+- Section 21-2-455 - Canvass and return of votes
+- Section 21-2-456 - Form of general return sheet, duplicate return sheets, and statement; posting of vote results; delivery of documents to superintendent; seal and return of electors list upon completion of vote count and tabulation
+- Section 21-2-457 - Removal, storage, and examination of voting machines after completion of vote count
+- Section 21-2-470 - through 21-2-473 - Reserved
+- Section 21-2-480 - Caption for ballots; party designations; form and arrangement
+- Section 21-2-481 - Design, size, and stock of ballots
+- Section 21-2-482 - Absentee ballots for precincts using optical scanning voting equipment
+- Section 21-2-483 - Counting of ballots; public accessibility to tabulating center and precincts; execution of ballot recap forms; procedure for torn, bent, or otherwise defective ballots; preparation of duplicate ballots
+- Section 21-2-484 - Requirements for ballot recap form; delivery
+- Section 21-2-485 - Responsibilities of poll officers
+- Section 21-2-486 - Votes for write-in candidates
+- Section 21-2-490 - Hours of operation of office of superintendent and chairperson of county board of registrars on primary and election days; applicability to counties having population of 550,000 or more
+- Section 21-2-491 - Public inspection of unsealed returns at office of superintendent; opening of sealed envelopes upon order of superintendent or court
+- Section 21-2-492 - Computation and canvassing of returns; notice of place where returns will be computed and canvassed; blank forms for making statements of returns; swearing of assistants
+- Section 21-2-493 - Computation, canvassing, and tabulation of returns; investigation of discrepancies in vote counts; recount procedure; posting of digital images of scanned paper ballots; certification of returns; change in returns
+- Section 21-2-494 - Computation and certification of write-in votes
+- Section 21-2-495 - Procedure for recount or recanvass of votes; losing candidate's right to a recount; rules and regulations
+- Section 21-2-496 - Preparation and filing by superintendent of four copies of consolidated return of primary; electronic filing; superintendent to furnish final copy of each ballot used for primary
+- Section 21-2-497 - Preparation and filing by superintendent of four copies of consolidated return of elections; superintendent to furnish final copy of each ballot used for election
+- Section 21-2-498 - Precertification tabulation audits; risk-limiting audits
+- Section 21-2-498.1 - Pilot program to audit paper ballots using optical character recognition
+- Section 21-2-499 - Duty of Secretary of State as to tabulation, computation, and canvassing of votes for state and federal officers; certification of presidential electors by Governor
+- Section 21-2-500 - Delivery of voting materials; presentation to grand jury in certain cases; preservation and destruction; destruction of unused ballots
+- Section 21-2-501 - Number of votes required for election; runoff
+- Section 21-2-501.1 - [Repealed] [Repealed] Timing whenever a municipal general primary is held in conjunction with the general primary in even-numbered years
+- Section 21-2-502 - Issuance of certificates of election and commission; Governor's proclamation as to constitutional amendments
+- Section 21-2-503 - Issuance of commission to person whose election is contested; procedure upon finding that person to whom commission was issued was not legally elected; swearing into office of person whose election is contested
+- Section 21-2-504 - Special primary or election upon failure to nominate or elect or upon death, withdrawal, or failure of officer-elect to qualify
+- Section 21-2-520 - Definitions
+- Section 21-2-521 - Primaries and elections which are subject to contest; persons who may bring contest
+- Section 21-2-522 - Grounds for contest
+- Section 21-2-522.1 - Rebuttable presumption of legal vote in contested election
+- Section 21-2-523 - Jurisdiction and pretrial procedures; notification; selection and compensation of judge
+- Section 21-2-524 - Filing of petition to contest primary or election; procedures for service, notice, answer, and amendment
+- Section 21-2-525 - Hearing; powers of court generally
+- Section 21-2-526 - Trial by jury
+- Section 21-2-527 - Pronouncement of judgment; effect of finding of misconduct by poll officers; calling of second primary, election, or runoff by court upon finding of defects
+- Section 21-2-527.1 - Right of parties to object to settlement; court approval
+- Section 21-2-528 - Appeals from court's determination on contest petition
+- Section 21-2-529 - Liability for costs; methods of collecting
+- Section 21-2-540 - Conduct and timing of special primaries and special elections generally
+- Section 21-2-541 - Holding of special primary or special election at time of general primary or general election
+- Section 21-2-541.1 - Terms for all municipal offices elected at general municipal elections
+- Section 21-2-541.2 - Providing by local law for terms of office
+- Section 21-2-542 - Special primary and special election for United States senator vacancy; temporary appointment by Governor
+- Section 21-2-543 - Special election for United States congressional representative vacancy
+- Section 21-2-543.1 - Procedures for filling vacancies in federal House of Representatives
+- Section 21-2-544 - Special election for General Assembly vacancy
+- Section 21-2-545 - Procedure as to unopposed candidates
+- Section 21-2-546 - Filling chief judge vacancies in civil and magistrate courts
+- Section 21-2-560 - Making of false statements generally
+- Section 21-2-561 - False registration
+- Section 21-2-562 - Fraudulent entries; unlawful alteration or destruction of entries; unlawful removal of documents; neglect or refusal to deliver documents
+- Section 21-2-563 - Improper signing or alteration of nomination petitions or affidavits
+- Section 21-2-564 - Willful destruction, fraudulent filing, or suppression of nomination materials
+- Section 21-2-565 - Making of false statements in connection with filing notice of candidacy or qualifying as candidate for party nomination; duties of district attorney as to violations
+- Section 21-2-566 - Interference with primaries and elections generally
+- Section 21-2-567 - Intimidation of electors
+- Section 21-2-568 - Entry into voting compartment or booth while another voting; interfering with elector; inducing elector to reveal or revealing elector's vote; influencing voter while assisting
+- Section 21-2-568.1 - Intentional observation of voting
+- Section 21-2-568.2 - Photographic and other electronic monitoring of ballots prohibited
+- Section 21-2-569 - Interfering with poll officers
+- Section 21-2-570 - Giving or receiving, offering to give or receive, or participating in the giving or receiving of money or gifts for registering as a voter, voting, or voting for a particular candidate
+- Section 21-2-571 - Voting by unqualified elector or giving false information
+- Section 21-2-572 - Repeat voting in same primary or election
+- Section 21-2-573 - Absentee voting by unqualified elector
+- Section 21-2-574 - Unlawful possession of ballots
+- Section 21-2-575 - Counterfeit ballots or ballot labels; sample or facsimile ballots
+- Section 21-2-576 - Destroying, defacing, or delaying delivery of ballots
+- Section 21-2-577 - Improper removal of ballots from book of official ballots
+- Section 21-2-578 - Unfolding, opening, or prying into ballots
+- Section 21-2-579 - Fraudulently allowing ballot or voting machine to be seen; casting unofficial ballot; receiving unauthorized assistance in voting
+- Section 21-2-580 - Tampering with, damaging, improper preparation of, or prevention of proper operation of voting machines or electronic ballot markers or tabulating machines
+- Section 21-2-581 - Unauthorized making or possession of voting machine key
+- Section 21-2-582 - Tampering with, damaging, or preventing of proper operation of direct recording electronic equipment or electronic ballot marker or tabulating machine or device
+- Section 21-2-582.1 - Penalty for voting equipment modification
+- Section 21-2-583 - Removal or destruction of election supplies or conveniences
+- Section 21-2-584 - Refusal or failure of manager to administer oath to poll officer; poll officer acting without being sworn; giving of false certification as to swearing of poll officer
+- Section 21-2-585 - Refusal by superintendent or his or her employee to permit public inspection of documents; removal, destruction, or alteration of documents
+- Section 21-2-586 - Refusal by Secretary of State or his or her employee to permit public inspection of documents; removal, destruction, or alteration of documents
+- Section 21-2-587 - Frauds by poll officers
+- Section 21-2-588 - Premature counting of votes by poll officer
+- Section 21-2-589 - Willful omissions by poll officers
+- Section 21-2-590 - Poll officer permitting unregistered or unqualified persons to vote; refusing to permit registered and qualified persons to vote; unlawful rendering of assistance
+- Section 21-2-591 - Poll officers permitting unlawful assistance to voters
+- Section 21-2-592 - Failure of poll officers to keep record of assisted voters
+- Section 21-2-593 - Failure of law enforcement officers to remove obstacles or to maintain order at polling places; hindrance or delay of poll officers by law enforcement officers
+- Section 21-2-594 - Offenses by printers of ballots
+- Section 21-2-596 - Failure of public or political officer to perform duty
+- Section 21-2-597 - Intentional interference with performance of election duties
+- Section 21-2-598 - Violations of chapter
+- Section 21-2-599 - Punishment for misdemeanors under chapter
+- Section 21-2-600 - Punishment for felonies under chapter
+- Section 21-2-601 - Use of list of electors for commercial purposes prohibited
+- Section 21-2-602 - Compensation for soliciting persons to register to vote prohibited
+- Section 21-2-603 - Conspiracy to commit election fraud
+- Section 21-2-604 - Criminal solicitation to commit election fraud; penalties

@@ -1,0 +1,108 @@
+# Chapter 4 - FISH (§§ 27-4-1 — 27-4-283)
+
+- Section 27-4-1 - Salt-water and fresh-water demarcation line
+- Section 27-4-2 - Fishing in waters or from lands of another without permission; obstruction or interference with rights of others
+- Section 27-4-4 - Unlawful dumping; recovery of damages
+- Section 27-4-5 - Methods for taking fish generally
+- Section 27-4-6 - Use of minnow seines or traps
+- Section 27-4-7 - Use of gill nets; seizure of illegal nets
+- Section 27-4-8 - Unlawful devices or substances
+- Section 27-4-9 - Possession of nets or other devices for taking shad during closed season deemed evidence of violation
+- Section 27-4-10 - Creel and possession limits; size restrictions
+- Section 27-4-11 - Fishing in department fish hatcheries
+- Section 27-4-11.1 - Possession of firearms and intoxication on public fishing areas; fishing in closed fishing areas; other restrictions in public fishing areas
+- Section 27-4-12 - Adoption of rules and regulations by board; reporting; legislative overruling of rules and regulations
+- Section 27-4-13 - [Repealed] Size and construction requirements of cast nets
+- Section 27-4-30 - Fishing in private ponds
+- Section 27-4-31 - Catch-out pond licenses
+- Section 27-4-32 - Sport trotlines
+- Section 27-4-33 - Spearing of fish
+- Section 27-4-34 - Fishing with bow and arrow
+- Section 27-4-35 - [Repealed] [Reserved] Sport shad fishing
+- Section 27-4-36 - Artificial-lure streams or lakes
+- Section 27-4-37 - Taking of fish by grabbling, noodling, or hand grabbing
+- Section 27-4-50 - Manner of fishing; moving of trout
+- Section 27-4-51 - Designation of certain waters as trout waters; establishment of seasons and methods of fishing
+- Section 27-4-70 - Fishing in waters not opened for commercial fishing
+- Section 27-4-71 - Commercial fishing for shad, American eels, catfish, and horseshoe crabs
+- Section 27-4-72 - [Repealed] [Reserved] Commercial eel fishing
+- Section 27-4-73 - Confiscation and disposition of illegally used commercial fishing gear
+- Section 27-4-74 - Sale, purchase, or transportation of game fish generally
+- Section 27-4-75 - Sale of fish by commercial fish hatcheries; sale of game fish; bill of sale or lading for possession of certain game fish and domestic fish; sale of diseased fish
+- Section 27-4-76 - Licensing of wholesale and retail fish dealers; sale, transportation into state, or possession of live fish and fish eggs
+- Section 27-4-77 - Suspension of license for violation of article
+- Section 27-4-78 - Governance of food fish processing plants
+- Section 27-4-90 - Commercial fishing license required; effective dates
+- Section 27-4-91 - Lawful devices generally
+- Section 27-4-92 - Lawful baskets
+- Section 27-4-93 - Use of commercial fishing gear within one-half mile below lock or dam
+- Section 27-4-110 - Commercial fishing license required
+- Section 27-4-111 - Filing of bond or affidavit as condition for validity of commercial fishing boat license
+- Section 27-4-112 - through 27-4-115 - Reserved
+- Section 27-4-116 - [Repealed] [Reserved] Diamondback terrapins
+- Section 27-4-117 - Identification tags, numbers, and letters for boats or vessels
+- Section 27-4-118 - Required records
+- Section 27-4-119 - [Repealed] Lawful commercial shrimping devices
+- Section 27-4-130 - Authority to close salt waters; notice; regulations prohibiting sale of seafood
+- Section 27-4-130.1 - [Repealed] Open seasons, creel and possession limits, and minimum size limits for certain finfish species
+- Section 27-4-130.2 - [Repealed] Taking or possession of Atlantic billfish prohibited; catch and release exception
+- Section 27-4-131 - [Repealed] [Reserved] Zoning of salt waters
+- Section 27-4-132 - Fishing for shrimp for noncommercial purposes generally
+- Section 27-4-132.1 - Limit on amount of shrimp fished by cast net; penalty for violation
+- Section 27-4-133 - Lawful nets; opening and closing waters; identification on boats fishing for shrimp
+- Section 27-4-134 - Requirements for commercial fishing boat license; penalty for violation
+- Section 27-4-136 - Seafood dealer license; maintenance of records; purchase of seafood
+- Section 27-4-137 - Civil forfeiture proceedings
+- Section 27-4-138 - Penalties for offenses pertaining to operation of commercial fishing boats engaged in illegal fishing with power-drawn nets
+- Section 27-4-139 - [Repealed] [Reserved] Taking of shrimp for recreational purposes; lawful nets and use of shrimp; penalty for violation
+- Section 27-4-140 - Penalties for using recreational food shrimp cast netting
+- Section 27-4-150 - Taking, possessing, and dealing in crabs and peelers; required records
+- Section 27-4-151 - Use of crab traps; identification of boats or vessels; closure of salt waters authorized
+- Section 27-4-170 - [Repealed] [Reserved] Sport bait shrimping
+- Section 27-4-171 - Bait shrimping
+- Section 27-4-172 - [Repealed] [Reserved] Protections for horseshoe crabs; catch limits; exceptions
+- Section 27-4-187 - Public policy on development of commercial shellfish industry
+- Section 27-4-188 - Definitions
+- Section 27-4-189 - Regulatory authority to develop and cultivate shellfish industry; recommendations on legislation
+- Section 27-4-190 - Commercial fishing license with shellfish endorsement and master harvester permit or harvester permit; hours for taking shellfish; recreational harvesting
+- Section 27-4-191 - [Reserved] Shellfish dredging permits; bond required of master collecting permittees applying for shellfish dredging permits
+- Section 27-4-192 - Methods of taking shellfish generally
+- Section 27-4-193 - Taking shellfish from unapproved growing areas; operating facility for controlled purification of shellfish
+- Section 27-4-194 - Minimum size of shellfish which may be taken for commercial or noncommercial purposes
+- Section 27-4-195 - Times and places for taking shellfish; master harvester's request to harvest shellfish during periods when shellfish harvest is closed; revocation of permission for closed period harvest
+- Section 27-4-196 - Distribution and transplanting of wild oyster shells and culch material by permittee
+- Section 27-4-197 - Shellfish sanitation program; requirements as to shipment of shellfish
+- Section 27-4-198 - Lease of state intertidal and subtidal water bottoms within approved growing areas from department
+- Section 27-4-199 - Evidence of intent to use as food; inspection of businesses
+- Section 27-4-200 - Forged or false documents, records, or permits unlawful
+- Section 27-4-201 - Penalty for violation of article; revocation of authorizations
+- Section 27-4-202 - Shellfish mariculture permit; bond requirement of master harvester; penalty for noncompliance
+- Section 27-4-203 - Conditional certifications of shellfish hatcheries and nursery operations; approval of out-of-state hatcheries; authorization for operation; conditions for permitting; revocation
+- Section 27-4-204 - Identification tag required for mariculture cage
+- Section 27-4-205 - Commercial shrimping license required
+- Section 27-4-206 - Issuance of licenses; limits; fees
+- Section 27-4-210 - Atlantic States Marine Fisheries Compact
+- Section 27-4-211 - Establishment of commission; members; terms of office; removal
+- Section 27-4-212 - Powers and duties of commission and state officers
+- Section 27-4-213 - Powers granted to commission regarded as supplemental
+- Section 27-4-214 - Commission to keep accurate accounts; reports to Governor and General Assembly; recommendations for legislative action
+- Section 27-4-215 - Examination of commission's accounts by state auditor; report to Governor
+- Section 27-4-216 - Annual appropriation for commission
+- Section 27-4-234 - Agreements with adjoining states
+- Section 27-4-251 - Short title
+- Section 27-4-252 - Definitions
+- Section 27-4-253 - Aquaculture Development Commission created; membership; bylaws; quorum; reimbursement for expenses; meeting at call of chairman
+- Section 27-4-254 - Duty of commission to develop aquaculture development plan; contents of plan; meetings of commission; staff support
+- Section 27-4-255 - Registration required for sale of domestic fish; regulation of sale without registration
+- Section 27-4-256 - Duty of department to register sellers of domestic fish; expiration of registration
+- Section 27-4-257 - Contents of application for registration
+- Section 27-4-258 - Filing of application as admission of doing business in state
+- Section 27-4-259 - Denial of registration
+- Section 27-4-260 - Revocation of registration
+- Section 27-4-261 - Certificate as evidence of registration; list of persons registered
+- Section 27-4-262 - Rules and regulations
+- Section 27-4-263 - Inspections
+- Section 27-4-280 - Legislative findings
+- Section 27-4-281 - Definitions
+- Section 27-4-282 - Immunity from liability for injury or death; exceptions
+- Section 27-4-283 - Warning sign to be posted; contents of warning sign

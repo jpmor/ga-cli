@@ -1,0 +1,48 @@
+# Chapter 4 - SECRETARY OF STATE CORPORATIONS (§§ 14-4-1 — 14-4-183)
+
+- Section 14-4-1 - Intention
+- Section 14-4-2 - Existing venue statutes unaffected by chapter
+- Section 14-4-21 - Number of directors; effect upon acts of directors prior to April 1, 1969
+- Section 14-4-22 - Use of name of another without consent
+- Section 14-4-23 - Objection to grant of charter; hearing thereon
+- Section 14-4-24 - Appeal from action of Secretary of State
+- Section 14-4-25 - When previously used corporate name becomes available for use by others
+- Section 14-4-40 - Creation of shares with or without par value and of classes of shares
+- Section 14-4-41 - Authority prerequisite to issuance of stock
+- Section 14-4-42 - Application of laws governing par stock to nonpar stock
+- Section 14-4-43 - Consideration for sale of nonpar stock
+- Section 14-4-44 - Change of par stock into nonpar stock
+- Section 14-4-45 - Application for incorporation of corporations having nonpar stock
+- Section 14-4-46 - Statement as to nonpar stock
+- Section 14-4-47 - Meeting &quot;duly called for the purpose&quot; defined
+- Section 14-4-60 - Powers generally
+- Section 14-4-61 - Power to make donations for public welfare or for charitable, scientific, or educational purposes
+- Section 14-4-62 - Continuous succession; term of articles of incorporation or charter
+- Section 14-4-63 - Liability of persons transacting business before minimum capital stock subscribed for
+- Section 14-4-64 - Responsibility for acts of officers
+- Section 14-4-65 - Improper dividends; liability of officers
+- Section 14-4-80 - Renewal of charter
+- Section 14-4-81 - Revival of expired charter
+- Section 14-4-100 - Application for amendment of charter of companies incorporated by Act of General Assembly; surrender of certain powers by insurance companies
+- Section 14-4-101 - Issuance of certificate of amendment to acquire powers; form
+- Section 14-4-102 - Issuance of certificate of amendment to surrender powers; form
+- Section 14-4-103 - Acceptance of amendment conclusively presumed
+- Section 14-4-104 - Secretary of State to keep record of amendments
+- Section 14-4-105 - Amendments of charter and changes in capitalization of railroad companies undergoing reorganization in bankruptcy proceedings
+- Section 14-4-120 - Petition for change of name, principal office, capital stock, or number of directors
+- Section 14-4-121 - Issuance of certificate of change of name, principal office, capital stock, or number of directors
+- Section 14-4-140 - Merger or share exchange consolidation of corporations incorporated by Secretary of State
+- Section 14-4-141 - Merger or share exchange consolidation of corporations chartered by Secretary of State with domestic corporations incorporated under Chapter 2
+- Section 14-4-142 - Merger or share exchange consolidation of corporations chartered by Secretary of State with foreign corporations
+- Section 14-4-143 - Right of stockholder to dissent from merger or share exchange consolidation - Demand for payment of value of stock
+- Section 14-4-145 - Appeal from appraisal
+- Section 14-4-146 - Cessation of stockholders' rights and transfer of stock to corporation
+- Section 14-4-147 - Enforcement against corporation of judgment determining value of stock
+- Section 14-4-148 - Stockholders of surviving or resulting corporation
+- Section 14-4-149 - Article cumulative of other provisions
+- Section 14-4-150 - Recording of charter of consolidated or merged corporation
+- Section 14-4-160 - Forfeiture of charter
+- Section 14-4-161 - Effect of dissolution upon causes of action; service of process
+- Section 14-4-180 - Annual registration required
+- Section 14-4-180.1 - Valid period for annual registration
+- Section 14-4-183 - Fees of Secretary of State for filing documents

@@ -1,0 +1,101 @@
+# Chapter 13 - EXECUTIONS AND JUDICIAL SALES (§§ 9-13-1 — 9-13-178)
+
+- Section 9-13-1 - Entry and signing of judgment prerequisite to execution
+- Section 9-13-2 - Execution suspended by appeal
+- Section 9-13-3 - Execution to follow judgment
+- Section 9-13-4 - Judge may frame executions
+- Section 9-13-5 - Amendment of execution - To conform to judgment or time of return
+- Section 9-13-6 - Amendment of execution - To conform to amended judgment
+- Section 9-13-7 - Amendment of execution - To correct mistake in issuance; alias execution
+- Section 9-13-8 - Issuance of alias execution to replace lost original
+- Section 9-13-9 - When execution returnable
+- Section 9-13-10 - Issuance of execution; to whom directed; on what property levied
+- Section 9-13-11 - Direction, levy, service, and return of execution when sheriff a party
+- Section 9-13-12 - Entry of levy on process
+- Section 9-13-13 - Written notice of levy on land
+- Section 9-13-14 - Bonds taken by executing officers valid; rights of plaintiffs not affected
+- Section 9-13-15 - Measure of damages on forthcoming bond
+- Section 9-13-16 - Penalty for fraudulent levy
+- Section 9-13-30 - Execution against sureties and endorsers
+- Section 9-13-31 - Execution against principal and his surety on appeal
+- Section 9-13-32 - Execution following death of defendant
+- Section 9-13-33 - Executions using partnership name valid
+- Section 9-13-34 - Right to transfer execution; status of transferee
+- Section 9-13-35 - Effect of transfer by attorney; ratification
+- Section 9-13-36 - Transfer of execution upon payment; status of transferee; recording necessary to preserve lien; exception for tax executions
+- Section 9-13-50 - Designation by defendant of property to be levied on; when sheriff bound thereby
+- Section 9-13-51 - Sale of property subject to lien; order of application to payment
+- Section 9-13-52 - When sheriff may levy on and sell land outside county
+- Section 9-13-53 - When constable may levy on land; sale by sheriff
+- Section 9-13-54 - When growing crop levied on and sold
+- Section 9-13-55 - Seizure prerequisite to sale of personalty
+- Section 9-13-56 - Future interests in personalty
+- Section 9-13-57 - Choses in action
+- Section 9-13-58 - Corporation's disclosure of worth of defendant's shares mandated; refusal treated as contempt
+- Section 9-13-59 - What property liable to execution in action against joint contractors or partners when not all served
+- Section 9-13-60 - Taking up of debt to give defendant legal title to property; notice of levy and sale; application of proceeds
+- Section 9-13-70 - Suspension of execution for 60 days pending payment; bond
+- Section 9-13-71 - Sufficient levy on personalty prima-facie satisfaction; effect of dismissal
+- Section 9-13-72 - Release of property subject to execution
+- Section 9-13-73 - Application of fund to younger lien with senior lienholder's consent
+- Section 9-13-74 - Release by agreement
+- Section 9-13-75 - Setoff of judgments; collection of balance
+- Section 9-13-76 - Execution by defendant after setoff
+- Section 9-13-77 - Control of execution after payment - By security
+- Section 9-13-78 - Control of execution after payment - By joint debtor
+- Section 9-13-79 - Partial payments to be entered
+- Section 9-13-80 - Execution to be canceled when satisfied; private right of action; damages
+- Section 9-13-90 - Claims authorized; to be on oath
+- Section 9-13-91 - Bond and security for damages; how damages determined
+- Section 9-13-92 - Affidavit of indigence
+- Section 9-13-93 - Postponement of sale
+- Section 9-13-94 - Forthcoming bond for possession of property; amount and condition; not authorized for realty; when and where recoverable
+- Section 9-13-95 - Execution of affidavit and bond by partner or joint owner
+- Section 9-13-96 - When plaintiff in execution may give forthcoming bond
+- Section 9-13-97 - Sale of property on claimants' application; order; advertisement; disposition of proceeds
+- Section 9-13-98 - When and where claim, levy, and execution to be returned
+- Section 9-13-99 - Return of claim or illegality against execution from probate court
+- Section 9-13-100 - Claim to be tried by jury
+- Section 9-13-101 - Additional oath of jurors; damages and costs when claim made for delay
+- Section 9-13-102 - Burden of proof
+- Section 9-13-103 - Withdrawal or discontinuance of claim limited
+- Section 9-13-104 - Trial of damage issue where claim dismissed or withdrawn
+- Section 9-13-105 - How damages assessed
+- Section 9-13-106 - Withdrawal of original execution and filing of copy
+- Section 9-13-120 - Affidavit of illegality - When authorized; bond and security
+- Section 9-13-121 - Affidavit of illegality - To show lack of service; not available to go behind judgment
+- Section 9-13-122 - Affidavit of illegality - Not available for excessive levy generally
+- Section 9-13-123 - Affidavit of illegality - By whom filed
+- Section 9-13-124 - Affidavit of illegality - When received
+- Section 9-13-125 - Affidavit of illegality - When and how amendable
+- Section 9-13-126 - Amount and condition of forthcoming bond
+- Section 9-13-127 - Suspension of execution; return of execution, affidavit, and bond; determination by court; issue tried by jury
+- Section 9-13-128 - Damages for delay; procedure following dismissal or withdrawal of illegality
+- Section 9-13-129 - Property subject to other executions; retention of sale proceeds to satisfy first execution; release of bond pro tanto
+- Section 9-13-140 - How judicial sales advertised; description of property; advertisement and sale of livestock
+- Section 9-13-141 - Timing of advertisements
+- Section 9-13-142 - Requirements for official organ of publication; designation where no journal or newspaper qualifies; how official organ changed; notice to Secretary of State
+- Section 9-13-143 - Rates for legal advertisements
+- Section 9-13-144 - Alternate advertising when rates not agreed on
+- Section 9-13-145 - Advertising costs paid in advance; exception when affidavit of indigence filed
+- Section 9-13-160 - Time of conducting public sale
+- Section 9-13-161 - Where and when sales under execution held; change of place of public sales by court order
+- Section 9-13-161.1 - Holding of sales of personal property at place other than courthouse; advertisement of general order as to sale location
+- Section 9-13-162 - Continuance of sale from day to day
+- Section 9-13-163 - Sale of perishable property - When and by whom ordered; where held
+- Section 9-13-164 - Sale of perishable property - Advertisement; notice; disposition of proceeds
+- Section 9-13-165 - Sale of perishable property - Under tax executions
+- Section 9-13-166 - Form of tender
+- Section 9-13-167 - Purchaser to ascertain title and condition; under what conditions officer personally liable
+- Section 9-13-168 - Obligations of purchaser
+- Section 9-13-169 - Note or memorandum unnecessary
+- Section 9-13-170 - Liability for purchase money; officer's collection options
+- Section 9-13-171 - When defendant bound by sale under void process
+- Section 9-13-172.1 - &quot;Eligible sale&quot; defined; recision of sale; damages
+- Section 9-13-172 - When execution sale set aside
+- Section 9-13-173 - Effect of judicial sale on title
+- Section 9-13-174 - When sheriff's successor empowered to make titles
+- Section 9-13-175 - Duty of officer to place purchaser in possession; which persons officer may dispossess
+- Section 9-13-176 - How possession obtained after expiration of court term or replacement of officer
+- Section 9-13-177 - Right to enforce covenants
+- Section 9-13-178 - When title deeds prior to purchase must be proved

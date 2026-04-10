@@ -1,0 +1,45 @@
+# Chapter 1 - GENERAL PROVISIONS (§§ 47-1-1 — 47-1-86)
+
+- Section 47-1-1 - Intent of codification and enactment of this title
+- Section 47-1-2 - Pooling of funds by retirement systems for investment purposes; accounting practices with regard to pooled funds
+- Section 47-1-3 - Power of a local retirement system to hire an actuary; payment of the administrative costs of a local retirement system; periodic actuarial investigations; annual financial report
+- Section 47-1-4 - Report of the state auditor on the condition of local retirement systems
+- Section 47-1-5 - Duty of governing authorities to make and file actuarial investigations and to file financial reports; withholding of state funds for failure to meet this duty
+- Section 47-1-6 - Effect of World War II armed forces service on retirement benefits; payments to retirement systems for such periods
+- Section 47-1-7 - Powers of retirement, pension, or emeritus systems or funds with regard to agents employed to act as custodians of assets or investment advisers
+- Section 47-1-8 - Restrictions on ability of members of the General Assembly to receive pension plan credit for service in the General Assembly
+- Section 47-1-9 - Crediting of time toward Georgia Legislative Retirement System; restriction on crediting; options for members; refund of contributions; construction of conflicting provisions
+- Section 47-1-10 - Adoption, amendment, or repeal of rules by boards of trustees of state retirement or pension systems; procedure; immediate adoption; filing of rules with Secretary of State; adoption of rules and regulations appropriate or necessary to maintain qualified status
+- Section 47-1-11 - Creditable service not allowed for military service from which discharge was other than honorable
+- Section 47-1-12 - Investment and reinvestment of assets of local retirement system; valuation and limitation on investments; duties of state auditor
+- Section 47-1-13 - Maximum compensation used in computing employee and employer contributions
+- Section 47-1-13.1 - Annual compensation limits in determining benefits or contributions due
+- Section 47-1-14 - &quot;Retirement system&quot; defined; records exempt from public inspection
+- Section 47-1-15 - Circumstances when survivors benefits are paid to secondary beneficiary
+- Section 47-1-16 - Public retirement systems prohibited from having insurable interest in members; prohibition on expending or obligating funds for purchase of life insurance on members; exception
+- Section 47-1-17 - Required education for public retirement system trustees
+- Section 47-1-20 - Definitions
+- Section 47-1-21 - Termination of membership in public retirement system for committing public employment related crimes; applicability to employees on July 1, 1985; determination of benefits
+- Section 47-1-22 - Reduction and forfeiture of rights and benefits by public employees after July 1, 1985, for committing public employment related crimes; reimbursement of contributions
+- Section 47-1-22.1 - Rights and benefits of employees convicted of drug related crimes
+- Section 47-1-22.2 - Notification to public retirement system of conviction for public employment related crime
+- Section 47-1-23 - Rights of public employee charged with committing public employment related crime
+- Section 47-1-24 - Benefits denied to beneficiary who murders or commits voluntary manslaughter of member of public retirement system
+- Section 47-1-25 - Determination of economic impact of public employment related crime
+- Section 47-1-30 - Authority to increase benefits
+- Section 47-1-31 - Discretionary postretirement benefit increases subject to reduction by subsequent legislation
+- Section 47-1-40 - Definitions
+- Section 47-1-41 - Employees authorized to receive creditable service for period of temporary disability; application for creditable service; payment of employee contributions during period
+- Section 47-1-42 - Use of other provisions of article not precluded
+- Section 47-1-43 - Applicability of article; proof of temporary disability
+- Section 47-1-60 - Definitions
+- Section 47-1-61 - Eligibility of veteran to establish creditable service; period of qualified service
+- Section 47-1-62 - Procedure for establishment of creditable service; computations; employer contributions; system or fund unable to provide creditable service
+- Section 47-1-80 - Distributions to conform to regulations issued under the Internal Revenue Code
+- Section 47-1-80.1 - Provisions applicable to all public retirement or pension systems; maximum annuity paid; limitation on death and disability benefits; application of federal provisions
+- Section 47-1-81 - Election to have a portion of an eligible rollover distribution paid to an eligible retirement plan under federal law; limitations; application to nonspouse designated beneficiary
+- Section 47-1-82 - Maximum annual additions and maximum benefit payable limited to that allowed by federal law
+- Section 47-1-83 - Vesting of member's accrued benefit as of date of termination or partial termination of public retirement or pension system
+- Section 47-1-84 - Modifications by board of trustees
+- Section 47-1-85 - Assets of public retirement or pension system to be held in trust
+- Section 47-1-86 - Adopted plan document or rules and regulations govern

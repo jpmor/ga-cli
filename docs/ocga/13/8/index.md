@@ -1,0 +1,50 @@
+# Chapter 8 - ILLEGAL AND VOID CONTRACTS GENERALLY (§§ 13-8-1 — 13-8-59)
+
+- Section 13-8-1 - Contracts to do immoral or illegal things
+- Section 13-8-2 - Contracts contravening public policy generally
+- Section 13-8-2.1 - [Repealed] Contracts in partial restraint of trade
+- Section 13-8-3 - Gambling contracts
+- Section 13-8-4 - Liability of stakeholder of money risked on wager
+- Section 13-8-11 - Legislative findings
+- Section 13-8-12 - Definitions
+- Section 13-8-13 - Persons subject to provisions of article
+- Section 13-8-14 - Unfair competition; unfair or deceptive acts
+- Section 13-8-15 - Unfair methods of competition and unfair or deceptive acts or practices
+- Section 13-8-15.1 - Notice to competitors within market area
+- Section 13-8-15.2 - Use of dealership by manufacturers, distributors, and wholesalers
+- Section 13-8-16 - Predelivery and preparation obligations; repair parts availability; return of surplus parts inventory
+- Section 13-8-17 - Warranty agreements; disapproval of claims under warranty agreements; special handling of claims; calculation of compensation to dealer for warranty work; amounts owed to a dealer; audit of warranty claims
+- Section 13-8-17.1 - Time for audits of dealerships
+- Section 13-8-18 - Agreements to which article applies
+- Section 13-8-19 - Failure to renew, termination of, or restriction on transfer of franchise without due cause
+- Section 13-8-20 - Damages recoverable for injuries sustained by violations; class actions; punitive damages
+- Section 13-8-21 - Contracts and agreements in violation of article deemed void
+- Section 13-8-22 - Repurchase of inventory upon termination of franchise; payment for inventory repurchased; title to repurchased inventory; exempt inventory items; civil liability for failure to repurchase inventory
+- Section 13-8-23 - Repurchase of inventory upon death or incapacity of dealer or majority stockholder of corporate dealer
+- Section 13-8-24 - Indemnification of dealer for losses relating to manufacture, assembly, design, or functions beyond control of dealer
+- Section 13-8-25 - Applicability of article to existing contracts without expiration dates and to contracts entered or renewed on or after July 1, 2002
+- Section 13-8-31 - Legislative findings
+- Section 13-8-32 - Definitions
+- Section 13-8-33 - Persons subject to provisions of article
+- Section 13-8-34 - Unfair competition; unfair or deceptive acts
+- Section 13-8-35 - Unfair methods of competition and unfair or deceptive acts or practices
+- Section 13-8-36 - Predelivery and preparation obligations; repair parts availability; return of surplus parts inventory
+- Section 13-8-37 - Warranty agreements; disapproval of claims under warranty agreements; special handling of claims; calculation of compensation to dealer for warranty work
+- Section 13-8-38 - Agreements to which article shall apply
+- Section 13-8-39 - Failure to renew, termination of, or restriction on transfer of franchise without due cause
+- Section 13-8-40 - Damages recoverable for injuries sustained by violations of article; class actions; punitive damages
+- Section 13-8-41 - Contracts and agreements in violation of article as void
+- Section 13-8-42 - Repurchase of inventory upon termination of franchise; payment for inventory repurchased; title to repurchased inventory; exempt inventory items; civil liability for failure to repurchase inventory
+- Section 13-8-43 - Repurchase of inventory upon death or incapacity of dealer or majority stockholder of corporate dealer
+- Section 13-8-44 - Indemnification of dealer for losses relating to manufacture, assembly, design, or functions beyond control of dealer
+- Section 13-8-45 - Applicability of article to existing contracts without expiration dates and to contracts entered or renewed after November 1, 1982
+- Section 13-8-50 - Legislative findings
+- Section 13-8-51 - Definitions
+- Section 13-8-52 - Application
+- Section 13-8-53 - Enforcement of covenants; writing requirement; determining competitive status; effect of failure to comply; time and geographic limitations
+- Section 13-8-54 - Judicial construction of covenants
+- Section 13-8-55 - Requirements of person seeking enforcement of covenants
+- Section 13-8-56 - Reasonableness determinations restricting competition; presumptions
+- Section 13-8-57 - Reasonableness determinations restricting time; presumptions
+- Section 13-8-58 - Enforcement by third parties
+- Section 13-8-59 - Construction with federal provisions

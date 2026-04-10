@@ -1,0 +1,25 @@
+# Chapter 25 - MAGISTRATES RETIREMENT FUND (§§ 47-25-1 — 47-25-101)
+
+- Section 47-25-1 - Definitions
+- Section 47-25-20 - Board of Commissioners created; members; term of office
+- Section 47-25-21 - Secretary-treasurer
+- Section 47-25-22 - Powers and duties
+- Section 47-25-23 - Control of funds; investments
+- Section 47-25-24 - Gifts, grants, and bequests
+- Section 47-25-25 - Permanent records
+- Section 47-25-26 - Annual audit of board activity
+- Section 47-25-40 - Qualifications
+- Section 47-25-41 - Member dues
+- Section 47-25-42 - Calculation of dues and benefits for certain members
+- Section 47-25-43 - Suspension for failure to pay dues; application for reinstatement
+- Section 47-25-60 - Collection of fees; accurate records
+- Section 47-25-80 - Requirements for receiving benefits
+- Section 47-25-81 - Amount of benefit
+- Section 47-25-82 - Benefits for surviving spouse
+- Section 47-25-82.1 - Designation of beneficiaries; determining amount of benefit; designated survivor requirements; death of beneficiary prior to member's death
+- Section 47-25-83 - Refund of dues
+- Section 47-25-84 - Total and permanent disability
+- Section 47-25-85 - Members not prevented from belonging to another retirement system
+- Section 47-25-86 - Suspension of benefits if retired member becomes employed as a chief magistrate
+- Section 47-25-100 - Insufficient funds from which to pay benefits
+- Section 47-25-101 - Exemption of funds from attachment, garnishment, or judgment; assignability

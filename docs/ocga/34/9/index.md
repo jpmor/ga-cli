@@ -1,0 +1,221 @@
+# Chapter 9 - WORKERS' COMPENSATION (§§ 34-9-1 — 34-9-432)
+
+- Section 34-9-1 - Definitions
+- Section 34-9-2 - Applicability of chapter to employers and employees - Generally
+- Section 34-9-2.1 - Exemption of corporate officers; limitation
+- Section 34-9-2.2 - Eligibility of sole proprietor or partner for workers' compensation insurance
+- Section 34-9-2.3 - Election to provide workers' compensation coverage to farm laborers
+- Section 34-9-2.4 - Work based learning students covered under workers' compensation insurance
+- Section 34-9-3 - Applicability of chapter to employers and employees - Public employees generally
+- Section 34-9-4 - Applicability of chapter to employers and employees - Employees of planning commissions
+- Section 34-9-5 - Applicability of chapter to employers and employees - Pilots under contract to State Forestry Commission
+- Section 34-9-6 - Retroactive inclusion of state and departments in definition of &quot;employer&quot;; resumption of payments of awards previously discontinued
+- Section 34-9-7 - Presumption of applicability of chapter to contracts between employers and employees covered by chapter
+- Section 34-9-8 - Liability of principal contractor or subcontractor for employee injuries
+- Section 34-9-9 - Relief from penalty for failure or neglect to perform statutory duty
+- Section 34-9-10 - Relief of employer from obligations under chapter
+- Section 34-9-11 - Exclusivity of rights and remedies granted to employee under chapter; immunity granted to construction design professionals
+- Section 34-9-11.1 - Employee's or survivor's right of action against person other than employer; subrogation lien of employer; rights of employer or insurer upon failure of employee to bring action; attorney fees; retroactive application
+- Section 34-9-12 - Employer's record of injuries; availability of board records; supplementary report on termination of disability; penalties; routine reports
+- Section 34-9-13 - Persons presumed next of kin; apportionment of payments among partial and total dependents; termination of dependency
+- Section 34-9-14 - Provision of substitute systems of compensation; approval by board; grounds and procedure for termination
+- Section 34-9-15 - Procedure for settlement between parties generally; approval by board; finality of settlement; lump sum settlements
+- Section 34-9-16 - Settlement of questions if approved agreement cannot be reached
+- Section 34-9-17 - Grounds for denial of compensation; burden of proof in establishing grounds for denial
+- Section 34-9-18 - Civil penalties; costs of collection
+- Section 34-9-19 - Penalty for false or misleading statements when obtaining or denying benefits
+- Section 34-9-20 - Giving of false evidence to board member
+- Section 34-9-21 - Penalty for receiving unentitled to benefits
+- Section 34-9-22 - Penalty for receipt of unapproved fees or for solicitation of employment for lawyer or physician
+- Section 34-9-23 - Liberal construction of chapter; purpose
+- Section 34-9-24 - Fraud and compliance unit; creation and duties; limitation on liability; authority; whistle blower protection
+- Section 34-9-25 - Patient self-referral
+- Section 34-9-30 - Short title; purpose
+- Section 34-9-31 - Notice required as part of television advertisement
+- Section 34-9-32 - Penalty for violation of notice requirement; advertiser defined
+- Section 34-9-40 - State Board of Workers' Compensation created; appointment of members; powers and duties of board generally
+- Section 34-9-40.1 - [Repealed] Workers' Compensation Advisory Council; appointment and terms of members; chairman; duties; service without compensation
+- Section 34-9-41 - Appointment and term of chairman of board
+- Section 34-9-42 - Qualifications and roles of members
+- Section 34-9-43 - Oath of office of members
+- Section 34-9-44 - Bond of members
+- Section 34-9-45 - Removal of members
+- Section 34-9-46 - Quorum
+- Section 34-9-47 - Trial division and appellate division created; composition; sessions
+- Section 34-9-48 - Designation of members as appellate administrative law judges
+- Section 34-9-48.1 - Senior administrative law judge of the board
+- Section 34-9-49 - Appointment and removal of executive director
+- Section 34-9-51 - Payment by state of traveling expenses of members, administrative law judges, and assistants
+- Section 34-9-52 - Officials, personnel, and employees subject to State Personnel Board; compensation of board members and administrative law judges
+- Section 34-9-53 - Directors emeritus of board - Eligibility for appointment; procedure for appointment
+- Section 34-9-54 - Directors emeritus of board - Term of office; compensation
+- Section 34-9-55 - Directors emeritus of board - Duties
+- Section 34-9-56 - Directors emeritus of board - Filling of board vacancies caused by appointment of director emeritus
+- Section 34-9-57 - Creation of administrative law judge emeritus of board; eligibility for appointment; manner of appointment; compensation
+- Section 34-9-58 - Powers and duties of board as to enforcement of chapter generally
+- Section 34-9-59 - Adoption of rules of procedure
+- Section 34-9-60 - Rule-making and subpoena powers; service and enforcement of subpoenas
+- Section 34-9-61 - Publication of blank forms and literature; publication of tabulations of accident reports
+- Section 34-9-63 - Proration of board's expenses; required annual reports and statements; audit of board; collection of delinquent assessments
+- Section 34-9-80 - Procedure for giving notice of accident; requirements of written notice; effect of failure to give notice
+- Section 34-9-81 - Contents of written notice; manner of delivery
+- Section 34-9-81.1 - Board's duty to provide injured workers with notice of rights, benefits, and obligations
+- Section 34-9-82 - Limitation period and procedure for filing claims
+- Section 34-9-83 - Priority of claims
+- Section 34-9-84 - Assignability of claims
+- Section 34-9-85 - Claim by guardian or trustee of mental incompetent or minor
+- Section 34-9-86 - Applicability of time limits to mental incompetents, minors, and persons proceeding against defunct corporations
+- Section 34-9-100 - Filing of claims with board; investigation or mediation; hearing; dismissal of stale claims
+- Section 34-9-101 - Appointment of physician to examine injured employee; payment of fee and expenses of examining physician
+- Section 34-9-102 - Hearing before administrative law judge
+- Section 34-9-103 - Appeal of decision; remand; reconsideration, amendment, or revision of award
+- Section 34-9-104 - Modification of award or order contained in prior decision in event of change in condition
+- Section 34-9-105 - When award deemed final; appeal to superior court; grounds for setting aside decisions; appeal to Court of Appeals
+- Section 34-9-106 - Entry and execution of judgment on settlement agreement, final order or decision, or award; modification and revocation of orders and decrees
+- Section 34-9-107 - Interest payable on final award of board in the event of appeal
+- Section 34-9-108 - Approval of attorney's fees by board; assessment of fees against the offending party; restrictions on attorney advertisement and division of fees; payment of fees or expenses
+- Section 34-9-120 - Employer's duty to insure payment of compensation
+- Section 34-9-121 - Duty of employer to insure in licensed company or association or to deposit security, indemnity, or bond as self-insurer; application to out-of-state employers; membership in mutual insurance company
+- Section 34-9-122 - Type of insurance policy to be issued; promulgation of rules and regulations when accident prevention and safety engineering are questioned
+- Section 34-9-122.1 - Workers' compensation health benefits pilot projects
+- Section 34-9-123 - Policy provisions regarding effect of notice or knowledge by insured employer as to occurrence of injury
+- Section 34-9-124 - Policy or contract of insurance to contain agreement of insurer to pay compensation; payment of compensation when employer or employee exempt from provisions of chapter
+- Section 34-9-124.1 - Optional deductibles to be offered by insurers
+- Section 34-9-124.2 - Restrictions on requirements requiring recipients of benefits to utilize out-of-state mail order pharmacy services
+- Section 34-9-125 - Insurance policies subject to chapter; approval of policy or contract forms by board; exceptions
+- Section 34-9-126 - Filing by employer of evidence of compliance with insurance requirements; assessment of attorney's fees and increased compensation against employer who fails to file
+- Section 34-9-127 - Issuance by board of certificate of self-insurance; review; revocation
+- Section 34-9-128 - Inspection of place of employment and injury records; penalty for noncompliance
+- Section 34-9-129 - Furnishing of bond by insurance companies doing workers' compensation business in state; bringing of actions upon bond; posting of security in lieu of bond
+- Section 34-9-130 - Authority of Commissioner of Insurance to investigate rates; assistance by board in investigations
+- Section 34-9-130.1 - Policies or contracts of insurance against liability for compensation under this chapter
+- Section 34-9-131 - Insurer permit requirement; claim office within state
+- Section 34-9-132 - Grounds for revocation of insurance carrier's permit
+- Section 34-9-133 - Apportionment and assignment of rejected risks; Workers' Compensation Assigned Risk Insurance Plan; merit rating plan
+- Section 34-9-134 - Appeals from decisions under Code Sections 34-9-122 and 34-9-131 through 34-9-133
+- Section 34-9-136 - Statistical data submitted by insurance company to rating organization; verification by employer; issuance of experience modification worksheets to insured
+- Section 34-9-137 - Considerations in employer's experience modification factor
+- Section 34-9-138 - Consideration of employer's experience while self-insured
+- Section 34-9-150 - Purpose of article
+- Section 34-9-151 - Definitions
+- Section 34-9-151.1 - Eligibility for establishing a fund
+- Section 34-9-151.2 - Filing of intent to form fund; notice of intent to refuse to issue certificate of authority
+- Section 34-9-152 - Application to Commissioner for certificate of authority to create fund; contents of application; filing fee; membership of fund
+- Section 34-9-153 - Issuance of certificate of authority; grounds for denial or revocation; annual renewal fee
+- Section 34-9-154 - Compliance with workers' compensation obligations by participation in fund
+- Section 34-9-155 - License required for solicitation of membership or participation in fund; procedure for admission of new members; underwriting criteria
+- Section 34-9-156 - Voluntary termination of members; grounds and procedure for involuntary termination of membership; effect of voluntary or involuntary termination on obligations
+- Section 34-9-157 - Boards of trustees - Appointment of members
+- Section 34-9-158 - Boards of trustees - Powers
+- Section 34-9-159 - Annual reports of affairs and operations of funds; additional periodic reports; verification of reports; compliance condition for renewal of certificates
+- Section 34-9-160 - Method of determining financial condition and solvency of a fund and financial capacity of fund to pay obligations
+- Section 34-9-161 - Securities deposit; excess loss funding program
+- Section 34-9-162 - Maintenance of surplus and expendable surplus; waiver of surplus requirements; return of surplus to members of fund
+- Section 34-9-163 - Investment of assets; maintenance of loss reserves
+- Section 34-9-164 - Payment of operating expenses by members of fund; liability of members; payment by funds of expenses of State Board of Workers' Compensation; legal capacity of funds
+- Section 34-9-165 - Requirements as to contracts between funds and administrators not employed by funds
+- Section 34-9-166 - Fiduciary responsibilities of trustees, officers, or administrators of moneys
+- Section 34-9-167 - Bond, liability insurance, and resident office of administrator
+- Section 34-9-168 - Grounds and procedure for restraining transaction of business by fund or administrator; appointment of receivers; criminal prosecution
+- Section 34-9-169 - Revocation and suspension of certificates of authority; probation and fine; voluntary dissolution or termination of functions
+- Section 34-9-171 - Tax exemption
+- Section 34-9-172 - Examinations by Commissioner to verify solvency of funds
+- Section 34-9-173 - Remedy of deficiencies in surplus or reserve; initiation of insolvency proceedings; assessments upon liquidation
+- Section 34-9-174 - Promulgation of rules and regulations
+- Section 34-9-175 - Hearings or other proceedings for aggrieved parties
+- Section 34-9-176 - Service of process; venue of actions
+- Section 34-9-177 - Funds not to be deemed insurers
+- Section 34-9-178 - Construction of article
+- Section 34-9-179 - Application of Chapter 6 of Title 33 to funds; enforcement by Commissioner
+- Section 34-9-180 - Officials of funds prohibited from having pecuniary interests in transactions; exceptions
+- Section 34-9-181 - Administrative fines, probation, or additional penalties
+- Section 34-9-182 - Deadline for compliance
+- Section 34-9-200 - Compensation for medical care, artificial members, and other treatment and supplies; effect of employee's refusal of treatment; employer's liability for temporary care
+- Section 34-9-200.1 - Rehabilitation benefits; effect of employee's refusal of treatment; rehabilitation suppliers; catastrophic injury cases
+- Section 34-9-201 - Selection of physician from panel of physicians; change of physician or treatment; liability of employer for failure to maintain panel
+- Section 34-9-202 - Examination of injured employee; request for autopsy; examination by physician designated by employee
+- Section 34-9-203 - Employer's pecuniary liability for medical charges; liability for medical malpractice; payment of reasonable charges; defense for failure to make payments; penalties
+- Section 34-9-204 - Compensation where death or disability caused by nonwork related injury
+- Section 34-9-205 - Board approval of physician's fees, hospital, and other charges; collection of fees; schedule of charges; filing costs for peer review
+- Section 34-9-206 - Reimbursement for costs of medical treatment
+- Section 34-9-207 - Employee's waiver of confidentiality of communications with physician; release for medical records and information; refusal to sign release
+- Section 34-9-208 - Certification of managed health care providers
+- Section 34-9-220 - Period of incapacity preceding payment of compensation
+- Section 34-9-221 - Procedure; payment controverted by employer; delinquency charge; enforcement
+- Section 34-9-222 - Lump sum payments of all or part of compensation generally
+- Section 34-9-223 - Lump sum payments to trustees
+- Section 34-9-224 - Payment of compensation to employees in service of more than one employer
+- Section 34-9-225 - Effect of written receipt of widow or widower, minor, or guardian upon liability of employer; determination of obligation of employer to rival claimants
+- Section 34-9-226 - Appointment of guardian for minor or incompetent claimant
+- Section 34-9-240 - Effect of refusal of suitable employment by injured employee; attempting or refusing to attempt work with restrictions
+- Section 34-9-241 - Effect of subsequent injury on compensation
+- Section 34-9-242 - Compensation for injury outside of state
+- Section 34-9-243 - Effect of payments made when not due; employer credit or reduction for employer funded payments pursuant to disability plan
+- Section 34-9-244 - Reimbursement of provider of disability benefits to person who subsequently files claim
+- Section 34-9-245 - Repayment of overpayment by claimant
+- Section 34-9-260 - Basis and method for computing compensation generally
+- Section 34-9-261 - Compensation for total disability
+- Section 34-9-262 - Compensation for temporary partial disability
+- Section 34-9-263 - Compensation for permanent partial disability
+- Section 34-9-264 - Compensation for loss of hearing caused by harmful noise; procedure for measuring degree of hearing impairment; eligibility for compensation; liability of employer
+- Section 34-9-265 - Compensation for death resulting from injury and other causes; penalty for death from injury proximately caused by intentional act of employer; payment of death benefits where no dependents found
+- Section 34-9-266 - Payment of compensation for time loss, disability, or death resulting from hernia
+- Section 34-9-280 - Definitions
+- Section 34-9-281 - Prerequisites to compensation for occupational disease
+- Section 34-9-282 - Payment of medical and burial expenses of claimants
+- Section 34-9-283 - Applicability to occupational diseases of provisions of Code Section 34-9-263 regarding permanent partial industrial disabilities
+- Section 34-9-284 - Liability of last employer; compensation based on average weekly wage
+- Section 34-9-285 - Noncompensable disease or infirmity
+- Section 34-9-288 - Applicability of provisions of chapter to article
+- Section 34-9-289 - Exclusive liability of employer for employee's death or disability from occupational disease
+- Section 34-9-291 - Effect of false representations by employee regarding previous disability from or compensation for occupational disease
+- Section 34-9-292 - Payment of expenses of board
+- Section 34-9-310 - Resolution of medical questions resulting from claims for compensation
+- Section 34-9-313 - Power to compel attendance of witnesses and production of records
+- Section 34-9-350 - Purpose and construction of article
+- Section 34-9-351 - Definitions
+- Section 34-9-351.1 - Exclusion from eligibility for reimbursement of certain self-insured employers
+- Section 34-9-352 - Creation and authority of Subsequent Injury Trust Fund; state treasurer as custodian
+- Section 34-9-353 - Surety bonds of administrator and custodian
+- Section 34-9-354 - Creation and appointment of board of trustees; duties; term of office of members and chairman; oath of office
+- Section 34-9-355 - Appointment of administrator; administration of article; members of retirement system
+- Section 34-9-356 - Payment of travel expenses of board members, administrator, and employees; per diem allowance of board members
+- Section 34-9-357 - Payment of costs of administration; submission and approval of annual budget; audit of funds
+- Section 34-9-358 - Payment of assessments to fund by insurers and self-insurers; calculations
+- Section 34-9-359 - Reports by employers of compensation and benefits paid; failure to pay assessments
+- Section 34-9-360 - Reimbursement of employer or insurer for subsequent injury compensation payments; amounts of and prerequisites to reimbursement from fund
+- Section 34-9-361 - Employer's knowledge of employee's preexisting permanent impairment
+- Section 34-9-362 - Notice by employer or insurer of claim against fund; request for a hearing
+- Section 34-9-363 - Agreements for reimbursement from fund; hearing by State Board of Workers' Compensation in absence of agreement; compromise settlements
+- Section 34-9-363.1 - Duty to notify administrator of proposed settlement agreements after reimbursement agreement has been reached; approval of such settlement agreements
+- Section 34-9-364 - Apportionment or denial of reimbursement for expenses paid by employer or insurer
+- Section 34-9-365 - Injuries to which article is applicable
+- Section 34-9-366 - Binding of fund to questions determined in proceedings to which it was not a party
+- Section 34-9-367 - Liability of fund for interest or attorney's fees
+- Section 34-9-368 - Reimbursement of self-insured employers or insureds; actuarial study required; dissolution of Subsequent Injury Trust Fund
+- Section 34-9-380 - Purpose of article
+- Section 34-9-381 - Definitions
+- Section 34-9-382 - Establishment of Self-insurers Guaranty Trust Fund; use of fund; application to be accepted in fund
+- Section 34-9-383 - Membership of board of trustees of fund
+- Section 34-9-384 - General powers of board of trustees
+- Section 34-9-385 - Bankruptcy of participants
+- Section 34-9-386 - Assessment of participants; liability of fund and participants for claims; revocation of participant's authority to be self-insured
+- Section 34-9-387 - Reimbursement and security deposit from participant for compensation obligations
+- Section 34-9-388 - Reports of participant's insolvency; participant's audits; review of applications for self-insurance and recommendations thereon
+- Section 34-9-389 - State absolved of responsibility for debts incurred under fund
+- Section 34-9-410 - Legislative intent
+- Section 34-9-411 - Definitions
+- Section 34-9-412 - Insurance premium discount
+- Section 34-9-412.1 - Certification
+- Section 34-9-413 - Elements of program; applicable confidentiality standards
+- Section 34-9-414 - Notice of testing; written policy statement
+- Section 34-9-415 - Conduct of testing; types of tests; random testing; procedures for specimen collection and testing; laboratory qualifications, procedures, and reports; confirmation tests
+- Section 34-9-416 - Employee Assistance Programs
+- Section 34-9-417 - Education program on substance abuse
+- Section 34-9-418 - Supervisor training on substance abuse
+- Section 34-9-419 - Physician-patient relationship not created; authorized work rules; applicability of article; medical screening or other tests authorized; employer not required to establish program
+- Section 34-9-420 - Confidentiality of information
+- Section 34-9-421 - Rules and regulations
+- Section 34-9-430 - Definitions
+- Section 34-9-431 - Certification of work based learning employer; requirements
+- Section 34-9-432 - Certification of compliance

@@ -1,0 +1,48 @@
+# Chapter 4 - TAX SALES (§§ 48-4-1 — 48-4-112)
+
+- Section 48-4-1 - Procedures for sales under tax levies and executions
+- Section 48-4-2 - Assessment and disposition of unreturned property
+- Section 48-4-3 - Duties of levying officers
+- Section 48-4-4 - Purchase by one obligated to pay
+- Section 48-4-5 - Payment of excess
+- Section 48-4-6 - Validity of deed made at tax sale
+- Section 48-4-7 - Authority of levying officer to put purchaser in possession of land
+- Section 48-4-20 - Authority of counties to buy property sold under tax executions
+- Section 48-4-21 - Right of redemption; disposition of unredeemed property by county governing authority
+- Section 48-4-22 - Authority of counties to buy property sold under tax executions; finality of tax execution sales; issuance of &quot;Bill of Sale for Personal Property.&quot;
+- Section 48-4-23 - County tax commissioners and certain employees prohibited from purchasing property offered for sale under tax executions or tax foreclosure proceedings; criminal penalties
+- Section 48-4-40 - Persons entitled to redeem land sold under tax execution; payment; time
+- Section 48-4-41 - Redemption by creditor without lien
+- Section 48-4-42 - Amount payable for redemption; additional costs
+- Section 48-4-43 - Effect of redemption
+- Section 48-4-44 - Quitclaim deed by purchaser
+- Section 48-4-45 - Notice of foreclosure of right to redeem; persons entitled to notice
+- Section 48-4-46 - Form of notice of foreclosure of right to redeem; service
+- Section 48-4-47 - Tender of redemption price before action to cancel tax deed
+- Section 48-4-48 - Ripening of tax deed title by prescription
+- Section 48-4-60 - Definitions
+- Section 48-4-61 - Land bank authority established by interlocal cooperation agreement; powers; purpose; dissolution
+- Section 48-4-62 - Board to govern authority; members; meetings; organization; staff
+- Section 48-4-63 - Administration of properties
+- Section 48-4-64 - Acquisition and disposal of property
+- Section 48-4-65 - Foreclosure of right of redemption to property conveyed to authority
+- Section 48-4-75 - Legislative findings
+- Section 48-4-76 - Judicial in rem tax foreclosures
+- Section 48-4-77 - Definitions
+- Section 48-4-78 - Identification of properties on which ad valorem taxes are delinquent; petition for tax foreclosure; contents of petition; notice
+- Section 48-4-79 - Judicial hearing on petition; orders; priority of claims; death of interested party
+- Section 48-4-80 - Redemption by owner or other interested party
+- Section 48-4-81 - Sale procedures; minimum bid; finality; right of redemption by owner; execution of tax deed; report of sale
+- Section 48-4-100 - Short title; applicability
+- Section 48-4-101 - Legislative findings and declarations
+- Section 48-4-102 - Definitions
+- Section 48-4-103 - Creation; existence; board membership
+- Section 48-4-104 - Size of board; membership; governance
+- Section 48-4-105 - Employment of executive director, legal counsel, technical experts, agents, and employees; contracts and agreements with localities for staffing services
+- Section 48-4-106 - Powers; limitation or withdrawal of power by land bank member under certain circumstances
+- Section 48-4-107 - No eminent domain power
+- Section 48-4-108 - Exemption of land bank property from state and local taxation; acquisition of real property interests; geographical restriction
+- Section 48-4-109 - Acquired property in land bank name; public review and inspection of inventory; property transaction requirements; hierarchy of uses
+- Section 48-4-110 - Funding through grants and loans; receipt of payments for various activities; remission of real property tax; allocation of proceeds from sale of property
+- Section 48-4-111 - Public meetings; conflicts of interest; dissolution
+- Section 48-4-112 - Extinguishment of prior encumbrances, liens, and claims for real property taxes owed; remission to tax collector; tax collector authorized to assign, transfer, or sell to land bank certain ad valorem tax executions; content of notice of transfer; nonjudicial tax sale

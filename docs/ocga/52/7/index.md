@@ -1,0 +1,69 @@
+# Chapter 7 - REGISTRATION, OPERATION, AND SALE OF WATERCRAFT (§§ 52-7-1 — 52-7-77)
+
+- Section 52-7-1 - Short title
+- Section 52-7-2 - Declaration of policy
+- Section 52-7-3 - Definitions
+- Section 52-7-4 - Requirement as to numbering of vessels; titling; requirements for hull damaged vessels
+- Section 52-7-5 - Numbering of vessels; requirements; fees
+- Section 52-7-6 - Exemptions from numbering requirements
+- Section 52-7-7 - Dealers' vessels
+- Section 52-7-7.1 - Hull identification numbers required; penalty for violations
+- Section 52-7-7.2 - Display of hull identification numbers on new vessels
+- Section 52-7-7.3 - Seizure of vessels without hull identification numbers; seizure of related property; inspections
+- Section 52-7-7.4 - [Repealed] Property not subject to replevin; report by law enforcement agency of seizure of property; procedures
+- Section 52-7-7.5 - Counterfeit hull identification numbers; penalty
+- Section 52-7-7.6 - Exception to requirement for hull identification numbers
+- Section 52-7-8 - Classification of vessels; required equipment
+- Section 52-7-8.1 - Discharge of sewage from vessels on lakes; use of vessels with marine toilets on protected fresh waters; certificate and recordation requirements
+- Section 52-7-8.2 - Restrictions on operation of personal watercraft
+- Section 52-7-8.3 - Operation of watercraft; identification; operation by minors
+- Section 52-7-8.4 - Definitions; anchorage restriction areas; permit requirement for long-term anchoring in estuarine areas; short-term anchoring; safe harbor; exceptions
+- Section 52-7-9 - Boat liveries
+- Section 52-7-10 - Exhausts to be muffled; exemptions; noise level testing
+- Section 52-7-11 - Lights
+- Section 52-7-12 - Operation of watercraft while under influence of alcohol, toxic vapors, or drugs; legal drug use not exempted; blood and other chemical tests; test refusal; owner's liability for allowing another to operate while intoxicated; civil and criminal actions; child endangerment
+- Section 52-7-12.1 - Reckless operation of vessel or other water device
+- Section 52-7-12.2 - Homicide by vessel
+- Section 52-7-12.3 - Feticide by vessel
+- Section 52-7-12.4 - Serious injury by vessel
+- Section 52-7-12.5 - Ordering drug, alcohol, or other substance tests; implied consent warning; reports; suspension; hearing; certificate of inspection
+- Section 52-7-12.6 - Terms of suspension; return of operating privilege; operation when suspended
+- Section 52-7-12.7 - Suspension of privileges to operate a vessel upon waters of this state for violations of vessel laws
+- Section 52-7-13 - Boating safety zones; restrictions on use of motors and operation of houseboats on certain lakes; exceptions
+- Section 52-7-13.1 - Limitation on wakeboarding or wakesurfing
+- Section 52-7-14 - Accident, collision, or other casualty; salvage rights
+- Section 52-7-15 - Furnishing information to federal officials and agencies
+- Section 52-7-16 - Towing persons on water skis, aquaplanes, surfboards or similar device
+- Section 52-7-17 - Speed and load restrictions; riding of bow or gunwale of vessel
+- Section 52-7-18 - Rules of the road for boat traffic
+- Section 52-7-19 - Regattas, boat races, marine parades, tournaments, and exhibitions
+- Section 52-7-20 - Operation of vessels in vicinity of regulatory markers and aids to navigation; tampering with regulatory markers and aids to navigation
+- Section 52-7-21 - Local regulations concerning operation, equipment, numbering, and other matters relating to vessels
+- Section 52-7-22 - Comprehensive boating educational programs; required completion; exception
+- Section 52-7-23 - Power of Board of Natural Resources to adopt rules and regulations
+- Section 52-7-24 - Filing and publication of rules and regulations and amendments thereto
+- Section 52-7-25 - Enforcement of article
+- Section 52-7-26 - Penalty
+- Section 52-7-30 - Compact enacted and entered into; provisions of compact
+- Section 52-7-31 - Administration of compact; reciprocal suspension when operating privileges suspended in party state; Board of Natural Resources to publish rules and regulations; creation of compact manual
+- Section 52-7-40 - Definitions
+- Section 52-7-41 - Requirement as to attachment of capacity plates to vessels generally
+- Section 52-7-42 - Information to be marked on capacity plate
+- Section 52-7-43 - Determination of maximum capacity
+- Section 52-7-44 - Affixing of capacity plate by person other than vessel manufacturer; effect of such action on liability of manufacturer
+- Section 52-7-45 - Information on capacity plate as constituting a warranty; nature of warranty
+- Section 52-7-46 - Alternative compliance with article if affixing of capacity plate deemed impracticable or undesirable
+- Section 52-7-47 - Exemption of watercraft by rules and regulations of Board of Natural Resources
+- Section 52-7-48 - Promulgation of rules and regulations by Board of Natural Resources generally
+- Section 52-7-49 - Exemption of watercraft manufactured for personal use
+- Section 52-7-50 - Applicability of article
+- Section 52-7-51 - Penalty
+- Section 52-7-70 - Definitions
+- Section 52-7-71 - Removal and storage of vessels; procedure
+- Section 52-7-72 - Authority of peace officer to cause removal of unattended vessels; notifications; duties
+- Section 52-7-72.1 - Penalty for failing to remove unattended vessel
+- Section 52-7-73 - Lien on vessel; foreclosure in courts competent to hear civil cases
+- Section 52-7-74 - Procedure for foreclosure
+- Section 52-7-75 - Public sale of vessel; disposition of excess proceeds
+- Section 52-7-76 - Issuance of certificate of title
+- Section 52-7-77 - Payment of balance remaining after satisfaction of liens, security interests, and debts

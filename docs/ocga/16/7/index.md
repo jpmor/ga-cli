@@ -1,0 +1,58 @@
+# Chapter 7 - DAMAGE TO AND INTRUSION UPON PROPERTY (§§ 16-7-1 — 16-7-97)
+
+- Section 16-7-1 - Burglary
+- Section 16-7-2 - Smash and grab burglary; &quot;retail establishment&quot; defined; penalty
+- Section 16-7-5 - Home invasion in the first and second degree
+- Section 16-7-20 - Possession of tools for the commission of crime
+- Section 16-7-21 - Criminal trespass
+- Section 16-7-21.1 - Unlawful squatting
+- Section 16-7-21.2 - Criminal trespass involving a wild animal
+- Section 16-7-22 - Criminal damage to property in the first degree
+- Section 16-7-23 - Criminal damage to property in the second degree
+- Section 16-7-24 - Interference with government property
+- Section 16-7-25 - Damaging, injuring, or interfering with property of public utility companies, municipalities, or political subdivisions
+- Section 16-7-26 - Vandalism to a place of worship
+- Section 16-7-27 - Injuring, tearing down, or destroying mailboxes; injuring, defacing, or destroying mail
+- Section 16-7-28 - Redesignated
+- Section 16-7-29 - Interference with electronic monitoring devices
+- Section 16-7-40 - [Repealed] [Reserved] Short title
+- Section 16-7-41 - [Repealed] [Reserved] Legislative intent
+- Section 16-7-42 - Definitions
+- Section 16-7-43 - Littering public or private property or waters; enforcing personnel
+- Section 16-7-44 - Prima-facie evidence; rebuttable presumption
+- Section 16-7-45 - Enforcement of this part
+- Section 16-7-46 - Receptacles to be provided; notice to public
+- Section 16-7-47 - Designation of containers for household garbage; misuse or vandalization of container
+- Section 16-7-48 - Local ordinances regulating and controlling litter
+- Section 16-7-50 - [Repealed] [Reserved] Short title
+- Section 16-7-51 - Definitions
+- Section 16-7-52 - Unlawful dumping
+- Section 16-7-53 - Penalties for unlawful dumping
+- Section 16-7-53.1 - Vehicle impoundment for intentionally dumping egregious litter
+- Section 16-7-54 - Evidence of identity of violator
+- Section 16-7-55 - Enforcement of other laws, rules, or regulations not limited
+- Section 16-7-56 - Title 12 provisions not affected
+- Section 16-7-58 - Prohibited placements of posters, signs, and advertisements
+- Section 16-7-60 - Arson in the first degree
+- Section 16-7-60.1 - Arson of a law enforcement vehicle
+- Section 16-7-61 - Arson in the second degree
+- Section 16-7-62 - Arson in the third degree
+- Section 16-7-63 - Burning of woodlands, brush, fields, or other lands; arson of lands; destruction of or damage to material or device used in detection or suppression of wildfires; penalties for violations
+- Section 16-7-80 - Definitions
+- Section 16-7-81 - Explosive materials
+- Section 16-7-82 - Manufacturing, transporting, distributing, possessing with intent to distribute, and offering to distribute an explosive device
+- Section 16-7-83 - Persons convicted or under indictment for certain offenses
+- Section 16-7-84 - Distribution of certain materials to persons under 21 years of age
+- Section 16-7-85 - Hoax devices
+- Section 16-7-86 - Attempt or conspiracy
+- Section 16-7-87 - Interference with officers
+- Section 16-7-88 - Possessing, transporting, or receiving explosives, destructive devices, bacteriological weapon, or biological weapon with intent to kill, injure, or intimidate individuals or destroy public buildings; sentencing; enhanced penalties
+- Section 16-7-89 - Separate offenses
+- Section 16-7-90 - Records and reports
+- Section 16-7-91 - Searches and inspections
+- Section 16-7-92 - Compelling attendance of witnesses and production of evidence
+- Section 16-7-93 - Exceptions to applicability of provisions
+- Section 16-7-94 - Agricultural activities
+- Section 16-7-95 - Civil forfeiture for violations of article; special provisions for destructive material
+- Section 16-7-96 - Admissible evidence
+- Section 16-7-97 - Fertilizers and pesticides

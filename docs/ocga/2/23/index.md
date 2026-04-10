@@ -1,0 +1,24 @@
+# Chapter 23 - HEMP FARMING (§§ 2-23-1 — 2-23-12)
+
+- Section 2-23-1 - Short title
+- Section 2-23-2 - Intent
+- Section 2-23-3 - Definitions
+- Section 2-23-3.1 - Determination of delta-9-THC concentrations
+- Section 2-23-4 - Required licenses; research by colleges and universities; processing of other products
+- Section 2-23-4.1 - Hemp processing; handling; sales; manufacture; testing and analysis
+- Section 2-23-5 - Procedure for licensing; fees; license requirements; limitations on licenses
+- Section 2-23-6 - Procedure for permitting; limitations on permits and interests
+- Section 2-23-6.1 - Bond requirements; breach of bond; hearing; enforcement; insufficient bond funds
+- Section 2-23-6.2 - Retail consumable hemp establishment licenses
+- Section 2-23-6.3 - Wholesale consumable hemp establishment licenses
+- Section 2-23-6.4 - Manufacturer licenses
+- Section 2-23-6.5 - Genus Cannabis registered laboratory
+- Section 2-23-7 - Business agreements; transportation; reimbursement for crop destruction
+- Section 2-23-8 - Sampling and random testing of hemp
+- Section 2-23-9 - Contracting for testing, certification, regulatory, and grading functions
+- Section 2-23-9.1 - Consumable hemp products; certificate of analysis; THC warning; inspections
+- Section 2-23-9.2 - Consumable hemp products; packaging; advertising; distribution
+- Section 2-23-9.3 - Location of retail establishments selling or distributing consumable hemp products
+- Section 2-23-10 - Enforcement; corrective action plan; revocation of licenses; reporting of licensees and permittees to Attorney General
+- Section 2-23-11 - Plan for regulation; approval
+- Section 2-23-12 - Rules and regulations

@@ -1,0 +1,165 @@
+# Chapter 11 - JUVENILE COURTS (§§ 15-11-1 — 15-11-747)
+
+- Section 15-11-1 - Purpose of chapter
+- Section 15-11-2 - Definitions
+- Section 15-11-3 - Direct calendaring
+- Section 15-11-4 - Other laws apply to chapter
+- Section 15-11-5 - Computations of time
+- Section 15-11-6 - Computation of age
+- Section 15-11-7 - Court of inquiry
+- Section 15-11-8 - Court of record
+- Section 15-11-9 - Authority to issue arrest warrants
+- Section 15-11-10 - Exclusive original jurisdiction
+- Section 15-11-11 - Concurrent jurisdiction
+- Section 15-11-11.1 - Representation by appointed counsel in legitimation proceedings
+- Section 15-11-12 - Dual designation of children; consolidation of proceedings; time limitations
+- Section 15-11-13 - Appointment of guardian or conservator
+- Section 15-11-14 - Transfers from probate court
+- Section 15-11-15 - Transfers from superior court; custody and support
+- Section 15-11-16 - Commencement of proceedings
+- Section 15-11-17 - Conduct of hearings generally; applicability of Title 24
+- Section 15-11-18 - Subpoenas; application of Title 24
+- Section 15-11-19 - Rights of parties to proceedings
+- Section 15-11-20 - Referral for mediation
+- Section 15-11-21 - Selection and appointment of mediator
+- Section 15-11-22 - Agreement to mediate; procedure
+- Section 15-11-23 - Stay of proceeding pending mediation; time limitations
+- Section 15-11-24 - Termination of mediation
+- Section 15-11-25 - Approval of mediation agreements; exceptions
+- Section 15-11-26 - Best interests of child
+- Section 15-11-27 - Physical and mental examinations
+- Section 15-11-28 - Privilege against self-incrimination
+- Section 15-11-29 - Protective orders
+- Section 15-11-29.1 - Parental accountability; court orders; enforcement
+- Section 15-11-30 - Rights and duties of legal custodian
+- Section 15-11-31 - Contempt powers; other sanctions
+- Section 15-11-32 - Modification or vacation of orders; retroactive application
+- Section 15-11-33 - Transfer when disposition incorporates reunification plan and parents reside in different counties
+- Section 15-11-34 - Commitment to adult correctional facility prohibited
+- Section 15-11-35 - Appeals
+- Section 15-11-36 - Expenses charged to county; payment by parent on court order
+- Section 15-11-37 - Supervision fees
+- Section 15-11-38 - Community based risk reduction programs
+- Section 15-11-39 - Risk assessments or risk and needs assessments; case plans; issuance of orders
+- Section 15-11-40 - Information sharing; confidentiality
+- Section 15-11-41 - Compliance with privacy laws
+- Section 15-11-50 - Creation of juvenile courts; appointment of judges
+- Section 15-11-51 - Qualification of judges
+- Section 15-11-52 - Terms and compensation of judges
+- Section 15-11-53 - Practice of law by judges
+- Section 15-11-54 - Administration and expenses of juvenile courts
+- Section 15-11-55 - Applicability of local laws
+- Section 15-11-56 - Simultaneous service by judges
+- Section 15-11-57 - Commissioning of juvenile court judges; appointment of associate juvenile court judges
+- Section 15-11-58 - [Effective Until 7/1/2025] Council of Juvenile Court Judges; role; director
+- Section 15-11-58 - [Effective 7/1/2025] Council of Juvenile Court Judges; role; director; notifications
+- Section 15-11-59 - Educational seminars
+- Section 15-11-60 - Associate juvenile court judges; qualifications
+- Section 15-11-61 - Associate juvenile court traffic judges
+- Section 15-11-62 - Pro tempore juvenile court judges
+- Section 15-11-63 - Clerks and other personnel
+- Section 15-11-64 - Collection of information by juvenile court clerks; reporting requirement; data collection
+- Section 15-11-64.1 - Georgia Juvenile Data Exchange; data elements; accessibility; annual report
+- Section 15-11-65 - Training requirements for juvenile court clerks
+- Section 15-11-66 - Appointment and salaries of probation and intake officers
+- Section 15-11-67 - Duties of probation or community supervision officers
+- Section 15-11-68 - Duties of juvenile court intake officers; training
+- Section 15-11-69 - Transfer of probation and intake services and employees to Department of Juvenile Justice
+- Section 15-11-70 - &quot;Risk and needs assessment&quot; defined; establishment of family treatment court division; procedures; fees; acceptance of grants or donations
+- Section 15-11-71 - Juvenile treatment court divisions
+- Section 15-11-100 - Purpose of article
+- Section 15-11-100.1 - Exemption when governed by Indian Child Welfare Act
+- Section 15-11-101 - Medical and psychological evaluation orders when investigating child abuse and neglect
+- Section 15-11-102 - Dependency case time limitations
+- Section 15-11-103 - Right to attorney
+- Section 15-11-104 - Appointment and removal of guardian ad litem; use of a CASA
+- Section 15-11-105 - Powers and duties of guardian ad litem
+- Section 15-11-106 - Participation of a CASA
+- Section 15-11-107 - Treatment by spiritual means; life-threatening condition or disability exception
+- Section 15-11-108 - Notice of postadjudication hearings to parties
+- Section 15-11-109 - Notice of hearings to specified nonparties
+- Section 15-11-110 - Continuance of a hearing in dependency proceedings
+- Section 15-11-111 - Court orders
+- Section 15-11-112 - Court ordered visitation
+- Section 15-11-113 - Date child is considered to have entered foster care
+- Section 15-11-125 - Venue
+- Section 15-11-130 - Emergency care and supervision of child without court order; immunity
+- Section 15-11-130.1 - Referral to victim assistance organizations of child suspected of being a victim of sexual exploitation or trafficking
+- Section 15-11-131 - Temporary protective custody of child by physician without court order and without parental consent; immunity
+- Section 15-11-132 - Verbal custody order
+- Section 15-11-133 - Removal of child from the home; protective custody; consideration of alternatives
+- Section 15-11-133.1 - Temporary alternatives to foster care; orders; minimal preliminary assessments; preliminary protective hearing; time for hearings
+- Section 15-11-134 - Required findings justifying removal from the home
+- Section 15-11-135 - Placement in eligible foster care
+- Section 15-11-145 - Preliminary protective hearing requirements; consideration of hearsay evidence
+- Section 15-11-146 - Preliminary protective hearing; findings
+- Section 15-11-150 - Authority to file petition
+- Section 15-11-151 - Time limitations for filing petition
+- Section 15-11-152 - Contents of petition
+- Section 15-11-153 - Amendment of petition
+- Section 15-11-160 - Issuance of summons
+- Section 15-11-161 - Service of summons
+- Section 15-11-162 - Sanctions for failure to obey summons
+- Section 15-11-163 - Interlocutory order of disposition when summons served by publication
+- Section 15-11-170 - Discovery
+- Section 15-11-180 - Standard of proof
+- Section 15-11-181 - Adjudication hearing
+- Section 15-11-190 - Social study
+- Section 15-11-191 - Contents of social study
+- Section 15-11-200 - DFCS report; case plan
+- Section 15-11-201 - [See Note] DFCS case plan; contents (§ 15-11-201)
+- Section 15-11-202 - Reasonable efforts by DFCS to preserve or reunify families
+- Section 15-11-203 - When reasonable efforts by DFCS not required
+- Section 15-11-204 - Nonreunification hearing
+- Section 15-11-210 - Disposition hearing
+- Section 15-11-211 - Relative search by DFCS
+- Section 15-11-212 - [See Note] Disposition of dependent child (§ 15-11-212)
+- Section 15-11-213 - Disposition orders; considerations
+- Section 15-11-214 - Duration of disposition orders
+- Section 15-11-215 - Notice of change in placement hearings; use of hearsay evidence; presumptions
+- Section 15-11-216 - Periodic review hearing; required evidence; consideration of hearsay evidence
+- Section 15-11-217 - Periodic review by judicial citizen review panel
+- Section 15-11-218 - Content of orders following periodic review hearings or reports by judicial citizen review panels
+- Section 15-11-219 - Required findings for qualified residential treatment program admittance; assessment procedures; writing requirement
+- Section 15-11-220 - Required findings after placement in qualified residential treatment program; documentation
+- Section 15-11-230 - Permanency plan hearing; consideration of hearsay evidence
+- Section 15-11-231 - Permanency plan report
+- Section 15-11-232 - Permanency plan hearing; findings
+- Section 15-11-233 - Termination of parental rights; exceptions
+- Section 15-11-240 - Appointment of permanent guardian; jurisdiction; findings
+- Section 15-11-241 - Petition for permanent guardian
+- Section 15-11-242 - Effect of guardianship order
+- Section 15-11-243 - Permanent guardianship petition hearing
+- Section 15-11-243.1 - Summons; required parties; personal appearance of adults or children; waiver of service
+- Section 15-11-243.2 - Service of summons
+- Section 15-11-243.3 - Service upon biological father; objections; presumptions
+- Section 15-11-244 - Modification of permanent guardianship order
+- Section 15-11-260 - Purpose of article
+- Section 15-11-260.1 - Exemption when governed by Indian Child Welfare Act
+- Section 15-11-261 - Scope, effect, and duration of order terminating parental rights
+- Section 15-11-262 - Right to attorney and appointment of guardian ad litem
+- Section 15-11-263 - Physical and mental examinations
+- Section 15-11-264 - Discovery
+- Section 15-11-265 - Suspension of right of voluntary surrender of parental rights
+- Section 15-11-270 - Venue
+- Section 15-11-280 - Petition; style; contents; putative fathers
+- Section 15-11-281 - Issuance of summons
+- Section 15-11-282 - Service of summons
+- Section 15-11-283 - Notice to father
+- Section 15-11-284 - Notice of effect of termination judgment
+- Section 15-11-285 - Sanctions for failure to obey summons
+- Section 15-11-300 - Notice of hearings to specified parties; required findings
+- Section 15-11-301 - Expedited hearings; orders
+- Section 15-11-302 - Confidentiality of testimony of parties
+- Section 15-11-303 - Standard of proof
+- Section 15-11-304 - Applicability of Title 24; privileges
+- Section 15-11-310 - Grounds for determining termination of parental rights
+- Section 15-11-311 - Determination of whether child is without proper parental care and control
+- Section 15-11-320 - Termination of parental rights; findings; standard of proof
+- Section 15-11-321 - Custody of child following termination proceedings or surrender of parental rights; use of hearsay evidence
+- Section 15-11-322 - Continuing court review when child not adopted; use of hearsay evidence
+- Section 15-11-323 - Reinstatement of parental rights; standard of proof
+- Section 15-11-324 - Testimony and evidence from foster parents, caregivers, and others
+- Section 15-11-340 - Criteria for receiving services; development of transition plan; termination
+- Section 15-11-341 - Written report to court; review hearing and findings
+- Section 15-11-342 - Determination of dates; periodic review hearings; role of DFCS in hearing and transition planning

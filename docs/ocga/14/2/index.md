@@ -1,0 +1,258 @@
+# Chapter 2 - BUSINESS CORPORATIONS (§§ 14-2-101 — 14-2-1807)
+
+- Section 14-2-101 - Short title
+- Section 14-2-102 - Reservation of power to amend or repeal
+- Section 14-2-103 - Independent legal significance of chapter provisions
+- Section 14-2-104 - Effect of order for bankruptcy relief upon powers and duties of corporation
+- Section 14-2-120 - Filing requirements
+- Section 14-2-121 - Forms
+- Section 14-2-121.1 - Valid period for annual registration
+- Section 14-2-122 - Filing fees and penalties
+- Section 14-2-123 - Effective time and date of document
+- Section 14-2-124 - Correcting filed document
+- Section 14-2-125 - Filing duty of Secretary of State
+- Section 14-2-126 - Appeal from Secretary of State's refusal to file document
+- Section 14-2-127 - Evidence of filing
+- Section 14-2-128 - Certificate of existence
+- Section 14-2-129 - Penalty for signing false document
+- Section 14-2-130 - Powers
+- Section 14-2-140 - Definitions
+- Section 14-2-141 - Notice
+- Section 14-2-142 - Number of shareholders
+- Section 14-2-150 - Signatures
+- Section 14-2-151 - Secretary or assistant secretary of corporation to authenticate records of corporation; reliance on affixed seal by third party
+- Section 14-2-201 - Incorporators
+- Section 14-2-201.1 - Publication of notice of intent to file articles of incorporation
+- Section 14-2-202 - Articles of incorporation
+- Section 14-2-203 - Incorporation
+- Section 14-2-204 - Liability for preincorporation transactions
+- Section 14-2-205 - Organization of corporation
+- Section 14-2-206 - Bylaws
+- Section 14-2-207 - Emergency bylaws
+- Section 14-2-301 - Purposes
+- Section 14-2-302 - General powers
+- Section 14-2-303 - Emergency powers
+- Section 14-2-304 - Ultra vires
+- Section 14-2-305 - Submission of certain matters to shareholder vote
+- Section 14-2-401 - Corporate name
+- Section 14-2-402 - Reserved name
+- Section 14-2-403 - [Repealed] Registered name
+- Section 14-2-501 - Registered office and registered agent
+- Section 14-2-502 - Change of registered office or registered agent
+- Section 14-2-503 - Resignation of registered agent
+- Section 14-2-504 - Service on corporation
+- Section 14-2-510 - Venue
+- Section 14-2-601 - Authorized shares
+- Section 14-2-602 - Terms of class or series determined by board of directors
+- Section 14-2-603 - Issued and outstanding shares
+- Section 14-2-604 - Fractional shares
+- Section 14-2-620 - Subscription for shares before incorporation
+- Section 14-2-621 - Issuance of shares
+- Section 14-2-622 - Liability of shareholders
+- Section 14-2-623 - Share dividends
+- Section 14-2-624 - Share options
+- Section 14-2-625 - Form and content of certificates
+- Section 14-2-626 - Shares without certificates
+- Section 14-2-627 - Restriction on transfer of shares and other securities
+- Section 14-2-628 - Expense of issue
+- Section 14-2-630 - Shareholders' preemptive rights
+- Section 14-2-631 - Corporation's acquisition of its own shares
+- Section 14-2-640 - Distributions to shareholders
+- Section 14-2-641 - Effect of failure to present securities for redemption, surrender, cancellation, or payment
+- Section 14-2-701 - Annual meeting
+- Section 14-2-702 - Special meeting
+- Section 14-2-703 - Court-ordered meeting
+- Section 14-2-704 - Action without meeting
+- Section 14-2-705 - Notice of meeting
+- Section 14-2-706 - Waiver of notice
+- Section 14-2-707 - Record date
+- Section 14-2-708 - Shareholder and proxies' participation by remote communication
+- Section 14-2-720 - Shareholders' list for meeting
+- Section 14-2-721 - Voting entitlement of shares
+- Section 14-2-722 - Proxies
+- Section 14-2-723 - Shares held by nominees
+- Section 14-2-724 - Corporation's acceptance of votes
+- Section 14-2-725 - Quorum and voting requirements for voting groups
+- Section 14-2-726 - Action by single and multiple voting groups
+- Section 14-2-727 - Greater or lesser quorum or voting requirements
+- Section 14-2-728 - Voting for directors; cumulative voting
+- Section 14-2-729 - Adjournment of meeting by majority of voting shares
+- Section 14-2-729.1 - Inspectors
+- Section 14-2-730 - Voting trusts
+- Section 14-2-731 - Shareholder agreements
+- Section 14-2-732 - Shareholder agreements
+- Section 14-2-740 - Definitions
+- Section 14-2-741 - Standing
+- Section 14-2-742 - Demand
+- Section 14-2-743 - Stay of proceedings
+- Section 14-2-744 - Dismissal
+- Section 14-2-745 - Discontinuance or settlement
+- Section 14-2-746 - Payment of expenses
+- Section 14-2-747 - Applicability to foreign corporations
+- Section 14-2-801 - Requirement for and functions of board of directors
+- Section 14-2-802 - Qualifications of directors
+- Section 14-2-803 - Number and election of directors
+- Section 14-2-804 - Election of directors by certain classes of shareholders
+- Section 14-2-805 - Terms of directors generally
+- Section 14-2-806 - Staggered terms for directors
+- Section 14-2-807 - Resignation of directors
+- Section 14-2-808 - Removal of directors by shareholders
+- Section 14-2-810 - Vacancy on board
+- Section 14-2-811 - Compensation of directors
+- Section 14-2-820 - Meetings
+- Section 14-2-821 - Action without meeting
+- Section 14-2-822 - Notice of meeting
+- Section 14-2-823 - Waiver of notice
+- Section 14-2-824 - Quorum and voting
+- Section 14-2-825 - Committees
+- Section 14-2-830 - General standards for directors; presumption of good faith and ordinary care
+- Section 14-2-831 - Derivative actions against directors and officers
+- Section 14-2-832 - Liability for unlawful distributions
+- Section 14-2-840 - Officers
+- Section 14-2-841 - Functions of officers
+- Section 14-2-842 - Standards of conduct for officers; presumption of good faith and ordinary care
+- Section 14-2-843 - Resignation and removal of officers
+- Section 14-2-844 - Contract rights of officers
+- Section 14-2-850 - Definitions
+- Section 14-2-851 - Authority to indemnify
+- Section 14-2-852 - Mandatory indemnification
+- Section 14-2-853 - Advance for expenses
+- Section 14-2-854 - Court ordered indemnification and advances for expenses
+- Section 14-2-855 - Determination and authorization of indemnification
+- Section 14-2-856 - Shareholder approved indemnification
+- Section 14-2-857 - Indemnification of officers, employees, and agents
+- Section 14-2-858 - Insurance
+- Section 14-2-859 - Application of part
+- Section 14-2-860 - Definitions
+- Section 14-2-861 - Judicial action
+- Section 14-2-862 - Directors' action
+- Section 14-2-863 - Shareholders' action
+- Section 14-2-864 - Definitions; officer's conflicting interest transactions
+- Section 14-2-870 - Procedures for disclaimer of business opportunities
+- Section 14-2-901 - Application of Business Corporation Code and Professional Corporation Act
+- Section 14-2-902 - Definition and election of statutory close corporation status
+- Section 14-2-910 - Notice of statutory close corporation status on issued shares
+- Section 14-2-911 - Share transfer prohibition
+- Section 14-2-912 - Share transfer after first refusal by corporation
+- Section 14-2-913 - Attempted share transfer in breach of prohibition
+- Section 14-2-914 - Compulsory purchase of shares after death of shareholder
+- Section 14-2-915 - Exercise of compulsory purchase right
+- Section 14-2-916 - Court action to compel purchase
+- Section 14-2-917 - Court costs and other expenses
+- Section 14-2-920 - Shareholder agreements
+- Section 14-2-921 - Special terms and powers of directors
+- Section 14-2-922 - Elimination of board of directors
+- Section 14-2-923 - Bylaws
+- Section 14-2-924 - Annual meeting
+- Section 14-2-925 - Execution of documents in more than one capacity
+- Section 14-2-926 - Limited liability
+- Section 14-2-930 - Merger, share exchange, and sale of assets
+- Section 14-2-931 - Termination of statutory close corporation status
+- Section 14-2-932 - Effect of termination of statutory close corporation status
+- Section 14-2-933 - Shareholder option to dissolve corporation
+- Section 14-2-940 - Court action to protect shareholders
+- Section 14-2-941 - Ordinary relief
+- Section 14-2-942 - Extraordinary relief; share purchase
+- Section 14-2-943 - Extraordinary relief; dissolution
+- Section 14-2-950 - Application to existing corporations
+- Section 14-2-1001 - Authority to amend
+- Section 14-2-1002 - Amendment by board of directors
+- Section 14-2-1003 - Amendment by board of directors and shareholders
+- Section 14-2-1004 - Voting on amendments by voting groups
+- Section 14-2-1005 - Amendment before issuance of shares
+- Section 14-2-1006 - Articles of amendment
+- Section 14-2-1006.1 - Publication of notice of change of name
+- Section 14-2-1007 - Restated articles of incorporation
+- Section 14-2-1008 - [Repealed] [Reserved] Amendment pursuant to reorganization
+- Section 14-2-1009 - Effect of amendment
+- Section 14-2-1020 - Amendment by board of directors or shareholders
+- Section 14-2-1021 - Bylaw increasing quorum or voting requirement for shareholders
+- Section 14-2-1022 - Bylaw increasing quorum or voting requirement for directors
+- Section 14-2-1101 - Merger
+- Section 14-2-1102 - Share exchange
+- Section 14-2-1103 - Action on plan
+- Section 14-2-1104 - Merger with subsidiary
+- Section 14-2-1105 - Articles or certificate of merger or share exchange
+- Section 14-2-1105.1 - Publication of notice of merger or share exchange
+- Section 14-2-1106 - Effect of merger or share exchange
+- Section 14-2-1107 - Merger or share exchange with foreign corporation
+- Section 14-2-1108 - Merger or share exchange with corporations chartered by Secretary of State under other provisions
+- Section 14-2-1109 - Merger with other entities
+- Section 14-2-1109.1 - Conversion to limited liability company or limited partnership
+- Section 14-2-1109.2 - Election to become corporation
+- Section 14-2-1109.3 - Conversion to foreign limited liability company, foreign limited partnership, or foreign corporation; requirements
+- Section 14-2-1110 - Definitions
+- Section 14-2-1111 - Additional business combination approval
+- Section 14-2-1112 - &quot;Interested shareholder&quot; defined; exception to vote requirement of Code Section 14-2-1111
+- Section 14-2-1113 - Requirements inapplicable unless specifically in corporate bylaw; repeal of bylaw; applicability of Code Section 14-2-1111
+- Section 14-2-1131 - Definitions
+- Section 14-2-1132 - Business combinations with interested stockholders
+- Section 14-2-1133 - Inapplicability of requirements of this article unless specifically provided by corporate bylaw; repeal of bylaw; adoption of other provisions
+- Section 14-2-1201 - Sale and mortgage of assets not requiring shareholder approval
+- Section 14-2-1202 - Sale of assets requiring shareholder approval
+- Section 14-2-1301 - Definitions
+- Section 14-2-1302 - Right to dissent
+- Section 14-2-1303 - Dissent by nominees and beneficial owners
+- Section 14-2-1320 - Notice of dissenters' rights
+- Section 14-2-1321 - Notice of intent to demand payment
+- Section 14-2-1322 - Dissenters' notice
+- Section 14-2-1323 - Duty to demand payment
+- Section 14-2-1324 - Share restrictions
+- Section 14-2-1325 - Offer of payment
+- Section 14-2-1326 - Failure to take action
+- Section 14-2-1327 - Procedure if shareholder dissatisfied with payment or offer
+- Section 14-2-1330 - Court action
+- Section 14-2-1331 - Court costs and counsel fees
+- Section 14-2-1332 - Limitation of actions
+- Section 14-2-1401 - Dissolution by incorporators or initial directors
+- Section 14-2-1402 - Dissolution by board of directors and shareholders
+- Section 14-2-1403 - Notice of intent to dissolve
+- Section 14-2-1403.1 - Publication of notice of intent to dissolve
+- Section 14-2-1404 - Revocation of dissolution proceedings
+- Section 14-2-1405 - Effect of notice of intent to dissolve
+- Section 14-2-1406 - Known claims against corporation in dissolution
+- Section 14-2-1407 - Unknown claims against corporation in dissolution
+- Section 14-2-1408 - Articles of dissolution
+- Section 14-2-1409 - Revival of corporation after dissolution by expiration of period of duration
+- Section 14-2-1410 - Preservation of remedies of dissolved corporations
+- Section 14-2-1420 - Grounds for administrative dissolution
+- Section 14-2-1421 - Procedure for and effect of administrative dissolution
+- Section 14-2-1422 - Reinstatement following administrative dissolution
+- Section 14-2-1423 - Appeal from denial of reinstatement
+- Section 14-2-1430 - Grounds for judicial dissolution
+- Section 14-2-1431 - Procedure for judicial dissolution
+- Section 14-2-1432 - Receivership or custodianship
+- Section 14-2-1433 - Decree of dissolution
+- Section 14-2-1440 - Deposit of assets with Office of the State Treasurer
+- Section 14-2-1501 - Authority to transact business required
+- Section 14-2-1502 - Consequences of transacting business without authority
+- Section 14-2-1503 - Application for certificate of authority
+- Section 14-2-1504 - Amended certificate of authority; conversion of foreign corporation into foreign limited liability company or foreign limited partnership
+- Section 14-2-1505 - Effect of certificate of authority
+- Section 14-2-1506 - Corporate name of foreign corporation
+- Section 14-2-1507 - Registered office and registered agent of foreign corporation
+- Section 14-2-1508 - Change of registered office or registered agent of foreign corporation
+- Section 14-2-1509 - Resignation of registered agent of foreign corporation
+- Section 14-2-1510 - Service on foreign corporation
+- Section 14-2-1520 - Withdrawal of foreign corporation
+- Section 14-2-1530 - Grounds for revocation
+- Section 14-2-1531 - Procedure for and effect of revocation
+- Section 14-2-1532 - Appeal from revocation
+- Section 14-2-1540 - Application of chapter to foreign corporations domesticated under prior law
+- Section 14-2-1601 - Corporate records
+- Section 14-2-1602 - Inspection of records by shareholders
+- Section 14-2-1603 - Scope of inspection right
+- Section 14-2-1604 - Court-ordered inspection
+- Section 14-2-1620 - Financial statements for shareholders
+- Section 14-2-1621 - Other reports to shareholders
+- Section 14-2-1622 - Annual registration for Secretary of State
+- Section 14-2-1701 - Application of chapter
+- Section 14-2-1702 - Application to qualified foreign corporations
+- Section 14-2-1703 - Saving provisions
+- Section 14-2-1801 - Application
+- Section 14-2-1802 - Definitions
+- Section 14-2-1803 - Corporate name
+- Section 14-2-1804 - Requirements for stock certificates
+- Section 14-2-1805 - Shareholder approval for corporate action
+- Section 14-2-1806 - Role of board of directors
+- Section 14-2-1807 - Notice; performance reporting; optional additional requirements

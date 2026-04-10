@@ -1,0 +1,23 @@
+# Chapter 40 - PROMOTION AND DEPLOYMENT OF BROADBAND SERVICES (§§ 50-40-1 — 50-40-84)
+
+- Section 50-40-1 - Definitions
+- Section 50-40-2 - Coordination of state-wide efforts; development of policies and programs; annual reporting and required information; cooperation between state agencies
+- Section 50-40-3 - Confidential and proprietary nature of information provided by broadband service providers
+- Section 50-40-20 - Determination of served and unserved areas
+- Section 50-40-21 - Development, publication and utilization of map identifying underserved areas
+- Section 50-40-22 - Petition contesting maps
+- Section 50-40-40 - Certification as broadband ready community; requirements for certification
+- Section 50-40-41 - Requirements for local ordinances for reviewing applications and issuing permits; development of model ordinances; monitoring compliance
+- Section 50-40-42 - Decertification by department
+- Section 50-40-43 - Request for decertification from broadband service provider; determination on reasonableness of fee
+- Section 50-40-44 - Priority of certain projects
+- Section 50-40-45 - Regulatory authority
+- Section 50-40-60 - &quot;Broadband services&quot; defined
+- Section 50-40-61 - Creation of Georgia Broadband Ready Community Site Designation Program
+- Section 50-40-62 - Evaluation of applicant information; promotion
+- Section 50-40-63 - Regulatory authority of Department of Community Affairs
+- Section 50-40-80 - Legislative findings
+- Section 50-40-81 - Development of Georgia Broadband Deployment Initiative; funding awards; considerations; priorities; compliance with federal provisions
+- Section 50-40-82 - Oversight and coordination of state efforts for broadband services
+- Section 50-40-83 - Regulatory authority and administration of program
+- Section 50-40-84 - Progress report; publication

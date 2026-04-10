@@ -1,0 +1,62 @@
+# Chapter 5 - FINANCIAL AFFAIRS (§§ 28-5-1 — 28-5-127)
+
+- Section 28-5-1 - Introduction of bills changing compensation for state officials
+- Section 28-5-2 - Fiscal notes for bills changing compensation
+- Section 28-5-3 - Recording of votes on bills or resolutions fixing compensation or allowances of officials
+- Section 28-5-4 - Consideration of general appropriations bill; availability of Governor's budget report
+- Section 28-5-5 - [Repealed] Budgetary Responsibility Oversight Committee; members; duties; other entities to cooperate with committee; annual report; allowances; performance audits
+- Section 28-5-6 - Powers, duties, and responsibilities of the Senate Budget and Evaluation Office and the House Budget and Research Office
+- Section 28-5-20 - Creation
+- Section 28-5-21 - Selection and term of service of members
+- Section 28-5-22 - Meetings generally
+- Section 28-5-23 - Review of budget requests
+- Section 28-5-24 - Annual report to General Assembly
+- Section 28-5-25 - Joint meetings to review and approve budget unit object class transfers; limitations upon transfers
+- Section 28-5-25.1 - Approval of leases
+- Section 28-5-26 - Allowances for members
+- Section 28-5-27 - Applicability of article to authority of Office of Planning and Budget
+- Section 28-5-40 - Short title
+- Section 28-5-41.1 - Economic analysis of certain tax benefits of law or proposed law
+- Section 28-5-42 - Introduction of bills having significant impact upon anticipated revenues or expenditures; furnishing of fiscal notes
+- Section 28-5-44 - Attachment of fiscal notes to bills; reading of notes at third reading of bills; distribution of notes relating to bills prior to final votes thereon
+- Section 28-5-45 - Fiscal dedication analysis; requirements; requesting analysis; attachment to legislative bills
+- Section 28-5-47 - Short title
+- Section 28-5-47.1 - Legislative intent and purpose
+- Section 28-5-48 - Definitions
+- Section 28-5-48.1 - Applicability to proposed laws for which full funding to affected localities has been appropriated
+- Section 28-5-49 - Analysis of costs of proposed bills and joint resolutions to affected localities; filing of fiscal notes; requests by representatives of local political subdivisions for copies; waiver of requirements
+- Section 28-5-50 - Filing of notes for regulations, rules, or orders; requests by local political subdivisions for copies
+- Section 28-5-51 - Contents of fiscal note
+- Section 28-5-52 - Assistance of other departments and agencies in the preparation of fiscal notes for bills and joint resolutions; required names and signatures
+- Section 28-5-53 - Revision of fiscal note where fiscal effect of bill or joint resolution changed by amendment; waiver of such revision; processing of revised fiscal note
+- Section 28-5-54 - Preservation of copies of fiscal notes and waivers; availability for public inspection; publication in journals for each house of the General Assembly
+- Section 28-5-56 - Presumption as to compliance with this article
+- Section 28-5-60 - Creation; membership; representation of members by deputies or other designated employees
+- Section 28-5-60.1 - &quot;The state or any of its departments or agencies&quot; defined
+- Section 28-5-61 - Employment of secretarial, investigatorial, and other help
+- Section 28-5-62 - Unlawful compensation
+- Section 28-5-63 - Statement attached to checks issued for payment of claims
+- Section 28-5-80 - Introduction of compensation resolutions; general requirements as to filing of notice of claim
+- Section 28-5-81 - Notice of possibility of claims to be filed by state departments and agencies; effect of filing of notice and of failure to file notice
+- Section 28-5-82 - Board hearings
+- Section 28-5-83 - Investigation of claims by board; advisory recommendations
+- Section 28-5-84 - Restrictions on passage of resolutions and board powers
+- Section 28-5-85 - Payment of small claims by board
+- Section 28-5-86 - Time for filing notice of claim
+- Section 28-5-100 - Recommendations by board as to payment of compensation; procedural rules
+- Section 28-5-101 - Procedure for claims for compensation
+- Section 28-5-102 - Uniform standards for compensation
+- Section 28-5-103 - When compensation may be recommended; factors to be considered in making recommendations as to compensation
+- Section 28-5-104 - When award of compensation not to be recommended generally; limitations on amounts; action by General Assembly upon recommendations
+- Section 28-5-105 - Scope of compensation
+- Section 28-5-106 - Limitations on claims
+- Section 28-5-107 - Reports on claims transmitted to the General Assembly
+- Section 28-5-108 - Subrogation of state to claims of persons compensated; damage actions against persons responsible for injuries or death
+- Section 28-5-120 - Short title
+- Section 28-5-121 - Definitions
+- Section 28-5-122 - Publication of description of grant program by agency as prerequisite to making grants
+- Section 28-5-123 - Written application demonstrating eligibility as prerequisite to awarding of grant; award of grants to be determined independently by state agency
+- Section 28-5-124 - State agencies to compile annual list of grants awarded and disbursed in prior fiscal year; register of lists to be maintained by Secretary of State
+- Section 28-5-125 - Audits of recipients of grants
+- Section 28-5-126 - Grants in violation of article deemed void; effect of void grant on recipient
+- Section 28-5-127 - Separate appropriation for grants in appropriations Acts; appropriation to contain word &quot;grant.&quot;

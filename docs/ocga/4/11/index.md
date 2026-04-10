@@ -1,0 +1,37 @@
+# Chapter 11 - ANIMAL PROTECTION (§§ 4-11-1 — 4-11-35)
+
+- Section 4-11-1 - Short title
+- Section 4-11-2 - Definitions
+- Section 4-11-3 - Licenses for pet dealers and kennel, stable, or animal shelter operators; requirement; issuance; application
+- Section 4-11-4 - Display of licenses
+- Section 4-11-5 - Licensing of bird dealers
+- Section 4-11-5.1 - Euthanasia of dogs and cats by animal shelters or facilities operated for collection of stray, neglected, abandoned, or unwanted animals
+- Section 4-11-5.2 - Microchip reader defined; contacting owner of microchipped pet
+- Section 4-11-6 - Applicability of article to nonresidents; consent to jurisdiction; service
+- Section 4-11-7 - Grounds for refusal to issue or renew or suspension or revocation of licenses
+- Section 4-11-8 - Denial, suspension, or revocation of license for violation of article; applicability of &quot;Georgia Administrative Procedure Act.&quot;
+- Section 4-11-9 - Inspections
+- Section 4-11-9.1 - Quarantine of animal, premises, or any area by Commissioner
+- Section 4-11-9.2 - Inspections; impoundment of animals; exceptions
+- Section 4-11-9.3 - Caring for an impounded animal
+- Section 4-11-9.4 - Notification of owner; custody of animal
+- Section 4-11-9.5 - Failure to respond; right to hearing; care; crime exception
+- Section 4-11-9.6 - Disposal of impounded animal
+- Section 4-11-9.7 - Notice and reporting required for certain animal diseases
+- Section 4-11-9.8 - Recoupment of expenses of impoundment; process
+- Section 4-11-10 - Unlawful acts by licensed persons
+- Section 4-11-11 - Shipment or importation of equines, poultry, livestock, or birds into state without official certificate of veterinary inspection
+- Section 4-11-12 - Cooperation with federal government
+- Section 4-11-13 - Animals raised, kept, or maintained for human consumption
+- Section 4-11-14 - Rules and regulations
+- Section 4-11-15 - Injunctions and restraining orders
+- Section 4-11-15.1 - Abandonment of domesticated animal
+- Section 4-11-16 - Penalties
+- Section 4-11-17 - Filing a report regarding animal cruelty; immunity
+- Section 4-11-18 - Article cumulative; does not prohibit enactment and enforcement of local ordinances by municipal or county governing authority
+- Section 4-11-30 - Short title
+- Section 4-11-31 - Definitions
+- Section 4-11-32 - Prohibited acts; applicability
+- Section 4-11-33 - Penalty for violation
+- Section 4-11-34 - Powers and duties of Commissioner
+- Section 4-11-35 - Attorneys' fees; injunctions; other rights arising out of or relating to violation of article

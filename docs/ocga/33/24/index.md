@@ -1,0 +1,142 @@
+# Chapter 24 - INSURANCE GENERALLY (§§ 33-24-1 — 33-24-98)
+
+- Section 33-24-1 - Definitions
+- Section 33-24-2 - Applicability of chapter
+- Section 33-24-3 - Insurable interest; personal insurance
+- Section 33-24-4 - Insurable interest; property insurance
+- Section 33-24-5 - Persons having capacity to contract for insurance; purchase of insurance by or for minors; rescission, avoidance, or repudiation of contracts by minors
+- Section 33-24-6 - Consent of insured to insurance contract; exceptions; reliance by insurer on statements in application
+- Section 33-24-6.1 - Prerequisites for replacement life insurance exceeding insurance being surrendered
+- Section 33-24-7 - Statements and descriptions in applications or in negotiations deemed representations and not warranties; effect of misrepresentations upon recovery under policies
+- Section 33-24-8 - Admissibility in evidence of applications in actions between insurer and insured
+- Section 33-24-9 - Approval or disapproval of forms
+- Section 33-24-10 - Grounds for disapproval of forms
+- Section 33-24-10.1 - Standard or uniform claim form
+- Section 33-24-11 - Waiver by Commissioner of use of standard or uniform provisions in policies or contracts; approval of use of substitute provisions
+- Section 33-24-12 - Noncomplying conditions or provisions; cancellation of contracts covering uninsurable subjects
+- Section 33-24-13 - Execution of policies; use of facsimile signatures
+- Section 33-24-14 - Delivery of policies; applicability of Uniform Electronic Transactions Act; additional mailings
+- Section 33-24-14.1 - Electronic delivery of plan documentation
+- Section 33-24-15 - When policies or contracts become effective
+- Section 33-24-16 - Construction of policies
+- Section 33-24-16.1 - Clarification of term &quot;actual charge&quot; or &quot;actual fee&quot;
+- Section 33-24-17 - Assignment of policies
+- Section 33-24-18 - Contents of insurance policies and annuity contracts generally
+- Section 33-24-19 - Incorporation of constituent documents in policies
+- Section 33-24-19.1 - Certificate of insurance forms to be approved by Commissioner; definitions; required provisions of certificate
+- Section 33-24-20 - Provision in accident and sickness policies for termination of coverage of surviving spouse or as result of break in marital relationship; issuance of policy to spouse
+- Section 33-24-21 - Provision in accident and sickness policies for termination of group coverage of surviving spouse or as result of break in marital relationship; issuance of policy to spouse
+- Section 33-24-21.1 - Group accident and sickness contracts; conversion privilege and continuation right provisions; impact of federal legislation
+- Section 33-24-21.2 - Continuation of coverage under group accident and sickness plans for persons 60 years of age or older
+- Section 33-24-22 - Provision in health insurance policies for coverage of newly born or adopted children
+- Section 33-24-23 - Provision in group policies of accident and sickness insurance for exclusion or reduction of benefits
+- Section 33-24-24 - Provision in group or blanket accident and sickness policies of coverage for complications of pregnancy
+- Section 33-24-25 - Provisions in group or blanket policies excluding or reducing coverage of persons eligible for or receiving medical assistance
+- Section 33-24-26 - Provisions limiting or restricting payment of benefits for preexisting illnesses or conditions
+- Section 33-24-26.1 - Provisions required in group policies or contracts of disability income insurance covering preexisting conditions; restrictions on preexisting condition limitations or exclusions
+- Section 33-24-27 - Provision for reimbursement for services within the lawful scope of practice of psychologists or chiropractors
+- Section 33-24-27.1 - Provision for reimbursement for services within the lawful scope of practice of optometrists
+- Section 33-24-27.2 - Provision for reimbursement for services within the lawful scope of practice of athletic trainers
+- Section 33-24-28 - Termination of coverage of dependent child upon attainment of specified age
+- Section 33-24-28.1 - Coverage of treatment of mental health or substance use disorders
+- Section 33-24-28.2 - Coverage of outpatient surgery
+- Section 33-24-28.3 - Policies not to exclude payment to hospitals specializing in treatment of alcoholics or drug addicts
+- Section 33-24-28.4 - Coverage of general anesthesia and hospital or ambulatory surgical facility charges for certain dental care
+- Section 33-24-29 - Coverage for treatment of mental disorders under accident and sickness insurance benefit plans providing major medical benefits covering small groups; federal law
+- Section 33-24-29.1 - Coverage for mental disorders under accident and sickness insurance benefit plans providing major medical benefits covering all groups except small groups
+- Section 33-24-30 - Excluding or denying coverage on basis of violation of civil air regulations
+- Section 33-24-30.1 - Excluding or denying coverage on basis of lawful firearms possession
+- Section 33-24-31 - Provision in group disability income policies for offsetting of increased social security benefits
+- Section 33-24-32 - Underwriters' and combination policies
+- Section 33-24-33 - Binders and other contracts for temporary insurance
+- Section 33-24-34 - Authorization of group insurance for government employees; deduction of premiums from wages or salaries
+- Section 33-24-35 - Withdrawal or retirement from group insurance plan
+- Section 33-24-36 - Effect of government employee group insurance upon rights under Workers' Compensation Act
+- Section 33-24-37 - [Reserved] Effect of government employee group insurance upon local and special laws
+- Section 33-24-38 - Renewal or extension of policies by certificate or endorsement
+- Section 33-24-39 - Insurers to furnish forms for proof of loss; effect of furnishing or failure to furnish forms
+- Section 33-24-40 - Acts of claims administration not to be deemed waiver of policies or defenses under policies
+- Section 33-24-41 - Discharge of insurer by payment generally
+- Section 33-24-41.1 - Motor vehicle accident claim covered by two or more insurance carriers; limited release
+- Section 33-24-41.2 - Written notice by insurer to claimant of payment of claim in third-party settlement
+- Section 33-24-42 - Payment of claims in event of simultaneous deaths
+- Section 33-24-43 - Medium of payment
+- Section 33-24-44 - Cancellation of policies generally
+- Section 33-24-44.1 - Procedure for cancellation by insured and notice
+- Section 33-24-45 - Cancellation or nonrenewal of automobile or motorcycle policies; procedure for review by Commissioner
+- Section 33-24-46 - Cancellation or nonrenewal of certain property insurance policies
+- Section 33-24-47 - Notice required of termination or nonrenewal, increase in premium rates, or change restricting or reducing coverage; failure of insurer to comply
+- Section 33-24-47.1 - Notice prior to cancellation or nonrenewal of individual or group accident and sickness policy
+- Section 33-24-48 - Acceptance of surety insurance companies as sureties upon bonds of persons or corporations; rights and liabilities of corporate sureties
+- Section 33-24-49 - Deposit of funds covered by bonds
+- Section 33-24-50 - Action as sureties upon guaranteed arrest bond certificates; acceptance of certificates
+- Section 33-24-51 - Purchase of insurance covering injuries resulting from governmental ownership and use of motor vehicles; waiver of governmental immunity; limitation of liabilities
+- Section 33-24-52 - Direct response insurance business
+- Section 33-24-53 - Solicitation, release, or sale of automobile accident information prohibited; definitions; exceptions; penalties
+- Section 33-24-54 - Payments to nonparticipating or nonpreferred providers of health care services
+- Section 33-24-55 - Health insurance; recovery rights of state for payments made under Medicaid; rights of children to coverage; requirements for insurers under orders to provide coverage
+- Section 33-24-56 - Prohibition against requiring referral from primary care physician to dermatologist
+- Section 33-24-56.1 - Reimbursement of medical expense or disability benefit providers in personal injury cases; subrogation prohibited; notice
+- Section 33-24-56.2 - Surveillance tests for ovarian cancer
+- Section 33-24-56.3 - Colorectal cancer screening and testing
+- Section 33-24-56.4 - Short title; definitions; payment for telehealth services
+- Section 33-24-56.5 - Health benefit policy to provide coverage for orally administered chemotherapy for the treatment of cancer; definitions
+- Section 33-24-57 - Health insurance; provision that coverage cannot be terminated due to individual claims experience required
+- Section 33-24-57.1 - Health insurance identification card; issue required; contents; updating; social security numbers not to be displayed
+- Section 33-24-58 - Newborn Baby and Mother Protection Act; short title
+- Section 33-24-58.1 - Newborn Baby and Mother Protection Act; legislative findings and declaration
+- Section 33-24-58.2 - Newborn Baby and Mother Protection Act; minimum health benefit policy coverage; prohibited actions by insurance providers; required notice to mother
+- Section 33-24-59 - Women's access to health care; health insurance; provision disclosing insured's right to direct access to obstetricians and gynecologists required
+- Section 33-24-59.1 - Coverage for treatment of dependent children with cancer
+- Section 33-24-59.2 - Coverage for equipment and self-management training for individuals with diabetes; enforcement
+- Section 33-24-59.3 - Payments sent directly to health care provider by insurer
+- Section 33-24-59.4 - Confidentiality of medical information obtained from pharmacies; restrictions on release of information; penalty for violation
+- Section 33-24-59.5 - Definitions; timely payment of health benefits; notification of failure to pay; penalties; applicability
+- Section 33-24-59.6 - Prescribed female contraceptive drugs or devices; insurance coverage
+- Section 33-24-59.7 - Coverage for the treatment of morbidly obese patients; short title; legislative findings; adoption of rules and regulations by Commissioner
+- Section 33-24-59.8 - Coverage for prescription inhalers; no restriction on the number of days before obtaining a refill as prescribed
+- Section 33-24-59.9 - Registered nurse first assistants
+- Section 33-24-59.10 - Coverage for autism
+- Section 33-24-59.11 - Insurance coverage for prescription drugs used in manner different than use authorized by FDA
+- Section 33-24-59.12 - Patient access to eye care
+- Section 33-24-59.13 - Exemptions from certain unfair trade practices for certain wellness and health improvement programs; incentives
+- Section 33-24-59.14 - Definitions; prompt pay requirements; penalties
+- Section 33-24-59.15 - Definitions; dental insurance
+- Section 33-24-59.16 - Equal access to child's health insurance information; exceptions
+- Section 33-24-59.17 - Coverage of certain abortions through certain qualified health plans prohibited; definitions
+- Section 33-24-59.18 - Coverage for treatment of a terminal condition
+- Section 33-24-59.19 - Coverage for treatment of burns with skin substitutes utilizing cryopreserved cadaver derived skin tissue
+- Section 33-24-59.20 - Access to stage four advanced, metastatic cancer treatments in health benefit plans
+- Section 33-24-59.21 - Health plans to provide coverage for hearing aids for certain individuals; frequency of replacement; coverage of services and supplies; options for higher priced devices
+- Section 33-24-59.22 - Prescription drug program defined; cost sharing; denial of coverage; dispensing fees
+- Section 33-24-59.23 - Carrier issuing health benefit plans to pay insurance agent's commissions; regulation
+- Section 33-24-59.24 - Restrictions on payment methods prohibited; waiver of provisions prohibited; enforcement
+- Section 33-24-59.25 - Establishment by health benefit plans of step therapy protocols; exception process; time requirements; appeals; construction; application
+- Section 33-24-59.26 - Limitation on definition of &quot;preexisting condition&quot;
+- Section 33-24-59.27 - Right to shop for insurance coverage; disclosure of pricing information; notice
+- Section 33-24-59.28 - Insurer obligations for early prescription refills during emergencies
+- Section 33-24-59.29 - Copayments
+- Section 33-24-59.30 - Requirements for health insurance issuer for anatomical gifts or organ transplants; medically inappropriate organ transplants
+- Section 33-24-59.31 - &quot;Customer&quot; defined; when a value-added product or service is not an unfair trade practice or unlawful inducement
+- Section 33-24-59.32 - Cost-sharing requirements for diagnostic and supplemental breast screening examinations
+- Section 33-24-59.33 - Required coverage for biomarker testing
+- Section 33-24-60 - Short title
+- Section 33-24-61 - Legislative findings and intent
+- Section 33-24-62 - &quot;Health insurance benefit bill&quot; defined
+- Section 33-24-63 - Review of health insurance benefit bill by General Assembly; Commissioner to issue report on bill
+- Section 33-24-64 - Contents of report by Commissioner on health insurance benefit bills
+- Section 33-24-65 - Public hearing
+- Section 33-24-66 - Evidence, testimony, and information necessary to prepare report under Code Section 33-24-63; time period for issuing of reports on bill
+- Section 33-24-67 - Rules and regulations
+- Section 33-24-70 - Short title
+- Section 33-24-71 - Legislative findings
+- Section 33-24-72 - Mastectomy; lymph node dissection; coverage for inpatient care and follow-up visits required by health insurers; notice to policyholders
+- Section 33-24-90 - Definitions
+- Section 33-24-91 - Use of credit information to underwrite or rate risks
+- Section 33-24-92 - Disputed items in credit report
+- Section 33-24-93 - Disclosure by insurer of use of credit information
+- Section 33-24-94 - Adverse action based on credit information; notice to consumer
+- Section 33-24-95 - Filing scoring models with Commissioner; confidential nature of filing
+- Section 33-24-96 - Insurer obligation to indemnify and defend agents
+- Section 33-24-97 - Consumer reporting agency disclosure of insurance information; applicability to motor vehicle reports
+- Section 33-24-98 - Use of insurance scores permitted

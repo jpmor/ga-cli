@@ -1,0 +1,74 @@
+# Chapter 7 - LANDLORD AND TENANT (§§ 44-7-1 — 44-7-119)
+
+- Section 44-7-1 - Creation of landlord and tenant relationship; rights of tenant; construction of lease for less than five years
+- Section 44-7-2 - Parol contract creating landlord and tenant relationship; certain provisions prohibited; effect of provision for attorney's fees
+- Section 44-7-3 - Disclosure of ownership and agents; effect of failure to comply
+- Section 44-7-4 - Local ordinances relating to security of premises occupied by tenants; cumulative effect of this Code section
+- Section 44-7-5 - When implied contract to pay rent arises
+- Section 44-7-6 - Tenancy at will - Creation when no time period specified
+- Section 44-7-7 - Tenancy at will - Notice required for termination
+- Section 44-7-8 - Tenancy at will - Right of tenant to emblements
+- Section 44-7-9 - Estoppel to dispute landlord's title or attorn to another
+- Section 44-7-10 - Delivery of possession at end of term; summary remedy
+- Section 44-7-11 - Specific rights of tenants
+- Section 44-7-12 - Removal of trade fixtures during term; when abandoned
+- Section 44-7-13 - Landlord's duties as to repairs and improvements
+- Section 44-7-14 - Tort liability of landlord
+- Section 44-7-14.1 - Landlord's duties as to utilities
+- Section 44-7-15 - Effect of destruction of tenement on obligation to pay rent
+- Section 44-7-16 - Accrual of interest on rent owed
+- Section 44-7-17 - Exemption from liens against tenant of crops paid as rent
+- Section 44-7-18 - Effect of leases for purposes of prostitution or assignation
+- Section 44-7-19 - Restrictions on rent regulation by local governments
+- Section 44-7-20 - Notification to prospective tenant of property's propensity toward flooding
+- Section 44-7-21 - Written brokerage agreement as binding obligation; notice of commission rights form
+- Section 44-7-22 - Termination of a residential rental agreement by a service member
+- Section 44-7-23 - Termination of residential lease after issuance of civil or criminal family violence order or civil or criminal stalking order; notice; occupancy, waiver or modification prohibited
+- Section 44-7-24 - Establishment of a prima-facie case of retaliation by tenant against landlord; elements; exception; remedies; rebuttable defense
+- Section 44-7-30 - Definitions
+- Section 44-7-30.1 - Limitation on security deposit
+- Section 44-7-31 - Placement of security deposit in trust in escrow account; notice to tenant of account location
+- Section 44-7-32 - Surety bond in lieu of escrow account; withdrawal of surety; fees; liability of clerk of superior court
+- Section 44-7-33 - Lists of existing defects and of damages during tenancy; inspection of premises by landlord upon termination of lease and vacation or surrender of premises; right of tenant to inspect and dissent; action to recover security deposit
+- Section 44-7-34 - Return of security deposit; grounds for retention of part; delivery of statement and sum due to tenant; unclaimed deposit; court determination of disposition of deposit
+- Section 44-7-35 - Remedies for landlord's noncompliance with article
+- Section 44-7-36 - Certain rental units exempt from article
+- Section 44-7-37 - Liability for rent of military personnel receiving change of duty orders
+- Section 44-7-49 - Definitions
+- Section 44-7-50 - Demand for possession; procedure upon a tenant's refusal; notice to vacate or pay
+- Section 44-7-51 - Issuance of summons; service; time for answer; defenses and counterclaims
+- Section 44-7-52 - When tender of payment by tenant serves as complete defense
+- Section 44-7-53 - When writ of possession issued; trial of issues; possession pending trial
+- Section 44-7-54 - Payment of rent and utility payments into court; issuance of writ upon failure to pay; disposition of funds
+- Section 44-7-55 - Judgment; writ of possession; landlord's liability for wrongful conduct; distribution of funds paid into court; personal property
+- Section 44-7-56 - Appeal; procedure; possession and payment of rent pending appeal
+- Section 44-7-57 - Application of article to croppers and servants
+- Section 44-7-58 - False statements in affidavit or answer; penalty
+- Section 44-7-59 - Removal of transportable housing from lands subject to writ of possession
+- Section 44-7-70 - Power of landlord to distrain for rent
+- Section 44-7-71 - Application for distress warrant
+- Section 44-7-72 - Issuance of summons; service on defendant; time for hearing
+- Section 44-7-73 - When tender of payment by tenant serves as complete defense
+- Section 44-7-74 - Answer; grant of distress warrant on failure to answer; trial; possession pending final outcome
+- Section 44-7-75 - Payment of rent into court; transfer and possession of property pending trial; seizure; disposition of funds
+- Section 44-7-76 - Bond; determination of amount; effect of approval on alienability of property
+- Section 44-7-77 - Judgment and satisfaction; landlord's liability; distribution of funds; return of property
+- Section 44-7-78 - Appeal; possession pending appeal
+- Section 44-7-79 - Execution and levy of distress warrant; sale
+- Section 44-7-80 - Time for attachment of landlord's lien; priorities
+- Section 44-7-81 - Claims by third persons; oath and bond; method of trial
+- Section 44-7-82 - Application of article to tenant's mobile home
+- Section 44-7-100 - Nature of relationship between owner and cropper
+- Section 44-7-101 - Title to crops
+- Section 44-7-102 - Recovery of crops sold or disposed of without landlord's consent
+- Section 44-7-103 - Illegal sale by cropper; refusal of landlord to deliver cropper's share; penalties
+- Section 44-7-110 - Short title
+- Section 44-7-111 - Legislative findings and intent
+- Section 44-7-112 - Definitions
+- Section 44-7-113 - Government agent to assess abandoned mobile home; lien on intact mobile home; derelict mobile homes; notice; governmental immunity
+- Section 44-7-114 - Hearing on findings of derelict mobile homes
+- Section 44-7-115 - Foreclosure of liens on abandoned or intact mobile homes
+- Section 44-7-116 - &quot;Public sale&quot; defined; procedure; penalty for noncompliance
+- Section 44-7-117 - Clerk's role in management of proceeds
+- Section 44-7-118 - Documentation for purchaser
+- Section 44-7-119 - Appointment of local government agent not required

@@ -1,0 +1,30 @@
+# Chapter 4 - PUBLIC SCHOOL EMPLOYEES RETIREMENT SYSTEM (§§ 47-4-1 — 47-4-121)
+
+- Section 47-4-1 - Short title
+- Section 47-4-2 - Definitions
+- Section 47-4-20 - Creation and administration of the retirement system; corporate powers and privileges; rights in actions; name under which retirement system business shall be transacted
+- Section 47-4-21 - Creation and administration of the retirement fund
+- Section 47-4-22 - Membership of the board; expenses and per diem; quorum for the transaction of business; chairman, secretary, and treasurer of the board
+- Section 47-4-23 - Exemption of members of the board from liability for their acts, omissions, and conduct; indemnification of members of the board
+- Section 47-4-24 - Legal adviser of the board
+- Section 47-4-25 - Powers and duties of the board
+- Section 47-4-26 - Power of board over funds; special account for deposit of funds and payment of benefits and expenses; investment powers; power to employ agents
+- Section 47-4-27 - Power of board to take, hold, and invest any gift, grant, or bequest
+- Section 47-4-28 - Duty of board to keep records of accounts in granting benefits and records of the operations of the board; annual financial statement to the General Assembly
+- Section 47-4-29 - Appropriations for employer contributions; creation of an expense fund; payment prior to commencement date of employer contributions and expenses of retirement system
+- Section 47-4-30 - Plan year designated
+- Section 47-4-40 - Eligibility; leaves of absence; termination; transfer of service credits
+- Section 47-4-41 - Membership of persons employed by local units of administration which operate local retirement systems
+- Section 47-4-60 - Amount of contributions; manner of payment
+- Section 47-4-61 - Date for start of employee contributions
+- Section 47-4-80 - Determination of membership service; prior service credit and prior service certificate; creditable service; credit for membership in Teachers Retirement System
+- Section 47-4-81 - Effect of appropriations on credit for prior service
+- Section 47-4-100 - Normal, early, and delayed retirement; vesting of right to a retirement benefit
+- Section 47-4-101 - Retirement benefits payable upon normal, early, or delayed retirement
+- Section 47-4-102 - Optional retirement benefits
+- Section 47-4-103 - Disability retirement benefits; determination of disability
+- Section 47-4-104 - Benefits payable upon the death of a member; refunds to members whose employment has been terminated
+- Section 47-4-105 - Postretirement benefit adjustments
+- Section 47-4-106 - Return to public service of retired member
+- Section 47-4-120 - Exemption of rights and benefits from state and local taxes and from legal process; restriction on assignability
+- Section 47-4-121 - Attempts to defraud the retirement system by means of false statements or falsified records; adjustment of erroneous payments

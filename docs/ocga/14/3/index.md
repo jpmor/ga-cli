@@ -1,0 +1,208 @@
+# Chapter 3 - NONPROFIT CORPORATIONS (§§ 14-3-101 — 14-3-1703)
+
+- Section 14-3-101 - Short title
+- Section 14-3-102 - Reservation of power of General Assembly
+- Section 14-3-103 - Independent legal significance of chapter provisions
+- Section 14-3-104 - Effect of order for bankruptcy relief upon powers and duties of corporation
+- Section 14-3-120 - Filing requirements for Nonprofit Corporations
+- Section 14-3-120.1 - Valid period for annual registration
+- Section 14-3-121 - Forms
+- Section 14-3-122 - Filing fees
+- Section 14-3-123 - Effective time and date of document
+- Section 14-3-124 - Correcting filed document
+- Section 14-3-125 - Filing duty of Secretary of State; effect of filing or refusing to do so
+- Section 14-3-126 - Appeal from Secretary of State's refusal to file document
+- Section 14-3-127 - Evidence of filing
+- Section 14-3-128 - Certificate of existence or authorization
+- Section 14-3-129 - Penalty for signing false document; signing of document
+- Section 14-3-130 - Powers of Secretary of State
+- Section 14-3-140 - Definitions
+- Section 14-3-141 - Notice
+- Section 14-3-160 - Authority of court to order meetings; notice; validity of meeting or vote
+- Section 14-3-170 - Powers and authority of Attorney General
+- Section 14-3-180 - Construction of chapter when religious doctrine inconsistent
+- Section 14-3-190 - Short title
+- Section 14-3-191 - Definitions
+- Section 14-3-192 - Violating the terms of charitable contributions made with donor imposed restrictions
+- Section 14-3-201 - Who may incorporate
+- Section 14-3-202 - Articles of incorporation
+- Section 14-3-202.1 - Publication of notice of intent to file articles of incorporation
+- Section 14-3-203 - Effect of filing articles of incorporation
+- Section 14-3-204 - Liability for preincorporation transactions
+- Section 14-3-205 - Organizational meeting
+- Section 14-3-206 - Bylaws
+- Section 14-3-207 - Emergency bylaws
+- Section 14-3-301 - Purposes of corporation
+- Section 14-3-302 - Duration and powers of corporation
+- Section 14-3-303 - Emergency powers
+- Section 14-3-304 - Ultra vires
+- Section 14-3-305 - Nonprofit hospital authority; rights; director's role; reporting
+- Section 14-3-401 - Corporate name
+- Section 14-3-402 - Reservation of corporate name
+- Section 14-3-403 - [Repealed] Registered name of foreign corporation
+- Section 14-3-501 - Registered office and registered agent
+- Section 14-3-502 - Change of registered office or registered agent
+- Section 14-3-503 - Resignation of registered agent
+- Section 14-3-504 - Service of process on corporation
+- Section 14-3-510 - Applicable laws; where corporation deemed to reside; corporations with principal office under prior law
+- Section 14-3-601 - Admission of members
+- Section 14-3-602 - Consideration for membership in corporation
+- Section 14-3-603 - Membership not required
+- Section 14-3-610 - Voting rights
+- Section 14-3-611 - Limitation on members' liability
+- Section 14-3-612 - Dues, assessments, and fees
+- Section 14-3-613 - Remedies of creditors of corporation against members
+- Section 14-3-620 - Resignation by member and effect thereof
+- Section 14-3-621 - Expulsion or suspension of members
+- Section 14-3-630 - Rights and authority of delegates
+- Section 14-3-701 - Annual meeting and regular meetings
+- Section 14-3-702 - Special meetings; remote communication
+- Section 14-3-703 - Court-ordered meetings
+- Section 14-3-704 - Notice of meeting
+- Section 14-3-705 - Waiver of notice
+- Section 14-3-706 - Record date
+- Section 14-3-707 - Action by written ballot
+- Section 14-3-708 - Consent in writing or electronic transmission of actions of members; effect; notice
+- Section 14-3-709 - Remote communication by members
+- Section 14-3-720 - Membership list for meeting
+- Section 14-3-721 - Number of votes to which member entitled; effect of membership in names of two or more persons
+- Section 14-3-722 - Quorum
+- Section 14-3-723 - Majority of votes constitutes act of membership
+- Section 14-3-724 - Proxies
+- Section 14-3-725 - Voting requirements for election of directors; cumulative voting
+- Section 14-3-726 - Election of directors by category
+- Section 14-3-727 - Validity of signature on proxy
+- Section 14-3-730 - Agreements among members
+- Section 14-3-740 - &quot;Derivative proceeding&quot; defined
+- Section 14-3-741 - Standing
+- Section 14-3-742 - Demand for suitable action by corporation required
+- Section 14-3-743 - Stay of proceeding
+- Section 14-3-744 - Dismissal of proceeding
+- Section 14-3-745 - Discontinuance or settlement of proceeding prohibited without court approval
+- Section 14-3-746 - Payment of expenses of proceeding
+- Section 14-3-747 - Applicability to foreign corporations
+- Section 14-3-801 - Requirement for and duties of board of directors
+- Section 14-3-802 - Qualifications of directors
+- Section 14-3-803 - Number of directors
+- Section 14-3-804 - Election of directors
+- Section 14-3-805 - Terms of directors
+- Section 14-3-806 - Staggered terms for directors
+- Section 14-3-807 - Resignation of directors
+- Section 14-3-808 - Removal of directors elected by members or directors
+- Section 14-3-809 - Procedure for removing designated or appointed directors
+- Section 14-3-810 - Removal of director by court
+- Section 14-3-811 - Vacancies
+- Section 14-3-812 - Compensation of directors
+- Section 14-3-813 - Appointment of provisional director in case of deadlock
+- Section 14-3-820 - Meetings of directors
+- Section 14-3-821 - Action taken without meeting
+- Section 14-3-822 - Notice
+- Section 14-3-823 - Waiver of notice
+- Section 14-3-824 - Quorum; when director deemed to assent to action
+- Section 14-3-825 - Committees
+- Section 14-3-830 - Standards of conduct for directors
+- Section 14-3-831 - Liability for unlawful distribution
+- Section 14-3-840 - Required officers; minutes and records; holding more than one office; titles; signing of documents
+- Section 14-3-841 - Duties and authority of officers
+- Section 14-3-842 - Standards of conduct for officers; presumption of good faith and ordinary care
+- Section 14-3-843 - Resignation and removal of officers
+- Section 14-3-844 - Contract rights of officers
+- Section 14-3-845 - Authority of officer to sign documents; validity of document
+- Section 14-3-846 - Authentication and attestation of records; effect of corporate seal on document
+- Section 14-3-850 - Definitions
+- Section 14-3-851 - Authority to indemnify director involved in legal proceeding
+- Section 14-3-852 - Indemnification for reasonable expenses of successful defense
+- Section 14-3-853 - Advance or reimbursement of litigation expenses
+- Section 14-3-854 - Court ordered indemnification and payment of expenses
+- Section 14-3-855 - Determination of right and authorization for payment of indemnification required
+- Section 14-3-856 - Additional measure of director indemnification
+- Section 14-3-857 - Indemnification of officers, employees, and agents
+- Section 14-3-858 - Insurance
+- Section 14-3-859 - Applicability of indemnification provisions
+- Section 14-3-860 - Definitions
+- Section 14-3-861 - Transactions not subject to being enjoined, set aside, or other sanctions
+- Section 14-3-862 - Directors' action after disclosure of conflict or abstention by interested director
+- Section 14-3-863 - Members' action following disclosure of conflict
+- Section 14-3-864 - Effect of court approval of transaction
+- Section 14-3-865 - Officer's conflicting interest transactions
+- Section 14-3-870 - Procedures for disclaimer of business opportunities
+- Section 14-3-1001 - Authority of corporation to amend; vested property rights of members
+- Section 14-3-1002 - Amendment where corporation has no members or members not entitled to vote
+- Section 14-3-1003 - Amendment where vote of members required
+- Section 14-3-1004 - Voting on amendments by classes of members
+- Section 14-3-1005 - Articles of amendment
+- Section 14-3-1005.1 - Notice of intent to change corporate name
+- Section 14-3-1006 - Restated articles of incorporation
+- Section 14-3-1007 - Amendment of articles pursuant to court order
+- Section 14-3-1008 - Effect of amendment on existing cause of action
+- Section 14-3-1020 - Amendment where corporation has no members or members not entitled to vote
+- Section 14-3-1021 - Amendment where vote of members required
+- Section 14-3-1022 - Voting on amendments to bylaws by classes of members
+- Section 14-3-1030 - When approval by specified person required
+- Section 14-3-1040 - Authority to amend articles to operate as for profit corporation
+- Section 14-3-1041 - Procedure for amendment
+- Section 14-3-1042 - Applicability of Business Corporation Code
+- Section 14-3-1101 - Plan of merger
+- Section 14-3-1102 - Merger without court approval; notice to Attorney General; receipt or retention by member of anything resulting from merger
+- Section 14-3-1103 - Approval of plan of merger by members or directors; abandonment of plan
+- Section 14-3-1104 - Articles of merger; publication of notice of merger
+- Section 14-3-1104.1 - Required filing of notice of merger
+- Section 14-3-1105 - Effect of merger
+- Section 14-3-1106 - Merger with foreign corporation
+- Section 14-3-1107 - Effect of merger on bequest, devise, or other transfer of property
+- Section 14-3-1108 - Merger with other entities; requirements
+- Section 14-3-1120 - Procedure for domestication of foreign corporation; filing certificate of conversion and articles of incorporation
+- Section 14-3-1121 - Certificates of conversion; implementation
+- Section 14-3-1201 - Sale or other disposal of assets in usual course of activities; mortgage or other encumbrance of assets
+- Section 14-3-1202 - Sale or other disposition of assets other than in usual course of activities
+- Section 14-3-1301 - Dividends and distributions prohibited
+- Section 14-3-1302 - Exceptions to prohibition against distributions
+- Section 14-3-1401 - Dissolution by incorporators or initial directors
+- Section 14-3-1402 - Proposal of dissolution and approval thereof
+- Section 14-3-1403 - Plan of dissolution
+- Section 14-3-1404 - Notice of intent to dissolve
+- Section 14-3-1404.1 - Publication of notice of intent to dissolve
+- Section 14-3-1405 - Revocation of dissolution proceedings
+- Section 14-3-1406 - Effect of notice of intent to dissolve
+- Section 14-3-1407 - Disposition of known claims against corporation
+- Section 14-3-1408 - Request for presentation of claims; enforcement of claims; when claims barred
+- Section 14-3-1409 - Articles of dissolution
+- Section 14-3-1409.1 - [Renumbered] Claims pending prior to dissolution of a corporation
+- Section 14-3-1410 - Claims pending prior to dissolution of a corporation
+- Section 14-3-1411 - Revival of corporation after dissolution by expiration of period of duration
+- Section 14-3-1420 - Grounds for administrative dissolution
+- Section 14-3-1421 - Procedure for and effect of administrative dissolution
+- Section 14-3-1422 - Reinstatement following administrative dissolution
+- Section 14-3-1423 - Appeal from denial of reinstatement
+- Section 14-3-1430 - Grounds for judicial dissolution
+- Section 14-3-1431 - Procedure for judicial dissolution
+- Section 14-3-1432 - Authority to appoint receiver or custodian; powers and duties of receiver or custodian
+- Section 14-3-1433 - Decree of dissolution
+- Section 14-3-1440 - Deposit of assets with Office of the State Treasurer
+- Section 14-3-1501 - Certificate of authority to transact business required
+- Section 14-3-1502 - Transacting business without certificate of authority
+- Section 14-3-1503 - Application for certificate of authority
+- Section 14-3-1504 - Amended certificate of authority
+- Section 14-3-1505 - Effect of certificate of authority
+- Section 14-3-1506 - Corporate name of foreign corporation
+- Section 14-3-1507 - Registered office and registered agent of foreign corporation
+- Section 14-3-1508 - Change of registered office or registered agent of foreign corporation
+- Section 14-3-1509 - Resignation of registered agent of foreign corporation
+- Section 14-3-1510 - Service of process on foreign corporation
+- Section 14-3-1520 - Withdrawal of foreign corporation from state
+- Section 14-3-1530 - Grounds for revocation
+- Section 14-3-1531 - Procedure for and effect of revocation
+- Section 14-3-1532 - Appeal from revocation
+- Section 14-3-1540 - Applicability of chapter to foreign corporations domesticated under prior law
+- Section 14-3-1601 - Required corporate records
+- Section 14-3-1602 - Members' right to copy and inspect records
+- Section 14-3-1603 - Scope of inspection right
+- Section 14-3-1604 - Court-ordered inspection
+- Section 14-3-1605 - Use of membership list
+- Section 14-3-1606 - Inspection rights of directors
+- Section 14-3-1620 - Furnishing financial statements to members
+- Section 14-3-1621 - Report to members of indemnification or advance of expenses
+- Section 14-3-1622 - Annual registration of corporation
+- Section 14-3-1701 - Corporations as to which chapter applicable and as to which not applicable; corporations existing on July 1, 1991; foreign and interstate commerce
+- Section 14-3-1702 - Applicability to qualified foreign corporations
+- Section 14-3-1703 - Saving provisions

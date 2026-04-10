@@ -1,0 +1,21 @@
+# Chapter 12 - CONTROL OF HAZARDOUS CONDITIONS, PREVENTABLE DISEASES, AND METABOLIC DISORDERS (§§ 31-12-1 — 31-12-14)
+
+- Section 31-12-1 - Power to conduct research and studies
+- Section 31-12-1.1 - &quot;Bioterrorism&quot; and &quot;public health emergency&quot; defined
+- Section 31-12-2 - Reporting certain diseases and neonatal abstinence syndrome; confidentiality; reporting required of pharmacists; immunity from liability as to information supplied; notification of potential bioterrorism
+- Section 31-12-2.1 - Investigation of potential bioterrorism activity; regulations and planning for public health emergencies
+- Section 31-12-3 - Power to require immunization and other preventive measures
+- Section 31-12-3.1 - Vaccination registry; reporting requirements, maintenance, and use of information
+- Section 31-12-3.2 - Meningococcal disease; vaccinations; disclosures
+- Section 31-12-4 - Isolation and segregation of diseased persons; quarantine
+- Section 31-12-4.1 - Smallpox vaccination and treatment program
+- Section 31-12-5 - State-wide network for medical genetics services
+- Section 31-12-6 - System for prevention of serious illness, severe physical or developmental disability, and death resulting from inherited metabolic and genetic disorders; establishment of Newborn Screening and Genetics Advisory Committee
+- Section 31-12-7 - Rules and regulations regarding tests for sickle cell anemia, sickle cell trait, and other metabolic and genetic disorders; counseling; fees
+- Section 31-12-8 - Occupational health and safety
+- Section 31-12-9 - Importation, sale, and breeding of animals and birds to be kept as pets
+- Section 31-12-10 - Right of entry to facility
+- Section 31-12-11 - Abating operation of bathhouses
+- Section 31-12-12 - Restrictions on sale or dispensing of contact lenses and spectacles; definitions; responsibilities relating to prescriptions; criminal violation; enforcement
+- Section 31-12-13 - Definitions concerning bloodborne pathogens; standards; funds for research and development
+- Section 31-12-14 - Cancer research program fund; contributions; accounting

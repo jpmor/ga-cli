@@ -1,0 +1,84 @@
+# Chapter 3 - EXAMINATION, TREATMENT, ETC., FOR MENTAL ILLNESS (§§ 37-3-1 — 37-3-215)
+
+- Section 37-3-1 - Definitions
+- Section 37-3-2 - Authority of board to issue regulations; powers of department generally
+- Section 37-3-3 - Validity of hospitalization orders entered before September 1, 1978; establishment of regulations as to orders authorizing continued hospitalization of patients hospitalized before September 1, 1978
+- Section 37-3-4 - Immunity from liability for actions taken in good faith compliance with admission and discharge provisions of chapter; immunity not applicable to failure to meet standard of care in provision of treatment
+- Section 37-3-5 - Apprehension by peace officer of patient who leaves facility without permission
+- Section 37-3-6 - Approval of private facilities as emergency receiving, evaluating, or treatment facility; powers and duties of private facilities; right to deny admission
+- Section 37-3-7 - Abandoning or leaving patients on grounds of psychiatric hospital
+- Section 37-3-8 - Loitering or trespassing on grounds of psychiatric hospital
+- Section 37-3-20 - Admission of voluntary patients; consent of parent or guardian to treatment; giving notice of rights to patient at time of admission
+- Section 37-3-21 - Discharge of voluntary patients upon recovery or termination of need for hospitalization; notice of discharge
+- Section 37-3-22 - Right of voluntary patient to discharge upon application; exception; procedure on denial of application for discharge; notice of discharge
+- Section 37-3-23 - Giving voluntary patients periodic notice of rights
+- Section 37-3-24 - Transfer of involuntary patients to voluntary status; notice of transfer and of discharge of patients so transferred; discharge of transferred patient charged with criminal offense
+- Section 37-3-40 - Designation by department of emergency receiving facilities; reporting; penalty for noncompliance
+- Section 37-3-41 - Emergency admission based on physician's certification or court order; report by apprehending officer; entry of treatment order into patient's clinical record; authority of other personnel to act under statute; annual reporting
+- Section 37-3-42 - Emergency admission of persons arrested for penal offenses; report by officer; entry of report into clinical record
+- Section 37-3-43 - Procedure upon admission; notice of proposed discharge
+- Section 37-3-44 - Giving person and representatives notice of their rights upon admission to emergency receiving facility
+- Section 37-3-60 - Designation of evaluating facilities
+- Section 37-3-61 - Initiation of proceedings for court ordered evaluation
+- Section 37-3-62 - Hearing on petition for court ordered evaluation; recipients of hearing notice; appointment of representatives; contents of notice; patient's right to counsel; waiver of hearing; procedure upon issuance of order for evaluation
+- Section 37-3-63 - Admission of persons to evaluating facilities for evaluation and emergency treatment
+- Section 37-3-64 - Length of detention in evaluating facility; discharge; procedure upon determination of need for hospitalization or involuntary treatment; recipients of notice of discharge from facility
+- Section 37-3-65 - Request for transfer to another evaluating facility; recipients of notice of transfer
+- Section 37-3-80 - Designation of treatment facilities
+- Section 37-3-81 - Procedure for detention of patient beyond evaluation period; final disposition
+- Section 37-3-81.1 - Disposition of patient upon hearing
+- Section 37-3-82 - Procedure upon failure of or noncompliance with involuntary outpatient treatment plan
+- Section 37-3-83 - Procedure for continued involuntary hospitalization
+- Section 37-3-84 - Appointment of hearing examiners for hearings as to continued hospitalization; powers of hearing examiners generally; issuance of subpoenas
+- Section 37-3-85 - Periodic review of individualized service plan; procedure upon end of need for involuntary treatment; designation of discharge decision maker; notice of discharge or transfer to voluntary status
+- Section 37-3-90 - Physician's or psychologist's determination and certification as to necessity of involuntary care; treatment of patient as inpatient or outpatient; minors
+- Section 37-3-91 - Discharge of persons meeting outpatient care criteria
+- Section 37-3-92 - Hearing; notice; waiver of hearing; apprehension and detention of patient failing to appear; treatment upon waiver
+- Section 37-3-93 - Court order for outpatient treatment; physician's or psychologist's petition to extend order; review of petition; hearing on extension petition; patients under juvenile court jurisdiction
+- Section 37-3-94 - Reviews of individual service plans; discharge of patients from treatment; notice of discharge
+- Section 37-3-95 - Discharge of patients under criminal charges
+- Section 37-3-100 - Placement and transfer of patients generally
+- Section 37-3-101 - Transportation of patients generally
+- Section 37-3-102 - Transfer of patients to custody of federal agencies for diagnosis, care, or treatment; retention of jurisdiction by Georgia courts; jurisdiction in federal hospitals and institutions located in Georgia
+- Section 37-3-103 - Procedure for transfer of Georgia residents from out-of-state hospitals to Georgia hospitals
+- Section 37-3-104 - Procedure upon discovery that a patient hospitalized in Georgia is not a resident
+- Section 37-3-120 - Effect of inability to pay on right to care and treatment
+- Section 37-3-121 - Liability for certain expenses of transporting, examining, and caring for patients
+- Section 37-3-122 - Payment of expenses incurred in connection with hearings held under this chapter
+- Section 37-3-140 - Retention of rights and privileges by patients generally; right to due process
+- Section 37-3-141 - Patients' right to legal counsel
+- Section 37-3-142 - Communication and visitation rights of patients; inspection, restriction, and censorship of patient correspondence; establishment of regulations governing visits and use of telephones
+- Section 37-3-143 - Patients' rights in regard to personal effects; liability of facility's employees and staff members for loss of or damage to patients' personal effects
+- Section 37-3-144 - Patients' right to vote
+- Section 37-3-145 - Employment of patients outside facilities
+- Section 37-3-146 - Education of children undergoing treatment in a facility
+- Section 37-3-147 - Representatives and guardians ad litem; notification provisions; duration and scope of guardianship ad litem
+- Section 37-3-148 - Right of patients or representatives to petition for writ of habeas corpus and for judicial protection of rights and privileges granted by this chapter
+- Section 37-3-149 - Establishment of procedures for receiving patients' and staff complaints; making of final decisions; establishment of rules and regulations implementing procedures; complaint procedures as alternative to legal remedies
+- Section 37-3-150 - Right to appeal orders of probate court, juvenile court, or hearing examiner; payment of costs of appeal; right to subsequent appeal; right to legal counsel on appeal
+- Section 37-3-160 - Individual dignity of patients to be respected; treatment of the mentally ill as medical patients; use of criminal facilities and procedures
+- Section 37-3-161 - Securing of least restrictive alternative placement; assisting patient in securing placement in noninstitutional community facilities and programs
+- Section 37-3-162 - Patients' care and treatment rights
+- Section 37-3-163 - Recognition of patient's physical integrity; rights to refuse medication; obtaining consent to treatment and surgery; emergency surgery; immunity of hospital or physician; direction of notice of actions taken under Code section
+- Section 37-3-164 - &quot;Representative,&quot; &quot;substantial change&quot; defined; consultation by patient's representative with treatment facility; notification of treatment change; guardian's consultation and notification rights
+- Section 37-3-165 - Mistreatment, neglect, or abuse of patients prohibited; use of medication, physical restraints, or seclusion restricted; standards for use of physical restraint
+- Section 37-3-166 - Treatment of clinical records; when release permitted; scope of privileged communications; liability for disclosure; notice to sheriff of discharge
+- Section 37-3-167 - Right of patient to examine his records and to request correction of inaccuracies; promulgation of rules and regulations; judicial supervision of files and records relating to proceedings under this chapter
+- Section 37-3-168 - Right of patient's attorney to interview physicians, psychologists, and staff attending patient; establishment of regulations as to release of information to patient's attorney
+- Section 37-3-200 - Short title
+- Section 37-3-201 - Purpose
+- Section 37-3-202 - Definitions
+- Section 37-3-203 - Classification of residential programs
+- Section 37-3-204 - Regulations establishing minimum standards
+- Section 37-3-205 - Regulatory and licensing authority
+- Section 37-3-206 - Licensing requirement; funding contingency
+- Section 37-3-207 - Applications; proof of compliance
+- Section 37-3-208 - Provisional licensing; terms
+- Section 37-3-208.1 - One-time provisional license
+- Section 37-3-209 - Proof of accreditation
+- Section 37-3-210 - Nontransferable licensing
+- Section 37-3-211 - Denial, suspension or revocation of license
+- Section 37-3-212 - Confidentiality of records and names of mentally ill persons seeking treatment
+- Section 37-3-213 - On-site inspections
+- Section 37-3-214 - Role of disability services ombudsman
+- Section 37-3-215 - Unlicensed residential mental health program; penalty

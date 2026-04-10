@@ -1,0 +1,343 @@
+# Chapter 5 - AD VALOREM TAXATION OF PROPERTY (§§ 48-5-1 — 48-5-607)
+
+- Section 48-5-1 - Legislative intent
+- Section 48-5-2 - Definitions
+- Section 48-5-3 - Taxable property
+- Section 48-5-4 - Ad valorem taxation of property of federal corporations and agencies
+- Section 48-5-5 - No situs status for foreign merchandise in transit and property with contract for commercial printing services
+- Section 48-5-6 - Return of property at fair market value
+- Section 48-5-7 - Assessment of tangible property
+- Section 48-5-7.1 - Tangible real property devoted to agricultural purposes
+- Section 48-5-7.2 - Preferential assessment for rehabilitated historic property
+- Section 48-5-7.3 - Preferential assessment for landmark historic property
+- Section 48-5-7.4 - Preferential assessment for bona fide conservation use property and bona fide residential transitional property
+- Section 48-5-7.5 - Assessment of standing timber; penalty for failure to timely report; effect of reduction of property tax digest; supplemental assessment
+- Section 48-5-7.6 - Preferential assessment for brownfield property
+- Section 48-5-7.7 - Preferential assessment for forest land conservation use property
+- Section 48-5-8 - [Reserved] Manner and time of making state levy; notice on taxpayer's ad valorem tax bill
+- Section 48-5-9 - Persons liable for taxes on property
+- Section 48-5-9.1 - Forms of payment
+- Section 48-5-10 - Returnable property
+- Section 48-5-11 - Situs for returns by residents
+- Section 48-5-12 - Situs of returns by nonresidents
+- Section 48-5-13 - Instruction for local tax officials and staff
+- Section 48-5-14 - Liability of nonresidents, agents of nonresidents, and their property
+- Section 48-5-15 - Returns of taxable real property
+- Section 48-5-15.1 - Returns of real property and tangible personal property located on airport premises
+- Section 48-5-16 - Return of tangible personal property in county where business conducted; exemptions; boats; aircraft
+- Section 48-5-17 - Proceedings to determine county entitled to return and payment; collection pending determination; commissions
+- Section 48-5-18 - Time for making tax returns
+- Section 48-5-19 - Signature and declaration of persons making returns of taxable property
+- Section 48-5-20 - Effect of failure to return taxable property; acquisition of real property by transfer; penalty for failure to make timely return
+- Section 48-5-21 - Return and collection of taxes on property unlawfully exempted
+- Section 48-5-22 - Penalty for failing to have returned for taxation and to collect taxes on property unlawfully exempted
+- Section 48-5-23 - Collection and payment of taxes on tangible property in installments; authorization; alternate procedure
+- Section 48-5-24 - Payment of taxes to county in which returns are made; installment payments, interest, and penalty on delinquent tax payments in certain counties; executions
+- Section 48-5-25 - Proportionate payments of property taxes by owners and persons with interest in or on property
+- Section 48-5-26 - Payment of taxes on real property by owners or transferees
+- Section 48-5-27 - Collection of taxes for former years
+- Section 48-5-28 - Priority of taxes over other claims; superiority of security deed
+- Section 48-5-29 - Acquisition of jurisdiction by superior court in ad valorem property tax litigation; payment and distribution of property taxes; excess payments; underpayments
+- Section 48-5-30 - Filing extension for service personnel serving abroad
+- Section 48-5-31 - Prepayment by developer of ad valorem or school taxes; time of effect of prepayment agreements; use of prepayment proceeds for public purposes; forfeiture of excess of prepayment over taxes due; validation procedure
+- Section 48-5-31.1 - Contract with local government and tax commissioner for prepayment of ad valorem taxes
+- Section 48-5-32 - Publication by county of ad valorem tax rate
+- Section 48-5-32.1 - Certification of assessed taxable value of property and method of computation; resolution or ordinance required for millage rate; advertisement of intent to increase property tax
+- Section 48-5-33 - Temporary tax relief to buildings in disaster area; assessment; local authority; appeals
+- Section 48-5-34 - Ad valorem property tax bill form
+- Section 48-5-40 - Definitions
+- Section 48-5-41 - Exempt property
+- Section 48-5-41.1 - Exemption of qualified farm products and harvested agricultural products of family farm entities
+- Section 48-5-41.2 - Exemption of personal property in inventory for business
+- Section 48-5-41.3 - Exemption of timber equipment
+- Section 48-5-42 - Exempt personalty
+- Section 48-5-42.1 - Personal property tax exemption for property valued at $7,500.00 or less
+- Section 48-5-43 - Exemption for fertilizers
+- Section 48-5-44 - Exemption of homestead occupied by owner; effect of participation in rural housing program
+- Section 48-5-44.1 - Homestead exemption for certain residents residing in a municipal corporation located in more than one county
+- Section 48-5-44.2 - Base year homestead exemption
+- Section 48-5-45 - Application for homestead exemption; unlawful to solicit fee to file application for homestead for another
+- Section 48-5-46 - Procedure for application for homestead exemption
+- Section 48-5-47 - Applications for homestead exemptions of individuals 65 or older
+- Section 48-5-47.1 - Homestead exemptions for individuals 62 or older with annual incomes not exceeding $30,000.00
+- Section 48-5-48 - Homestead exemption for qualified disabled veterans
+- Section 48-5-48.1 - Level 1 freeport exemption; application; filing; renewal
+- Section 48-5-48.2 - Level 1 freeport exemption; referendum
+- Section 48-5-48.3 - Homestead exemption for senior citizens
+- Section 48-5-48.4 - Homestead exemption for unremarried surviving spouse of peace officer or firefighter killed in the line of duty
+- Section 48-5-48.5 - Level 2 freeport exemption; application; filing; renewal
+- Section 48-5-48.6 - Level 2 freeport exemption; referendum
+- Section 48-5-48.7 - Freeport exemptions; determination of timely filing; recourse for improper determinations
+- Section 48-5-49 - Determination of eligibility of applicant for homestead exemption; appeal
+- Section 48-5-50 - Homestead value credited with exemption; approval of correctness of value, exemption, and difference
+- Section 48-5-50.1 - Claim and return of constitutional or local law homestead exemptions from county taxes, county school taxes, or municipal or independent school district taxes
+- Section 48-5-51 - Fraudulent claim of homestead exemption under Code Sections 48-5-44 through 48-5-50; penalty
+- Section 48-5-52 - Exemption from ad valorem taxation for educational purposes of homesteads of qualified individuals 62 or older; application; replacement of revenue
+- Section 48-5-52.1 - Exemption from ad valorem taxation for state, county, municipal, and school purposes of homesteads of unremarried surviving spouses of U.S. servicemembers killed in action
+- Section 48-5-53 - Falsification of information required by Code Section 48-5-52; penalty
+- Section 48-5-54 - Application of homestead exemptions to properties with multiple titleholders and properties held by administrators, executors, or trustees
+- Section 48-5-55 - Continuation of constitutional exemptions from ad valorem taxation
+- Section 48-5-56 - Notice of homestead exemptions from ad valorem taxation to accompany bill for ad valorem taxes on real property
+- Section 48-5-70 - Short title
+- Section 48-5-71 - Definitions
+- Section 48-5-72 - Homestead tax deferral for individuals 62 or older; demonstration of compliance with part
+- Section 48-5-72.1 - Alternative to tax deferral authorized by Code Section 48-5-72; burden on applicant to demonstrate compliance
+- Section 48-5-73 - Limitations on grant of homestead tax deferral
+- Section 48-5-74 - Application for homestead tax deferral; decision by tax official; appeal procedure
+- Section 48-5-75 - Rate of interest on amount of deferred taxes; time of accrual of interest on deferred taxes
+- Section 48-5-76 - Deferred taxes and interest constitute prior lien; effect of award for year's support on liens for deferred taxes
+- Section 48-5-77 - Annual notification to property owner of sum of deferred taxes and interest outstanding
+- Section 48-5-78 - Change in ownership or use of, or failure to maintain insurance on, tax-deferred homestead; payment of deferred taxes, interest, and unsatisfied liens
+- Section 48-5-79 - Prepayment of deferred taxes and accrued interest; partial payments
+- Section 48-5-80 - Distribution of deferred tax and interest payments; duty to keep record of property and amount of payment
+- Section 48-5-81 - Payment by holder of deed to secure debt or by mortgagee; effect on right to foreclose
+- Section 48-5-82 - Prohibition of clauses preventing applications for homestead tax deferral; exceptions
+- Section 48-5-83 - Construction of part
+- Section 48-5-84 - Penalties for willfully filing incorrect information
+- Section 48-5-101 - Oath and bond for tax receivers
+- Section 48-5-102 - Liability of tax receivers and sureties; action on tax receiver's bond
+- Section 48-5-103 - Duties of tax receivers
+- Section 48-5-104 - Refusal by tax receiver or tax commissioner to receive returns; penalty
+- Section 48-5-105 - Tax return forms furnished by commissioner to tax receivers and tax commissioners
+- Section 48-5-105.1 - Uniform tangible personal property tax forms
+- Section 48-5-106 - Time and manner of making and furnishing county tax digests
+- Section 48-5-107 - [Repealed] [Reserved] Form and size, binding, and labeling of digests
+- Section 48-5-108 - Entry of returns in digests
+- Section 48-5-109 - Accumulation of statistical information on taxpayers by tax receivers and tax commissioners
+- Section 48-5-121 - Oath of office for tax collectors
+- Section 48-5-122 - Bonds for tax collectors and tax commissioners
+- Section 48-5-123 - Approval, filing, and recording of bonds
+- Section 48-5-124 - Liability of tax collectors, tax commissioners, and sureties; action on bond
+- Section 48-5-125 - Collection before bond given and oath taken; penalty
+- Section 48-5-126 - Temporary appointee where tax collector or tax commissioner fails to give satisfactory bond
+- Section 48-5-126.1 - Training classes for county tax collectors and tax commissioners
+- Section 48-5-127 - Duties of tax collectors
+- Section 48-5-128 - Transfer of duties from outgoing to incoming tax collector or tax commissioner
+- Section 48-5-128.1 - Appointment in certain counties of chief deputy tax commissioner; filling vacancy in office of chief deputy; succession to office of tax commissioner
+- Section 48-5-129 - Allowance of insolvent lists; reissuance of executions before allowance of insolvent lists
+- Section 48-5-130 - Allocation of tax on insolvent lists; contents of list of insolvent taxpayers
+- Section 48-5-131 - Retention of copy of insolvent list by county governing authority; collection of executions
+- Section 48-5-132 - Disposition of insolvent lists
+- Section 48-5-133 - Crediting tax collectors and tax commissioners with insolvent lists
+- Section 48-5-134 - Extension of time to complete digests and pay taxes
+- Section 48-5-135 - Effect of collection or attempted collection of taxes before filing digest with commissioner
+- Section 48-5-137 - Tax collectors and tax commissioners as ex officio sheriffs
+- Section 48-5-137.1 - Advertising as additional cost of execution
+- Section 48-5-138 - Cashbook to be kept by tax collectors and tax commissioners; recording disbursements; audit
+- Section 48-5-139 - Failure by tax collector or tax commissioner to keep cashbook; penalty
+- Section 48-5-140 - Accountability of tax collectors and tax commissioners to county governing authority; effect of failure to account; appointment of successor
+- Section 48-5-141 - Periodic payment to proper officials of money collected by tax collector or commissioner, sheriff, or constable
+- Section 48-5-142 - Weekly report of taxes collected by tax collector or tax commissioner to county governing authority
+- Section 48-5-143 - Monthly remittance of state taxes to commissioner
+- Section 48-5-144 - Furnishing report forms by commissioner
+- Section 48-5-145 - Effect of neglect of duty by tax collector or tax commissioner
+- Section 48-5-146 - Receipt of checks or money orders by tax commissioner or tax collector; liability for unpaid checks or money orders; penalty
+- Section 48-5-147 - Use of lock box system for mailed tax returns and payments
+- Section 48-5-148 - Interest on unpaid taxes; rate; record of interest and taxes collected
+- Section 48-5-150 - Alternative provisions for interest and final settlements; rate of interest; reports; forfeiture of commissions
+- Section 48-5-151 - Interest payments by tax collectors and tax commissioners
+- Section 48-5-152 - Effect of failure to collect interest and make reports and settlements; penalty
+- Section 48-5-153 - Reports of unpaid taxes by tax collector and tax commissioner to commissioner and county governing authority; final settlement period
+- Section 48-5-154 - Annual accounting reports; citations for default, negligence, or bad faith; approval in whole or in part
+- Section 48-5-155 - Removal or suspension of tax collector or tax commissioner failing to account or defaulting; opportunity for hearing; citation
+- Section 48-5-156 - Surety's right to demand release from future liability; office vacated by failure to provide new bond; liability of new surety
+- Section 48-5-157 - Transfer of executions to tax collector, tax commissioner, or surety held liable for failure to collect taxes; subrogation
+- Section 48-5-158 - Nonliability of tax collector, tax commissioner, and surety for failure to collect taxes
+- Section 48-5-159 - False reports of taxes collected by tax collector or tax commissioner pursuant to this article; penalty
+- Section 48-5-161 - Issue of execution; execution docket; levy administration fee; collection; inspection by grand jury
+- Section 48-5-162 - Penalties for violations of subsection (a)
+- Section 48-5-163 - [Repealed] [Reserved] Fee for issuing tax executions; allowance of costs on executions
+- Section 48-5-164 - Duties of successor tax collector or tax commissioner as to performing uncompleted duties of outgoing collector or commissioner; distribution of commissions; liability
+- Section 48-5-165 - Duty of tax collector to instruct taxpayers that negotiable instruments are to be made payable to county tax office
+- Section 48-5-180 - Rates of commissions
+- Section 48-5-181 - Deductions of default and insolvent lists for net amount of digests
+- Section 48-5-182 - Payment of commissions to tax receivers
+- Section 48-5-183 - Salaries of tax collectors and tax commissioners
+- Section 48-5-183.1 - Monthly contingent expense allowance for the operation of the office of the tax commissioner
+- Section 48-5-184 - Deferred compensation plan for eligible tax commissioners; contributions
+- Section 48-5-200 - Issuance of process against tax receiver, tax collector, or tax commissioner indebted in any way to state
+- Section 48-5-201 - Issuance of executions against tax collector or tax commissioner upon failure to settle accounts; allowance of credits; interest only on amount of default
+- Section 48-5-202 - Direction to sheriffs of executions against tax collectors, tax receivers, and tax commissioners; suspension of collection; property bound; proceedings of sale
+- Section 48-5-203 - Affidavit of illegality to execution against tax collector, tax commissioner, and sureties; trial; damages for delay; appeal
+- Section 48-5-204 - Authority to vacate commissions of defaulting tax collectors, tax commissioners, or tax receivers; filling vacancies
+- Section 48-5-205 - Penalties for incomplete or improper digests
+- Section 48-5-206 - [Repealed] Liability of tax receiver or tax commissioner for making false entry of a return or for causing taxpayer to pay more than lawful tax
+- Section 48-5-210 - Election of county tax receivers, tax collectors, and tax commissioners; qualifications
+- Section 48-5-211 - Interim and emergency filling of vacancies in office of tax receiver, collector, or commissioner
+- Section 48-5-212 - Chief deputy tax receiver, collector, or commissioner; appointment; duties; assumption of duties of tax commissioner
+- Section 48-5-220 - Purposes of county taxes
+- Section 48-5-233 - Official collection and paying over of county taxes
+- Section 48-5-234 - Enforcement of collection and payment of county property taxes
+- Section 48-5-235 - Liability of tax commissioners and tax collectors for default or improper conduct
+- Section 48-5-236 - Allowance of commissions of tax commissioners or tax collectors
+- Section 48-5-237 - Payment of taxes where property lies in more than one county
+- Section 48-5-238 - Executions against persons holding county money
+- Section 48-5-239 - Affidavit of illegality by person against whom execution issues
+- Section 48-5-240 - Borrowing county money
+- Section 48-5-241 - Refund or credit of county taxes
+- Section 48-5-242 - Waiver of penalties or interest due on unpaid taxes
+- Section 48-5-243 - Waiver of penalty or interest when default due to military service
+- Section 48-5-260 - Purpose of part
+- Section 48-5-261 - Classification of counties for administration of part
+- Section 48-5-262 - County appraisal staff; qualifications; inclusion of employees of county board of tax assessors in county civil service system
+- Section 48-5-263 - Qualifications, duties, and compensation of appraisers
+- Section 48-5-264 - Designation and duties of chief appraiser
+- Section 48-5-264.1 - Right to inspect property; display of identification; notification of right to file property tax return
+- Section 48-5-265 - Formation of joint county property appraisal staffs
+- Section 48-5-266 - Submission by chief appraiser of assessment list with supporting information; attendance and providing of information at appeal hearings
+- Section 48-5-267 - State payments for minimum staff of appraisers; state salary supplements for qualified appraisers
+- Section 48-5-268 - Training and continuing education courses for appraisers; designated staff member to appraise tangible personal property
+- Section 48-5-269 - Authority to promulgate rules and regulations regarding uniform books, records, forms, and manuals; limits on change in current use value of conservation use property
+- Section 48-5-269.1 - Adoption by commissioner and requirement of use of uniform procedural manual for appraising tangible personal property
+- Section 48-5-270 - Commissioner's authority to purchase, develop, prescribe, and improve electronic data processing systems regarding property valuation and assessment
+- Section 48-5-271 - Table of values for conservation use value of forest land
+- Section 48-5-273 - Counties to submit tax rate to commissioner
+- Section 48-5-274 - Establishment of equalized adjusted property tax digest; establishment and use of average ratio; information to be furnished by state auditor; grievance procedure; information to be furnished by commissioner
+- Section 48-5-275 - Applicability of part
+- Section 48-5-290 - Creation of county board of tax assessors; composition
+- Section 48-5-291 - Qualifications for members; approved appraisal courses; rules and regulations
+- Section 48-5-292 - Ineligibility of county tax assessors to hold other offices; applicability in certain counties
+- Section 48-5-293 - Oaths of office
+- Section 48-5-294 - Compensation
+- Section 48-5-295 - Terms of office; vacancies; removal by county governing authority
+- Section 48-5-295.1 - Performance review board
+- Section 48-5-295.2 - Independent performance review board; written report; withholding of funds
+- Section 48-5-296 - Removal from office on petition of freeholders; appeals
+- Section 48-5-297 - Meetings
+- Section 48-5-298 - Selection of chairman and secretary; employment contracts with persons to assist board; payment of expenses
+- Section 48-5-299 - Ascertainment of taxable property; assessments against unreturned personal property; penalty for unreturned property; changing real property values established by appeal in prior year or stipulated by agreement
+- Section 48-5-299.1 - Designation of board of assessors to receive tax returns
+- Section 48-5-300 - Power to summon witnesses and require production of documents; exempt documents; contempt proceedings
+- Section 48-5-300.1 - Time period for taxation of personal property; extension by consent; refunds
+- Section 48-5-301 - Time for presentation of returns by tax receiver or tax commissioner
+- Section 48-5-302 - Time for completion of revision and assessment of returns; submission of completed digest to commissioner
+- Section 48-5-303 - Correction of mistakes in digest; notification of correction
+- Section 48-5-304 - Conditions, procedures, and limitations on approval of tax digests when assessments in arbitration or on appeal; withholding of grants by Office of the State Treasurer
+- Section 48-5-305 - Valuation of property not in digest
+- Section 48-5-306 - Annual notice of current assessment; contents; posting notice; new assessment description
+- Section 48-5-306.1 - Brochures describing exemptions and preferential assessments available to taxpayers
+- Section 48-5-307 - Service of papers; fees
+- Section 48-5-308 - Effect of part on laws granting additional authority to county boards of tax assessors
+- Section 48-5-309 - Applicability to counties electing members of board of tax assessors
+- Section 48-5-310 - Temporary collection of taxes pending approval or appeal of disapproval of digest
+- Section 48-5-311 - Creation of county boards of equalization; duties; review of assessments; appeals
+- Section 48-5-313 - Applicability of part
+- Section 48-5-314 - Confidentiality of taxpayer records; exceptions; penalties
+- Section 48-5-330 - Financial aid to counties for programs to evaluate and equalize assessments; terms of contract; limitations; procedure when state funds insufficient
+- Section 48-5-331 - Capital fund for loans to counties for property valuation and equalization purposes
+- Section 48-5-340 - Purpose of article
+- Section 48-5-341 - Definitions
+- Section 48-5-342 - [Effective until 7/1/2026] Commissioner to examine digests
+- Section 48-5-342 - [Effective 7/1/2026] Commissioner to examine digests
+- Section 48-5-342.1 - Digest evaluation cycles established; time for review of digest
+- Section 48-5-343 - Approval of digests
+- Section 48-5-344 - Conditional approval of digests
+- Section 48-5-345 - Receipt for digest and order authorizing use; assessment if deviation from proper assessment ratio
+- Section 48-5-346 - Effect of conditionally approving next subsequent digest
+- Section 48-5-348 - Appeal from conditional approvals
+- Section 48-5-349.2 - Procedure for appeal to department
+- Section 48-5-349.3 - Appeal to superior court
+- Section 48-5-349.4 - Compliance with decision of appeals board or court as correction of deficiency
+- Section 48-5-349.5 - Annual report
+- Section 48-5-350 - Power to levy and collect tax to provide funds for municipal development authorities
+- Section 48-5-351 - Power to levy and collect taxes to pay benefits under teacher retirement systems
+- Section 48-5-352 - Determination of fair market value for county and municipal ad valorem property taxation purposes; counties to furnish information relative to fair market value of property
+- Section 48-5-353 - Basis for fair market value of property subject to both municipal and county ad valorem taxes
+- Section 48-5-354 - Law governing municipal and county occupation taxes for certain salespersons and merchants
+- Section 48-5-355 - Exemption from municipal tax or license fee of certain goods purchased in carload lots for distribution among several purchasers
+- Section 48-5-356 - Exemption from municipal taxation of agricultural products and livestock raised in state
+- Section 48-5-357 - Frontage owned by state or subdivisions abutting streets or sidewalks treated as owned by individuals for purpose of assessment for improvements; designation of signers
+- Section 48-5-358 - Executions for collection of assessments for paving streets, laying sewers, or other improvements; sales at public auction; right of redemption
+- Section 48-5-359 - Sale of property for taxes due municipality; purchase and sale by municipality; recitals in tax deeds prima-facie correct; distribution and retention of proceeds of sale
+- Section 48-5-359.1 - Contracts for county tax commissioners to prepare municipal tax digests and assess and collect municipal taxes
+- Section 48-5-360 - Issuance and service of summons of garnishment against person holding property of defendant owing municipal taxes; entries on execution and returns; proceedings
+- Section 48-5-361 - Applicability to counties
+- Section 48-5-380 - Refunds of taxes and license fees by counties and municipalities; time and manner of filing claims and actions for refund; authority to approve or disapprove claims
+- Section 48-5-381 - Reserve funds of counties and municipalities
+- Section 48-5-400 - Power of county governing authorities to levy and collect taxes for educational purposes
+- Section 48-5-401 - Annual recommendation by county boards of education to county governing authorities of school tax rate
+- Section 48-5-402 - Public utility property in school districts subject to school tax; returns to show fair market value of property; assessment and collection of school tax by commissioner; contesting taxability
+- Section 48-5-403 - [Repealed] [Reserved] Assessment of property subject to school taxes by tax commissioners or tax receivers; adoption and use of assessment by county boards of education; contesting taxability
+- Section 48-5-404 - Collection of county school taxes by tax commissioners or tax collectors; collection of school taxes and commissions in certain counties
+- Section 48-5-405 - Levy and collection of tax by municipalities for independent school systems; authorized purposes for expenditures
+- Section 48-5-420 - &quot;Special franchise&quot; defined
+- Section 48-5-421 - Taxation of unenumerated franchises
+- Section 48-5-421.1 - Certain property projects shall not constitute special franchises
+- Section 48-5-422 - Returns to commissioner; effect of filing certified copy of authorization of franchise
+- Section 48-5-423 - Ascertainment of valuations of special franchises; levy and collection of tax
+- Section 48-5-424 - Returns of special franchises exercised in more than one county, municipality, or school district; apportionment of valuation; certification by commissioner; collection and enforcement
+- Section 48-5-425 - Deductions from special franchise tax due any county, municipality, or school district
+- Section 48-5-440 - Definitions
+- Section 48-5-441 - Classification of motor vehicles and mobile homes as separate classes of tangible property for ad valorem taxation purposes; procedures prescribed in article exclusive
+- Section 48-5-441.1 - Classification of motor vehicles for purposes of ad valorem taxation
+- Section 48-5-442 - Preparation and distribution of uniform evaluation of motor vehicles for tax purposes
+- Section 48-5-442.1 - Definitions; determination of valuation of commercial vehicle for ad valorem tax purposes
+- Section 48-5-443 - Ad valorem tax rate
+- Section 48-5-444 - Place of return of motor vehicles and mobile homes
+- Section 48-5-445 - Collection of ad valorem taxes by tax collectors or tax commissioners
+- Section 48-5-446 - Remittance of taxes collected to tax authority; time
+- Section 48-5-447 - Compensation of tax collectors and tax commissioners for collecting taxes; rates; agreed rate in case of individual adjustment; procedure; disposition of commissions pursuant to local Acts
+- Section 48-5-448 - Value of all returned motor vehicles and mobile homes included in tax digest
+- Section 48-5-449 - Discretion of county governing authorities to expend county funds for additional help and equipment
+- Section 48-5-450 - Contesting tax assessments; filing affidavit of illegality; bond; trial in superior court; appeal
+- Section 48-5-451 - Penalty for failure to make return or pay tax on motor vehicle or mobile home
+- Section 48-5-470 - Exemption of driver educational motor vehicles from ad valorem taxation
+- Section 48-5-470.1 - Exemption of motor vehicles used for transporting persons with disabilities or disabled students to or from educational institutions
+- Section 48-5-470.2 - Exemption of vans and buses owned by religious groups
+- Section 48-5-471 - Motor vehicles subject to ad valorem taxation
+- Section 48-5-472 - Ad valorem taxation of motor vehicles owned and held by dealers for retail sale
+- Section 48-5-473 - Returns for taxation; application for and issuance of license plates upon payment of taxes due
+- Section 48-5-474 - Application for registration and purchase of license plate constitutes return; form of application
+- Section 48-5-475 - Tax collectors and tax commissioners as agents of commissioner for accepting applications for registration of motor vehicles
+- Section 48-5-476 - Collection procedure when taxing county differs from county of purchaser's residence
+- Section 48-5-477 - Requirement for paying tax prior to purchasing license plate on motor vehicles not subject to ad valorem taxation
+- Section 48-5-478 - Constitutional exemption from ad valorem taxation for disabled veterans
+- Section 48-5-478.1 - Ad valorem taxation; exemption of certain motor vehicles owned by former prisoners of war
+- Section 48-5-478.2 - Tax exemption for veterans awarded the Purple Heart citation
+- Section 48-5-478.3 - Tax exemption for veterans awarded Medal of Honor
+- Section 48-5-478.4 - Exemption from ad valorem taxes for motor vehicle owned by veterans' organization
+- Section 48-5-490 - Mobile homes owned on January 1 subject to ad valorem taxation
+- Section 48-5-492 - Issuance of mobile home location permits; issuance and display of decals
+- Section 48-5-493 - Failure to attach and display decal; penalties; venue for prosecution
+- Section 48-5-494 - Returns for taxation; application for and issuance of mobile home location permits upon payment of taxes due
+- Section 48-5-495 - Collection procedure when taxing county differs from county of purchaser's residence
+- Section 48-5-500 - Definitions
+- Section 48-5-501 - Equipment subject to ad valorem taxation
+- Section 48-5-504 - Self-propelled farm equipment as subclassification of motor vehicle for ad valorem taxation purposes
+- Section 48-5-504.20 - Exemption for aircraft owned by a dealer and held in inventory for sale or resale
+- Section 48-5-504.40 - Watercraft and all-terrain vehicles held in inventory for resale exempt from taxation for limited period of time
+- Section 48-5-505 - Definitions
+- Section 48-5-506 - Heavy-duty equipment motor vehicles; dealers
+- Section 48-5-506.1 - [Repealed] Partial exemption from ad valorem taxation of heavy-duty equipment motor vehicles
+- Section 48-5-507 - Change of method of evaluating heavy-duty equipment motor vehicles for ad valorem taxes; purpose
+- Section 48-5-507.1 - Effect of rental status on dealer's inventory
+- Section 48-5-508 - Appeal of assessed value
+- Section 48-5-509 - Rules and regulations
+- Section 48-5-510 - Definitions
+- Section 48-5-511 - Returns of public utilities to commissioner; itemization and fair market value of property; other information; apportionment to more than one tax jurisdiction
+- Section 48-5-512 - Issuance of execution for failure to file return
+- Section 48-5-513 - Penalty for failure to file return and pay tax; revocation of charter
+- Section 48-5-515 - Availability of returns and tax documents for public inspection
+- Section 48-5-519 - [Effective until 7/1/2026] Taxation of railroad equipment companies doing business in state; exemption of railroad company operating railroad; collecting and remitting taxes; execution for failure to make return
+- Section 48-5-519 - [Effective 7/1/2026] Taxation of railroad equipment companies doing business in state; exemption of railroad company operating railroad; collecting and remitting taxes; execution for failure to make return
+- Section 48-5-520 - Taxation of rolling stock and other personal property of railroad companies doing business in state; method of assessment
+- Section 48-5-521 - Method of assessment of property of railroad companies for purposes of county and municipal taxation
+- Section 48-5-524 - Annual report by commissioner to each county board of tax assessors of all public utility property within county; contents; availability for public inspection
+- Section 48-5-540 - Definitions
+- Section 48-5-541 - Property tax return on airline flight equipment; penalties
+- Section 48-5-542 - Review of returns by commissioner; valuation of aircraft in same manner as other personal property
+- Section 48-5-543 - Method of valuation of aircraft; apportionment among tax jurisdictions based on plane hours
+- Section 48-5-544 - Levy and collection of tax upon apportioned valuation of aircraft by local tax jurisdictions
+- Section 48-5-545 - Submission of proposed valuations for flight equipment and aircraft by commissioner to State Board of Equalization
+- Section 48-5-546 - Ad valorem taxation, assessment, and apportionment authorized by article exclusive
+- Section 48-5-600 - Definitions
+- Section 48-5-600.1 - Classification of qualified timberland property; exclusive procedures for appraisal and valuation
+- Section 48-5-601 - Determination of fair market value; access to property; delivery to county tax officials
+- Section 48-5-602 - Adoption and maintenance of qualified timberland property appraisal manual
+- Section 48-5-603 - Certification as qualified owner; requirements
+- Section 48-5-604 - Certification as qualified timberland property; requirements; annual updating; audit; filing with county tax officials
+- Section 48-5-605 - [Effective until 7/1/2026] Appeal of commissioner's decisions by taxpayer or county board
+- Section 48-5-605 - [Effective 7/1/2026] Appeal of commissioner's decisions by taxpayer or county board
+- Section 48-5-606 - [Effective until 7/1/2026] Appeal of commissioner's decisions by taxpayers or groups
+- Section 48-5-606 - [Effective 7/1/2026] Appeal of commissioner's decisions by taxpayers or groups
+- Section 48-5-607 - Adoption of forms and regulations

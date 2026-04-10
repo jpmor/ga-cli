@@ -1,0 +1,28 @@
+# Chapter 62 - DEVELOPMENT AUTHORITIES (§§ 36-62-1 — 36-62-19)
+
+- Section 36-62-1 - Short title
+- Section 36-62-2 - Definitions
+- Section 36-62-2.1 - Definitions related to financing for qualifying improvements
+- Section 36-62-3 - Constitutional authority for chapter; finding of public purposes; tax exemption
+- Section 36-62-4 - Development authorities created; appointment and terms of directors; quorum; adoption and filing of resolution of need
+- Section 36-62-5 - Directors; officers; compensation; adoption of bylaws; delegation of powers and duties; conflicts of interest; audits
+- Section 36-62-5.1 - Joint authorities
+- Section 36-62-5.2 - Creation of regional industrial development authorities; application; tax credits
+- Section 36-62-6 - Powers of authority generally
+- Section 36-62-6.1 - Obtaining real property within adjoining county which will be exchanged for federal property
+- Section 36-62-6.2 - Powers of development authorities relating to financing for qualifying improvements
+- Section 36-62-7 - Operation of project by governmental units prohibited; sale or lease of property for operation
+- Section 36-62-8 - Obligations of authority; use of proceeds; status as revenue obligations; subsequent series of bonds or notes; bond anticipation notes; interest rates; issuance and validation
+- Section 36-62-8.1 - Issuance of revenue bonds, notes, or other obligations
+- Section 36-62-8.2 - Financing agreement; assessment agreement
+- Section 36-62-9 - Purposes of chapter; issuance of bonds or bond anticipation notes; exceptions
+- Section 36-62-10 - Obligations of authority not indebtedness of state or political subdivisions
+- Section 36-62-11 - Construction of chapter generally; effect of conflict between chapter and other provisions of law; applicability of certain other provisions of law to proceedings under chapter
+- Section 36-62-12 - Previously created authority not affected by chapter
+- Section 36-62-13 - Disposition of property of certain authorities dissolved by operation of law
+- Section 36-62-14 - Perpetual existence of authority; dissolution
+- Section 36-62-15 - Short title
+- Section 36-62-16 - Legislative findings
+- Section 36-62-17 - Assessments for qualifying improvements
+- Section 36-62-18 - Limitation of liability
+- Section 36-62-19 - Authorization by resolution

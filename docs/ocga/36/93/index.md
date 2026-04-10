@@ -1,0 +1,3 @@
+# Chapter 93 - GEORGIA SMART INFRASTRUCTURE GROWTH ACT OF 2007 [REPEALED] (§ 36-93-1)
+
+- Section 36-93-1 - through 36-93-26 - [Repealed]

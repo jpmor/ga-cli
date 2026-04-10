@@ -1,0 +1,31 @@
+# Chapter 6 - WINE (§§ 3-6-1 — 3-6-71)
+
+- Section 3-6-1 - Definitions
+- Section 3-6-2 - Determination as to when possession occurs
+- Section 3-6-3 - Household production
+- Section 3-6-4 - Removal of partially consumed bottle of wine from premises
+- Section 3-6-20 - Levy and amount of state occupational tax; application for license
+- Section 3-6-21 - Filing of bonds by applicants for licenses generally; waiver of bond requirement
+- Section 3-6-21.1 - Licensing of farm wineries to engage in retail and wholesale sales; surety bond; excise taxes
+- Section 3-6-21.2 - Sunday sales on farm wineries; off-site sales; sales in &quot;special entertainment districts.&quot;
+- Section 3-6-21.3 - Sale by farm wineries of wines, distilled spirits, and malt beverages on or contiguous to its own premises
+- Section 3-6-21.4 - Routes and signage for the Georgia Wine Highway
+- Section 3-6-21.5 - Production of fortified wine
+- Section 3-6-22 - Requirement of license for shipment of wines into state; contents of application; accompanying documents and labels; approval of wholesalers and wholesalers' territories by commissioner
+- Section 3-6-23 - Persons to whom wine may be sold by wholesale dealers
+- Section 3-6-24 - Preparation and retention of invoices of sales by wholesale dealers
+- Section 3-6-25 - Wine acquired by retail dealers from persons other than licensed wholesale dealers declared contraband
+- Section 3-6-25.1 - Display of advertisement or information regarding prices of wine in visible places; sales below cost prohibited; exceptions authorized
+- Section 3-6-26 - Delivery, transportation, receipt, and storage of wine sold by wholesale dealers to retail dealers
+- Section 3-6-26.1 - Requirement as to possession of invoices or delivery tickets when transporting wine upon which taxes not paid; seizure as contraband when transported without invoices or delivery tickets
+- Section 3-6-27 - Registration of agents, representatives, salesmen, and employees of manufacturers, importers, producers, or brokers
+- Section 3-6-28 - Wine to be in containers specified; standards of fill for wine; exemptions from requirements as to container size
+- Section 3-6-29 - [Repealed and Reserved] [Reserved] Content requirements for wines manufactured by domestic and farm wineries; rules and regulations
+- Section 3-6-30 - Creation of limited exceptions regarding direct shipments
+- Section 3-6-31 - Special order shipping license requirements and regulations
+- Section 3-6-32 - Shipment of wine by winery to consumers; circumstances
+- Section 3-6-40 - Requirement by counties or municipalities of licenses for manufacture, distribution, or sale of wine; effect of revocation of license issued by commissioner or by county or municipality upon license issued by other
+- Section 3-6-50 - Levy and amount of tax
+- Section 3-6-60 - Levy and amount of tax generally; rate of tax; manner of imposition, payment, and collection; imposition of tax by both county and municipality located within county
+- Section 3-6-70 - Exemptions from tax
+- Section 3-6-71 - Wines containing less than one-half of 1 percent alcohol by volume

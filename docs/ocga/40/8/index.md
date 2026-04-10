@@ -1,0 +1,74 @@
+# Chapter 8 - EQUIPMENT AND INSPECTION OF MOTOR VEHICLES (§§ 40-8-1 — 40-8-280)
+
+- Section 40-8-1 - Application of article
+- Section 40-8-2 - Vehicles within jurisdiction of commissioner of public safety
+- Section 40-8-3 - Vehicle or load dragging on highway; wheels causing pounding on road surface
+- Section 40-8-4 - Emblem or amber strobe light to be displayed on certain slow-moving vehicles or equipment operating on public roads
+- Section 40-8-5 - Alteration of odometer; involvement with devices which cause odometer to register other than actual mileage; penalties
+- Section 40-8-6 - Vehicles with altered suspension systems
+- Section 40-8-6.1 - [Renumbered]
+- Section 40-8-7 - Driving unsafe or improperly equipped vehicle; punishment for violations of chapter generally; vehicle inspection by law enforcement officer without warrant
+- Section 40-8-8 - Speedometer
+- Section 40-8-9 - Compliance with federal provisions
+- Section 40-8-10 - Operation of motor vehicles with nitrous oxide; penalty for violation
+- Section 40-8-11 - Operational rules for autonomous vehicles; state consumer laws applicable
+- Section 40-8-20 - When lighted headlights and other lights required
+- Section 40-8-21 - Visibility distance and mounted height; exception for wreckers
+- Section 40-8-22 - Headlights
+- Section 40-8-23 - Taillights
+- Section 40-8-24 - Reflectors
+- Section 40-8-25 - Brake lights and turn signals required
+- Section 40-8-26 - Standards for brake lights and signal devices
+- Section 40-8-27 - Light, flag, or strobe lamp on projecting load; requirements for lamp and flag
+- Section 40-8-28 - Lights on parked vehicles
+- Section 40-8-29 - Spotlights, foglights, and auxiliary lights permitted
+- Section 40-8-30 - Standards for multiple-beam road lighting equipment
+- Section 40-8-31 - Use of multiple-beam road lighting equipment
+- Section 40-8-32 - [Repealed] Lights on vehicles of rural mail carriers
+- Section 40-8-33 - Farm tractors, three-wheeled motorcycles used for agricultural purposes, and trailers and semitrailers that qualify as implements of husbandry
+- Section 40-8-34 - Color in lighting equipment
+- Section 40-8-35 - Vehicles with flashing or revolving amber lights
+- Section 40-8-50 - Brakes required
+- Section 40-8-51 - Means of operation
+- Section 40-8-52 - Parking brakes
+- Section 40-8-53 - Performance ability of brakes
+- Section 40-8-54 - Maintenance
+- Section 40-8-70 - Horns and warning devices
+- Section 40-8-71 - Exhaust system; prevention of noise, smoke, and fumes
+- Section 40-8-72 - Mirrors
+- Section 40-8-73 - Windshields, windows, and windshield wipers
+- Section 40-8-73.1 - Tinting of windows or windshields
+- Section 40-8-74 - Tires
+- Section 40-8-75 - Tire covers
+- Section 40-8-76 - Safety belts required as equipment; safety restraints for children
+- Section 40-8-76.1 - Use of safety belts in passenger vehicles
+- Section 40-8-77 - Energy absorption system
+- Section 40-8-78 - Safety glazing
+- Section 40-8-79 - Unlawfully riding in bed of pickup truck; penalty
+- Section 40-8-90 - Restrictions on use of blue lights on vehicles
+- Section 40-8-91 - Marking and equipment of law enforcement vehicles; motorist allowed to continue to safe location before stopping for law enforcement officer vehicles
+- Section 40-8-91.1 - Marking and equipment of all-terrain vehicles used as law enforcement vehicles
+- Section 40-8-92 - Designation of emergency vehicles; flashing or revolving lights; permits; fee; use of flashing or revolving green lights on public property
+- Section 40-8-93 - Flashing parking or brake lights or directional signals not prohibited
+- Section 40-8-94 - Sirens, whistles, or bells
+- Section 40-8-95 - Rules and regulations
+- Section 40-8-96 - Violation of Code Sections 40-8-90 and 40-8-92
+- Section 40-8-110 - Identification and color
+- Section 40-8-111 - Equipment generally
+- Section 40-8-112 - Compliance with State Board Bus Specifications
+- Section 40-8-113 - Standards applicable regardless of size or capacity
+- Section 40-8-114 - Operation of school buses by churches, private schools, and local transit systems; transportation of school children on buses owned or operated by public transit systems
+- Section 40-8-115 - Identification and equipment of school buses for special school route service
+- Section 40-8-116 - Unlawful acts
+- Section 40-8-130 - Unlawful to operate vehicle without serviceable emission control device; penalty; exceptions
+- Section 40-8-131 - Inspection without warrant authorized
+- Section 40-8-180 - Short title
+- Section 40-8-181 - Visible emissions from vehicles on public roadways prohibited; exceptions
+- Section 40-8-182 - Enforcement of part; traffic violation citations
+- Section 40-8-183 - Penalty
+- Section 40-8-184 - Municipal and county regulation prohibited
+- Section 40-8-185 - Part not applicable to certain vehicles
+- Section 40-8-200 - Inspection of vehicles by officers of the Department of Public Safety; certificate of inspection; procedure for noncompliant vehicle
+- Section 40-8-201 - Duties of owners and drivers of vehicles
+- Section 40-8-220 - Inspection of public school buses
+- Section 40-8-221 - Penalty

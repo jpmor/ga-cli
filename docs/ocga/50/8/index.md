@@ -1,0 +1,114 @@
+# Chapter 8 - DEPARTMENT OF COMMUNITY AFFAIRS (§§ 50-8-1 — 50-8-301)
+
+- Section 50-8-1 - Creation and continuation of department
+- Section 50-8-2 - Definitions
+- Section 50-8-3 - Purpose of article; duties of department
+- Section 50-8-3.1 - Department to investigate fraud in federal Section 8 Housing Choice Voucher Program
+- Section 50-8-4 - Board of Community Affairs
+- Section 50-8-5 - Commissioner; powers
+- Section 50-8-6 - Divisions, sections, and offices of department
+- Section 50-8-7 - Planning and technical assistance activities; gathering and distribution of information and studies
+- Section 50-8-7.1 - General powers and duties
+- Section 50-8-7.2 - Ratification of department standards and procedures by General Assembly
+- Section 50-8-7.3 - Solid waste management program; Georgia Clean and Beautiful Advisory Committee and Interagency Council on Solid Waste Management
+- Section 50-8-8 - Grants, loans, and other disbursements of funds; state community development program
+- Section 50-8-9 - Contracts with public and private entities or individuals
+- Section 50-8-10 - Coordination of policies, programs, and actions of governments; research center on intergovernmental relations; leadership and community development programs
+- Section 50-8-11 - Power to take action for furtherance of purposes of department; disposition of revenues
+- Section 50-8-12 - No limitations by article on county or municipal zoning power
+- Section 50-8-13 - Authorities and agencies assigned to department
+- Section 50-8-14 - Exemption from &quot;Georgia Administrative Procedure Act.&quot;
+- Section 50-8-15 - Rights of state employees transferred from State Building Administrative Board; validity of board's legal contracts
+- Section 50-8-16 - Rights of state employees transferred from Bureau of Community Affairs; validity of bureau's legal contracts
+- Section 50-8-17 - Employees serve in classified and unclassified service
+- Section 50-8-18 - Energy efficient construction of major state-funded facility projects
+- Section 50-8-30 - Legislative findings; purpose and construction of article
+- Section 50-8-31 - Definitions
+- Section 50-8-32 - Creation of regional commissions
+- Section 50-8-33 - Municipal and county membership; annual dues; distribution of state funds
+- Section 50-8-34 - Councils of regional commissions; membership; powers
+- Section 50-8-34.1 - Executive director of commission; performance standards and annual performance review
+- Section 50-8-35 - Powers and duties
+- Section 50-8-36 - Submission of local plans; review, comment, and recommendation procedures
+- Section 50-8-37 - Review of applications from governmental entities for loans or grants
+- Section 50-8-38 - Audit of funds
+- Section 50-8-39 - Appointment of receiver of assets upon commission's ceasing operations
+- Section 50-8-39.1 - [Repealed]
+- Section 50-8-40 - Notice of intent to designate area-wide or multicounty agency
+- Section 50-8-41 - Regional development centers succeeded by regional commissions
+- Section 50-8-42 - Remaining powers of metropolitan area planning and development commissions
+- Section 50-8-43 - Appropriation or loan of funds, facilities, supplies, and equipment by local government entities
+- Section 50-8-44 - Exemption from taxes
+- Section 50-8-45 - Authorized purchases by Department of Administrative Services; commissioner of administrative services to prescribe regulations and standards
+- Section 50-8-46 - No limits by article on county or municipal zoning power
+- Section 50-8-47 - Transfer of outstanding assets, liabilities, contracts, staff, records, or debts
+- Section 50-8-50 - through 50-8-52 - [Repealed]
+- Section 50-8-60 - Definitions
+- Section 50-8-61 - Prohibited employment of employee of commission or nonprofit corporation; penalties
+- Section 50-8-62 - Employee's business transactions with commission or nonprofit corporation prohibited; penalties
+- Section 50-8-63 - Disclosure of employee's business transactions with local government; exempt transactions; disclosure of loan transactions by member of board or advisory committee; penalties
+- Section 50-8-64 - Competitive bidding requirement
+- Section 50-8-65 - Annual report to Board of Community Affairs
+- Section 50-8-66 - Civil fine for violations
+- Section 50-8-67 - Prohibition of election influence and partisan political activities; disciplinary measures
+- Section 50-8-80 - Definitions
+- Section 50-8-81 - Legislative intent
+- Section 50-8-82 - Commissions created
+- Section 50-8-83 - Powers, duties, and obligations
+- Section 50-8-84 - Membership
+- Section 50-8-85 - Terms of office; removal from office; filling of vacancies
+- Section 50-8-86 - Quorum; votes equally weighted
+- Section 50-8-87 - Chairman; election; powers and duties; salary and expense allowances; removal
+- Section 50-8-88 - Election of officers; compensation of officers and members
+- Section 50-8-89 - Executive director; appointment
+- Section 50-8-90 - Personnel
+- Section 50-8-91 - Advisory committees
+- Section 50-8-92 - Development guides; contents
+- Section 50-8-93 - Review of area plans; designation as official planning agency; responsibility to carry out assigned or delegated planning functions for an area
+- Section 50-8-94 - Submission of municipal and county area plans; comment and recommendation procedure
+- Section 50-8-95 - Submission of public entity area plans; comment and recommendation procedure
+- Section 50-8-96 - Review of applications from governmental entities for loans or grants
+- Section 50-8-97 - Research, study, and planning duties
+- Section 50-8-98 - Power and authority generally; determination of whether plan is area plan; bylaws, rules, and regulations
+- Section 50-8-99 - Acceptance and expenditure of gifts, loans, and grants
+- Section 50-8-99.1 - Commission authorized to be contracting agent for certain local governments
+- Section 50-8-100 - Annual report
+- Section 50-8-101 - Books of account; annual population estimates; operating funds; annual program and budget
+- Section 50-8-102 - Submission of negative or unfavorable recommendation based upon stale data
+- Section 50-8-103 - Determination of effective dates of certain Code sections by resolution of commission or by operation of law
+- Section 50-8-120 - Short title
+- Section 50-8-121 - Rural economic development areas
+- Section 50-8-122 - Studies for proposed projects
+- Section 50-8-123 - Recommendation, approval, funding, and implementation of projects
+- Section 50-8-140 - Legislative findings; office created
+- Section 50-8-141 - Duties and responsibilities
+- Section 50-8-142 - Employees
+- Section 50-8-150 - [Reserved] Creation of council; members; terms; officers; regular meetings; expenses; bylaws
+- Section 50-8-170 - Definitions; facilitating E-85 projects; implementation of grant program
+- Section 50-8-190 - Definitions
+- Section 50-8-191 - Application for REAP designation; minimum criteria; reciprocal use agreements with adjacent facilities
+- Section 50-8-192 - Certification of compliance; notices of noncompliance
+- Section 50-8-193 - State agencies encouraged to give certified projects priority in licensing and processing grants and loans
+- Section 50-8-194 - Annual report by project developer
+- Section 50-8-195 - Rules and regulations
+- Section 50-8-210 - Short title
+- Section 50-8-211 - Legislative findings
+- Section 50-8-212 - Definitions
+- Section 50-8-213 - Designation and ranking of less developed counties
+- Section 50-8-214 - Facilities development committees created; membership
+- Section 50-8-215 - Policies and procedures for facilities development committee
+- Section 50-8-216 - Preparation of comprehensive local plan for less developed county
+- Section 50-8-217 - Conflicts arising in preparation and submission of local plan
+- Section 50-8-218 - Submission of local plan required; applications for grants
+- Section 50-8-219 - Review of local plan by commissioner
+- Section 50-8-220 - Matching grants for implementation of local plan
+- Section 50-8-221 - Oversight of local plan by facilities development committee
+- Section 50-8-222 - Distribution of appropriated funds; ratio of matching funds; submission of consolidated report and accounting
+- Section 50-8-240 - Creation; members; vacancies; quorum
+- Section 50-8-241 - Duties
+- Section 50-8-242 - Authority to establish not for profit corporation and appoint members
+- Section 50-8-260 - Definitions
+- Section 50-8-261 - Short title; establishment; director; application for assistance; fees; rules and regulations
+- Section 50-8-280 - Metropolitan Transportation Planning Process established; determination of regional air quality planning area; participating governmental units; funding; policy boards; conflict of laws
+- Section 50-8-300 - Definitions
+- Section 50-8-301 - Creation; coordination; meetings; role; regulations

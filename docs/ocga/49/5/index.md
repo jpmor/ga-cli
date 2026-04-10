@@ -1,0 +1,99 @@
+# Chapter 5 - PROGRAMS AND PROTECTION FOR CHILDREN AND YOUTH (§§ 49-5-1 — 49-5-281)
+
+- Section 49-5-1 - Short title
+- Section 49-5-2 - Purpose of article
+- Section 49-5-3 - Definitions
+- Section 49-5-4 - Other state departments, agencies, officers, and employees to assist department
+- Section 49-5-4.1 - Child welfare agency public scorecard established
+- Section 49-5-5 - Powers and duties of board; rules and regulations for training schools and other facilities
+- Section 49-5-6 - Merit system to conform to federal standards; power to employ and contract for professional services; employment and dismissal procedures; membership in state retirement system
+- Section 49-5-7 - Development and administration of public child welfare and youth services
+- Section 49-5-8 - Powers and duties of department
+- Section 49-5-8.1 - Short-term respite care of child in foster care; reasonable and prudent parent standard
+- Section 49-5-9 - Use of public and private institutions and agencies; inspections; examination and control of children not in department's facilities
+- Section 49-5-12 - Licensing and inspection of child welfare agencies; standards; revocation or refusal of license; penalties; violations
+- Section 49-5-12.1 - Penalties for violation of child welfare agency laws and regulations
+- Section 49-5-12.2 - Immunity from liability
+- Section 49-5-12.3 - Annual inspection of child welfare agency
+- Section 49-5-13 - Private child care learning centers not required to meet federal adult-child ratio
+- Section 49-5-15 - Notice as to child brought into state for placement or adoption; bond; certificate as to foster home; reports
+- Section 49-5-16 - Power of department to contract; acceptance of children from federal courts for compensation
+- Section 49-5-17 - Power of department to accept and use gifts
+- Section 49-5-18 - Instituting or intervening in legal proceedings
+- Section 49-5-19 - Annual report on children and youth services
+- Section 49-5-20 - Existing charters of charitable institutions
+- Section 49-5-21 - Penalties for aiding, harboring, or encouraging escapees or hindering their apprehension
+- Section 49-5-22 - Voluntary pre-kindergarten programs to provide toilet facilities screened for privacy
+- Section 49-5-23 - Obtaining information on recall notices
+- Section 49-5-24 - Implementation of state-wide system for data sharing; waivers from certain federal regulations
+- Section 49-5-25 - Maternity supportive housing residences; registration; requirements
+- Section 49-5-40 - Definitions; confidentiality of records; restricted access to records
+- Section 49-5-41 - Persons and agencies permitted access to records
+- Section 49-5-41.1 - Inspection and retention of records of juvenile drug use
+- Section 49-5-42 - Rules and regulations
+- Section 49-5-43 - Article not to conflict with federal law or lose federal funds; duty of board
+- Section 49-5-44 - Penalties for unauthorized access to records; use of records in public and criminal proceedings
+- Section 49-5-45 - Penalty for allowing unauthorized access to juvenile drug use records
+- Section 49-5-46 - Immunity from liability of department, agency, or child advocacy center
+- Section 49-5-60 - Definitions
+- Section 49-5-61 - Requirement of separate license and separate director for each new facility
+- Section 49-5-62 - Records check application for director of new facility; preliminary records check for employees; retention of fingerprints
+- Section 49-5-63 - Notice of determination; issuance of license; effect of unsatisfactory determination
+- Section 49-5-64 - Fingerprint records check; retention
+- Section 49-5-65 - Determination on the basis of fingerprint records check; revocation of license
+- Section 49-5-65.1 - [Repealed] Employment of persons who have entered plea of guilty or nolo contendere to specified offenses
+- Section 49-5-66 - Separate license and director for each center
+- Section 49-5-67 - Fingerprint records check application for director of existing facility; preliminary records check for employees; annual license
+- Section 49-5-68 - Change of director
+- Section 49-5-69 - Employment requirements; suspension or revocation of license or criminal penalty for violations
+- Section 49-5-69.1 - Fingerprint and preliminary records check for foster homes; notice of results; violations; foster parents known to have criminal records; retention of fingerprints
+- Section 49-5-70 - Required cooperation among state agencies; unauthorized use of criminal history record information
+- Section 49-5-71 - Immunity from liability for centers, state agencies, and employees
+- Section 49-5-72 - Supplemental nature of article's requirements
+- Section 49-5-73 - Applicability of &quot;Georgia Administrative Procedure Act&quot;; consideration of matters in mitigation of conviction
+- Section 49-5-74 - Administration of article
+- Section 49-5-90 - Definitions
+- Section 49-5-91 - Emergency orders; corrective orders; monitors
+- Section 49-5-92 - Preliminary hearing; department order; interim department actions
+- Section 49-5-110 - Definitions
+- Section 49-5-111 - Employers authorized to make records checks; procedure; retention of fingerprints
+- Section 49-5-112 - Cooperation of law enforcement agencies; penalty for false information
+- Section 49-5-113 - Immunity from liability; disciplinary action
+- Section 49-5-114 - Other laws requiring records checks
+- Section 49-5-115 - Letter issued by Department of Early Care and Learning in lieu of background screening or fingerprint checks
+- Section 49-5-130 - Legislative findings and intent
+- Section 49-5-131 - Definitions
+- Section 49-5-132 - Governor's Office for Children and Families established; funding; duties and responsibilities
+- Section 49-5-133 - Executive director; appointment; contracting with other agencies
+- Section 49-5-134 - Advisory board established; membership; officers and committees; compensation
+- Section 49-5-135 - Powers and duties of advisory board
+- Section 49-5-150 - Legislative policy and intent
+- Section 49-5-151 - Implementation of part; duties
+- Section 49-5-152 - Purchase of care or services from public or private agencies
+- Section 49-5-153 - Annual report
+- Section 49-5-154 - Study of youth needs
+- Section 49-5-155 - Effect of article on Department of Juvenile Justice; office as recipient entity for federal grants
+- Section 49-5-156 - Short title; legislative findings; development of program; awarding of grants; applications; recognition; reporting to General Assembly
+- Section 49-5-160 - Definitions
+- Section 49-5-161 - Registration and form required; fee; issuance of certificate
+- Section 49-5-162 - Policies; qualified staff; proof of liability coverage
+- Section 49-5-163 - Display of registration; inspection of facilities; investigation
+- Section 49-5-164 - Registered organization not exempt
+- Section 49-5-180 - through 49-5-187 - Reserved
+- Section 49-5-200 - through 49-5-209 - Reserved
+- Section 49-5-220 - Legislative findings and intent; State Plan for the Coordinated System of Care for severely emotionally disturbed children or adolescents
+- Section 49-5-221 - Definitions
+- Section 49-5-222 - Guiding principles for coordinated system of care
+- Section 49-5-223 - Developing and updating plan; requirements; information to be collected
+- Section 49-5-224 - [Repealed and Reserved] Annual report
+- Section 49-5-225 - Local interagency committees; membership; duties
+- Section 49-5-226 - Placement of children and adolescents out of state for treatment
+- Section 49-5-227 - Governor's Office for Children and Families to comment on plan for Coordinated System of Care and provide recommendations
+- Section 49-5-240 - through 49-5-244 - Redesignated
+- Section 49-5-250 - through 49-5-264 - Reserved
+- Section 49-5-270 - Short title
+- Section 49-5-271 - Legislative findings
+- Section 49-5-272 - Definitions
+- Section 49-5-273 - Creation of program; eligibility; payments; enrollment; agency cooperation
+- Section 49-5-280 - Short title
+- Section 49-5-281 - Bill of rights for foster parents; grievances for violations

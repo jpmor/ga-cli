@@ -1,0 +1,82 @@
+# Article 2A - LEASES (§§ 11-2A-101 — 11-2A-532)
+
+- Section 11-2A-101 - Short title
+- Section 11-2A-102 - Scope
+- Section 11-2A-103 - Definitions and index of definitions
+- Section 11-2A-104 - Leases subject to other law
+- Section 11-2A-105 - Territorial application of article to goods covered by certificate of title
+- Section 11-2A-106 - Limitation on power of parties to consumer lease to choose applicable law and judicial forum
+- Section 11-2A-107 - Waiver or renunciation of claim or right after default
+- Section 11-2A-108 - Unconscionability
+- Section 11-2A-109 - Option to accelerate at will
+- Section 11-2A-201 - Statute of frauds
+- Section 11-2A-202 - Final expression: Parole or extrinsic evidence
+- Section 11-2A-203 - Seals inoperative
+- Section 11-2A-204 - Formation in general
+- Section 11-2A-205 - Firm offers
+- Section 11-2A-206 - Offer and acceptance in formation of lease contract
+- Section 11-2A-207 - [Repealed] Course of performance or practical construction
+- Section 11-2A-208 - Modification, rescission, and waiver
+- Section 11-2A-209 - Lessee under finance lease as beneficiary of supply contract
+- Section 11-2A-210 - Express warranties
+- Section 11-2A-211 - Warranties against interference and against infringement; lessee's obligation against infringement
+- Section 11-2A-212 - Implied warranty of merchantability
+- Section 11-2A-213 - Implied warranty of fitness for particular purpose
+- Section 11-2A-214 - Exclusion or modification of warranties
+- Section 11-2A-215 - Cumulation and conflict of warranties express or implied
+- Section 11-2A-216 - Third-party beneficiaries of express and implied warranties
+- Section 11-2A-217 - Identification
+- Section 11-2A-218 - Insurance and proceeds
+- Section 11-2A-219 - Risk of loss
+- Section 11-2A-220 - Effect of default on risk of loss
+- Section 11-2A-221 - Casualty to identified goods
+- Section 11-2A-301 - Enforceability of lease contract
+- Section 11-2A-302 - Title to and possession of goods
+- Section 11-2A-303 - Alienability of party's interest under lease contract or of lessor's residual interest in goods; delegation of performance; transfer of rights
+- Section 11-2A-304 - Subsequent lease of goods by lessor
+- Section 11-2A-305 - Sale or sublease of goods by lessee
+- Section 11-2A-306 - Priority of certain liens arising by operation of law
+- Section 11-2A-307 - Priority of liens arising by attachment or levy on, security interests in, and other claims to goods
+- Section 11-2A-308 - Special rights of creditors
+- Section 11-2A-309 - Lessor's and lessee's rights when goods become fixtures
+- Section 11-2A-310 - Lessor's and lessee's rights when goods become accessions
+- Section 11-2A-311 - Priority subject to subordination
+- Section 11-2A-401 - Insecurity: Adequate assurance of performance
+- Section 11-2A-402 - Anticipatory repudiation
+- Section 11-2A-403 - Retraction of anticipatory repudiation
+- Section 11-2A-404 - Substituted performance
+- Section 11-2A-405 - Excused performance
+- Section 11-2A-406 - Procedure on excused performance
+- Section 11-2A-407 - Irrevocable promises: Finance leases
+- Section 11-2A-501 - Default: Procedure
+- Section 11-2A-502 - Notice after default
+- Section 11-2A-503 - Modification or impairment of rights and remedies
+- Section 11-2A-504 - Liquidation of damages
+- Section 11-2A-505 - Cancellation and termination and effect of cancellation, termination, rescission, or fraud on rights and remedies
+- Section 11-2A-506 - Statute of limitations
+- Section 11-2A-507 - Proof of market rent: Time and place
+- Section 11-2A-508 - Lessee's remedies
+- Section 11-2A-509 - Lessee's rights on improper delivery; rightful rejection
+- Section 11-2A-510 - Installment lease contracts: Rejection and default
+- Section 11-2A-511 - Merchant lessee's duties as to rightfully rejected goods
+- Section 11-2A-512 - Lessee's duties as to rightfully rejected goods
+- Section 11-2A-513 - Cure by lessor of improper tender or delivery; replacement
+- Section 11-2A-514 - Waiver of lessee's objections
+- Section 11-2A-515 - Acceptance of goods
+- Section 11-2A-516 - Effect of acceptance of goods; notice of default; burden of establishing default after acceptance; notice of claim or litigation to person answerable over
+- Section 11-2A-517 - Revocation of acceptance of goods
+- Section 11-2A-518 - Cover; substitute goods
+- Section 11-2A-519 - Lessee's damages for nondelivery, repudiation, default, and breach of warranty in regard to accepted goods
+- Section 11-2A-520 - Lessee's incidental and consequential damages
+- Section 11-2A-521 - Lessee's right to specific performance or replevin
+- Section 11-2A-522 - Lessee's right to goods on lessor's insolvency
+- Section 11-2A-523 - Lessor's remedies
+- Section 11-2A-524 - Lessor's right to identify goods to lease contract
+- Section 11-2A-525 - Lessor's right to possession of goods
+- Section 11-2A-526 - Lessor's stoppage of delivery in transit or otherwise
+- Section 11-2A-527 - Lessor's rights to dispose of goods
+- Section 11-2A-528 - Lessor's damages for nonacceptance, failure to pay, repudiation, or other default
+- Section 11-2A-529 - Lessor's action for the rent
+- Section 11-2A-530 - Lessor's incidental damages
+- Section 11-2A-531 - Standing to sue third parties for injury to goods
+- Section 11-2A-532 - Lessor's rights to residual interest

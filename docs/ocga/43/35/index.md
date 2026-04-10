@@ -1,0 +1,21 @@
+# Chapter 35 - PODIATRY PRACTICE (§§ 43-35-1 — 43-35-18)
+
+- Section 43-35-1 - Short title
+- Section 43-35-2 - Purpose
+- Section 43-35-3 - Definitions
+- Section 43-35-4 - Continuation of board
+- Section 43-35-5 - Members of board; appointment; oath; removal
+- Section 43-35-6 - Eligibility for appointment to board
+- Section 43-35-7 - Quorum of board; conduct of business by telephone
+- Section 43-35-8 - Duties of division director
+- Section 43-35-9 - Duties of board
+- Section 43-35-10 - Rules and regulations
+- Section 43-35-11 - License requirement; exceptions; training and practice of podiatric residents; limited temporary licenses; delegation
+- Section 43-35-12 - Eligibility for license
+- Section 43-35-12.1 - Fingerprint and criminal background check
+- Section 43-35-13 - Issuance of license without examination
+- Section 43-35-14 - Examination of applicants
+- Section 43-35-15 - Renewal of licenses; continuing education requirements
+- Section 43-35-16 - Suspension, revocation, cancellation, or denial of license; other discipline; judicial review; reinstatement; immunity; failure of licensee to appear; voluntary surrender of license
+- Section 43-35-17 - Practice without license deemed public nuisance; injunctions
+- Section 43-35-18 - Criminal penalty

@@ -1,0 +1,44 @@
+# Chapter 4 - HABILITATION OF THE DEVELOPMENTALLY DISABLED GENERALLY (§§ 37-4-1 — 37-4-127)
+
+- Section 37-4-1 - Declaration of policy
+- Section 37-4-2 - Definitions
+- Section 37-4-3 - Authority of board to issue regulations; powers of department generally
+- Section 37-4-4 - Coordination of training programs for the developmentally disabled
+- Section 37-4-5 - Validity of hospitalization orders entered before September 1, 1978; establishment of regulations authorizing continued care for clients receiving services pursuant to orders entered before September 1, 1978; validity of hospitalization orders entered before July 1, 2011
+- Section 37-4-6 - Immunity from liability for actions taken in good faith compliance with admission and discharge provisions of chapter
+- Section 37-4-7 - Apprehension by peace officer of developmentally disabled person who leaves facility without permission
+- Section 37-4-8 - Approval of private facilities; powers and duties of private facilities; right to deny admission
+- Section 37-4-20 - through 37-4-22 - Reserved
+- Section 37-4-40 - [Repealed] [Reserved] Filing petition with court for according of program of services to developmentally disabled person; order for examination of person by comprehensive evaluation team; report by team; petition hearing; procedure upon finding that department services are necessary
+- Section 37-4-40.1 - through 37-4-40.5 - [Repealed]
+- Section 37-4-41 - [Repealed] [Reserved] Procedure upon failure of or client's noncompliance with court ordered habilitation program
+- Section 37-4-42 - Procedure for continuation of court ordered habilitation
+- Section 37-4-43 - [Repealed] [Reserved] Appointment of hearing examiners for hearings as to continued habilitation; powers of hearing examiners generally; issuance of subpoenas; appointment of counsel
+- Section 37-4-44 - Periodic review of individualized program plan; discharge or transfer to another facility upon change in client's needs; notice of discharge or transfer
+- Section 37-4-60 - Designation of facility to which client to be admitted; transfers of clients between private and state owned facilities; transfers of clients generally
+- Section 37-4-61 - Transportation of clients generally
+- Section 37-4-62 - Transfer of clients to custody of federal agencies for services; retention of jurisdiction over clients by state courts; jurisdiction over developmentally disabled persons in federal hospitals and institutions located in state
+- Section 37-4-63 - Procedure for transfer of Georgia residents from out-of-state facilities to Georgia facilities
+- Section 37-4-64 - Procedure upon discovery that a client receiving court ordered services from a Georgia facility is not a resident
+- Section 37-4-80 - Effect of inability to pay on right to habilitation services
+- Section 37-4-81 - Liability for expenses for transporting, examining, and caring for clients
+- Section 37-4-82 - Payment of expenses incurred in connection with hearings held under this chapter
+- Section 37-4-100 - Retention of rights and privileges by clients generally; right to due process
+- Section 37-4-101 - Clients' right to legal counsel
+- Section 37-4-102 - Right of clients to communicate with persons outside facility and to receive visitors; treatment of client correspondence; establishment of regulations governing visitation and telephone usage
+- Section 37-4-103 - Clients' rights in regard to personal effects; liability of facility's employees and staff members for loss of or damage to clients' personal effects
+- Section 37-4-104 - Clients' right to vote
+- Section 37-4-105 - Employment of clients outside facilities
+- Section 37-4-106 - Education of children who are clients
+- Section 37-4-107 - Appointment of client representatives and guardians ad litem; notification provisions; duration and scope of guardianship ad litem
+- Section 37-4-108 - Right of clients or representatives to petition for writ of habeas corpus and for judicial protection of rights and privileges granted by chapter
+- Section 37-4-109 - Establishment of patients and staff complaint procedure; final decisionmakers; right of administrative appeal; complaint procedures as alternative to legal remedies
+- Section 37-4-110 - Appeal rights of clients, their representatives, or attorneys; payment of costs of appeal; right of client to subsequent appeal and to legal counsel on appeal
+- Section 37-4-120 - Individual dignity of clients to be respected; use of criminal facilities and procedures
+- Section 37-4-121 - Securing of least restrictive alternative placement; assisting client in securing placement in noninstitutional community facilities and programs
+- Section 37-4-122 - Client's care and treatment rights
+- Section 37-4-123 - Recognition of clients' physical integrity; rights to refuse medication; obtaining consent to treatment and surgery; performance of emergency surgery; immunity of physician; direction of notice of actions taken under Code section
+- Section 37-4-124 - Mistreatment, neglect, or abuse of clients prohibited; use of medication, physical restraints, or seclusion restricted; standards for use of physical restraints
+- Section 37-4-125 - Treatment of clinical records; scope of privileged communications; liability for disclosure
+- Section 37-4-126 - Right of client to examine his records and to request correction of inaccuracies; promulgation of rules and regulations; judicial supervision of files and records relating to proceedings under this chapter
+- Section 37-4-127 - Right of client's attorney to interview persons in charge of client's habilitation in a facility; establishment of regulations as to release of information to client's attorney

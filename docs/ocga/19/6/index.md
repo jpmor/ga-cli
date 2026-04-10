@@ -1,0 +1,47 @@
+# Chapter 6 - ALIMONY AND CHILD SUPPORT GENERALLY (§§ 19-6-1 — 19-6-53)
+
+- Section 19-6-1 - Alimony defined; when authorized; how determined; lien on estate of party dying prior to order; certain changes in parties' assets prohibited
+- Section 19-6-2 - Attorney's fees; when and how granted; enforcement
+- Section 19-6-3 - Temporary alimony; petition and hearing; factors considered; discretion of judge; revision and enforcement of order; effect of failure to comply
+- Section 19-6-4 - When permanent alimony authorized; how enforced
+- Section 19-6-5 - Factors in determining amount of alimony; effect of remarriage on obligations for alimony
+- Section 19-6-6 - Liability after grant of alimony
+- Section 19-6-7 - Interest in deceased party's estate after grant of permanent alimony
+- Section 19-6-8 - Voluntary separation, abandonment, or driving off of spouse - Agreement for support as bar to alimony
+- Section 19-6-9 - Voluntary separation, abandonment, or driving off of spouse - Equity may compel support
+- Section 19-6-10 - Voluntary separation, abandonment, or driving off of spouse - Petition for alimony or child support when no divorce pending - Order and enforcement; equitable remedies; effect of filing for divorce
+- Section 19-6-11 - Voluntary separation, abandonment, or driving off of spouse - Petition for alimony or child support when no divorce pending - Appeals
+- Section 19-6-12 - Voluntary separation, abandonment, or driving off of spouse - Effect of subsequent cohabitation between spouses on permanent alimony
+- Section 19-6-13 - Liability of parents for necessaries furnished to children pending voluntary provision or court order
+- Section 19-6-14 - Child support and custody pending final divorce; liability to third persons for necessaries
+- Section 19-6-15 - [Effective Until 1/1/2026] Child support guidelines for determining amount of award; continuation of duty of support; duration of support
+- Section 19-6-15 - [Effective 1/1/2026] Child support guidelines for determining amount of award; continuation of duty of support; duration of support
+- Section 19-6-15.1 - Support proceedings for dependent adult children
+- Section 19-6-15.2 - Determination of support for dependent adult children
+- Section 19-6-16 - Enforcement of child support orders, decrees, or verdicts
+- Section 19-6-17 - Application for child support when custody awarded to nonparent or noncustodial parent was not subject to divorce court's jurisdiction; procedure; enforcement; judgment
+- Section 19-6-18 - Revision of judgment for permanent alimony and child support rendered prior to July 1, 1977; petition and hearing; expenses of litigation
+- Section 19-6-19 - Revision of judgment for permanent alimony generally - Petition and hearing; cohabitation with third party as ground for revision; attorney's fees; temporary modification
+- Section 19-6-20 - Revision of judgment for permanent alimony, generally - Issues for court to consider
+- Section 19-6-21 - Revision of judgment for permanent alimony - Not available in case of lump sum award
+- Section 19-6-22 - Revision of judgment for permanent alimony - Expenses of litigation
+- Section 19-6-23 - Applicability of Code Section 19-6-18 or Code Sections 19-6-19 through 19-6-22 to judgments on or after March 9, 1955
+- Section 19-6-24 - Applicability of Code Section 19-6-18 or Code Sections 19-6-19 through 19-6-22 to judgments prior to March 9, 1955
+- Section 19-6-25 - Revision of judgments for permanent alimony entered prior to March 9, 1955
+- Section 19-6-26 - Jurisdiction
+- Section 19-6-27 - Application for permanent alimony or child support after grant of foreign divorce decree; venue; hearing; review; modification
+- Section 19-6-28 - Enforcement of orders; contempt; service of rule nisi by mail; rule nisi form
+- Section 19-6-28.1 - Suspension of, or denial of application or renewal of, license for noncompliance with child support order
+- Section 19-6-29 - Inclusion of accident and sickness insurance coverage in order for child support; payroll deductions
+- Section 19-6-30 - Collection of child support by continuing garnishment; child or spouse support subject to income deduction
+- Section 19-6-31 - [Repealed] [Reserved] Definitions
+- Section 19-6-32 - Entering income withholding order or medical support notice for award of child support; when order or notice effective; hearing on order
+- Section 19-6-33 - Notice and service of income withholding order; hearing on enforcement of order; discharge of obligor; penalties
+- Section 19-6-33.1 - Family support registry
+- Section 19-6-34 - Inclusion of life insurance in order of support
+- Section 19-6-35 - Child support obligee regarded as creditor for attacking certain judgments and transactions
+- Section 19-6-36 - Judgment or lien surviving death; procedure and rights
+- Section 19-6-50 - Creation; responsibilities
+- Section 19-6-51 - Members; terms; chairperson, other officers, and committees; staffing and funding
+- Section 19-6-52 - Meetings; members' expenses
+- Section 19-6-53 - Duties; powers; authorization to retain professional services

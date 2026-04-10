@@ -1,0 +1,29 @@
+# Chapter 4 - HOLIDAYS AND OBSERVANCES (§§ 1-4-1 — 1-4-26)
+
+- Section 1-4-1 - Public and legal holidays; leave for observance of religious holidays not specifically provided for
+- Section 1-4-2 - Religious holidays
+- Section 1-4-3 - Designation of &quot;American History Month&quot;
+- Section 1-4-4 - Declaration of &quot;Wildflower Week&quot;
+- Section 1-4-5 - Declaration of &quot;Bird Day&quot;
+- Section 1-4-6 - Declaration of &quot;Law Enforcement Officer Appreciation Day&quot;
+- Section 1-4-7 - Declaration of &quot;Peace Officer Memorial Day&quot;; declaration of &quot;Police Week&quot;
+- Section 1-4-8 - Declaration of &quot;Children's Day&quot;
+- Section 1-4-9 - Designation of &quot;Former Prisoners of War Recognition Day&quot;
+- Section 1-4-10 - Designation of &quot;Girls and Women in Sports Day&quot;
+- Section 1-4-11 - Designation of &quot;Clean Water Week&quot;
+- Section 1-4-12 - Designation of &quot;Firefighter Appreciation Day&quot;
+- Section 1-4-13 - Designation of &quot;Bill of Rights Day&quot;
+- Section 1-4-14 - Declaration of &quot;Home Education Week&quot;
+- Section 1-4-15 - Designation of &quot;Bill Elliott Day.&quot;
+- Section 1-4-15.1 - Designation of &quot;Ronald Reagan Day.&quot;
+- Section 1-4-16 - Designation of &quot;Prison Chaplains Appreciation Day.&quot;
+- Section 1-4-17 - Declaration of &quot;Georgia Day.&quot;
+- Section 1-4-18 - Designation of &quot;School Bus Drivers Appreciation Day.&quot;
+- Section 1-4-19 - Designation of &quot;School Bus Safety Week.&quot;
+- Section 1-4-20 - Designation of Confederate History and Heritage Month
+- Section 1-4-21 - Designation of &quot;Purple Heart Day.&quot;
+- Section 1-4-22 - Designation of &quot;Water Professionals Appreciation Day.&quot;
+- Section 1-4-23 - Designation of &quot;Childhood Cancer Awareness Day.&quot;
+- Section 1-4-24 - Designation of &quot;National Swearing-in Commitment Day.&quot;
+- Section 1-4-25 - Designation of &quot;Public Safety Week.&quot;
+- Section 1-4-26 - First Responders Appreciation Day

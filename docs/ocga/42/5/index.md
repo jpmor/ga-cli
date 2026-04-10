@@ -1,0 +1,70 @@
+# Chapter 5 - CORRECTIONAL INSTITUTIONS OF STATE AND COUNTIES (§§ 42-5-1 — 42-5-125)
+
+- Section 42-5-1 - Definitions
+- Section 42-5-2 - Responsibilities of governmental unit with custody of inmate; costs of emergency and follow-up care; access to medical services or hospital care; hospital requirements for providing emergency health care services to state inmates
+- Section 42-5-3 - Department's responsibility for trial costs and expenses
+- Section 42-5-4 - Payment of trial costs and expenses
+- Section 42-5-5 - Reimbursement of court costs and transportation and detention expenses incurred in trying escapees from state correctional institutions
+- Section 42-5-6 - Participation by county correctional institutions in state purchasing contracts
+- Section 42-5-7 - Sudden or unusual death of inmate
+- Section 42-5-8 - Notification upon escape of inmate
+- Section 42-5-9 - Notification of projected release date of inmate
+- Section 42-5-10 - Promulgation of rules governing plans and specifications for new correctional institutions; certification of acceptability of old facilities by state fire marshal
+- Section 42-5-11 - General prohibition against receipt of remuneration in regard to assignment, transfer, or status of inmate
+- Section 42-5-12 - Receipt of remuneration by state officials in regard to assignment, transfer, or status of inmate
+- Section 42-5-13 - Record of person contacting commissioner, department, or board on behalf of inmate
+- Section 42-5-14 - Establishment of guard lines and signs at state or county correctional institutions
+- Section 42-5-15 - Crossing of guard lines with weapons, intoxicants, or drugs without consent of warden or superintendent
+- Section 42-5-16 - Trading with inmates without consent of warden or superintendent
+- Section 42-5-17 - Loitering near inmates after being ordered to desist
+- Section 42-5-18 - Items prohibited for possession by inmates; warden's authorization; penalty; use of unmanned aircraft to accomplish violations
+- Section 42-5-19 - Penalty for violating Code Section 42-5-16 or 42-5-17
+- Section 42-5-20 - Alcohol or Drug Use Risk Reduction Program
+- Section 42-5-21 - Family Violence Counseling Program
+- Section 42-5-30 - Qualifications for wardens, superintendents, and other personnel; appointment of wardens of county correctional institutions
+- Section 42-5-31 - Oath of office of wardens and superintendents, their deputies, and other correctional officers
+- Section 42-5-32 - Bonds of superintendents, wardens, and other officials and employees
+- Section 42-5-33 - Submission of monthly reports to commissioner by wardens and superintendents
+- Section 42-5-34 - Powers of arrest of wardens, superintendents, and deputies
+- Section 42-5-35 - Conferral of police powers; authorization to assist local law enforcement officers or correctional officers; retention of badge
+- Section 42-5-36 - Confidentiality of certain information related to inmates; certain information classified as state secrets; declassification; exception; records custodians; penalties for breach
+- Section 42-5-37 - Employees in control of inmates prohibited from receiving profit from inmate labor; penalties
+- Section 42-5-37.1 - Compensation of employees of institutions operated by department for damages to wearing apparel caused by inmate action
+- Section 42-5-38 - Making false statement as to age to procure employment
+- Section 42-5-39 - Refusal by officer to receive inmates in correctional institution
+- Section 42-5-40 - Requiring inmates to do unnecessary work on Sunday
+- Section 42-5-41 - [Repealed] Compensation of department employee injured by inmate or probationer
+- Section 42-5-50 - Transmittal of information on convicted persons; place of detention; payment for inmates not transferred to the custody of the department; notice in the event of convicted person free on bond pending appeal
+- Section 42-5-51 - Jurisdiction over certain misdemeanor offenders; designation of place of confinement of inmates; reimbursement of county; transfer of inmates to federal authority
+- Section 42-5-51.1 - Retention of inmate in state penal institution pending trial on offense committed while in confinement
+- Section 42-5-52 - Classification and separation of inmates generally; placement of juvenile offenders and female inmates; transfer of certain inmates
+- Section 42-5-52.1 - Submission to HIV test; separate housing for HIV infected persons
+- Section 42-5-52.2 - Testing of prison inmates for HIV; consolidation of inmates testing positive
+- Section 42-5-53 - Establishment of county correctional institutions; supervision by department; quota of inmates; funding; confinement and withdrawal of inmates
+- Section 42-5-54 - Information from inmates relating to medical insurance; provision and payment of medical treatment for inmates
+- Section 42-5-55 - Deductions from inmate accounts for payment of certain damages and medical costs; limit on deductions; fee for managing inmate accounts
+- Section 42-5-56 - Visitation with minors by convicted sexual offenders
+- Section 42-5-57 - Institution of rehabilitation programs; provision of opportunities for educational, religious, and recreational activities
+- Section 42-5-58 - Prohibition against corporal punishment; use of handcuffs, leg chains, and other restraints; permissible punishment generally
+- Section 42-5-59 - Employment of inmates in the local community
+- Section 42-5-60 - Hiring out of inmates; participation of inmates in programs of volunteer service; sale of products produced by inmates; disposition of proceeds; payment to inmates for services
+- Section 42-5-60.1 - Utilization of inmates of county correctional institutions for work on outdoor assignments during inclement weather; supervision of inmates
+- Section 42-5-61 - Services and benefits furnished to inmates upon discharge
+- Section 42-5-62 - Forfeiture of contraband
+- Section 42-5-63 - Unauthorized possession of weapon by inmate
+- Section 42-5-64 - Educational programming; information provided to released prisoners
+- Section 42-5-65 - Victim photographs prohibited; exception
+- Section 42-5-80 - Authorization and general procedure for granting special leave
+- Section 42-5-81 - Issuance of special leave; filing
+- Section 42-5-82 - Purposes for which special leave may be granted
+- Section 42-5-83 - Emergency leaves
+- Section 42-5-84 - Delegation of authority to issue limited leave privileges; records
+- Section 42-5-85 - Leave privileges of inmates serving murder sentences
+- Section 42-5-100 - Termination of board's power to award earned-time allowances
+- Section 42-5-101 - Work incentive credits
+- Section 42-5-120 - Rules and regulations; requirements
+- Section 42-5-121 - Federal certification
+- Section 42-5-122 - Conflicting legislation preempted
+- Section 42-5-123 - Compensation by employers for administrative and other costs to the state
+- Section 42-5-124 - Publicizing and inviting participation in programs; cooperation with the Department of Labor
+- Section 42-5-125 - General applicability; exceptions

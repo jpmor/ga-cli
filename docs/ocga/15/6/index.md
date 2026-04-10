@@ -1,0 +1,103 @@
+# Chapter 6 - SUPERIOR COURTS (§§ 15-6-1 — 15-6-100)
+
+- Section 15-6-1 - Composition of judicial circuits
+- Section 15-6-2 - Number of judges
+- Section 15-6-3 - Terms of court
+- Section 15-6-4 - Qualifications of judges
+- Section 15-6-4.1 - Election of judges
+- Section 15-6-5 - Restrictions on practice of law
+- Section 15-6-6 - Oath of judges
+- Section 15-6-7 - Effect of attachment of county to different judicial circuit
+- Section 15-6-8 - Jurisdiction and powers of superior courts
+- Section 15-6-9 - Authority of judges generally
+- Section 15-6-10 - Discharge of duties
+- Section 15-6-11 - Electronic filings of pleadings and documents; electronic payments and remittances; access; public disclosure
+- Section 15-6-11.1 - Superior court judges performing ordered military duty
+- Section 15-6-12 - Judges' jurisdiction coextensive with limits of state; authority when serving in other circuits
+- Section 15-6-13 - Disqualified judge to procure replacement; failure as ground of impeachment
+- Section 15-6-14 - Selection of replacement judge when disqualified judge fails to act
+- Section 15-6-15 - Assignment by Governor of alternate for disabled judge; duty of judge assigned
+- Section 15-6-16 - Authority of superior court judges
+- Section 15-6-17 - Time and place of holding court generally; habeas corpus and other nonjury proceedings; satellite courthouses
+- Section 15-6-18 - Alternative locations; conditions and limitations; force and effect as if done at regular courthouse
+- Section 15-6-19 - Length of terms of courts
+- Section 15-6-20 - Special terms
+- Section 15-6-21 - Time for deciding motions; filing and notification; noncompliance as ground for impeachment
+- Section 15-6-22 - Adjournments
+- Section 15-6-23 - Signing documents in any county in circuit
+- Section 15-6-24 - Payment of court's contingent expenses
+- Section 15-6-25 - Employment of secretary authorized
+- Section 15-6-27 - Procedure for hiring personnel employed by superior court judges; local supplements
+- Section 15-6-28 - Law assistants and court administrators for judicial circuits; circuits having institutions for carrying out death sentences
+- Section 15-6-29 - Salary of judges
+- Section 15-6-29.1 - Accountability court supplement; limitation
+- Section 15-6-30 - Travel expenses
+- Section 15-6-31 - Transfer of administrative functions
+- Section 15-6-32 - Expenses for attendance at educational programs
+- Section 15-6-33 - Convention for recommending rules
+- Section 15-6-34 - [Effective Until 7/1/2025] Creation of The Council of Superior Court Judges of Georgia; composition; purpose; expenses; acceptance and publication of uniform standards
+- Section 15-6-34 - [Effective 7/1/2025] Creation of The Council of Superior Court Judges of Georgia; composition; purpose; expenses; acceptance and publication of uniform standards; notifications
+- Section 15-6-35 - Selection of bailiffs by sheriff; appointment of additional bailiffs
+- Section 15-6-36 - Notice of student's felony conviction to school superintendent
+- Section 15-6-50 - Clerk's term of office; qualifications; training requirements; appointment of clerk pro tempore during training
+- Section 15-6-50.1 - Superior Court Clerks Training Council
+- Section 15-6-50.2 - The Council of Superior Court Clerks of Georgia
+- Section 15-6-50.3 - [Repealed] Criminal Case Data Exchange Board created; membership; operation; role; public access
+- Section 15-6-51 - Eligibility to serve as other court clerk
+- Section 15-6-52 - Practice of law restricted
+- Section 15-6-53 - Appointment of clerk; actions by interim clerk; special elections
+- Section 15-6-54 - [Repealed] Appointment by probate judge pending filling of vacancy; duration of appointment
+- Section 15-6-55 - Emergency service by probate court judge; appointment of interim deputy clerk
+- Section 15-6-56 - [Repealed] [Reserved] Election to fill vacancy; term of office; filling of vacancies in counties with chief deputy clerk
+- Section 15-6-57 - Election to break tie
+- Section 15-6-58 - Oath of office
+- Section 15-6-59 - Bond; appointment of deputies
+- Section 15-6-60 - Powers of clerks
+- Section 15-6-60.1 - Location of retained records; request for access to records; contracting for retention; online access
+- Section 15-6-61 - Duties of clerks generally; computerized record-keeping system
+- Section 15-6-62 - Additional clerk duties
+- Section 15-6-62.1 - Back-up records
+- Section 15-6-63 - Obtaining of names of grantors and grantees prior to recordation of title transfer
+- Section 15-6-65 - Entry of civil cases on dockets; order for trial
+- Section 15-6-66 - Grantor-grantee index
+- Section 15-6-67 - Recordation of plats and condominium plans; specifications
+- Section 15-6-68 - Public access to maps, plats, and plans
+- Section 15-6-69 - Effect of map and plat recordation requirements
+- Section 15-6-70 - Recordation of bankruptcy petition, decree, or order; fees
+- Section 15-6-72 - Recordation and index of military service records; confidentiality
+- Section 15-6-73 - Destruction of obsolete records
+- Section 15-6-74 - Preservation of newspapers containing advertisements
+- Section 15-6-76.1 - Investing or depositing funds; depositing funds paid into court registry
+- Section 15-6-77 - Fees; construction of other fee provisions
+- Section 15-6-77.1 - [Repealed] Additional fees in counties with populations of 550,000 or more; disposition of such fees
+- Section 15-6-77.2 - [Repealed] Costs for clerk's services in counties with populations of 640,000 or more; time for payment of costs; disposition of such costs
+- Section 15-6-77.3 - [Repealed] Additional fees in counties with populations in unincorporated areas of 350,000 or more
+- Section 15-6-77.4 - Additional divorce case filing fee for Children's Trust Fund
+- Section 15-6-78 - Veterans not to be charged for recordation of discharge certificates
+- Section 15-6-79 - [Repealed] [Reserved] Payment of unpaid costs in felony cases
+- Section 15-6-80 - Payment of transcript costs to clerk before transmittal
+- Section 15-6-81 - Failure to perform duty punishable as contempt
+- Section 15-6-82 - Governor ordering investigation of clerk of court; suspension of clerk
+- Section 15-6-83 - Clerk's liability
+- Section 15-6-84 - Clerk's liability after retirement
+- Section 15-6-86 - Location of clerk's office in place other than courthouse; storage of archival or inactive records in different location; county documents exception
+- Section 15-6-87 - Furnishing of fixtures, supplies, and equipment to clerk
+- Section 15-6-87.1 - [Repealed] Participation in state-wide county computerized information network; authorized fees
+- Section 15-6-88 - Minimum annual salary schedule
+- Section 15-6-88.1 - [Repealed] [Reserved] Adjustment of schedule for certain counties containing federal land
+- Section 15-6-88.2 - Monthly contingent expense allowance schedule for the clerk's office
+- Section 15-6-89 - Additional remuneration for certain services
+- Section 15-6-90 - Longevity increases; operational expenses; local laws
+- Section 15-6-91 - Effect of salary provisions on local legislation
+- Section 15-6-92 - [Repealed] [Reserved] Continuation of fee system
+- Section 15-6-93 - Office hours
+- Section 15-6-94 - Georgia Superior Court Clerks' Cooperative Authority
+- Section 15-6-95 - Priorities of distribution of fines, bond forfeitures, surcharges, additional fees, and costs in cases of partial payments into the court
+- Section 15-6-96 - Clerk as custodian of records; contracts to market records or computer generated data for profit
+- Section 15-6-97 - State-wide uniform automated information system; additional powers and duties of Georgia Superior Court Clerks' Cooperative Authority
+- Section 15-6-97.1 - [Repealed] Civil case information system; funding
+- Section 15-6-97.2 - Maintenance of uniform automated electronic information system for carbon sequestration registry
+- Section 15-6-97.3 - Revision of automated information system for state tax execution data; regulatory authority
+- Section 15-6-98 - Collection and remittal of fees
+- Section 15-6-99 - Re-creation of grantor and grantee indexes
+- Section 15-6-100 - Clerk's expenditure of funds

@@ -1,0 +1,25 @@
+# Chapter 19 - GEOLOGISTS (§§ 43-19-1 — 43-19-28)
+
+- Section 43-19-1 - Short title
+- Section 43-19-2 - Purpose of chapter
+- Section 43-19-3 - Definitions
+- Section 43-19-4 - State Board of Registration for Professional Geologists; members
+- Section 43-19-5 - Board meetings; officers
+- Section 43-19-6 - General powers and duties of board
+- Section 43-19-7 - Service of appeals, documents, and legal process on division director
+- Section 43-19-8 - [Repealed] [Reserved] Official records and affidavits as evidence
+- Section 43-19-10 - Registration required
+- Section 43-19-11 - Application
+- Section 43-19-12 - Qualifications of applicants
+- Section 43-19-13 - Examinations
+- Section 43-19-14 - Reciprocity
+- Section 43-19-15 - Issuance of certificates of registration; renewal or replacement
+- Section 43-19-16 - Denial, suspension, or revocation of certificate; appeal
+- Section 43-19-18 - Certification in a specialty
+- Section 43-19-19 - Seals
+- Section 43-19-20 - Requirement that state and subdivisions contract only with registered geologists
+- Section 43-19-22 - Attorney General as legal adviser
+- Section 43-19-24 - Exceptions to operation of chapter
+- Section 43-19-25 - Partnership, limited liability, and corporate practice; nonpublic geological services; practice by nonresident or new resident
+- Section 43-19-26 - Unlawful acts
+- Section 43-19-27 - Penalty

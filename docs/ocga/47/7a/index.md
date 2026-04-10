@@ -1,0 +1,3 @@
+# Chapter 7A - [REPEALED] GEORGIA CLASS NINE FIRE DEPARTMENT PENSION (§ 47-7A-1)
+
+- Section 47-7A-1 - through 47-7A-127 - [Repealed]

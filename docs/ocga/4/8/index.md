@@ -1,0 +1,27 @@
+# Chapter 8 - DOGS (§§ 4-8-1 — 4-8-40)
+
+- Section 4-8-1 - Minimum standards for control of dogs
+- Section 4-8-1.1 - Abandonment of dead dogs - Upon private property
+- Section 4-8-1.2 - Classification of certain dogs as hunting dogs
+- Section 4-8-2 - Abandonment of dead dogs - Upon public property or public right of way
+- Section 4-8-3 - Abandonment of dogs
+- Section 4-8-4 - Liability of owner or custodian for damages done to livestock, poultry, or pet animal by dog
+- Section 4-8-5 - Cruelty to dogs; authorized killing of dogs
+- Section 4-8-6 - Permitting dogs in heat to roam or run free
+- Section 4-8-6.1 - Removal of certain collars from dogs; restitution; exemption
+- Section 4-8-7 - Penalty for violations of article
+- Section 4-8-20 - Short title
+- Section 4-8-21 - Definitions
+- Section 4-8-22 - Jurisdiction; designation of dog control officer; consolidation of services
+- Section 4-8-23 - Investigations by dog control officer; notice to owner; hearings; determinations by hearing authority; judicial review
+- Section 4-8-24 - Impoundment
+- Section 4-8-25 - Court ordered euthanasia
+- Section 4-8-26 - Euthanasia for dogs with repeat offenses
+- Section 4-8-27 - Certificates of registration; requirements for issuance of certificate; individuals excluded from receiving registration; limitation of ownership; annual renewal
+- Section 4-8-28 - Notifications by owner; change in ownership of dog; changes in residence
+- Section 4-8-29 - Limitations on dog's presence off of owner's premises; penalty for violation; defense
+- Section 4-8-30 - Confiscation by dog control officer; payment of costs for recovery; euthanasia
+- Section 4-8-31 - Governmental liability for enforcement
+- Section 4-8-32 - Penalty for violation
+- Section 4-8-33 - Application and compliance
+- Section 4-8-40 - through 4-8-45 - [Repealed]

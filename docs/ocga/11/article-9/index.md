@@ -1,0 +1,154 @@
+# Article 9 - SECURED TRANSACTIONS (§§ 11-9-101 — 11-9-809)
+
+- Section 11-9-101 - Short title
+- Section 11-9-102 - Definitions and index of definitions
+- Section 11-9-103 - Purchase money security interest; application of payments; burden of establishing
+- Section 11-9-104 - Control of deposit account
+- Section 11-9-105 - Control of electronic copy of record evidencing chattel paper
+- Section 11-9-105A - Control of electronic money
+- Section 11-9-106 - Control of investment property
+- Section 11-9-107 - Control of letter of credit right
+- Section 11-9-107A - Control of controllable electronic record, controllable account, or controllable payment intangible
+- Section 11-9-107B - No requirement to acknowledge or confirm; no duties
+- Section 11-9-108 - Sufficiency of description
+- Section 11-9-109 - Scope
+- Section 11-9-110 - Security interests arising under Article 2 or 2A of this title
+- Section 11-9-111 - [Repealed] Applicability of bulk transfer laws
+- Section 11-9-201 - General effectiveness of security agreement
+- Section 11-9-202 - Title to collateral immaterial
+- Section 11-9-203 - Attachment and enforceability of security interest; proceeds; supporting obligations; formal requisites
+- Section 11-9-204 - After acquired property; future advances
+- Section 11-9-205 - Use or disposition of collateral permissible
+- Section 11-9-206 - Security interest arising in purchase or delivery of financial asset
+- Section 11-9-207 - Rights and duties of secured party having possession or control of collateral
+- Section 11-9-208 - Additional duties of secured party having control of collateral
+- Section 11-9-209 - Duties of secured party if account debtor has been notified of assignment
+- Section 11-9-210 - Request for accounting; request regarding list of collateral or statement of account
+- Section 11-9-301 - Law governing perfection and priority of security interests
+- Section 11-9-302 - Law governing perfection and priority of agricultural liens
+- Section 11-9-303 - Law governing perfection and priority of security interests in goods covered by a certificate of title
+- Section 11-9-304 - Law governing perfection and priority of security interests in deposit accounts
+- Section 11-9-305 - Law governing perfection and priority of security interests in investment property
+- Section 11-9-306 - Law governing perfection and priority of security interests in letter of credit rights
+- Section 11-9-306A - Law governing perfection and priority of security interests in chattel paper
+- Section 11-9-306B - Law governing perfection and priority of security interests in controllable accounts, controllable electronic records, and controllable payment intangibles
+- Section 11-9-307 - Location of debtor
+- Section 11-9-308 - When security interest or agricultural lien is perfected; continuity of perfection
+- Section 11-9-309 - Security interest perfected upon attachment
+- Section 11-9-310 - When filing required to perfect security interest or agricultural lien; security interests and agricultural liens to which filing provisions do not apply
+- Section 11-9-311 - Perfection of security interests in property subject to certain statutes, regulations, and treaties
+- Section 11-9-312 - Perfection of security interests in chattel paper, controllable accounts, controllable electronic records, controllable payment intangibles, deposit accounts, negotiable documents, goods covered by documents, instruments, investment property, letter of credit rights, and money; perfection by permissive filing; temporary perfection without filing or transfer of possession
+- Section 11-9-313 - When possession by or delivery to secured party perfects security interest without filing
+- Section 11-9-314 - Perfection by control
+- Section 11-9-314A - Perfection by possession and control of chattel paper
+- Section 11-9-315 - Secured party's rights on disposition of collateral and in proceeds
+- Section 11-9-316 - Effect of change in governing law
+- Section 11-9-317 - Interests that take priority over or take free of security interest or agricultural lien
+- Section 11-9-318 - No interest retained in right to payment that is sold; rights and title of seller of account or chattel paper with respect to creditors and purchasers
+- Section 11-9-319 - Rights and title of consignee with respect to creditors and purchasers
+- Section 11-9-320 - Buyer of goods
+- Section 11-9-321 - Licensee of general intangible and lessee of goods in ordinary course of business
+- Section 11-9-322 - Priorities among conflicting security interests in and agricultural liens on same collateral
+- Section 11-9-322.1 - Crops produced with new value
+- Section 11-9-323 - Future advances
+- Section 11-9-324 - Priority of purchase money security interests
+- Section 11-9-325 - Priority of security interests in transferred collateral
+- Section 11-9-326 - Priority of security interests created by new debtor
+- Section 11-9-326A - Priority of security interest in controllable account, controllable electronic record, and controllable payment intangible
+- Section 11-9-327 - Priority of security interests in deposit account
+- Section 11-9-328 - Priority of security interests in investment property
+- Section 11-9-329 - Priority of security interests in letter of credit right
+- Section 11-9-330 - Priority of purchaser of chattel paper or instrument
+- Section 11-9-331 - Priority of rights of purchasers of controllable accounts, controllable electronic records, controllable payment intangibles, documents, instruments, and securities under other articles; priority of interests in financial assets and security entitlements and protection against assertion of claim under Articles 8 and 12 of this title
+- Section 11-9-332 - Transfer of money; transfer of funds from deposit account
+- Section 11-9-333 - Priority of certain liens
+- Section 11-9-334 - Priority of security interests in fixtures and crops
+- Section 11-9-335 - Accessions
+- Section 11-9-336 - Commingled goods
+- Section 11-9-337 - Priority of security interests in goods covered by certificate of title
+- Section 11-9-338 - Priority of security interest or agricultural lien perfected by filed financing statement providing certain incorrect information
+- Section 11-9-339 - Priority subject to subordination
+- Section 11-9-340 - Effectiveness of right of recoupment or set-off against deposit account
+- Section 11-9-341 - Bank's rights and duties with respect to deposit account
+- Section 11-9-342 - Bank's right to refuse to enter into or disclose existence of control agreement
+- Section 11-9-401 - Alienability of debtor's rights
+- Section 11-9-402 - Secured party not obligated on contract of debtor or in tort
+- Section 11-9-403 - Agreement not to assert defenses against assignee
+- Section 11-9-404 - Rights acquired by assignee; claims and defenses against assignee
+- Section 11-9-405 - Modification of assigned contract
+- Section 11-9-406 - Discharge of account debtor; notification of assignment; identification and proof of assignment; restrictions on assignment of accounts, chattel paper, payment intangibles, and promissory notes ineffective
+- Section 11-9-407 - Restrictions on creation or enforcement of security interest in leasehold interest or in lessor's residual interest
+- Section 11-9-408 - Restrictions on assignment of promissory notes, health care insurance receivables, and certain general intangibles ineffective
+- Section 11-9-409 - Restrictions on assignment of letter of credit rights ineffective
+- Section 11-9-501 - Filing office
+- Section 11-9-502 - Contents of financing statement; record of mortgage as fixture filing or financing statement; time of filing financing statement
+- Section 11-9-503 - Name of debtor and secured party
+- Section 11-9-504 - Indication of collateral
+- Section 11-9-505 - Filing and compliance with other statutes and treaties for consignments, leases, other bailments, and other transactions
+- Section 11-9-506 - Effect of errors or omissions
+- Section 11-9-507 - Effect of certain events on effectiveness of financing statement
+- Section 11-9-508 - Effectiveness of financing statement if new debtor becomes bound by security agreement
+- Section 11-9-509 - Persons entitled to file a record
+- Section 11-9-510 - Effectiveness of filed record
+- Section 11-9-511 - Secured party of record
+- Section 11-9-512 - Amendment of financing statement
+- Section 11-9-513 - Termination statement
+- Section 11-9-514 - Assignment of powers of secured party of record
+- Section 11-9-515 - Duration and effectiveness of financing statement; effect of lapsed financing statement; record of mortgage as financing statement
+- Section 11-9-516 - What constitutes filing; effectiveness of filing
+- Section 11-9-517 - Effect of indexing errors
+- Section 11-9-518 - Inaccurate or wrongfully filed record
+- Section 11-9-519 - Numbering, maintaining, and indexing records; communicating information provided in records
+- Section 11-9-520 - Acceptance and refusal to accept record
+- Section 11-9-521 - Uniform form of written financing statement and amendment; authority may prescribe forms
+- Section 11-9-522 - Maintenance and destruction of records
+- Section 11-9-523 - Information from filing office and central indexing system; sale or license of records
+- Section 11-9-524 - Delay by filing office or authority
+- Section 11-9-525 - Fees
+- Section 11-9-526 - Rules
+- Section 11-9-601 - Rights after default; judicial enforcement; consignor or buyer of accounts, chattel paper, payment intangibles, or promissory notes
+- Section 11-9-602 - Waiver and variance of rights and duties
+- Section 11-9-603 - Agreement on standards concerning rights and duties
+- Section 11-9-604 - Procedure if security agreement covers real property or fixtures
+- Section 11-9-605 - Unknown debtor or secondary obligor
+- Section 11-9-606 - Time of default for agricultural lien
+- Section 11-9-607 - Collection and enforcement by secured party
+- Section 11-9-608 - Application of proceeds of collection or enforcement; liability for deficiency and right to surplus
+- Section 11-9-609 - Secured party's right to take possession after default
+- Section 11-9-610 - Disposition of collateral after default
+- Section 11-9-611 - Notification before disposition of collateral
+- Section 11-9-612 - Timeliness of notification before disposition of collateral
+- Section 11-9-613 - Contents and form of notification before disposition of collateral; general
+- Section 11-9-614 - Contents and form of notification before disposition of collateral; consumer goods transaction
+- Section 11-9-615 - Application of proceeds of disposition; liability for deficiency and right to surplus
+- Section 11-9-616 - Explanation of calculation of surplus or deficiency
+- Section 11-9-617 - Rights of transferee of collateral
+- Section 11-9-618 - Rights and duties of certain secondary obligors
+- Section 11-9-619 - Transfer of record or legal title
+- Section 11-9-620 - Acceptance of collateral in full or partial satisfaction of obligation; compulsory disposition of collateral
+- Section 11-9-621 - Notification of proposal to accept collateral
+- Section 11-9-622 - Effect of acceptance of collateral
+- Section 11-9-623 - Right to redeem collateral
+- Section 11-9-624 - Waiver
+- Section 11-9-625 - Remedies for secured party's failure to comply with article
+- Section 11-9-626 - Action in which deficiency or surplus is in issue
+- Section 11-9-627 - Determination of whether conduct was commercially reasonable
+- Section 11-9-628 - Nonliability and limitation on liability of secured party; liability of secondary obligor
+- Section 11-9-701 - Effective date
+- Section 11-9-702 - Savings clause
+- Section 11-9-703 - Security interest perfected before effective date
+- Section 11-9-704 - Security interest unperfected before effective date
+- Section 11-9-705 - Effectiveness of action taken before effective date
+- Section 11-9-706 - When initial financing statement suffices to continue effectiveness of financing statement
+- Section 11-9-707 - Amendment of pre-effective date financing statement
+- Section 11-9-708 - Persons entitled to file initial financing statement or continuation statement
+- Section 11-9-709 - Priority
+- Section 11-9-710 - Exculpation
+- Section 11-9-802 - Savings clause
+- Section 11-9-803 - Security interest perfected before effective date
+- Section 11-9-804 - Security interest unperfected before effective date
+- Section 11-9-805 - Effectiveness of action taken before effective date
+- Section 11-9-806 - When initial financing statement suffices to continue effectiveness of financing statement
+- Section 11-9-807 - Amendment of pre-effective date financing statement
+- Section 11-9-808 - Person entitled to file initial financing statement or continuation statement
+- Section 11-9-809 - Priority

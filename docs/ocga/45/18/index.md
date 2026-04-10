@@ -1,0 +1,65 @@
+# Chapter 18 - EMPLOYEES' INSURANCE AND BENEFITS PLANS (§§ 45-18-1 — 45-18-100)
+
+- Section 45-18-1 - Definitions
+- Section 45-18-2 - Authority to establish health insurance plan; rules and regulations; plan generally; coverage for retiring or retired employees
+- Section 45-18-3 - Design of plan
+- Section 45-18-4 - Expenses not to be covered by plan
+- Section 45-18-4.1 - Breast cancer screening for individuals with high risk
+- Section 45-18-5 - County officers and employees
+- Section 45-18-5.1 - Licensed blind or otherwise seriously disabled vendors
+- Section 45-18-5.2 - Sheltered employment center employees
+- Section 45-18-6 - Contracts to provide insurance benefits; invitation of proposals; reinsurance agreements; issuance of certificates of coverage; redetermination of contracts; self-insurance plans; contracts for administrative services; contracts with health maintenance organizations
+- Section 45-18-6.1 - Reimbursement rates offered under state employees' health insurance plan
+- Section 45-18-7 - Retiring employees, spouses, and dependents
+- Section 45-18-7.1 - Employees of the Georgia Development Authority
+- Section 45-18-7.2 - [Repealed] Agrirama Development Authority employees
+- Section 45-18-7.3 - Employees of Peace Officers' Annuity and Benefit Fund, Georgia Firefighters' Pension Fund, and Sheriffs' Retirement Fund of Georgia, spouses, and dependent children
+- Section 45-18-7.4 - [Repealed] Employees of Hazardous Waste Management Authority
+- Section 45-18-7.5 - Employees of Georgia Housing and Finance Authority, spouses, and dependent children
+- Section 45-18-7.6 - Employees of Georgia-Federal State Inspection Service, spouses, and dependent children
+- Section 45-18-7.7 - Employees and dependents of critical access hospitals in health plans
+- Section 45-18-7.8 - Employees of the Georgia Student Finance Authority
+- Section 45-18-8 - Right of employees to secure coverage for spouse and dependents; regulations
+- Section 45-18-9 - Continuation of coverage for spouse or dependents of deceased employees; resumption of coverage; payment of contributions; regulating continuance, discontinuance, and resumption of coverage
+- Section 45-18-10 - Right of continuation of coverage for former employees; payment of premiums; establishment of terms and conditions by board; appointment as United States attorney
+- Section 45-18-11 - Procedure for presentation of claims and payment of benefits
+- Section 45-18-12 - Creation of health insurance fund; amounts credited to fund; special reserve; administrator and custodian of fund
+- Section 45-18-13 - Deposit of amounts from health insurance fund available for investment in trust account; investment of funds; withdrawal of funds from trust account
+- Section 45-18-14 - Deductions from compensation and benefit payments of share of cost of coverage under plan of employees; payment of contributions to health insurance fund by departments, boards, and agencies of state; coverage of employee appealing discharge
+- Section 45-18-15 - Rules and regulations for administration of part; board to recommend to General Assembly schedule of maximum fees for hospitals and practitioners
+- Section 45-18-16 - Certification of employer payment percentage for ensuing fiscal year; provision in budgets for funds for employer payments
+- Section 45-18-17 - Employees to become members of plan unless coverage rejected or waived; withdrawal from plan by persons covered by Social Security medical care
+- Section 45-18-18 - Discharge of certain debts or obligations due health insurance fund
+- Section 45-18-19 - Confidentiality of claim forms and records
+- Section 45-18-20 - Fiscal note required for bills impacting employees' health insurance plans
+- Section 45-18-21 - Deposit of employer and retiree contributions into the Georgia Retiree Health Benefit Fund
+- Section 45-18-24 - Definitions
+- Section 45-18-25 - Creation of Georgia State Employees Post-employment Health Benefit Fund; identification and transfer of funds from Georgia Retiree Health Benefit Fund; how funds used
+- Section 45-18-25.1 - Responsibilities and procedures for fund operation; rules and regulations; employment of personnel and professionals; maintenance of records; collection of moneys; report
+- Section 45-18-26 - Technical advice; annual actuarial valuations
+- Section 45-18-27 - Control of fund by commissioner; obligations to be paid from fund; investment powers; prohibition against personal interest
+- Section 45-18-28 - Minimum annual required contributions; employer responsibilities
+- Section 45-18-30 - &quot;Employee&quot; defined
+- Section 45-18-31 - Deferred compensation plans authorized for state, municipalities, counties, or other political subdivisions
+- Section 45-18-32 - Administration of plans; participation by employees of county boards of health, school systems, Lake Allatoona Preservation Authority, the Georgia Federal-State Shipping Point Inspection Service, and the Georgia Firefighters' Pension Fund; provision in plans for income tax deferral benefits
+- Section 45-18-33 - Payments from deferred compensation funds for purchase of insurance, endowments, annuities, mutual funds, or savings from funds derived from deferral; custodian of assets of the fund
+- Section 45-18-34 - Plans not to reduce pensions or other benefits
+- Section 45-18-35 - Plans to operate without cost to state, counties, cities, or other political subdivisions
+- Section 45-18-36 - Salary deductions; records of individual account information
+- Section 45-18-37 - [Repealed] Special pay plan for deferred payment of special compensation to reduce federal tax burden
+- Section 45-18-38 - Board of Trustees of the Employees' Retirement System to be the successor to the State Personnel Board and Employee Benefit Council for administration of deferred compensation plans; employment of and contracting with agents
+- Section 45-18-50 - Definitions
+- Section 45-18-51 - Creation and operation of council
+- Section 45-18-52 - Establishment of flexible employee benefit plans
+- Section 45-18-53 - Authorization for payroll deductions
+- Section 45-18-54 - Continuation of optional plans; approval of optional plans or contracting with new or additional insurers
+- Section 45-18-55 - Commissioner of administrative services as executive officer and custodian
+- Section 45-18-56 - Execution of contracts by commissioner; bidding procedure
+- Section 45-18-57 - Contributions from state departments, boards, and agencies
+- Section 45-18-58 - Liability for errors or omissions
+- Section 45-18-70 - Establishment and operation
+- Section 45-18-71 - Rules and regulations for personnel administration
+- Section 45-18-72 - Start-up costs
+- Section 45-18-80 - Certain employees retired prior to July 1, 1962, exempt from personal liability for services at state hospitals; cooperation in application and claims process
+- Section 45-18-81 - Legislative intent
+- Section 45-18-100 - through 45-18-105 - [Repealed]

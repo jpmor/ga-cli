@@ -1,0 +1,132 @@
+# Chapter 3 - REGULATION OF SPECIALIZED LAND TRANSACTIONS (§§ 44-3-1 — 44-3-250)
+
+- Section 44-3-1 - Short title
+- Section 44-3-2 - Definitions
+- Section 44-3-3 - Registration statement; accompanying documents; material changes; property report; lots or parcels subject to blanket encumbrances; records subject to inspection by purchaser; copy of property report to be given to prospective purchasers; sales contract; amendments to report
+- Section 44-3-4 - Exemptions from Code Section 44-3-3
+- Section 44-3-4.1 - [Repealed] Fees and expenses of commission
+- Section 44-3-5 - Violations of article
+- Section 44-3-6 - Order prohibiting act, practice, or transaction in violation of article; injunctive relief
+- Section 44-3-7 - Willful violation of article; effect on statutory or common-law right to punish violations; effect of article on Attorney General
+- Section 44-3-8 - Rights of buyer upon violation; persons liable for violations; limitation on actions; survival of actions; effect on statutory or common-law rights; exemption of advertisers from liability
+- Section 44-3-8.1 - [Repealed] Denial of application, reprimand, suspension, civil penalty, or revocation of registration
+- Section 44-3-9 - Venue
+- Section 44-3-10 - Business records required
+- Section 44-3-11 - Certain waivers in contract void
+- Section 44-3-12 - Burden of proof of exemption
+- Section 44-3-13 - Application of prior law to actions, registrations, and orders prior to July 1, 1990
+- Section 44-3-13.1 - through 44-3-13.3 - [Repealed]
+- Section 44-3-15 - [Repealed] Consent to service
+- Section 44-3-17 - [Repealed] Immunity of commissioner and commission from liability and actions
+- Section 44-3-20 - through 44-3-27 - [Repealed]
+- Section 44-3-40 - through 44-3-54 - [Repealed]
+- Section 44-3-70 - Short title
+- Section 44-3-71 - Definitions
+- Section 44-3-72 - Creation of condominium
+- Section 44-3-73 - Sufficiency of descriptions of condominium units; description of undivided interest in common elements
+- Section 44-3-74 - Recording condominium instruments, plats, plans, and encumbrances
+- Section 44-3-75 - Construction and validity of condominium instruments; conflicts and inconsistencies; severability
+- Section 44-3-76 - Compliance with condominium instruments, rules, and regulations; means of enforcement
+- Section 44-3-77 - Contents of declaration
+- Section 44-3-78 - Allocation - Interests in common elements
+- Section 44-3-79 - Allocation - Votes in association; how votes cast; majority vote requirements
+- Section 44-3-80 - Allocation of and liability for common expenses; how assessments made
+- Section 44-3-81 - Reallocation of interests in common elements, votes, and liability for common expenses
+- Section 44-3-82 - Assignments and reassignments of limited common elements
+- Section 44-3-83 - Recording of plats and plans; contents; completion of structural improvements; certification by registered architect or engineer; exception
+- Section 44-3-84 - Use of previously recorded plans in lieu of new plans
+- Section 44-3-85 - Liability for failure to follow plats or plans; easements; liability for damage
+- Section 44-3-86 - Leasehold condominiums; lessor's rights and powers; owner's rights and powers; liens; performance of covenants
+- Section 44-3-87 - Conversion condominiums; notice; offer to convey; time periods; rights of tenant
+- Section 44-3-88 - Conversion of convertible spaces; amendment to declaration effecting conversion; reallocation of sums assessed prior to conversion; treatment of convertible space not converted
+- Section 44-3-89 - Expansion of condominium; amendment to declaration; expansion of condominium after declarant's right to expand has expired
+- Section 44-3-90 - Alterations within units; combining two or more units
+- Section 44-3-91 - Relocation of boundaries between units; application for relocation; amendment to declaration; plans and plats; recording
+- Section 44-3-92 - Subdivision of units; application for subdivision; amendment to declaration; plans and plats; recordation
+- Section 44-3-93 - Amendment of condominium instruments
+- Section 44-3-94 - Damage or destruction of units; restoration; vote not to restore; allocation of insurance deductible
+- Section 44-3-95 - Effect of mortgages and liens; foreclosure; release
+- Section 44-3-96 - Separate titles and taxation
+- Section 44-3-97 - Eminent domain; compensation; reallocation of interests; court determination; amendment to declaration
+- Section 44-3-98 - Termination of condominium; creation of tenancy in common; distribution of assets; transfer of mortgages and liens
+- Section 44-3-99 - Withdrawal of submitted property; reallocation to remaining units of undivided interest in common elements; contents of amendment; transfer of mortgages and liens
+- Section 44-3-100 - Incorporation of association; name; articles and bylaws; membership; organization
+- Section 44-3-101 - Control of association by declarant; surrender of control to unit owners; liability for books and records; cancellation of leases and contracts
+- Section 44-3-102 - Meetings of the association; notice; reports
+- Section 44-3-103 - Quorums at meetings of association or board
+- Section 44-3-104 - Directors and officers; eligibility
+- Section 44-3-105 - Powers and duties as to upkeep of the condominium; access; liability for damage
+- Section 44-3-106 - Powers and responsibilities of association; tort actions
+- Section 44-3-107 - Insurance coverage
+- Section 44-3-108 - Common profits; application to expenses; surplus
+- Section 44-3-109 - Lien for assessments; personal obligation of unit owner; notice and foreclosure; lapse; right to statement of assessments; effect of failure to furnish statement
+- Section 44-3-110 - Restraints on alienation and rights of first refusal; statement of waiver or failure to exercise rights or restraints; effect of failure to furnish statement
+- Section 44-3-111 - Sales of residential condominium units for residential occupancy; information required to be furnished by seller; buyer's right to void contract; limitations period; attorney's fees; penalty for willful violation
+- Section 44-3-112 - Escrow of deposits or other payments made prior to closing
+- Section 44-3-113 - Applicability of this article; effect on existing condominiums
+- Section 44-3-114 - Effect of article upon land use, zoning, building, and subdivision laws; effect of Code Section 44-3-92; applicability of land use and zoning ordinances or laws to expandable condominium
+- Section 44-3-115 - Construction of this article; substantial compliance; procedure for curing defects in recorded instruments
+- Section 44-3-116 - Limitations in certain restrictive covenants inapplicable
+- Section 44-3-117 - Application to subcondominiums; creation of subcondominium; subassociation; insurance; effect of certain liens; eminent domain; description of certain units; assessments
+- Section 44-3-130 - through 44-3-152 - Reserved
+- Section 44-3-160 - Short title
+- Section 44-3-161 - Purpose of article
+- Section 44-3-162 - Definitions
+- Section 44-3-162.1 - Time-share projects and programs; application of restrictive covenants; exceptions
+- Section 44-3-163 - Time-share estate title; recording transfer or encumbrance; taxation
+- Section 44-3-164 - Application of zoning and other local codes, ordinances, and regulations
+- Section 44-3-165 - Creation of time-share program; partition
+- Section 44-3-166 - Contents and recording of project and time-share instruments
+- Section 44-3-167 - Time-share estate program management and operation
+- Section 44-3-168 - Developer control period in time-share estate program
+- Section 44-3-169 - Identification of time-share project, time-share units, and time periods
+- Section 44-3-170 - Time-share use program management and operation
+- Section 44-3-171 - Sale of time-share intervals and programs organized prior to July 1, 1983
+- Section 44-3-172 - Contents of public offering statement
+- Section 44-3-173 - Annual reports filed by exchange companies and multilocation developers
+- Section 44-3-174 - Public offering statement provided to purchasers; cancellation of sales agreement by purchaser or developer; statement acknowledging receipt
+- Section 44-3-175 - Funds required to be escrowed by developer; exceptions; escrow agents
+- Section 44-3-176 - Payments received by developer on uncompleted projects to be escrowed
+- Section 44-3-177 - Exemption from other state laws requiring registration and public offering statements
+- Section 44-3-178 - Exceptions to public offering statement requirement under this article
+- Section 44-3-179 - Updating public offering statement required
+- Section 44-3-180 - Purchase of interval is free of liens affecting that interval; exceptions
+- Section 44-3-181 - Transfer of developer's entire interest
+- Section 44-3-182 - Financial and other records of time-share project association or managing agent
+- Section 44-3-183 - Remedy for violation of article; punitive damages; attorney's fees
+- Section 44-3-184 - Limitation of actions
+- Section 44-3-185 - False advertising prohibited
+- Section 44-3-186 - Statements or representations which are prohibited
+- Section 44-3-187 - Offer of gifts or prizes
+- Section 44-3-188 - Developer's financial records; availability; periodic reports; transfer of developer's interest subject to debts
+- Section 44-3-189 - Protection of purchasers from developer's underlying blanket encumbrance
+- Section 44-3-190 - Real estate broker's license requirement; collection of compensation for real estate brokerage services from persons reselling time-share intervals
+- Section 44-3-191 - Requirements for out-of-state projects, managing agents, and exchange programs
+- Section 44-3-192 - Exceptions from registration
+- Section 44-3-193 - Modification of public offering statement; limitations on use of public offering statement
+- Section 44-3-194 - Records required to be kept by developer or agents
+- Section 44-3-195 - Criminal penalty for violation of article; injunction restraining prohibited conduct; liability for damages; attorney's fees
+- Section 44-3-196 - Application of article to time-share programs created prior to or following July 1, 1983
+- Section 44-3-198 - [Repealed] Powers and duties of the commission
+- Section 44-3-201 - [Repealed] Investigation of developer, agent, or exchange program; report confidential; enumeration of grounds for reprimand or for suspension or revocation of registration; cease and desist order for failure to register
+- Section 44-3-203 - and 44-3-204 - [Repealed]
+- Section 44-3-206 - Foreclosure by owners' association; procedure; effect of sale
+- Section 44-3-207 - Time-share estates; trustee foreclosures; requirements
+- Section 44-3-220 - Short title
+- Section 44-3-221 - Definitions
+- Section 44-3-222 - Creation of property owners' development; affirmative election to be governed by article
+- Section 44-3-223 - Compliance with provisions of instrument and with rules and regulations; penalties for noncompliance
+- Section 44-3-224 - Voting at association meetings
+- Section 44-3-225 - Assessment of expenses; exemption from liability; liability for unpaid assessments
+- Section 44-3-226 - Amendment of instrument; presumption of validity in court action
+- Section 44-3-227 - Incorporation as prerequisite to submission to article; requirements as to corporate documents; board of directors
+- Section 44-3-228 - Presence of quorums at meetings
+- Section 44-3-229 - Persons deemed to be &quot;lot owner.&quot;
+- Section 44-3-230 - Frequency of meetings; notice
+- Section 44-3-231 - Powers and duties of association; legal actions against agent or employee of association
+- Section 44-3-232 - Assessments against lot owners as constituting lien in favor of association; additional charges against lot owners; procedure for foreclosing lien; obligation to provide statement of amounts due
+- Section 44-3-232.1 - Right of and procedure for certain property owners to take control of association when declarant fails to meet certain obligations
+- Section 44-3-233 - Liberal construction of article; substantial compliance; curing of defects by amendment
+- Section 44-3-234 - Application of article
+- Section 44-3-235 - Applicability of article
+- Section 44-3-250 - Itemized reporting of expenses by developers

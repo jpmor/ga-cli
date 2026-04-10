@@ -1,0 +1,39 @@
+# Chapter 1 - GENERAL PROVISIONS (§§ 43-1-1 — 43-1-36)
+
+- Section 43-1-1 - Definitions
+- Section 43-1-2 - Appointment and general powers of division director; members and meetings of professional licensing boards; examination standards; roster of licensees; funding
+- Section 43-1-3 - Duties of division director; serving notice or process on boards through division director
+- Section 43-1-4 - Expiration, renewal, and penalty dates of licenses and certificates; duration of validity; renewals
+- Section 43-1-5 - Investigators for professional licensing boards
+- Section 43-1-6 - Venue of actions involving professional licensing boards
+- Section 43-1-7 - Determination of fees by professional licensing boards; refunds
+- Section 43-1-9 - Point credit for veterans taking examinations given by professional licensing boards
+- Section 43-1-10 - Credit to veteran's grades when examination given in parts or by subject
+- Section 43-1-11 - Veteran's examination to be graded prior to determination of eligibility for credit
+- Section 43-1-12 - Duty of division director to inform applicants of availability of veteran credit; rules and regulations for implementing veteran credit program
+- Section 43-1-13 - Inapplicability of veteran credit provisions to applicants who were not honorably discharged
+- Section 43-1-14 - Authority of Governor to appoint qualified persons to professional licensing boards
+- Section 43-1-15 - Itinerant entertainers
+- Section 43-1-16 - Senate confirmation of appointments to professional licensing boards
+- Section 43-1-17 - Removal from office of member of a professional licensing board
+- Section 43-1-18 - Eligibility of consumer members of professional licensing boards to vote on all matters
+- Section 43-1-19 - Refusal to grant, revocation, and reinstatement of licenses; surrender; probationary license
+- Section 43-1-19.1 - Waiver of deductibles or copayments in health insurance plans; deceptive or misleading advertising
+- Section 43-1-19.2 - License applications to include questions on prior revocation or denial of license
+- Section 43-1-20 - Actions to enjoin unlicensed practice
+- Section 43-1-20.1 - Cease and desist orders against persons practicing without a license; fine for violating order
+- Section 43-1-21 - Release of information regarding investigations
+- Section 43-1-22 - Inactive status licenses
+- Section 43-1-23 - Exemption of licensees of professional licensing boards from filing with clerk of superior court
+- Section 43-1-24 - Licensed professionals subject to regulation by professional licensing board
+- Section 43-1-25 - Authority of professional licensing boards to promulgate rules and regulations
+- Section 43-1-27 - Licensee required to notify licensing authority of felony conviction
+- Section 43-1-28 - Volunteers in health care specialties
+- Section 43-1-29 - Suspension of license for nonpayment of student loans prohibited
+- Section 43-1-30 - [Repealed] [Reserved] Collection of work force and demographic data; procedure for collection and utilization
+- Section 43-1-31 - Expiration of professional licenses of service members on active duty outside of state
+- Section 43-1-32 - Limitations on licensure requirements for physicians and dentists; conditioning of licensing upon participation in public or private health insurance plans prohibited
+- Section 43-1-33 - Advertisement, signage, and identifier requirements for health care practitioners
+- Section 43-1-34 - Licenses for transitioning members of the armed forces
+- Section 43-1-35 - Expedited license by endorsement for spouses of active or transitioning members of the armed forces; license by endorsement for certain professions
+- Section 43-1-36 - Limitation on reporting about healthcare professionals; admissibility of evidence or disclosure

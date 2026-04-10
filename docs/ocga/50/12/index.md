@@ -1,0 +1,51 @@
+# Chapter 12 - COMMISSIONS AND OTHER AGENCIES (§§ 50-12-1 — 50-12-140)
+
+- Section 50-12-20 - Legislative findings and declaration of public policy
+- Section 50-12-21 - Creation of council
+- Section 50-12-22 - Membership; appointment; terms; chairperson; meetings
+- Section 50-12-23 - Duties
+- Section 50-12-24 - Annual report
+- Section 50-12-25 - Powers and authority of Department of Economic Development as to council
+- Section 50-12-26 - Appointment of personnel
+- Section 50-12-30 - Legislative findings
+- Section 50-12-31 - Creation; purpose; board of trustees; membership; appointment; terms; advisory committee
+- Section 50-12-32 - Purposes
+- Section 50-12-33 - Duties and responsibilities of board of trustees
+- Section 50-12-34 - Independent audit; reporting
+- Section 50-12-35 - Recommendations to Governor and General Assembly
+- Section 50-12-40 - Definitions
+- Section 50-12-41 - Creation
+- Section 50-12-42 - Purpose of article
+- Section 50-12-43 - Membership; appointment; terms; chairperson
+- Section 50-12-44 - Powers and duties
+- Section 50-12-45 - Assistance by direct-support organization; contract with organization; pattern and design of games; frequency and sites; subsidiary corporations
+- Section 50-12-46 - Authority of Governor to permit use of property, facilities, and services by direct-support organization
+- Section 50-12-47 - Audit of Georgia State Games direct-support organization
+- Section 50-12-48 - Annual report
+- Section 50-12-60 - through 50-12-63.1 - Reserved
+- Section 50-12-64 - through 50-12-69.1 - Reserved
+- Section 50-12-70 - Creation; board
+- Section 50-12-71 - Membership; appointment; terms; chairperson; officers; personnel; meetings
+- Section 50-12-72 - Purpose, function, and powers
+- Section 50-12-72.1 - Additional powers
+- Section 50-12-73 - Location; facilities; official repository for aviation history
+- Section 50-12-74 - Funding; contracts
+- Section 50-12-75 - Overview committees; duties
+- Section 50-12-76 - Assistance from state agencies and independent providers
+- Section 50-12-77 - Cooperation; reports; actions by Attorney General
+- Section 50-12-78 - Evaluation criteria
+- Section 50-12-79 - Expenditure of funds
+- Section 50-12-80 - Creation; membership; appointment; terms
+- Section 50-12-81 - Officers; quorum
+- Section 50-12-82 - Powers and duties; cooperation with other agencies
+- Section 50-12-83 - Reimbursement for expenses
+- Section 50-12-84 - Annual report
+- Section 50-12-100 - Creation; composition; purpose; chairperson; voting
+- Section 50-12-101 - Duties; use of numbers by Secretary of State for election ballots
+- Section 50-12-110 - through 50-12-112 - [Repealed] Reserved
+- Section 50-12-130 - Legislative findings and declarations
+- Section 50-12-131 - Creation; membership; terms; chairperson; advisers
+- Section 50-12-132 - Duties
+- Section 50-12-133 - Authorization to solicit gifts; prohibited payments
+- Section 50-12-134 - Holocaust Memorial established; private funding; design and placement
+- Section 50-12-140 - through 50-12-147 - [Repealed]

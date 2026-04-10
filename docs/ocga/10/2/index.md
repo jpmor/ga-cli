@@ -1,0 +1,39 @@
+# Chapter 2 - WEIGHTS AND MEASURES (§§ 10-2-1 — 10-2-54)
+
+- Section 10-2-1 - Definitions
+- Section 10-2-2 - Recognized systems of weights and measures
+- Section 10-2-3 - Primary standards of weights and measures; prescribing and verifying secondary standards
+- Section 10-2-4 - Technical requirements for commercial weighing and measuring devices
+- Section 10-2-5 - Powers and duties of Commissioner generally
+- Section 10-2-6 - Power of Commissioner to inspect commercial premises and vehicles; stop-use or stop-sale, hold, and removal orders; seizure
+- Section 10-2-7 - Misrepresentation of quantity in selling or buying prohibited
+- Section 10-2-8 - Misrepresentation or deception in pricing by weight, measure, or count prohibited
+- Section 10-2-9 - Permissible methods of selling by quantity
+- Section 10-2-10 - Delivery tickets for bulk sales and bulk deliveries of heating fuel
+- Section 10-2-11 - Information required on packages
+- Section 10-2-12 - Unit price required on packages with random weights
+- Section 10-2-13 - Quantity and retail price required on advertising of package commodities
+- Section 10-2-14 - Using or possessing incorrect weight or measure; removing tags, seals, or marks; obstructing enforcement
+- Section 10-2-15 - Standards for grain moisture testing equipment; enforcement and inspections
+- Section 10-2-16 - Permit to operate grain moisture testing equipment
+- Section 10-2-17 - Inspection of scales used in intrastate shipments
+- Section 10-2-18 - When weight, measure, or weighing or measuring device presumed used in business
+- Section 10-2-19 - Manner of display of measurement of compressed natural gas on dispensing devices
+- Section 10-2-20 - Enjoining violations
+- Section 10-2-21 - Administrative penalty for violations; judicial review; proceedings for collection
+- Section 10-2-22 - Criminal penalty for violations
+- Section 10-2-23 - Sale and measurement of pulpwood, sawtimber, poles, and other types of timber
+- Section 10-2-40 - Persons who may be licensed and known as certified public weighers
+- Section 10-2-41 - License required; application; issuance
+- Section 10-2-42 - Duration of license; fees; cost of seals
+- Section 10-2-43 - Revocation of license permit for malfeasance or violation; notice and hearing
+- Section 10-2-45 - Certified public weigher's official seal
+- Section 10-2-46 - Issuance of official seals to licensed tobacco warehousemen
+- Section 10-2-47 - Return of seal on termination of duties
+- Section 10-2-48 - Duties of certified public weighers
+- Section 10-2-49 - Use of untested weight, measure, or device prohibited
+- Section 10-2-50 - Weighing leaf tobacco and livestock
+- Section 10-2-51 - Sale of coal or coke by itinerant dealer without having weight certified; penalty
+- Section 10-2-52 - Commissioner of Agriculture to administer article; rules and regulations; regulation of livestock auction barns
+- Section 10-2-53 - Administrative penalty for violation of article or order, rule, or regulation; judicial review; proceedings for collection
+- Section 10-2-54 - Criminal penalties for violations; revocation of licenses; forfeiture of seals

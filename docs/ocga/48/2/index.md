@@ -1,0 +1,74 @@
+# Chapter 2 - STATE ADMINISTRATIVE ORGANIZATION, ADMINISTRATION, AND ENFORCEMENT (§§ 48-2-1 — 48-2-110)
+
+- Section 48-2-1 - Department of Revenue
+- Section 48-2-2 - Office of state revenue commissioner
+- Section 48-2-4 - Eligibility for elective office
+- Section 48-2-5 - Office of deputy state revenue commissioner
+- Section 48-2-6 - Departmental organization; employees; compensation; collection of delinquent taxes by contractors; mandatory fingerprinting
+- Section 48-2-6.1 - Disclosure of return information; purpose; confidentiality
+- Section 48-2-7 - Duties and powers of commissioner
+- Section 48-2-8 - Judicial and investigative powers of commissioner
+- Section 48-2-9 - Powers of commissioner in tax proceedings; assistance by Attorney General
+- Section 48-2-10 - Collection of certain local taxes by commissioner
+- Section 48-2-11 - Delegation of certain duties
+- Section 48-2-12 - Rules and regulations; forms
+- Section 48-2-13 - Oaths and certifications
+- Section 48-2-14 - Official seal
+- Section 48-2-15 - Confidential and privileged information
+- Section 48-2-15.1 - Disclosure of confidential taxpayer information or records
+- Section 48-2-15.2 - Ruling; regulations prescribing guidelines; precedential value of ruling
+- Section 48-2-16 - Exchange of tax information
+- Section 48-2-17 - Payment to Office of the State Treasurer
+- Section 48-2-18 - [Effective until 7/1/2026] State Board of Equalization; duties
+- Section 48-2-18 - [Effective 7/1/2026] State Board of Equalization; duties
+- Section 48-2-18.1 - Settlement or compromise of tax assessments; application fee
+- Section 48-2-19 - Modernization and improvement of licensing, registration, valuation, and titling functions; utilization of tag and title information in electronic form
+- Section 48-2-30 - Remittances
+- Section 48-2-31 - Currency in which taxes to be paid
+- Section 48-2-32 - Forms of payment
+- Section 48-2-33 - Receipts for taxes
+- Section 48-2-34 - Failure to give official receipt for payment of taxes or license fees; penalty
+- Section 48-2-35 - [Effective until 7/1/2026] Refunds
+- Section 48-2-35 - [Effective 7/1/2026] Refunds
+- Section 48-2-35.1 - [Effective until 7/1/2026] Refund of sales and use taxes; expedited refunds
+- Section 48-2-35.1 - [Effective 7/1/2026] Refund of sales and use taxes; expedited refunds
+- Section 48-2-36 - [Effective until 7/1/2026] Extension of time for returns
+- Section 48-2-36 - [Effective 7/1/2026] Extension of time for returns
+- Section 48-2-37 - Preparation of delinquent returns
+- Section 48-2-38 - Due date; interest on deferred taxes
+- Section 48-2-39 - Due date for payment or filing on holiday
+- Section 48-2-40 - Rate of interest on past due taxes
+- Section 48-2-41 - Authority to waive interest on unpaid taxes
+- Section 48-2-42 - Nature of penalties
+- Section 48-2-43 - Authority to waive penalties
+- Section 48-2-44 - Willful failure to file return or pay revenue held in trust for state; willful failure to pay ad valorem tax; penalties and interest
+- Section 48-2-44.1 - Failure to follow electronic filing requirements; penalty; waiver for undue hardship; reasonable cause
+- Section 48-2-45 - Service of notice of assessment
+- Section 48-2-46 - Procedures for protests
+- Section 48-2-47 - Information considered; final assessment or final license fee
+- Section 48-2-48 - Deficiency assessments; interest
+- Section 48-2-49 - Periods of limitation for assessment of taxes
+- Section 48-2-50 - [Effective until 7/1/2026] Review of assessments; certifications
+- Section 48-2-50 - [Effective 7/1/2026] Review of assessments; certifications
+- Section 48-2-51 - Jeopardy assessments; collection; bond
+- Section 48-2-52 - Personal liability of corporate officer or employee for tax delinquency
+- Section 48-2-53 - Compelled production of evidence
+- Section 48-2-54 - Action by commissioner to collect unpaid tax
+- Section 48-2-54.1 - Authorization to charge taxpayer's account
+- Section 48-2-55 - Attachment; garnishment; levy; judicial sales
+- Section 48-2-56 - Liens for taxes; priority
+- Section 48-2-57 - Effect of judicial sale on state tax lien
+- Section 48-2-58 - Release of property subject to state tax lien
+- Section 48-2-59 - [Effective until 7/1/2026] Appeals; payment of taxes admittedly owed; bond; costs
+- Section 48-2-59 - [Effective 7/1/2026] Appeals; payment of taxes admittedly owed; bond; costs
+- Section 48-2-60 - Compromise settlements; penalty refunds
+- Section 48-2-61 - Effect of actions taken to avoid payment of taxes; liability
+- Section 48-2-62 - Penalties for tax return preparers; prohibition on continuing to prepare returns; refunds
+- Section 48-2-63 - Delinquent taxpayer financial accounts; required reporting by financial institutions to department; confidentiality; fines; levies; liability
+- Section 48-2-80 - Judicial enforcement of taxes imposed by other states
+- Section 48-2-81 - Duties of law enforcement officers and tax officials as to collecting taxes and prosecuting violators; payment of portion of fines to informants
+- Section 48-2-82 - Seizure and disposition of contraband articles; exceptions to forfeiture
+- Section 48-2-83 - Process to test legality of forfeited property
+- Section 48-2-84 - Unlawful activities as to revenue stamps; possession or transportation of contraband; penalty
+- Section 48-2-100 - Exemptions for out-of-state businesses and employees conducting operations related to declared state of emergency; post-emergency application
+- Section 48-2-110 - through 48-2-115 - [Repealed]

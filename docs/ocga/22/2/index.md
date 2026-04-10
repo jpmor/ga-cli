@@ -1,0 +1,59 @@
+# Chapter 2 - CONDEMNATION PROCEDURE GENERALLY (§§ 22-2-1 — 22-2-142)
+
+- Section 22-2-1 - &quot;Condemnor&quot; defined
+- Section 22-2-20 - Persons entitled to receive notice generally
+- Section 22-2-21 - Direction of notice where owner a minor or under disability; appointment of guardian ad litem
+- Section 22-2-22 - Serving notice on trustees of trust property and remaindermen
+- Section 22-2-23 - Direction of notice where owner or guardian a nonresident; representation by judge of the probate court of nonresident owners and others whose addresses are unknown
+- Section 22-2-24 - Direction of notice where owner unknown or where unknown remaindermen possible; right of owner to second assessment upon his appearance; return of surplus award to condemnor
+- Section 22-2-25 - Manner and time of service
+- Section 22-2-26 - Contents of notice
+- Section 22-2-40 - Selection of assessors generally; authority
+- Section 22-2-41 - Selection of assessor by judge of the probate court; selection of assessor; rights of owners in selecting assessor
+- Section 22-2-42 - Failure of parties' nominees to select third assessor
+- Section 22-2-43 - Oath of assessors
+- Section 22-2-60 - Fixing of time for hearing by assessors; notification of parties
+- Section 22-2-61 - Power of assessors to subpoena and to compel attendance; right of parties to be represented
+- Section 22-2-62 - Evidence to be heard by assessors generally
+- Section 22-2-63 - Manner of assessment
+- Section 22-2-64 - Entry of findings by assessors
+- Section 22-2-65 - Filing and recording of award
+- Section 22-2-80 - Appeal to jury in superior court generally
+- Section 22-2-81 - Effect of appeal on condemnor's right to use condemned property or interest; payment, tender, or deposit of award as condition on condemnor's right to use property or interest
+- Section 22-2-82 - Effect of tender, payment, or acceptance of assessors' award on right of appeal; effect of discrepancy between award and final judgment
+- Section 22-2-83 - Issuance of execution on award or judgment
+- Section 22-2-84 - Entry of notice and award on minutes of court; payment of costs
+- Section 22-2-84.1 - [Repealed] Appeals to superior court from assessor's award; reasonable expenses; liability of costs relating to issues of law
+- Section 22-2-85 - Extent of interest obtainable by condemnor upon condemnation
+- Section 22-2-86 - Manner of payment where owner a minor or under disability and without a legal representative
+- Section 22-2-100 - &quot;Condemning body&quot; and &quot;condemnor&quot; defined
+- Section 22-2-101 - Effect of article on other methods of condemnation; intent of article
+- Section 22-2-102 - Requirements for condemnation; time of hearing; directions for notice and service; attachment of process to petition; cause to proceed in rem
+- Section 22-2-102.1 - Petitioning superior court for judgment in rem
+- Section 22-2-102.2 - Contents of petition
+- Section 22-2-103 - Appointment of special master generally
+- Section 22-2-104 - Appointment of special master form to be used in appointing special master
+- Section 22-2-105 - Oath of special master
+- Section 22-2-106 - Compensation of special master; allowance by judge of reasonable time for special master to inspect premises
+- Section 22-2-107 - Service of process; award by special master and judgment of court conclusive as to right of condemnor to take or damage property or interest
+- Section 22-2-108 - Powers and duties of special master generally
+- Section 22-2-108.1 - Special master panel; selection; notice; powers and duties
+- Section 22-2-109 - Factors to be considered in determining or estimating just and adequate compensation; determination of date of taking; inclusion of date of approval of original location of highway in petition for condemnation; newspaper advertisement
+- Section 22-2-110 - Award of special master and special master panel; time of filing; award to become part of record of proceedings; vesting of title in condemnor upon deposit of award into court; form of award; use in subsequent appeal
+- Section 22-2-111 - Incorporation of award into judgment of court
+- Section 22-2-112 - Appeal of award generally; condemnee's right to jury trial on issue of just and adequate compensation
+- Section 22-2-113 - Prosecution of appeals; effect of discrepancy between award of special master and verdict of jury; issuance of execution upon award or judgment
+- Section 22-2-114 - Effect of deposit of award into court registry; conflicting claims as to deposit
+- Section 22-2-130 - Authority to petition superior court for judgment in rem; applicability to acquisition of public property
+- Section 22-2-131 - Contents of petition
+- Section 22-2-132 - Order to appear; directions for notice and service thereof; attachment of process to petition; cause to proceed as in rem
+- Section 22-2-133 - Service of process generally
+- Section 22-2-134 - Discretion of judge to cause additional notice or service to be given; notification of tax collector or tax commissioner
+- Section 22-2-135 - Appointment of assessors; discretion of judge to have issues tried in first instance by jury
+- Section 22-2-136 - Appeal from assessors' award
+- Section 22-2-137 - Factors to be considered in determining or estimating just and adequate compensation; determination of date of taking; inclusion of date of approval of original location of highway in petition for condemnation; newspaper advertisement
+- Section 22-2-138 - Scope of award or verdict; molding of award or verdict; power of court to adjudge condemnation of title upon deposit of amount of award or verdict into court; disposition of award by court
+- Section 22-2-139 - Right of interested persons to intervene; effect of subsequent proceedings on rights of condemnor
+- Section 22-2-140 - Notification of court by tax collector or tax commissioner of taxes due on property or interest; actions by court to discharge lien
+- Section 22-2-141 - Filing and recording of award, decree, and description of condemned property or interest or copies thereof; payment of fees to clerk of superior court
+- Section 22-2-142 - Intent of article regarding effect on other methods of condemnation

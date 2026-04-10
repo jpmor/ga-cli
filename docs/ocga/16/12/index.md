@@ -1,0 +1,124 @@
+# Chapter 12 - OFFENSES AGAINST PUBLIC HEALTH AND MORALS (§§ 16-12-1 — 16-12-243)
+
+- Section 16-12-1 - Contributing to the delinquency or dependency of a minor
+- Section 16-12-1.1 - Child, family, or group-care facility operators prohibited from employing or housing persons with certain past criminal violations
+- Section 16-12-2 - Smoking in public places
+- Section 16-12-3 - Suspension of gas or electrical service for nonpayment on appliances provided by or repaired by utility company
+- Section 16-12-4 - Cruelty to animals
+- Section 16-12-5 - Tattooing
+- Section 16-12-20 - Definitions
+- Section 16-12-21 - Gambling
+- Section 16-12-22 - Commercial gambling
+- Section 16-12-22.1 - Raffles operated by nonprofit, tax-exempt organizations
+- Section 16-12-23 - Keeping a gambling place
+- Section 16-12-24 - Possession, manufacture, or transfer of gambling device or parts; possession of antique slot machines
+- Section 16-12-25 - Solicitation of another to gamble with intent to defraud or deceive
+- Section 16-12-26 - Advertising commercial gambling
+- Section 16-12-27 - Advertisement or solicitation for participation in lotteries
+- Section 16-12-28 - Communicating gambling information
+- Section 16-12-29 - Competent witnesses
+- Section 16-12-30 - [Repealed] [Reserved] Seizure and destruction of gambling devices
+- Section 16-12-32 - Civil forfeiture
+- Section 16-12-33 - Bribery of a contestant
+- Section 16-12-34 - Soliciting or accepting a bribe to influence outcome of athletic contests, sporting events, or exhibitions
+- Section 16-12-35 - Applicability of part; penalty for violation
+- Section 16-12-36 - Lawful promotional and giveaway contests
+- Section 16-12-37 - Dogfighting
+- Section 16-12-38 - Pyramid promotional schemes; exceptions; penalties
+- Section 16-12-50 - Legislative intent
+- Section 16-12-51 - Definitions
+- Section 16-12-52 - License required to operate bingo game; recreational bingo exception
+- Section 16-12-53 - Licensing procedure; fee; renewal
+- Section 16-12-54 - Revocation of licenses; access to premises by law enforcement agencies
+- Section 16-12-55 - Certification of tax-exempt status of organization; issuance of certificate of licensure
+- Section 16-12-56 - Issuance of annual one-day license to nonprofit, tax-exempt school; application
+- Section 16-12-57 - Restrictions as to ownership of premises utilized
+- Section 16-12-58 - Age restrictions
+- Section 16-12-59 - Annual report to be filed with the Secretary of State
+- Section 16-12-60 - Rules and regulations
+- Section 16-12-61 - Promulgation of necessary rules and regulations by Secretary of State authorized
+- Section 16-12-62 - Penalties
+- Section 16-12-63 - Transfer of regulatory authority over bingo; procedure and regulation
+- Section 16-12-80 - Obscene material; distribution; penalty
+- Section 16-12-81 - Distribution of material depicting nudity or sexual conduct; penalty
+- Section 16-12-82 - Public nuisances
+- Section 16-12-83 - Contraband
+- Section 16-12-85 - Display of restricted film previews to general audiences
+- Section 16-12-100 - Sexual exploitation of children; reporting violation; civil forfeiture; penalties
+- Section 16-12-100.1 - Electronically furnishing obscene material to minors
+- Section 16-12-100.2 - Computer or electronic pornography and child exploitation prevention
+- Section 16-12-100.3 - Obscene telephone contact; conviction; penalties
+- Section 16-12-100.4 - Access or use of commercial social networking website by high-risk sex offenders; conviction; severability
+- Section 16-12-100.5 - Grooming of a minor for a sexual offense or trafficking for sexual servitude
+- Section 16-12-101 - Legislative purpose
+- Section 16-12-102 - Definitions
+- Section 16-12-103 - Selling, loaning, distributing, or exhibiting; duties of video game retailers
+- Section 16-12-104 - Library exception
+- Section 16-12-105 - Penalty
+- Section 16-12-106 - through 16-12-108 - [Repealed]
+- Section 16-12-110 - through 16-12-113 - [Repealed]
+- Section 16-12-120 - Certain acts in public transit buses, rapid rail cars, or stations; penalty
+- Section 16-12-120.1 - Altered fare payments; sale or exchange of fare payment without consent
+- Section 16-12-121 - Short title
+- Section 16-12-122 - Definitions
+- Section 16-12-123 - Bus or rail vehicle hijacking; boarding with concealed weapon; company use of reasonable security measures
+- Section 16-12-124 - Removal of baggage, freight, or other items transported by bus or stored in a terminal
+- Section 16-12-125 - Avoiding or interfering with security measures; penalty; exemption
+- Section 16-12-126 - Intentionally interfering with safety or traffic control devices; penalty; exemption
+- Section 16-12-127 - Prohibition on firearms, hazardous substances, knives, or other devices; penalty; affirmative defenses
+- Section 16-12-128 - Effect of part on other provisions of law; civil or criminal proceedings; restitution
+- Section 16-12-129 - Defense of self or others an absolute defense to violation under this part
+- Section 16-12-140 - Criminal abortion
+- Section 16-12-141 - Restrictions on the performance of abortions; availability of records; civil cause of action; affirmative defenses
+- Section 16-12-141.1 - Disposal of aborted fetuses; reporting requirements; penalties; public report; confidentiality of identity of physicians filing reports
+- Section 16-12-142 - Objections by medical facilities, physicians, or pharmacists to providing abortion-related services
+- Section 16-12-143 - Failure to file or maintain required written reports
+- Section 16-12-144 - Partial-birth abortions
+- Section 16-12-160 - Buying or selling or offering to buy or sell the human body or parts
+- Section 16-12-161 - Removal of body parts from scene of death or dismemberment; criminal penalty
+- Section 16-12-170 - Definitions
+- Section 16-12-171 - Prohibited acts
+- Section 16-12-172 - Posting signs in place of business
+- Section 16-12-173 - Sales from vending machines
+- Section 16-12-174 - Distribution of tobacco product samples
+- Section 16-12-175 - Enforcement actions; collection and report of fines; inspections by law enforcement agencies; annual report
+- Section 16-12-176 - Administration and enforcement
+- Section 16-12-190 - Definition
+- Section 16-12-191 - Possession, manufacture, distribution, or sale of low THC oil; penalties
+- Section 16-12-200 - Definitions
+- Section 16-12-201 - Prohibition against producing, growing, manufacturing, or dispensing low THC oil or products
+- Section 16-12-202 - Creation of Georgia Access to Medical Cannabis Commission; terms; designation; meetings; vacancy; compensation
+- Section 16-12-203 - Powers, duties, and responsibilities
+- Section 16-12-204 - Nontransferable designated university licenses to produce low THC oil and products; research and reporting of collected information; license revocation
+- Section 16-12-205 - [Reserved] Role of Georgia universities; testing of specifications
+- Section 16-12-206 - Annual, nontransferable dispensing license; adoption of rules; fees
+- Section 16-12-207 - Establishment of Medical Cannabis Commission Oversight Committee; membership; inspections; provision of information; plan for accredited lab testing; patient and physician input
+- Section 16-12-210 - Powers, duties, and responsibilities of Commission; no undue burden on patients; remission of fees
+- Section 16-12-211 - Class 1 production licenses; application fee; revocation; limitation on ownership
+- Section 16-12-212 - Class 2 production licenses; application fees; revocation; limitation on ownership
+- Section 16-12-213 - Tracking systems required
+- Section 16-12-214 - Study on minority and women participation; addressing discrimination
+- Section 16-12-215 - Limitation on locations; advertising or marketing prohibited; information available to physicians
+- Section 16-12-216 - Bureau of Investigation, Access to Medical Cannabis Commission, and Composite Medical Board to jointly establish procedures to ensure compliance
+- Section 16-12-217 - On-demand access to facilities; provision of samples; testing; secured transportation
+- Section 16-12-218 - No eligibility for tax credit
+- Section 16-12-219 - Convicted felons prohibited from employment; exception
+- Section 16-12-220 - Confidential nature of data; exclusion; patient privacy
+- Section 16-12-221 - Contracts for initial licenses awarded through bids or proposals; minimum contract terms and renewals; subcontracting; giving or receiving things of value limited
+- Section 16-12-222 - Transfer of ownership; appeals; meaning of license; transfer fees
+- Section 16-12-223 - Revocation of license; appeal
+- Section 16-12-224 - Limitation on ownership by member or former member of commission; limitation on physician's involvement; identification when contributing to political campaigns
+- Section 16-12-225 - Criminal offenses; penalty
+- Section 16-12-226 - Sales and use taxes applicable
+- Section 16-12-230 - Requirements for dispensing low THC oil and products
+- Section 16-12-231 - Exemptions from arrest, prosecutions, or penalty
+- Section 16-12-232 - Reimbursement to state employees for counsel fees
+- Section 16-12-233 - Contracts not against public policy
+- Section 16-12-234 - Unlawful ways to ingest low THC oil or products
+- Section 16-12-235 - Research in compliance with federal regulations
+- Section 16-12-235.1 - Possession of THC oil and products by colleges and universities for research purposes; permitting requirements; inspection
+- Section 16-12-236 - Regulation by Department of Agriculture
+- Section 16-12-240 - Definitions
+- Section 16-12-241 - Age restrictions
+- Section 16-12-242 - Notice of age restriction
+- Section 16-12-243 - Inspection of seller or distributor locations

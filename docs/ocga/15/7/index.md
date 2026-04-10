@@ -1,0 +1,34 @@
+# Chapter 7 - STATE COURTS OF COUNTIES (§§ 15-7-1 — 15-7-85)
+
+- Section 15-7-1 - &quot;State court&quot; defined
+- Section 15-7-2 - Creation of state courts
+- Section 15-7-3 - Applicability of chapter; conflicts with local laws
+- Section 15-7-4 - Jurisdiction; authority of state court judges
+- Section 15-7-5 - Electronic filings of pleadings and documents; electronic payments and remittances; access; public disclosure
+- Section 15-7-20 - Number of and work status of judges determined by local law; elections
+- Section 15-7-21 - Qualifications; restrictions on practice of law; removal, discipline, and involuntary retirement
+- Section 15-7-22 - Compensation
+- Section 15-7-23 - Filling vacancies
+- Section 15-7-24 - Ordered military duty
+- Section 15-7-25 - Service by retired judge or judge emeritus
+- Section 15-7-26 - [Effective Until 7/1/2025] The Council of State Court Judges of Georgia
+- Section 15-7-26 - [Effective 7/1/2025] The Council of State Court Judges of Georgia; notifications
+- Section 15-7-40 - State courts always open; terms of court
+- Section 15-7-41 - Courts of record
+- Section 15-7-42 - Prosecution for misdemeanors; trials on merits conducted in open court; proceedings allowed in chambers
+- Section 15-7-43 - Applicability of rules of practice
+- Section 15-7-44 - Procedure in attachment and garnishment cases
+- Section 15-7-45 - Jurors
+- Section 15-7-46 - No right to grand jury indictment
+- Section 15-7-47 - Court reporters; waiver; compensation
+- Section 15-7-48 - Clerk's bond
+- Section 15-7-49 - Remittance of interest from interest-bearing trust accounts
+- Section 15-7-50 - Authority of clerks
+- Section 15-7-60 - Local laws
+- Section 15-7-61 - Exemption from Chapter 8
+- Section 15-7-80 - Municipal court services authorized
+- Section 15-7-81 - Contents of contract
+- Section 15-7-82 - Authority to act as judges, officers, and personnel of municipal court
+- Section 15-7-83 - Judges, officers, pleadings, process, and papers of municipal court; separate dockets and records
+- Section 15-7-84 - Violation of municipal ordinances
+- Section 15-7-85 - Limitations on authority granted to municipalities

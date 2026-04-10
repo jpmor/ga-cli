@@ -1,0 +1,106 @@
+# Chapter 11 - LIMITED LIABILITY COMPANIES (§§ 14-11-100 — 14-11-1109)
+
+- Section 14-11-100 - Short title
+- Section 14-11-101 - Definitions
+- Section 14-11-102 - Evidence of filing
+- Section 14-11-201 - Purpose
+- Section 14-11-202 - Powers
+- Section 14-11-203 - Formation
+- Section 14-11-204 - Articles of organization
+- Section 14-11-205 - Execution of documents
+- Section 14-11-206 - Filing by the Secretary of State
+- Section 14-11-207 - Name
+- Section 14-11-208 - Reservation of name; transfer of reserved name
+- Section 14-11-209 - Registered office and registered agent
+- Section 14-11-210 - Amendment of articles of organization; restatement
+- Section 14-11-211 - Correcting filed document
+- Section 14-11-212 - Conversion to limited liability company
+- Section 14-11-301 - Agency of members and managers
+- Section 14-11-302 - Limitations on authority to convey real property
+- Section 14-11-303 - Liability to third parties
+- Section 14-11-304 - Management
+- Section 14-11-305 - Duties
+- Section 14-11-306 - Indemnification
+- Section 14-11-307 - Conflicting interest transactions
+- Section 14-11-308 - Approval rights of members and managers
+- Section 14-11-309 - Action without meeting
+- Section 14-11-310 - Meetings
+- Section 14-11-311 - Notice
+- Section 14-11-312 - Waiver of notice
+- Section 14-11-313 - Records and information
+- Section 14-11-314 - Professional relationships
+- Section 14-11-401 - Contributions to capital
+- Section 14-11-402 - Liability for contribution
+- Section 14-11-403 - Allocation of profits and losses
+- Section 14-11-404 - Distributions
+- Section 14-11-405 - Distributions upon event of dissociation
+- Section 14-11-406 - Distributions in kind
+- Section 14-11-407 - Restrictions on making distributions
+- Section 14-11-408 - Liability upon wrongful distribution
+- Section 14-11-409 - Right to distribution
+- Section 14-11-501 - Nature of limited liability company interest
+- Section 14-11-502 - Assignment of limited liability company interest
+- Section 14-11-503 - Rights of assignee to become member
+- Section 14-11-504 - Rights of judgment creditor
+- Section 14-11-505 - Admission of members
+- Section 14-11-506 - Powers of estate of a deceased or incompetent member
+- Section 14-11-601 - Events of dissociation
+- Section 14-11-601.1 - Events resulting in cessation of membership
+- Section 14-11-602 - Dissolution
+- Section 14-11-603 - Judicial and administrative dissolution; reservation of name
+- Section 14-11-604 - Winding up
+- Section 14-11-605 - Distribution of assets
+- Section 14-11-606 - Statement of commencement of winding up
+- Section 14-11-607 - Known claims against dissolved limited liability company
+- Section 14-11-608 - Unknown claims against dissolved limited liability company
+- Section 14-11-609 - Manner of publication of request for claims
+- Section 14-11-610 - Certificate of termination
+- Section 14-11-611 - Execution of deeds or other instruments by signing
+- Section 14-11-701 - Law applicable to foreign limited liability companies
+- Section 14-11-702 - Requirement for certificate of authority; application; activities not considered transacting business in this state
+- Section 14-11-703 - Registered office and registered agent; requirement and qualifications; change of office or agent; resignation of agent; service on Secretary of State; venue
+- Section 14-11-704 - Issuance of certificate of authority
+- Section 14-11-705 - Name
+- Section 14-11-706 - Amended certificate required for change of name or jurisdiction of organization; foreign limited liability company converting to foreign limited partnership or foreign corporation
+- Section 14-11-707 - Certificate of withdrawal; application; service after withdrawal
+- Section 14-11-708 - Revocation of certificate; grounds
+- Section 14-11-709 - Revocation of certificate; notice to company; issuance and effect of certificate of revocation; service after revocation
+- Section 14-11-710 - Appeal of revocation of certificate
+- Section 14-11-711 - Failure of company to procure certificate; effect; penalty
+- Section 14-11-712 - Action to restrain company in violation of chapter
+- Section 14-11-801 - Right of member to bring derivative action
+- Section 14-11-802 - Complaint
+- Section 14-11-803 - Stay of proceedings
+- Section 14-11-804 - Discontinuance or settlement
+- Section 14-11-805 - Dismissal
+- Section 14-11-806 - Expenses
+- Section 14-11-807 - Applicability to foreign limited liability companies
+- Section 14-11-901 - Merger
+- Section 14-11-902 - Plan of merger
+- Section 14-11-903 - Approval of merger
+- Section 14-11-904 - Articles of merger
+- Section 14-11-905 - Effects of merger
+- Section 14-11-906 - Election by a limited liability company to become a foreign limited liability company, a foreign limited partnership, or a foreign corporation; certificate of authority; requirements
+- Section 14-11-1001 - Definitions
+- Section 14-11-1002 - Right to dissent
+- Section 14-11-1003 - Notice of dissenters' rights
+- Section 14-11-1004 - Notice of intent to demand payment
+- Section 14-11-1005 - Dissenters' notice
+- Section 14-11-1006 - Duty to demand payment
+- Section 14-11-1007 - Membership interest restrictions
+- Section 14-11-1008 - Offer of payment
+- Section 14-11-1009 - Failure to take action
+- Section 14-11-1010 - Procedure if member dissatisfied with payment or offer
+- Section 14-11-1011 - Court action
+- Section 14-11-1012 - Court costs and counsel fees
+- Section 14-11-1013 - Limitation of actions
+- Section 14-11-1101 - Filing fees and penalties
+- Section 14-11-1102 - Execution by judicial act
+- Section 14-11-1103 - Annual registration
+- Section 14-11-1103.1 - Valid period for annual registration
+- Section 14-11-1104 - Taxation
+- Section 14-11-1105 - Administrative powers of Secretary of State
+- Section 14-11-1106 - Rules and regulations
+- Section 14-11-1107 - Laws governing chapter; limited liability companies
+- Section 14-11-1108 - Service of process; venue
+- Section 14-11-1109 - Effective date; repealer

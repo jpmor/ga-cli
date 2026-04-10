@@ -1,0 +1,106 @@
+# Chapter 4 - DISTRIBUTION, STORAGE, AND SALE OF GAS (§§ 46-4-1 — 46-4-166)
+
+- Section 46-4-1 - Bringing of actions by commission to enjoin violations of rules, orders, or regulations established for safe installation and operation of natural gas facilities
+- Section 46-4-20 - &quot;Person&quot; defined
+- Section 46-4-21 - Certificate of public convenience and necessity required by persons constructing or operating gas pipeline or distribution systems for transportation, distribution, or sale of gas; distribution systems in operation before February 17, 1956; jurisdiction of commission generally
+- Section 46-4-22 - Determination by commission of manner and form of application for certificate of public convenience and necessity; giving of notice of receipt of application
+- Section 46-4-23 - Power of commission to issue or deny certificate
+- Section 46-4-24 - Application for certificate by persons engaged in constructing or operating gas pipeline or distribution system or extension thereof as of February 17, 1956
+- Section 46-4-25 - Factors to be considered by commission in granting certificates
+- Section 46-4-26 - Filing with commission complaints regarding persons operating without certificate; cease and desist order by commission; hearing; final order of commission
+- Section 46-4-27 - Unreasonable interference with existing pipeline or distribution systems or service by persons constructing or extending pipeline or distribution systems
+- Section 46-4-28 - Suspension, revocation, alteration, or amendment of certificates by commission
+- Section 46-4-29 - Transfer and hypothecation of certificates
+- Section 46-4-30 - Jurisdiction of commission over controversies as to extensions of gas distribution service; factors to be considered by commission in resolving controversies
+- Section 46-4-31 - Adoption by commission of rules and orders to enforce article
+- Section 46-4-32 - Applicability of article to liquefied petroleum gas sold in liquid form under pressure
+- Section 46-4-33 - Applicability of certificate requirements under article generally
+- Section 46-4-34 - Injunctions
+- Section 46-4-35 - Civil penalty
+- Section 46-4-50 - Short title
+- Section 46-4-51 - Definitions
+- Section 46-4-52 - Declaration of public purpose
+- Section 46-4-53 - Application to commission by gas utility for order approving utilization or operation of underground reservoir; hearing on application generally; giving notice of hearing
+- Section 46-4-54 - Investigation by state geologist of site of proposed storage project; procedures involving state geologist; investigation of proposed storage project by director of Environmental Protection Division; procedures involving director; investigation of proposed storage project by commission
+- Section 46-4-55 - Receipt and recording of evidence at hearing on application; order of commission approving or disapproving underground storage project
+- Section 46-4-56 - Judicial review of commission's order
+- Section 46-4-57 - Exercise of right of eminent domain by gas utilities
+- Section 46-4-58 - Determination of ownership of gas injected into underground storage reservoir; protection of rights of owners of other interests in the land
+- Section 46-4-59 - Effect of abandonment of reservoir by gas utility; evidence of abandonment; approval of abandonment by commission
+- Section 46-4-60 - Adoption by Board of Natural Resources of rules and regulations governing construction, installation, utilization, and operation of underground reservoirs and stations, wells, fixtures, and other facilities; enforcement of rules and regulations; inspection and examination
+- Section 46-4-61 - Adoption by commission of rules, regulations, and orders necessary for enforcement and administration of article; enforcement by injunction, mandamus, and other relief
+- Section 46-4-62 - Effect of article on authority of Department of Natural Resources
+- Section 46-4-80 - Legislative findings; declaration of need
+- Section 46-4-81 - Definitions
+- Section 46-4-82 - Creation of authority; principal office; legal situs
+- Section 46-4-83 - Membership election committee; election of members of the authority
+- Section 46-4-84 - Authority members - Representation of political subdivisions; eligibility of election committee members; successive terms
+- Section 46-4-85 - Authority members - Terms of office
+- Section 46-4-86 - Election committee members
+- Section 46-4-87 - Weighted vote of election committee members; quorum for election committee
+- Section 46-4-88 - Vacancies in membership of authority
+- Section 46-4-89 - Officers
+- Section 46-4-90 - Quorum; majority vote
+- Section 46-4-91 - Annual and special meetings
+- Section 46-4-92 - Compensation; expenses; personnel
+- Section 46-4-93 - Removal of authority members from office
+- Section 46-4-94 - Records required
+- Section 46-4-95 - Purpose
+- Section 46-4-96 - Powers
+- Section 46-4-97 - Not for profit operation
+- Section 46-4-98 - Public purpose; tax exemption; payments in lieu of taxes
+- Section 46-4-99 - Contracts with political subdivisions
+- Section 46-4-100 - Applicability of article to entities with gas distribution systems
+- Section 46-4-101 - Enabling resolution; issuance of revenue bonds; petition for judicial validation; fees; federal tax implications
+- Section 46-4-102 - Necessary parties to revenue bonds validation petition; intervention by citizens; adjudication
+- Section 46-4-103 - Failure of district attorney to file revenue bonds validation petition
+- Section 46-4-104 - Bonds as legal investments
+- Section 46-4-105 - Pledge of revenue to retire bonds
+- Section 46-4-106 - Trust agreement or indenture to secure bonds
+- Section 46-4-107 - Proceeds of bonds
+- Section 46-4-108 - Lost, stolen, or mutilated bond certificates
+- Section 46-4-109 - Interest on bonds after due date
+- Section 46-4-110 - Cancellation or destruction of retired bonds
+- Section 46-4-111 - Records of bond and note transactions required
+- Section 46-4-112 - Paying agents
+- Section 46-4-113 - Bond anticipation notes
+- Section 46-4-114 - Negotiability of bonds
+- Section 46-4-115 - Liability of authority members, political subdivisions, and state
+- Section 46-4-116 - Impairment of contracts
+- Section 46-4-117 - Appointment of receiver upon default
+- Section 46-4-118 - Charges for use of facilities or services
+- Section 46-4-119 - Revenues held in trust for bondholders
+- Section 46-4-120 - Annual audit
+- Section 46-4-121 - Jurisdiction for rights protection or enforcement actions
+- Section 46-4-122 - Exemption from regulation by Public Service Commission
+- Section 46-4-123 - Conduct of meetings; records
+- Section 46-4-124 - Effect of other laws
+- Section 46-4-125 - Liberal construction
+- Section 46-4-150 - Short title
+- Section 46-4-151 - Legislative findings and intent; bill of rights for consumers
+- Section 46-4-152 - Definitions
+- Section 46-4-153 - Certificates of authority
+- Section 46-4-153.1 - Certificates of authority for EMC gas affiliates; terms and conditions; requirements
+- Section 46-4-154 - Notice of election; unbundling; rates; application requirements; surcharge on interruptibles
+- Section 46-4-155 - Regulation of unbundled services; peaking service; customer services; interstate capacity assets
+- Section 46-4-156 - Customer assignment methodology; commission determination of adequate market conditions and effect of such determination; lost and unaccounted for gas; notice to customers; petition proceedings; change of marketers; deposit
+- Section 46-4-157 - Temporary directives
+- Section 46-4-158 - Obligations of an electing distribution company; conditions
+- Section 46-4-158.1 - Rules and regulations; reporting on service quality; noncompliance with service quality standards; third party forecasting; independent auditors; gas held in storage for marketer
+- Section 46-4-158.2 - Rules governing marketer's terms of service
+- Section 46-4-158.3 - Adequate and accurate consumer information disclosure statements; bills
+- Section 46-4-158.4 - Authority to establish minimum standards for nonresidential customers
+- Section 46-4-158.5 - Continuing review by commission
+- Section 46-4-159 - Standards of conduct for electing distribution companies; response to complaints
+- Section 46-4-160 - Commission's authority over certificated marketers; access to records; investigations and hearings; price summary; billing; violations; slamming
+- Section 46-4-160.1 - Dispute resolution between marketer and retail customer; reporting to credit bureaus
+- Section 46-4-160.2 - Requirements of marketer for billing errors; requiring written request for credit or refund prohibited
+- Section 46-4-160.3 - Voluntary contributions for low-income residential customers
+- Section 46-4-160.4 - [Repealed] Natural Gas Consumer Education Advisory Board; membership; responsibilities
+- Section 46-4-160.5 - Retail customer recovery for violations
+- Section 46-4-161 - Universal service fund
+- Section 46-4-162 - Commission's authority to approve certain pilot programs
+- Section 46-4-163 - Special or negotiated contracts valid
+- Section 46-4-164 - Construction of article; electric membership corporations and EMC gas affiliates; disclosure requirements; liquefied petroleum gas
+- Section 46-4-165 - Annual reports
+- Section 46-4-166 - Selection by proposal of regulated provider to service low-income residential consumers and certain firm natural gas consumers; rates; annual review

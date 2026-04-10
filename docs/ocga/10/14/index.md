@@ -1,0 +1,35 @@
+# Chapter 14 - GEORGIA CEMETERY AND FUNERAL SERVICES ACT OF 2000 (§§ 10-14-1 — 10-14-30)
+
+- Section 10-14-1 - Short title
+- Section 10-14-2 - Legislative findings and intent
+- Section 10-14-3 - Definitions
+- Section 10-14-3.1 - Authority of boards
+- Section 10-14-4 - Registration of cemetery owners, preneed dealers, and burial or funeral merchandise dealers; exemptions; nonperpetual care cemeteries
+- Section 10-14-5 - Registration of preneed sales agents; retention of employee applications by registered cemeteries
+- Section 10-14-5.1 - Relationship between life insurance and funeral establishment
+- Section 10-14-6 - Perpetual care trust funds
+- Section 10-14-7 - Preneed escrow accounts or trust funds
+- Section 10-14-7.1 - Trust funds or escrow accounts for preneed funeral services
+- Section 10-14-8 - Prohibition of certain persons from employment; notice and hearing; emergency orders
+- Section 10-14-9 - Amendment of registration applications; audit of registrant records; transfer of ownership in cemeteries or preneed dealers
+- Section 10-14-10 - Minimum acreage for cemeteries; exceptions
+- Section 10-14-11 - Stop orders suspending, revoking, or denying the effectiveness of registration; late penalty fees
+- Section 10-14-12 - Separate accounts and records; owner acting as trustee; removal of trustee or escrow agent; financial reports
+- Section 10-14-13 - Venue for civil or criminal actions
+- Section 10-14-14 - Administration of chapter; rules and regulations
+- Section 10-14-15 - Investigations by Secretary of State; subpoenas; hearings
+- Section 10-14-16 - Cemetery rules and regulations; schedule of charges
+- Section 10-14-17 - Prohibited acts; fees
+- Section 10-14-18 - Duties of registrants; requirements of written contracts
+- Section 10-14-19 - Enforcement of chapter; civil penalties
+- Section 10-14-20 - Criminal penalties
+- Section 10-14-21 - Purchaser's remedy for violations
+- Section 10-14-22 - Judicial appeal of orders issued by Secretary of State
+- Section 10-14-23 - Administrative appeal of orders issued by Secretary of State
+- Section 10-14-24 - Effect of consent to service of process
+- Section 10-14-25 - Waiver of rights or defenses in cemetery purchase agreements void
+- Section 10-14-26 - Secretary of State immune from liability
+- Section 10-14-27 - [Repealed] [Reserved] Evidence in civil or criminal actions under chapter
+- Section 10-14-28 - Actions pending under prior law
+- Section 10-14-29 - Construction of mausoleums and columbariums; preconstruction trust funds
+- Section 10-14-30 - Adoption of minimum standards by Secretary of State

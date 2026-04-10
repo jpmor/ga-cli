@@ -1,0 +1,29 @@
+# Chapter 1 - GENERAL PROVISIONS (§§ 36-1-1 — 36-1-27)
+
+- Section 36-1-1 - Names of counties
+- Section 36-1-2 - Extent of jurisdiction of counties divided by water
+- Section 36-1-3 - County a body corporate; power to sue and be sued generally
+- Section 36-1-4 - When county liable to be sued
+- Section 36-1-5 - Service upon county
+- Section 36-1-6 - Publication of annual financial statement; contents
+- Section 36-1-7 - Submission to grand jury of sworn returns of receipts and disbursements; approval or disapproval; appearance to explain errors; failure to make return
+- Section 36-1-8 - Investment of certain tax proceeds in authorized bonds; registration of bonds
+- Section 36-1-9 - Payment into county treasury
+- Section 36-1-10 - Employment of accountant to examine books
+- Section 36-1-11 - Additional temporary personnel and equipment for assistance of county officers or departments
+- Section 36-1-11.1 - Expenditure of funds for insurance and employment benefits
+- Section 36-1-12 - Courthouse to remain open during normal working hours
+- Section 36-1-13 - Speculation in county orders by county officer
+- Section 36-1-14 - Interested transactions prohibited; removal from office for violation
+- Section 36-1-15 - Prohibition, regulation, and taxation of fortunetelling and similar practices
+- Section 36-1-16 - Garbage, trash, waste, or refuse not to be transported across state or county boundaries for dumping without permission; exemption
+- Section 36-1-17 - Authority of county employees to issue citations for violation of ordinances and regulations in counties having population of 550,000 or more; jurisdiction; effect of failure to respond
+- Section 36-1-18 - Authority of counties having population of 550,000 or more to assess against cost of repairing streets as necessitated by private construction activity; liens
+- Section 36-1-19.1 - Appropriations for charitable grants or contributions in counties having population of 400,000 or more; boards or councils to establish procedures and advise governing authorities
+- Section 36-1-20 - Ordinances for governing and policing of unincorporated areas of county
+- Section 36-1-21 - Civil service system for county employees
+- Section 36-1-23 - Purchase from county of materials used in the construction of water systems, sewer systems, storm and drainage systems, buildings, or other facilities
+- Section 36-1-24 - Training classes for clerks of governing authority of county
+- Section 36-1-25 - Official minutes of meetings
+- Section 36-1-26 - Contracts for utility services; terms and conditions
+- Section 36-1-27 - Referendum approval required prior to expenditure of public funds for establishment of fixed guideway transit; definitions; submission of the question to qualified voters; ballot language

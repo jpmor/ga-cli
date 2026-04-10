@@ -1,0 +1,60 @@
+# Chapter 6 - AGENCY (§§ 10-6-1 — 10-6-140)
+
+- Section 10-6-1 - Creation of agency relationship
+- Section 10-6-2 - Formality necessary to create agency
+- Section 10-6-3 - Eligibility standard for agent
+- Section 10-6-4 - Conveyance authority of attorneys in fact
+- Section 10-6-5 - Agent authority; delegation
+- Section 10-6-6 - Conditional power of attorney
+- Section 10-6-7 - Application
+- Section 10-6-20 - Rights under agency for illegal purpose
+- Section 10-6-21 - Extent of agent's authority; liability for exceeding, violating, or disregarding instructions
+- Section 10-6-22 - Required standard of care
+- Section 10-6-23 - Instructions from multiple principals
+- Section 10-6-24 - Sale or purchase to self prohibited
+- Section 10-6-25 - Personal profit off principal's property prohibited
+- Section 10-6-26 - Dispute of principal's title
+- Section 10-6-27 - Principal's right of recovery
+- Section 10-6-28 - Effect of bank failure
+- Section 10-6-29 - Mingling goods
+- Section 10-6-30 - Proper accounting required
+- Section 10-6-31 - Commission and expenses
+- Section 10-6-32 - Owner's right to sell property placed with broker; broker's right to commissions
+- Section 10-6-33 - Method for revocation of agency; damages for unreasonable revocation
+- Section 10-6-34 - Effect of death or disability on pledge of stock with power of attorney
+- Section 10-6-35 - Effect of death on power of attorney by member of armed forces, seaman, or person on war service
+- Section 10-6-36 - Effect of incompetency or incapacity of principal on power of attorney
+- Section 10-6-37 - Action for wrongful discharge of agent before termination of contract
+- Section 10-6-38 - Mitigation of damages for improper dismissal
+- Section 10-6-39 - Liability of principal for injuries by other agents
+- Section 10-6-50 - Scope of authority; general and special agents
+- Section 10-6-51 - Effect of acts within and outside scope of authority
+- Section 10-6-52 - Ratification
+- Section 10-6-53 - Form of act
+- Section 10-6-54 - Effect of undisclosed principal
+- Section 10-6-55 - Effect of seller giving credit to agent
+- Section 10-6-56 - Effect of representations or concealment on principal
+- Section 10-6-57 - Nonproduction of payment made or security by agent
+- Section 10-6-58 - Effect of notice to agent
+- Section 10-6-59 - Conspiracy with third parties
+- Section 10-6-60 - Effect of neglect or fraud by agent
+- Section 10-6-61 - Effect of willful trespass by agent
+- Section 10-6-62 - Rights under contract; undisclosed principal
+- Section 10-6-63 - Recovery of illegal or mistaken payments
+- Section 10-6-64 - [Repealed] [Reserved] Agent may be witness; credibility; admissibility of agent's declarations
+- Section 10-6-80 - Agent authority in legal actions; parol authority; effect of repudiation
+- Section 10-6-81 - Recovery for mistaken payment to principal
+- Section 10-6-82 - Agent's right of action on principal's contracts
+- Section 10-6-83 - Right of action by agent for interference with possession of principal's property
+- Section 10-6-84 - Enforcement of contract after authority exceeded
+- Section 10-6-85 - Liability for exceeding authority
+- Section 10-6-86 - Liability of person signing instrument as agent or fiduciary
+- Section 10-6-87 - Assignment of credit
+- Section 10-6-88 - Liability on public contract
+- Section 10-6-89 - Contract for nonexisting principal void; right of action against purported agent
+- Section 10-6-100 - Bond to be posted by agent in business of receiving cash for payment to third persons; exceptions
+- Section 10-6-101 - Right to restitution from bond; agent's civil liability or criminal responsibility to patron not affected
+- Section 10-6-102 - Penalties for failure to post bond
+- Section 10-6-120 - Overseer's duties and powers
+- Section 10-6-121 - Parol contract between employer and overseer
+- Section 10-6-140 - through 10-6-142 - Reserved

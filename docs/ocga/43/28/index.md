@@ -1,0 +1,21 @@
+# Chapter 28 - OCCUPATIONAL THERAPISTS (§§ 43-28-1 — 43-28-21)
+
+- Section 43-28-1 - Short title
+- Section 43-28-2 - Declaration of purpose
+- Section 43-28-3 - Definitions
+- Section 43-28-4 - State Board of Occupational Therapy; members
+- Section 43-28-5 - Division director as secretary of board; subpoenas; service; official records or affidavits as prima-facie evidence
+- Section 43-28-6 - General powers and duties of board; continuing professional education; background checks
+- Section 43-28-7 - License requirement for occupational therapists
+- Section 43-28-8 - License requirements for therapy techniques involving physical agent modalities
+- Section 43-28-8.1 - [Repealed]
+- Section 43-28-9 - Qualifications of license applicants; waiver
+- Section 43-28-10 - Examinations
+- Section 43-28-11 - Waiver of examination; reciprocity
+- Section 43-28-12 - Issuance of license; fees; limited permits; use of titles and abbreviations
+- Section 43-28-13 - Denial, refusal to renew, suspension, or revocation of licenses; probation; fines; reinstatement
+- Section 43-28-14 - Renewal or reinstatement of expired licenses; renewal of suspended licenses
+- Section 43-28-15 - Exceptions to operation of article
+- Section 43-28-16 - Penalty
+- Section 43-28-20 - Short title
+- Section 43-28-21 - Text of compact

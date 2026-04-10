@@ -1,0 +1,22 @@
+# Chapter 4A - ATHLETE AGENTS (§§ 43-4A-1 — 43-4A-20)
+
+- Section 43-4A-1 - Short title
+- Section 43-4A-2 - Definitions
+- Section 43-4A-3 - Service of process agent for nonresident athlete agents
+- Section 43-4A-4 - Certification of registration required; exception; agency contract void for noncompliance
+- Section 43-4A-5 - Application for registration
+- Section 43-4A-6 - Issuance, renewal, and term of certificate of registration
+- Section 43-4A-7 - Discipline of registered agents; notice and hearing required
+- Section 43-4A-8 - Fee for registration or renewal
+- Section 43-4A-9 - Temporary registration
+- Section 43-4A-10 - Required records; inspection by Secretary of State
+- Section 43-4A-11 - Penalty for violation
+- Section 43-4A-12 - Surety bond requirement; suspension for failure to maintain
+- Section 43-4A-13 - Prohibited activities of athlete agent
+- Section 43-4A-14 - Notice of agency contract to athletic director of educational institution
+- Section 43-4A-15 - Requirements for agency contract; notice to student athlete; penalty for noncompliance; record for student athlete
+- Section 43-4A-16 - Cancellation of contract by student athlete
+- Section 43-4A-17 - Civil penalty
+- Section 43-4A-18 - Damages to educational institution; recovery
+- Section 43-4A-19 - Uniformity in application between states
+- Section 43-4A-20 - Electronic signatures

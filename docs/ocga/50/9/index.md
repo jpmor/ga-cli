@@ -1,0 +1,48 @@
+# Chapter 9 - GEORGIA BUILDING AUTHORITY (§§ 50-9-1 — 50-9-110)
+
+- Section 50-9-1 - Short title
+- Section 50-9-2 - Definitions
+- Section 50-9-3 - Creation of authority; general powers; membership; officers; quorum; vacancy; expenses; rules
+- Section 50-9-4 - Authority assigned for administrative purposes
+- Section 50-9-5 - General powers
+- Section 50-9-6 - [Repealed] [Reserved] Authorization for projects and facilities on Confederate Soldiers' Home property
+- Section 50-9-7 - Authorization for state archives building
+- Section 50-9-8 - Charges and leases for use of projects
+- Section 50-9-9 - Disruptions of state employees; protection of property
+- Section 50-9-10 - Rules and regulations for operation of projects
+- Section 50-9-11 - Acceptance of grants and contributions
+- Section 50-9-12 - Moneys received deemed trust funds
+- Section 50-9-13 - Exemption from taxation
+- Section 50-9-14 - Jurisdiction and venue of actions
+- Section 50-9-15 - Provisions supplemental
+- Section 50-9-16 - Liberal construction of provisions
+- Section 50-9-17 - Transferred authorities
+- Section 50-9-30 - Issuance authorized; amount; interest; redemption
+- Section 50-9-31 - Form, denomination, place of payment, registration
+- Section 50-9-32 - Valid signatures, seal, attestation
+- Section 50-9-33 - Negotiable instruments; exempt from taxation
+- Section 50-9-34 - Manner and price of sale
+- Section 50-9-35 - Proceeds to be used for project costs; disbursed under restrictions; additional bonds authorized to provide for deficit; surplus to be paid into fund
+- Section 50-9-36 - Interim certificates and temporary bonds authorized
+- Section 50-9-37 - Replacement of mutilated or lost bonds
+- Section 50-9-38 - No other conditions precedent; issuance for combination of projects authorized; passage and effective date of resolution
+- Section 50-9-39 - Not debt or pledge of credit of state; bonds to contain recital of provisions
+- Section 50-9-40 - Trust indentures as security; provisions
+- Section 50-9-41 - Authority to provide for payment of proceeds to person or agency as trustee
+- Section 50-9-42 - Sinking fund; pledge and allocation of funds to pay principal and interest
+- Section 50-9-43 - Rights and remedies of bondholders
+- Section 50-9-44 - Refunding bonds
+- Section 50-9-45 - Authorized investment and deposit securities
+- Section 50-9-46 - Validation; parties defendant to action; judgment final and conclusive
+- Section 50-9-47 - Interests and rights of bondholders not to be adversely affected; provisions constitute contract
+- Section 50-9-60 - Creation of committee; membership
+- Section 50-9-61 - Terms of members; appointment; vacancies; honorary chairman; advisory groups; no compensation for services or expenses; reimbursement from private funds
+- Section 50-9-62 - Powers and duties
+- Section 50-9-63 - Employment and compensation of personnel
+- Section 50-9-64 - State agencies authorized to cooperate with committee
+- Section 50-9-65 - Moneys received to be in special fund; property to become state property and may be sold or exchanged
+- Section 50-9-66 - Accountability for funds; committee as instrumentality of state; not amenable to action; enjoys sovereign immunity
+- Section 50-9-80 - through 50-9-84 - Reserved
+- Section 50-9-100 - &quot;Life cycle costs&quot; defined
+- Section 50-9-101 - Purchase of materials and fixtures to be based on life cycle costs
+- Section 50-9-110 - and 50-9-111 - [Repealed]

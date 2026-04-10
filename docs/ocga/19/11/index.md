@@ -1,0 +1,177 @@
+# Chapter 11 - ENFORCEMENT OF DUTY OF SUPPORT (§§ 19-11-1 — 19-11-191)
+
+- Section 19-11-1 - Short title
+- Section 19-11-2 - Purposes of article; construction
+- Section 19-11-3 - Definitions
+- Section 19-11-4 - Application of Chapter 13 of Title 50, the &quot;Georgia Administrative Procedure Act.&quot;
+- Section 19-11-5 - Debt to state created by payment of public assistance; amount of debt; waiver, reduction, or negotiation of certain repayments
+- Section 19-11-6 - Enforcement of child support payments and alimony for public assistance recipients
+- Section 19-11-7 - Enforcement of support payments for dependent minor child public assistance recipients; attorney's fees; interest on judgment; limited scope of action
+- Section 19-11-8 - Department's duty to enforce support of abandoned minor public assistance recipient; scope of action
+- Section 19-11-9 - Putative father registry; location of absent parents by department; assistance of other governmental agencies; use of information obtained
+- Section 19-11-9.1 - Duty to furnish information about obligor to department; use of information obtained; penalty for noncompliance
+- Section 19-11-9.2 - Duty of employers to report employee hiring or rehiring
+- Section 19-11-9.3 - Suspension or denial of license for noncompliance with child support order; interagency agreements; report to General Assembly; duty to inform obligors
+- Section 19-11-10 - Investigation to determine ability to support; notification of parent; information forms; penalty for falsifying parents' report
+- Section 19-11-11 - Department subpoenas; court order requiring compliance
+- Section 19-11-12 - Review of orders for child support; review procedures; order adjusting support award amount; no release from liability due to subsequent financial obligation
+- Section 19-11-13 - Determination of paternity; acknowledgment under oath; legal proceedings
+- Section 19-11-14 - Father's liability for support of child born out of wedlock; full faith and credit to paternity determination by another state
+- Section 19-11-15 - Voluntary support agreement; notice and hearing; notice of final determination
+- Section 19-11-15.1 - Information required to be given to individuals receiving services
+- Section 19-11-16 - Periodic redeterminations and reinvestigations
+- Section 19-11-17 - Redetermination at request of parent; time for hearing
+- Section 19-11-18 - Collection procedures; notice; judicial review
+- Section 19-11-19 - Garnishment and income deduction orders; notice and hearing; procedure; liability of employer
+- Section 19-11-20 - Wage assignments
+- Section 19-11-21 - Payment of support to department
+- Section 19-11-22 - Article not exclusive
+- Section 19-11-23 - Authority of district attorneys
+- Section 19-11-24 - Conformity with federal law intended; adoption of necessary regulations authorized
+- Section 19-11-25 - Availability of information about overdue support to consumer reporting agency; notice to debtor parent; fee
+- Section 19-11-26 - Accident and sickness insurance coverage for children; order requiring medical support
+- Section 19-11-27 - Accident and sickness insurance coverage for children; National Medical Support Notice or other notice of enrollment; establishment of coverage
+- Section 19-11-28 - Accident and sickness insurance coverage for children; authorization of payments of benefits; notice of termination; immunity from liability of person or entity providing access to coverage
+- Section 19-11-29 - Accident and sickness insurance coverage for children; liability and penalty applicable to person or entity providing access to coverage and insurers
+- Section 19-11-30 - Confidentiality of information and records; safeguards against unauthorized use
+- Section 19-11-30.1 - Bank Match Registry
+- Section 19-11-30.2 - Information from financial institutions
+- Section 19-11-30.3 - Responsibility of Department of Human Services Bank Match Registry
+- Section 19-11-30.4 - Disclosure of information
+- Section 19-11-30.5 - Failure of financial institution to comply
+- Section 19-11-30.6 - Reciprocal agreements with other states
+- Section 19-11-30.7 - Construction
+- Section 19-11-30.8 - Annual reports
+- Section 19-11-30.9 - Information subject to disclosure; penalty
+- Section 19-11-30.10 - Authority to levy and seize deposit
+- Section 19-11-30.11 - Fee on levied accounts
+- Section 19-11-31 - [Repealed] [Reserved] Joint Study Committee on Child Support
+- Section 19-11-32 - Process to collect delinquent support accounts
+- Section 19-11-33 - Notice
+- Section 19-11-34 - Verification; immunity from liability
+- Section 19-11-35 - Initiation of administrative action for levy; required information in notice to financial institution
+- Section 19-11-36 - Required information in notice to obligor
+- Section 19-11-37 - Challenges to levy; mistakes; procedures; reimbursement
+- Section 19-11-38 - Required financial institution action
+- Section 19-11-39 - Computerized central case registry for support orders
+- Section 19-11-40 - Short title
+- Section 19-11-40.1 - Effective date for application of article
+- Section 19-11-41 - Purposes of article
+- Section 19-11-42 - Definitions
+- Section 19-11-43 - Duty of support defined; criteria for determining existence of duty of support
+- Section 19-11-44 - Declaration of reciprocating status of Canadian province or territory by Attorney General
+- Section 19-11-45 - Remedies cumulative
+- Section 19-11-46 - Liability of obligor in state not dependent on obligee's presence
+- Section 19-11-47 - Support proceedings when obligor and obligee are found in different counties of state
+- Section 19-11-48 - When extradition of obligor authorized; how extradition avoided; petition; temporary order of support; delivery of copies of order; suspension of extradition proceedings
+- Section 19-11-49 - Choice of law for determining duties of support
+- Section 19-11-50 - Remedies of state or political subdivision furnishing support; court orders for present or future support not to be jeopardized
+- Section 19-11-51 - Duties enforceable by petition; jurisdiction; venue
+- Section 19-11-52 - Contents of petition; when cause of action arises
+- Section 19-11-53 - Representation of petitioner by district attorney; fees; monthly collection reports; payment to county for services; clerk's fees
+- Section 19-11-54 - By whom petition for minor obligee brought; guardian ad litem not necessary
+- Section 19-11-55 - Duty of court of this state when acting as initiating state; transmittal of copies of petition, certificate, and article; monetary recommendation to Canadian court
+- Section 19-11-56 - Payment of costs and fees by state; issuance of execution to reimburse state
+- Section 19-11-57 - When respondent's arrest authorized
+- Section 19-11-58 - Department of Human Services designated state information agency; duties
+- Section 19-11-59 - Payment of district attorney's fee
+- Section 19-11-60 - Duty of court of this state when acting as responding state
+- Section 19-11-61 - Procedure when responding court unable to obtain jurisdiction; cooperation of police in locating respondent; transfer of documents upon location of respondent or his property
+- Section 19-11-62 - Discovery procedures
+- Section 19-11-63 - Order of support or reimbursement
+- Section 19-11-64 - Transmittal of copy of order to initiating state
+- Section 19-11-65 - Power of court to assure compliance with orders
+- Section 19-11-66 - Determination of paternity
+- Section 19-11-67 - Transmittal of payments to court of initiating state; certified statement of payments made by respondent
+- Section 19-11-68 - Duty of court of initiating state to disburse payments received
+- Section 19-11-69 - Spouses competent and compellable to testify
+- Section 19-11-70 - Rules of evidence
+- Section 19-11-71 - Previous support orders not superseded; how payments credited
+- Section 19-11-72 - Jurisdiction in other proceedings not conferred
+- Section 19-11-73 - Construction of article
+- Section 19-11-74 - Temporary order
+- Section 19-11-75 - Right of appeal; effect of appeal on order of support
+- Section 19-11-76 - Additional remedies on foreign support order
+- Section 19-11-77 - Registration of foreign support order; filing in registry of foreign support orders
+- Section 19-11-78 - Application of Code Section 19-11-53
+- Section 19-11-79 - Registration procedure - Transmittal of documents to district attorney; filing; notice; docketing
+- Section 19-11-80 - Registration procedure - Hearing; defenses; grounds for stay; entry of order as registration; county's entitlement to fee; through whom payments made
+- Section 19-11-81 - Effect of registration of foreign support order
+- Section 19-11-100 - Short title
+- Section 19-11-101 - Definitions
+- Section 19-11-102 - Designated tribunals; support enforcement agency
+- Section 19-11-103 - Nature of remedies
+- Section 19-11-104 - Applicability
+- Section 19-11-110 - Jurisdiction
+- Section 19-11-111 - Personal jurisdiction continues while Georgia tribunal retains continuing, exclusive jurisdiction
+- Section 19-11-112 - Authority of tribunal
+- Section 19-11-113 - Limitation on jurisdiction of Georgia tribunal if action filed in another state or foreign country
+- Section 19-11-114 - Continuing, exclusive jurisdiction to modify support order
+- Section 19-11-115 - Initiating tribunal; responding tribunal
+- Section 19-11-116 - Governing tribunal when conflicting orders; determination of controlling order
+- Section 19-11-117 - Enforcement of two or more child support orders, at least one of which was issued by another state or foreign country
+- Section 19-11-118 - Crediting of amounts collected
+- Section 19-11-119 - Evidentiary issues outside state; application
+- Section 19-11-119.1 - Spousal support order; modification; initiating tribunal to request enforcement; responding tribunal to enforce or modify order
+- Section 19-11-120 - Application of part; initiation of a proceeding
+- Section 19-11-121 - Representative for minor parent
+- Section 19-11-122 - Governing law and procedure for responding Georgia tribunal
+- Section 19-11-123 - Information to be provided to responding tribunal
+- Section 19-11-124 - Receipt of petition of pleading by responding Georgia tribunal; action authorized; limitations; foreign currency conversion
+- Section 19-11-125 - Receipt by inappropriate tribunal
+- Section 19-11-126 - Support enforcement agency's services; determining controlling order; foreign currency conversion; enforcement of support order and income withholding order of another state; absence of fiduciary relationship
+- Section 19-11-127 - Authority of Attorney General
+- Section 19-11-128 - Employment of private counsel
+- Section 19-11-129 - State information agency
+- Section 19-11-130 - Filing of petition to establish, register, or modify support order; required information; relief sought
+- Section 19-11-131 - Nondisclosure of identifying information when health, safety, or liberty at risk; disclosure of information in the interest of justice
+- Section 19-11-132 - Fees and costs
+- Section 19-11-133 - Personal jurisdiction
+- Section 19-11-134 - Defense of nonparentage
+- Section 19-11-135 - Physical presence of individual nonresident party not required; admissible evidence
+- Section 19-11-136 - Communication between tribunals
+- Section 19-11-137 - Tribunal's authority to accomplish discovery
+- Section 19-11-138 - Disbursement of funds; redirecting payments
+- Section 19-11-140 - Authority of tribunal upon failure to issue support order; temporary child support order
+- Section 19-11-141 - Responding tribunal
+- Section 19-11-150 - Issuance of income withholding orders
+- Section 19-11-151 - Obligation of employer upon receipt of income withholding order
+- Section 19-11-152 - Receipt of two or more income withholding orders
+- Section 19-11-153 - Employer's civil liability
+- Section 19-11-154 - Penalties for employer's noncompliance
+- Section 19-11-155 - Contesting of order from another tribunal
+- Section 19-11-156 - Enforcement of orders issued by another state or foreign country
+- Section 19-11-160 - Registration of orders issued by another state or foreign country
+- Section 19-11-161 - Requirements for registration of orders issued by another state or foreign country; other filings
+- Section 19-11-162 - Filing in Georgia tribunal required for registration; enforcement; modification
+- Section 19-11-163 - Governing law; statute of limitations; application of procedural and remedial law of Georgia; prospective application of law of other state or foreign country
+- Section 19-11-164 - Notification to nonregistering party and obligor's employer
+- Section 19-11-165 - Contesting the validity of registered support order by nonregistering party
+- Section 19-11-166 - Burden of proof in contesting validity of registered support order; stays
+- Section 19-11-167 - Effect of confirmation
+- Section 19-11-168 - Petitions for modification
+- Section 19-11-169 - Enforcement pending modification
+- Section 19-11-170 - Requirements for modification; effect on jurisdiction
+- Section 19-11-171 - Recognition of modification by another tribunal
+- Section 19-11-172 - Jurisdiction; application of article
+- Section 19-11-173 - Filing requirement for modified order
+- Section 19-11-174 - Jurisdiction to modify child support order
+- Section 19-11-175 - Registration of foreign child support order
+- Section 19-11-180 - Definitions
+- Section 19-11-181 - Applicability of part
+- Section 19-11-182 - Department of Human Services recognized as designated agency
+- Section 19-11-183 - Duties of Department of Human Services; available support proceedings
+- Section 19-11-184 - Filing direct requests; entitlement to assistance; preference for simplified and expeditious processes
+- Section 19-11-184.1 - Request for registration
+- Section 19-11-184.2 - Contest of registered convention support order
+- Section 19-11-184.3 - Grounds for refusal of recognition and enforcement of registered convention support order
+- Section 19-11-184.4 - Option to enforce portions of convention support order
+- Section 19-11-184.5 - Recognition and enforcement of foreign support agreement
+- Section 19-11-184.6 - Modification of convention child support order
+- Section 19-11-184.7 - Personal information
+- Section 19-11-184.8 - Language
+- Section 19-11-185 - &quot;Governor&quot; defined; authority
+- Section 19-11-186 - Prosecutor's duties upon request by governor; rendition
+- Section 19-11-190 - Construction of article; uniformity
+- Section 19-11-190.1 - Effective date
+- Section 19-11-191 - Severability

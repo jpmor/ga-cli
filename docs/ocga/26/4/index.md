@@ -1,0 +1,105 @@
+# Chapter 4 - PHARMACISTS AND PHARMACIES (§§ 26-4-1 — 26-4-214)
+
+- Section 26-4-1 - Short title
+- Section 26-4-2 - Liberal construction of chapter
+- Section 26-4-3 - Legislative intent
+- Section 26-4-4 - Definition of &quot;practice of pharmacy.&quot;
+- Section 26-4-5 - Definitions
+- Section 26-4-6 - Provisions of chapter not applicable to facilities engaged solely in distribution of dialysate drugs or certain dialysis equipment under certain conditions
+- Section 26-4-20 - Georgia State Board of Pharmacy; powers and duties
+- Section 26-4-21 - Eligibility requirements for board members; oath of office
+- Section 26-4-22 - Number and terms of members; appointment; vacancies
+- Section 26-4-23 - Removal of board members
+- Section 26-4-24 - Meetings and organization; appeals; serving of notices and legal process
+- Section 26-4-25 - Expense and mileage allowances; reimbursement of certain costs and fees
+- Section 26-4-26 - Meetings; notice; quorum; open meetings
+- Section 26-4-27 - Authority to establish rules and regulations
+- Section 26-4-28 - Powers, duties, and authority
+- Section 26-4-28.1 - Power, duties, and authority of the executive director
+- Section 26-4-28.2 - Notification to board of convictions
+- Section 26-4-29 - Georgia Drugs and Narcotics Agency; powers and duties
+- Section 26-4-30 - Construction of chapter
+- Section 26-4-40 - Unlawful to practice pharmacy without license; exception; penalty
+- Section 26-4-41 - Qualifications for license; examination; internship and other training programs
+- Section 26-4-42 - License transfers for pharmacists licensed in another jurisdiction
+- Section 26-4-43 - Temporary licenses
+- Section 26-4-44 - Renewal of licenses
+- Section 26-4-44.1 - Inactive license status
+- Section 26-4-44.2 - Exceptions for active duty service members
+- Section 26-4-45 - Continuing professional pharmaceutical education requirements
+- Section 26-4-46 - Pharmacy intern licenses; eligibility; requirements
+- Section 26-4-47 - Validity of pharmacy intern licenses
+- Section 26-4-48 - Renewal of pharmacy intern licenses
+- Section 26-4-49 - Drug researcher permits; application for registration; fees; suspension or revocation; penalty for violations
+- Section 26-4-50 - Drug therapy modification certification
+- Section 26-4-51 - Durable medical equipment supplier license; requirements; exemptions; rules and regulations
+- Section 26-4-52 - Administration of vaccines by pharmacy technicians; requirements; role of supervising pharmacist
+- Section 26-4-60 - Grounds for suspension, revocation, or refusal to issue or renew licenses
+- Section 26-4-61 - Temporary suspension of license; notice; disciplinary hearings
+- Section 26-4-62 - Penalty for violation of chapter
+- Section 26-4-80 - License required for practice of pharmacy; dispensing of prescription drugs; prescription drug orders; electronically transmitted drug orders; refills; Schedule II controlled substance prescriptions
+- Section 26-4-80.1 - Use of security paper for hard copy prescription drug orders for Schedule II controlled substances
+- Section 26-4-81 - Substitution of generic drugs or interchangeable biological products for brand name drugs and prescribed biological products
+- Section 26-4-82 - Duties requiring professional judgment; responsibilities of licensed pharmacist
+- Section 26-4-83 - Patient record systems
+- Section 26-4-84 - Restriction of license for failure to review patient records and prescription drug orders
+- Section 26-4-85 - Patient counseling; optimizing drug therapy
+- Section 26-4-86 - Compounding and distribution of drug products
+- Section 26-4-87 - Storage and handling of controlled substances and dangerous drugs
+- Section 26-4-88 - Restrictions on dispensing of medicines, drugs, or poisons; functions which require the professional judgment of a pharmacist
+- Section 26-4-89 - Selling or dispensing prescription drugs by vending machine
+- Section 26-4-90 - Remuneration for professional pharmacy care services
+- Section 26-4-110 - Pharmacy licenses; applications; fees; investigations; prescription department requirements
+- Section 26-4-110.1 - [Repealed]
+- Section 26-4-111 - Licensure procedures for pharmacies; non-transferability; minimum standards
+- Section 26-4-112 - Occurrences requiring immediate notification to board
+- Section 26-4-113 - Wholesale distributors; licensing requirements; suspension or revocation of license; reinstatement
+- Section 26-4-114 - Special pharmacy permits
+- Section 26-4-114.1 - Nonresident pharmacy permits; application; requirements
+- Section 26-4-115 - Wholesale drug distributors; registration; fees; reports of excessive purchases; penalty for violations; transfers of drugs
+- Section 26-4-115.1 - Requirement that certain wholesale distributors of controlled substances and dangerous drugs provide price and quantity information
+- Section 26-4-116 - Emergency service providers; contracts with issuing pharmacy; record keeping; inspections
+- Section 26-4-116.1 - Licensed health practitioners authorized to prescribe auto-injectable epinephrine for schools; pharmacists authorized to fill prescriptions
+- Section 26-4-116.2 - Licensed health practitioners authorized to prescribe opioid antagonists; pharmacists authorized to fill prescriptions; immunity from liability
+- Section 26-4-116.3 - Licensed health practitioners authorized to prescribe levalbuterol sulfate or abuterol sulfate for schools; pharmacists authorized to fill prescriptions
+- Section 26-4-116.4 - Undesignated ready-to-use glucagon for schools
+- Section 26-4-117 - Duty to prosecute violations
+- Section 26-4-118 - Pharmacy Audit Bill of Rights; recoupment of disputed funds; appeals process for unfavorable reports; final audit report; investigative audits based on criminal offenses
+- Section 26-4-119 - Pharmacy anti-steering and transparency; prohibited activities
+- Section 26-4-130 - Dispensing drugs; compliance with labeling and packaging requirements; records available for inspection by board; renewal of licenses
+- Section 26-4-131 - Examination of food, drug, and cosmetic specimens; violations of federal law
+- Section 26-4-140 - Short title
+- Section 26-4-141 - Legislative findings
+- Section 26-4-142 - Definitions
+- Section 26-4-143 - Approval of program by Commissioner; exemptions
+- Section 26-4-144 - Claim reimbursements to participating pharmacies
+- Section 26-4-145 - Excessive charges to enrollees prohibited
+- Section 26-4-146 - Administrator registration
+- Section 26-4-147 - Liability of enrollees
+- Section 26-4-148 - Penalties
+- Section 26-4-160 - Sales and labeling
+- Section 26-4-161 - Procedure on sale or delivery of listed poisons
+- Section 26-4-162 - Prescriptions by practitioners of the healing arts
+- Section 26-4-163 - Penalty
+- Section 26-4-170 - Short title
+- Section 26-4-171 - Definitions
+- Section 26-4-172 - License requirements generally
+- Section 26-4-173 - Nuclear pharmacist license; applicant requirements
+- Section 26-4-174 - Nuclear pharmacy operators permit; requirements
+- Section 26-4-175 - Equipment requirements
+- Section 26-4-176 - Limiting, suspending, or revoking license
+- Section 26-4-177 - Grounds for refusal to grant license
+- Section 26-4-178 - Authorized to promulgate rules
+- Section 26-4-179 - Authority of department
+- Section 26-4-190 - through 26-4-195 - Reserved
+- Section 26-4-200 - [See Note] Short title
+- Section 26-4-201 - [See Note] Definitions
+- Section 26-4-202 - [See Note] Pedigrees for prescription drugs
+- Section 26-4-203 - [See Note] Immediate cease and desist orders for violations
+- Section 26-4-204 - [See Note] Prohibited acts
+- Section 26-4-205 - [See Note] Penalty
+- Section 26-4-210 - Short title
+- Section 26-4-211 - Legislative findings and intent
+- Section 26-4-212 - Definitions
+- Section 26-4-213 - Collaboration
+- Section 26-4-214 - Role of State Board of Pharmacy and Georgia Composite Medical Board in establishing rules and regulations

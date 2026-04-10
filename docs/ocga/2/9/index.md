@@ -1,0 +1,37 @@
+# Chapter 9 - DEALERS IN AGRICULTURAL PRODUCTS (§§ 2-9-1 — 2-9-45)
+
+- Section 2-9-1 - Definitions
+- Section 2-9-2 - License required
+- Section 2-9-3 - Application for license
+- Section 2-9-4 - Issuance of license
+- Section 2-9-5 - Bond - Required
+- Section 2-9-6 - Bond - Breach of conditions; complaint to Commissioner; hearing and settlement; action on bond; pro rata distribution of insufficient bond proceeds
+- Section 2-9-7 - Denial, suspension, or revocation of license - Grounds generally
+- Section 2-9-8 - Denial, suspension, or revocation of license - Notice and hearing
+- Section 2-9-9 - Consignment records; settlement with producer
+- Section 2-9-9.1 - Bale identification numbers on ginned cotton
+- Section 2-9-10 - Investigations
+- Section 2-9-11 - Inspections of damaged shipments; certificate
+- Section 2-9-11.1 - Ownership of agricultural product harvested by dealer, agent or employee, or independent contractor retained by dealer; prompt payment; certificate of receipt and quality
+- Section 2-9-12 - Sale or possession of substandard products prohibited
+- Section 2-9-13 - Rules and regulations
+- Section 2-9-14 - Injunctions
+- Section 2-9-15 - Applicability of article
+- Section 2-9-16 - Penalty
+- Section 2-9-30 - Definitions
+- Section 2-9-31 - License required
+- Section 2-9-32 - Application for license
+- Section 2-9-33 - Issuance, renewal, and expiration of license
+- Section 2-9-34 - Bond - Required
+- Section 2-9-35 - Bond - Breach of conditions; complaint to Commissioner; hearing and settlement; action on bond; pro rata distribution of insufficient bond proceeds
+- Section 2-9-36 - Denial, suspension, or revocation of license - Grounds
+- Section 2-9-37 - Denial, suspension, or revocation of license - Notice and hearing
+- Section 2-9-38 - Grain to be weighed by certified public weigher
+- Section 2-9-39 - Scales
+- Section 2-9-40 - Consignment records; settlement with producer
+- Section 2-9-41 - Investigations
+- Section 2-9-42 - Rules and regulations
+- Section 2-9-42.1 - Publication of names, locations, and manner of payment by licensed grain dealers
+- Section 2-9-43 - Injunctions
+- Section 2-9-44 - Applicability of article
+- Section 2-9-45 - Penalty

@@ -1,0 +1,36 @@
+# Chapter 39 - STREET IMPROVEMENTS (§§ 36-39-1 — 36-39-34)
+
+- Section 36-39-1 - Definitions
+- Section 36-39-2 - Adoption of chapter; election; effect of adoption of chapter generally
+- Section 36-39-3 - Procedure for improvements; adoption and publication of resolution; filing of petition by landowners; objections to improvements
+- Section 36-39-4 - Basis of assessments for improvements; municipal corporation owner of intersecting streets fronting improvement; payment of assessments on frontage
+- Section 36-39-5 - Improvements when county owns abutting property
+- Section 36-39-6 - Paving by railroad having tracks in street
+- Section 36-39-7 - Payment for street improvements and construction of water, gas, and sewer connections; payment of costs of connections
+- Section 36-39-8 - Resolution letting contract for improvements following time for protests or filing of petition
+- Section 36-39-9 - Work performed by municipal corporation; property owners' objections to performance of work by municipal corporation
+- Section 36-39-10 - Publication and contents of notice of contract proposals
+- Section 36-39-11 - Examination of bids and award of contract; readvertisement for bids
+- Section 36-39-12 - Appointment of board of appraisers to appraise and apportion cost
+- Section 36-39-13 - Filing of board of appraisers' report
+- Section 36-39-14 - Hearing upon board of appraisers' report; review of report and objections; ordinance fixing assessments; taxation of interest
+- Section 36-39-15 - Time and manner of payment of assessments generally
+- Section 36-39-16 - Payment of assessment in installments
+- Section 36-39-17 - Assessments where portion of costs paid by municipal corporation
+- Section 36-39-18 - Additional assessments
+- Section 36-39-19 - Publication and contents of notice of due date of assessment; effect of failure to publish notice
+- Section 36-39-20 - Lien for assessment and interest
+- Section 36-39-21 - Execution, levy, and sale on unpaid assessments or interest generally
+- Section 36-39-22 - Affidavit contesting amount of execution; trial by superior court; penalties for delay
+- Section 36-39-23 - Collection and use of assessments generally; special fund; treasurer's bond
+- Section 36-39-24 - Limitation period for contesting or enjoining assessments
+- Section 36-39-25 - Issuance of bonds; payment; interest; terms; form
+- Section 36-39-26 - Sale of bonds; delivery to contractors
+- Section 36-39-27 - Disposition of proceeds from bonds remaining after payment
+- Section 36-39-28 - Petition for validation of ordinance establishing assessments; time; contents
+- Section 36-39-29 - Order to show cause on petition; time and notice of hearing
+- Section 36-39-30 - Conduct of hearing; issuance of order by court
+- Section 36-39-31 - Appeal from judgment of court
+- Section 36-39-32 - Conclusiveness of superior court's final judgment
+- Section 36-39-33 - Entry of reference to judgment on bonds following validation; use of entry as evidence
+- Section 36-39-34 - Construction of chapter

@@ -1,0 +1,30 @@
+# Chapter 24A - MASSAGE THERAPY (§§ 43-24A-1 — 43-24A-33)
+
+- Section 43-24A-1 - Short title
+- Section 43-24A-2 - Legislative findings and intent
+- Section 43-24A-3 - Definitions
+- Section 43-24A-4 - Georgia Board of Massage Therapy; creation; members; terms; reimbursement
+- Section 43-24A-5 - Qualifications of board members; removal; training
+- Section 43-24A-6 - Meetings of the board; officers and committees
+- Section 43-24A-7 - Powers of the board
+- Section 43-24A-8 - Licensure of massage therapists; application and requirements
+- Section 43-24A-9 - Provisional permits
+- Section 43-24A-10 - Applications under oath
+- Section 43-24A-11 - Licensing examinations
+- Section 43-24A-12 - [Repealed and Reserved] [Reserved] License by reciprocity
+- Section 43-24A-13 - License by endorsement
+- Section 43-24A-14 - Display of the license certificate; expiration and renewal of licenses; liability insurance coverage; change of address; inactive status
+- Section 43-24A-15 - Unlawful acts
+- Section 43-24A-16 - Practice of massage therapy without a license; injunctions
+- Section 43-24A-17 - Disciplinary action
+- Section 43-24A-18 - Administrative procedures
+- Section 43-24A-19 - Exceptions
+- Section 43-24A-20 - Continuing education requirements
+- Section 43-24A-21 - Proceedings for a restraining order, injunction, or writ of mandamus
+- Section 43-24A-22 - Local regulation
+- Section 43-24A-23 - Taxation as a health care activity
+- Section 43-24A-24 - Fines and punishments for violations
+- Section 43-24A-30 - Licensing or regulation of massage therapy businesses; limitation on naming and labels
+- Section 43-24A-31 - Prohibited elements of ordinance or regulation; no prohibition on impeding practice
+- Section 43-24A-32 - Regulation and licensing of other businesses
+- Section 43-24A-33 - Enforcement by prosecuting attorney; issuance of injunctions

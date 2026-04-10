@@ -1,0 +1,39 @@
+# Chapter 6 - ADMINISTRATORS AND PERSONAL REPRESENTATIVES (§§ 53-6-1 — 53-6-64)
+
+- Section 53-6-1 - Eligibility
+- Section 53-6-2 - Executor de son tort
+- Section 53-6-10 - Nomination by testator
+- Section 53-6-11 - Qualification
+- Section 53-6-12 - Declination
+- Section 53-6-13 - Appointment by court
+- Section 53-6-14 - Selection by beneficiaries
+- Section 53-6-15 - Petition for letters of administration with will annexed
+- Section 53-6-16 - Oath or affirmation of executor and administrator with will annexed
+- Section 53-6-20 - Selection or appointment of administrator
+- Section 53-6-21 - Petition to court; contents
+- Section 53-6-22 - Notice
+- Section 53-6-23 - Issuance
+- Section 53-6-24 - Oath or affirmation of administrator
+- Section 53-6-30 - Power of court; appointment of administrator; appeal
+- Section 53-6-31 - Power of administrator
+- Section 53-6-32 - Oath or affirmation of temporary administrator
+- Section 53-6-35 - Appointment
+- Section 53-6-36 - Qualifications and compensation
+- Section 53-6-37 - Term; vacancies; discharge of duties after expiration of term or removal from office; resignation
+- Section 53-6-38 - Administration of unrepresented estate by county administrator
+- Section 53-6-39 - Administration or unrepresented estate by clerk of superior court
+- Section 53-6-40 - Separate letters of administration; governing law; appointment for sole purpose of commencing or continuing lawsuit against estate
+- Section 53-6-41 - Bond
+- Section 53-6-42 - Power of court to revoke letters of administration, require additional security, or pass other order
+- Section 53-6-43 - Proceedings to require additional security
+- Section 53-6-44 - Settlement of estate without administration
+- Section 53-6-50 - Persons required to give; determination of amount
+- Section 53-6-51 - Requisites
+- Section 53-6-52 - Reduction
+- Section 53-6-53 - Personal representative qualified to serve without, or not otherwise legally required to give, bond
+- Section 53-6-54 - Recordation and custody
+- Section 53-6-60 - Amount
+- Section 53-6-61 - Expenses
+- Section 53-6-62 - Extra compensation
+- Section 53-6-63 - Compensation from business enterprise
+- Section 53-6-64 - Compensation to temporary administrator

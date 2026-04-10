@@ -1,0 +1,32 @@
+# Chapter 5 - SEARCHES AND SEIZURES (§§ 17-5-1 — 17-5-100)
+
+- Section 17-5-1 - Search pursuant to lawful arrest authorized
+- Section 17-5-2 - Inventory of items seized without search warrant to be given to person arrested and judicial officer before whom person arrested taken; return of items
+- Section 17-5-20 - Requirements for issuance of search warrant generally
+- Section 17-5-21 - Grounds for issuance of search warrant; scope of search pursuant to search warrant; issuance by retired judge or judge emeritus
+- Section 17-5-21.1 - Issuance of search warrants by video conference
+- Section 17-5-22 - Issuance of search warrants by judicial officers generally; maintenance of docket record of warrants issued
+- Section 17-5-23 - Command of search warrant
+- Section 17-5-24 - Officers authorized to execute search warrants
+- Section 17-5-25 - Execution of search warrant generally
+- Section 17-5-26 - When search warrant may be executed
+- Section 17-5-27 - Use of force in execution of search warrant
+- Section 17-5-28 - Detention and search of persons on premises
+- Section 17-5-29 - Written return of items seized; filing and signing of inventory; delivery of copies of inventory
+- Section 17-5-30 - Motion to suppress evidence illegally seized generally
+- Section 17-5-31 - Quashing warrant or suppressing evidence because of technical irregularity not affecting substantial rights of accused
+- Section 17-5-32 - Search and seizure of documentary evidence in possession of attorney; exclusion of illegally obtained evidence
+- Section 17-5-50 - Property unlawfully obtained; rights of owner; hearing; admissibility of photographs in lieu of original property; representation of unknown or absent defendants; statements made by defendant or agent at trial
+- Section 17-5-51 - Civil forfeiture of weapons used in commission of crime, possession of which constitutes crime or delinquent act, or illegal concealment generally
+- Section 17-5-52 - Disposition of weapons used in commission of crime or delinquent act involving possession; civil forfeiture
+- Section 17-5-52.1 - [Repealed] Disposal of forfeited or abandoned firearms; innocent owners; auctions; record keeping; liability of government entities
+- Section 17-5-53 - Disposition of devices with historical or instructional value
+- Section 17-5-54 - Definitions; disposition of personal property in custody of law enforcement agency
+- Section 17-5-55 - Designation of custodian for introduced evidence; evidence log; storage, maintenance, and disposal of evidence
+- Section 17-5-56 - Maintenance of physical evidence containing biological material
+- Section 17-5-70 - Definitions
+- Section 17-5-71 - Preservation of evidence
+- Section 17-5-72 - Right to free forensic medical examination
+- Section 17-5-73 - Victim's right to refuse request for polygraph examinations or other truth-telling devices
+- Section 17-5-74 - Unreported sexual assault kits; definitions; state-wide tracking system; requirements; implementation; reporting; jurisdiction; liability; regulatory authority
+- Section 17-5-100 - Investigation of illegal alien status

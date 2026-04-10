@@ -1,0 +1,28 @@
+# Chapter 5 - MISCELLANEOUS PROVISIONS RELATING TO CORPORATIONS (§§ 14-5-1 — 14-5-51)
+
+- Section 14-5-1 - Intention
+- Section 14-5-2 - By whom powers granted
+- Section 14-5-3 - Right of state to withdraw franchise when charter granted since January 1, 1863
+- Section 14-5-4 - Corporate existence not subject to collateral attack by person dealing with corporation
+- Section 14-5-6 - Contributions to influence official action prohibited; penalty
+- Section 14-5-7 - Execution of instruments conveying interest in real property or releasing security agreement
+- Section 14-5-8 - Joint tenancy of shares and securities
+- Section 14-5-9 - Jurisdiction and service of summons in garnishment proceedings
+- Section 14-5-11 - Applicability of Chapters 2 and 3 to corporations chartered by General Assembly; filing of annual registration with Secretary of State
+- Section 14-5-11.1 - Valid period for annual registration
+- Section 14-5-20 - Secretary of State as corporation commissioner
+- Section 14-5-21 - Fees; report; refunds
+- Section 14-5-22 - Condition of acceptance of documents
+- Section 14-5-23 - Rules and regulations
+- Section 14-5-40 - Applicability of Chapter 3 of title
+- Section 14-5-41 - Validity of contracts and deposits; enforcement
+- Section 14-5-42 - Authority to act as trustee of charitable trust
+- Section 14-5-43 - Church represented by majority; effect of withdrawal of part of congregation
+- Section 14-5-44 - Church edifice liable to sale for debt
+- Section 14-5-45 - Interference by courts with management of church
+- Section 14-5-46 - Conveyances to churches or religious societies confirmed
+- Section 14-5-47 - Authority of churches or religious societies over trustees holding land for their use
+- Section 14-5-48 - Vacancies in administration of land trusts for use of churches and religious societies; certificate of appointment
+- Section 14-5-49 - Applicability of Code Sections 14-5-46 through 14-5-48 to other societies
+- Section 14-5-50 - Corporate rights generally
+- Section 14-5-51 - Powers of eleemosynary and religious corporations extended

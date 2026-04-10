@@ -1,0 +1,123 @@
+# Chapter 11 - OFFENSES AGAINST PUBLIC ORDER AND SAFETY (§§ 16-11-1 — 16-11-224)
+
+- Section 16-11-1 - Treason
+- Section 16-11-2 - Insurrection
+- Section 16-11-3 - Inciting to insurrection
+- Section 16-11-4 - Advocating overthrow of government
+- Section 16-11-5 - Short title
+- Section 16-11-6 - Definitions
+- Section 16-11-7 - Special assistant attorney general for investigation and prosecution of subversive activities
+- Section 16-11-8 - Duties imposed on prosecuting attorneys, commissioner of public safety, sheriffs, and police to furnish information and assistance; establishment of special enforcement agencies
+- Section 16-11-9 - Maintenance of records by special assistant; classification of records
+- Section 16-11-10 - Grand jury investigations
+- Section 16-11-11 - Dissolution of subversive organizations; revocation of charter, funds, books, and records
+- Section 16-11-12 - Eligibility of subversive persons to hold office or position in government
+- Section 16-11-13 - Investigation of all state employees prior to appointment or employment; questionnaire; promulgation of orders, rules, and regulations
+- Section 16-11-14 - False swearing in written statement
+- Section 16-11-15 - Information concerning membership of relative in a subversive organization
+- Section 16-11-16 - Filing written statement
+- Section 16-11-30 - Riot
+- Section 16-11-31 - Inciting to riot
+- Section 16-11-32 - Affray
+- Section 16-11-33 - Unlawful assembly
+- Section 16-11-34 - Preventing or disrupting lawful meetings, gatherings, or processions
+- Section 16-11-34.1 - Preventing or disrupting General Assembly sessions or other meetings of members; unlawful activities within the state capitol or certain Capitol Square buildings
+- Section 16-11-34.2 - Disorderly or disruptive conduct at any funeral or memorial service
+- Section 16-11-35 - Removal from campus or facility of unit of university system or school; failure to leave
+- Section 16-11-36 - Loitering or prowling
+- Section 16-11-37 - Terroristic threats and acts
+- Section 16-11-37.1 - Dissemination of information relating to terroristic acts
+- Section 16-11-38 - [See Editor's notes] Wearing mask, hood, or device which conceals identity of wearer
+- Section 16-11-39 - Disorderly conduct
+- Section 16-11-39.1 - Harassing communications; venue; separate offenses; impact on free speech
+- Section 16-11-39.2 - Unlawful conduct during 9-1-1 call
+- Section 16-11-40 - Unlawful use of emergency exit door
+- Section 16-11-40.1 - Definitions; identification of minors; criminal offense
+- Section 16-11-41 - Public drunkenness
+- Section 16-11-42 - Refusal to relinquish telephone party line in case of emergency; false request on party line as to emergency; warning printed in telephone books
+- Section 16-11-43 - Obstructing highways, streets, sidewalks, or other public passages
+- Section 16-11-43.1 - Promoting or organizing drag races or laying drags exhibitions
+- Section 16-11-44 - Maintaining a disorderly house
+- Section 16-11-45 - Use of laser against aircraft
+- Section 16-11-60 - Definitions
+- Section 16-11-61 - Peeping Toms
+- Section 16-11-62 - Eavesdropping, surveillance, or intercepting communication which invades privacy of another; divulging private message
+- Section 16-11-63 - Possession, sale, or distribution of eavesdropping devices
+- Section 16-11-64 - Interception of wire or oral transmissions by law enforcement officers
+- Section 16-11-64.1 - Application and issuance of order authorizing installation and use of pen register or trap and trace device
+- Section 16-11-64.2 - Emergency situation and other grounds authorizing installation and use of pen register or trap and trace device prior to order; time for order approving installation or use
+- Section 16-11-64.3 - Emergency situation; application for an investigation warrant
+- Section 16-11-65 - License to intercept telephonic communications for business service improvement; regulatory powers of Georgia Public Service Commission
+- Section 16-11-66 - Interception of wire, oral, or electronic communication by party thereto; consent requirements for recording and divulging conversations to which child under 18 years is a party; parental exception
+- Section 16-11-66.1 - Disclosure of stored wire or electronic communications; records; search warrants; issuance of subpoena; violation
+- Section 16-11-67 - Admissibility of evidence obtained in violation of part
+- Section 16-11-68 - Admissibility of privileged communications
+- Section 16-11-69 - Penalty for violations of part
+- Section 16-11-70 - Telephone records privacy protection
+- Section 16-11-80 - &quot;Business of preparing federal or state income tax returns or assisting taxpayers in preparing such returns&quot; defined
+- Section 16-11-81 - Disclosure of information obtained in business of preparing federal or state income tax returns or assisting in preparation
+- Section 16-11-82 - Contacting taxpayer to obtain written consent
+- Section 16-11-83 - Penalty for violations of part
+- Section 16-11-90 - Prohibition on nude or sexually explicit electronic transmissions
+- Section 16-11-91 - Use or installation of device to film underneath or through an individual's clothing under certain circumstances
+- Section 16-11-92 - Sexual extortion
+- Section 16-11-100 - Abandoning, discarding, or leaving unattended containers which lock or fasten automatically; abandoning or discarding motor vehicle which does not have door or window removed
+- Section 16-11-101 - Furnishing knuckles or a knife to person under the age of 18 years
+- Section 16-11-101.1 - Furnishing pistol or revolver to person under the age of 18 years
+- Section 16-11-102 - Pointing or aiming gun or pistol at another
+- Section 16-11-103 - Discharge of gun or pistol near public highway; penalty
+- Section 16-11-104 - Discharge of firearms on property of another
+- Section 16-11-105 - [Repealed] [Reserved] Discharge of firearm on Sunday; exceptions; penalty
+- Section 16-11-106 - Possession of firearm or knife during commission of or attempt to commit certain crimes
+- Section 16-11-107 - Interfering with, harming of, or aggravated harming of a public safety animal or search and rescue animal
+- Section 16-11-107.1 - Harassment of assistance dog by humans or other dogs; penalty
+- Section 16-11-108 - Misuse of firearm or archery tackle while hunting
+- Section 16-11-109 - Activities prohibited to person charged with violation of subsection (a)
+- Section 16-11-110 - Revocation of hunting license for violation of subsection (a)
+- Section 16-11-111 - &quot;Anhydrous ammonia&quot; defined; crime for possession
+- Section 16-11-112 - Vehicles with false or secret compartments
+- Section 16-11-113 - Offense of transferring firearm to individual other than actual buyer
+- Section 16-11-120 - Short title
+- Section 16-11-121 - Definitions
+- Section 16-11-122 - Possession of sawed-off shotgun or rifle, machine gun, silencer, or dangerous weapon prohibited
+- Section 16-11-123 - Unlawful possession of firearms or weapons
+- Section 16-11-124 - Exemptions from application of part
+- Section 16-11-125 - Burden of proof as to exemptions
+- Section 16-11-125.1 - Definitions
+- Section 16-11-126 - Having or carrying handguns, long guns, or other weapons; exceptions for homes, motor vehicles, private property, and other locations and conditions; unlawful carrying of a weapon
+- Section 16-11-127 - Carrying weapons or long guns in unauthorized locations
+- Section 16-11-127.1 - Carrying weapons within school safety zones, at school functions, or on a bus or other transportation furnished by a school
+- Section 16-11-127.2 - Weapons on premises of nuclear power facility
+- Section 16-11-128 - [Repealed and Reserved] [Reserved] Carrying pistol without license
+- Section 16-11-129 - Weapons carry license; gun safety information; temporary renewal permit; mandamus; verification of license
+- Section 16-11-130 - Exemptions from Code Sections 16-11-126 through 16-11-127.2
+- Section 16-11-130.1 - Allowing personnel to carry weapons within certain school safety zones and at school functions
+- Section 16-11-130.2 - Carrying a weapon or long gun at a commercial service airport
+- Section 16-11-131 - Possession of firearms by convicted felons and first offender probationers
+- Section 16-11-132 - Possession of handgun by person under the age of 18 years
+- Section 16-11-133 - Minimum periods of confinement for persons convicted who have prior convictions
+- Section 16-11-134 - Discharging firearm while under the influence of alcohol or drugs
+- Section 16-11-135 - Public or private employer's parking lots; right of privacy in vehicles in employer's parking lot or invited guests on lot; exceptions; severability; rights of action
+- Section 16-11-136 - Restrictions on possession, manufacture, sale, or transfer of knives
+- Section 16-11-137 - Detention for investigation of license to carry prohibited
+- Section 16-11-138 - Defense of self or others as absolute defense
+- Section 16-11-150 - Short title
+- Section 16-11-151 - Prohibited training
+- Section 16-11-152 - Authorized training
+- Section 16-11-160 - Use of machine guns, sawed-off rifles, sawed-off shotguns, or firearms with silencers during commission of certain offenses; enhanced criminal penalties
+- Section 16-11-161 - Consistent local laws or ordinances authorized
+- Section 16-11-162 - Exemption for use of force in defense of others
+- Section 16-11-170 - [Repealed] [Reserved] Intent to provide state background check law; construction of part
+- Section 16-11-171 - Definitions
+- Section 16-11-172 - Transfers or purchases of firearms subject to the NICS; information concerning persons who have been involuntarily hospitalized to be forwarded to the FBI; penalties for breach of confidentiality; exceptions
+- Section 16-11-173 - [See Editor's notes] Legislative findings; preemption of local regulation and lawsuits; exceptions
+- Section 16-11-174 - through 16-11-184 - [Repealed]
+- Section 16-11-200 - Offense of transporting or moving illegal aliens; exceptions
+- Section 16-11-201 - Definitions; offense of concealing, harboring, or shielding an illegal alien; penalties; exceptions
+- Section 16-11-202 - Illegal alien defined; offense of inducing an illegal alien to enter state; penalties
+- Section 16-11-203 - Authority of law enforcement officers to enforce federal immigration laws; documentation
+- Section 16-11-220 - Definitions
+- Section 16-11-221 - Penalties
+- Section 16-11-222 - Persons and conduct subject to prosecution for offense of domestic terrorism
+- Section 16-11-223 - Jurisdiction for prosecutions
+- Section 16-11-224 - Construction; constitutional protections

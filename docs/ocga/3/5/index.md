@@ -1,0 +1,39 @@
+# Chapter 5 - MALT BEVERAGES (§§ 3-5-1 — 3-5-90)
+
+- Section 3-5-1 - Definitions
+- Section 3-5-2 - Determination as to when possession occurs
+- Section 3-5-3 - Malt beverages upon which taxes not paid and motor vehicles, watercraft, or aircraft used in transporting same declared contraband
+- Section 3-5-4 - Production of malt beverages in private residences; consumption; transportation and delivery; home-brew special events
+- Section 3-5-5 - Retail sale of kegs; required labeling; removal of labels
+- Section 3-5-20 - Levy and amount of state occupational license tax; application for license
+- Section 3-5-21 - Sale, offer for sale, or possession of bottles or cans not having prescribed identification on crowns or lids; alternate identification for use on certain imported bottles or containers
+- Section 3-5-23 - License for manufacture of malt beverages - Grounds and procedure for revocation generally
+- Section 3-5-24 - License for manufacture of malt beverages - Rights conferred; separate revocation of licenses for sale of malt beverages for resale within and outside state authorized; effect of revocation on sale within state
+- Section 3-5-24.1 - Exception to three-tier system; transfer of liquids; sales at brewer's licensed premises; taxing; regulatory authority; conditions or limitations
+- Section 3-5-25 - License for manufacture of malt beverages - Renewal
+- Section 3-5-25.1 - License for manufacture of malt beverages - Bond required on application for license or renewal
+- Section 3-5-26 - Persons to whom malt beverages may be sold by wholesale dealers
+- Section 3-5-27 - Malt beverages acquired by retail dealers from persons other than licensed wholesale dealers declared contraband
+- Section 3-5-28 - Delivery, receipt, and storage of malt beverages sold by wholesale dealers to retail dealers
+- Section 3-5-29 - Brewer-wholesaler relations - &quot;Agreement&quot; defined
+- Section 3-5-30 - Brewer-wholesaler relations - Purpose; intent; enforcement
+- Section 3-5-31 - Brewer-wholesaler relations - License requirement for shippers of beer; application
+- Section 3-5-32 - Brewer-wholesaler relations - Conflicts of interest
+- Section 3-5-33 - Brewer-wholesaler relations - Prohibited acts
+- Section 3-5-34 - Brewer-wholesaler relations - Applicability of Code Sections 3-5-29 through 3-5-33
+- Section 3-5-35 - Declaration of policy; &quot;brewpubs&quot;
+- Section 3-5-36 - &quot;Brewpub&quot; exception to three-tier distribution system
+- Section 3-5-37 - &quot;Brewpub&quot; exception; rules and regulations
+- Section 3-5-38 - [Repealed] Permits for free tasting of malt beverages during educational and promotional brewery tours; merchandising; fees for tours; selling of beverages; administration
+- Section 3-5-40 - Requirement by counties or municipalities of licenses for manufacture, distribution, and sale of malt beverages; effect of revocation of license issued by commissioner or by county or municipality upon license issued by other
+- Section 3-5-41 - Requirement and issuance of county licenses generally
+- Section 3-5-42 - Requirement and issuance of municipal licenses generally; requirement by county of license for business licensed by municipality
+- Section 3-5-43 - Restriction on amount of license fee charged by county or municipality other than that of wholesale dealer's principal place of business
+- Section 3-5-60 - Levy and amount of tax
+- Section 3-5-61 - Exemptions from tax
+- Section 3-5-80 - Levy and amount of tax
+- Section 3-5-81 - Payment of tax by wholesale dealers generally; time of payment; reports by dealers as to quantities of beverages sold
+- Section 3-5-82 - Requirement of markings on containers
+- Section 3-5-83 - Use of excess tax revenues by consolidated governments and certain counties
+- Section 3-5-84 - Enforcement of part
+- Section 3-5-90 - Malt beverages containing less than one-half of 1 percent alcohol by volume

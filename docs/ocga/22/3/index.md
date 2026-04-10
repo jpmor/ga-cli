@@ -1,0 +1,39 @@
+# Chapter 3 - EXERCISE OF POWER OF EMINENT DOMAIN FOR SPECIAL PURPOSES (§§ 22-3-1 — 22-3-162)
+
+- Section 22-3-1 - Direction and contents of notice of condemnation
+- Section 22-3-2 - Manner of service of notice
+- Section 22-3-3 - Necessity for only one proceeding; location of proceedings; form of assessors' findings
+- Section 22-3-4 - Location of hearing before assessors; evidence upon which findings may be based
+- Section 22-3-20 - Power of persons operating or constructing electric plants to purchase, lease, or condemn rights of way and easements
+- Section 22-3-21 - Payment of compensation or damages
+- Section 22-3-22 - Condemnation of mills, factories, and dams
+- Section 22-3-40 - &quot;Public road&quot; and &quot;public highway&quot; defined
+- Section 22-3-41 - Power to acquire right to flood roads and highways
+- Section 22-3-42 - Notice of intention to condemn
+- Section 22-3-43 - Condemnation procedure; authorization of officers to act for state or county
+- Section 22-3-44 - Appeal to superior court
+- Section 22-3-45 - Rights of condemnor pending appeal
+- Section 22-3-46 - Restrictions on use of condemned road or highway by condemnor
+- Section 22-3-47 - Effect of part on rights of action of property owners and public utilities
+- Section 22-3-60 - Authority to lease, purchase, or condemn property or receive donations for waterworks and sewage systems
+- Section 22-3-61 - Condemnation procedure
+- Section 22-3-62 - Applicability of article
+- Section 22-3-63 - Authority to condemn property for purpose of constructing a waterworks, water distribution system, sewage collection system, or sewage treatment and disposal system
+- Section 22-3-80 - Definitions
+- Section 22-3-81 - Right to acquire property or property interests by eminent domain
+- Section 22-3-82 - General certificate and permitting requirements
+- Section 22-3-83 - Certificate of public convenience and necessity; requirements
+- Section 22-3-84 - Notice to landowner
+- Section 22-3-85 - Use of condemnation procedures
+- Section 22-3-95 - Eminent domain use by natural gas transporters or distributors
+- Section 22-3-100 - Authority of counties to exercise power of eminent domain
+- Section 22-3-101 - Condemnation procedure
+- Section 22-3-102 - Requirement of condemnation of fee simple title to land to be flooded permanently
+- Section 22-3-120 - Condemnation for construction of lighthouses, beacons, and other navigational aides
+- Section 22-3-121 - Acquisition of right to enter lands and clear or cut timber for purposes of carrying out survey of coasts - Generally
+- Section 22-3-122 - Acquisition of right to enter lands and clear or cut timber for purposes of carrying out survey of coasts - Manner of assessment where parties cannot agree on compensation
+- Section 22-3-140 - Authorization to utilize the declaration of taking method of eminent domain
+- Section 22-3-160 - &quot;Utility&quot; defined
+- Section 22-3-160.1 - Public hearings required; exception to hearing requirement
+- Section 22-3-161 - Selection of route for electric transmission line; settlement negotiations with property owners
+- Section 22-3-162 - Application; additional compensation or reconveyance

@@ -1,0 +1,47 @@
+# Chapter 2 - DEBTOR AND CREDITOR RELATIONS (§§ 18-2-1 — 18-2-85)
+
+- Section 18-2-1 - Creation of relationship of debtor and creditor
+- Section 18-2-2 - Compulsory election of remedy least likely to jeopardize rights of other creditors
+- Section 18-2-3 - Reaching of equitable assets by creditors
+- Section 18-2-20 - Rights of creditors to be favored by courts
+- Section 18-2-21 - Right of creditors to attack judgments, conveyances, or other arrangements interfering with creditors' rights
+- Section 18-2-22 - [Repealed] Conveyances by debtors deemed fraudulent
+- Section 18-2-23 - [Repealed] Validity of conveyance to innocent subsequent purchaser
+- Section 18-2-24 - Effect of giving debtor permission to exercise control or use of property as security for any debt
+- Section 18-2-25 - Effect of misrepresentation or private agreement giving preference upon settlement between debtor and creditor
+- Section 18-2-40 - Right of debtor to prefer creditors
+- Section 18-2-41 - Rights of nonmunicipal corporation
+- Section 18-2-42 - Rights of persons and firms
+- Section 18-2-43 - Execution, filing, and recording deeds of assignment
+- Section 18-2-44 - Property to be conveyed generally; description of property; attachment of list of creditors of assignor
+- Section 18-2-45 - Conveyances; statements as to aggregate amounts
+- Section 18-2-46 - Annexation of affidavit to deed of assignment; contents of affidavit
+- Section 18-2-47 - List of all property of assignor at time of assignment; affidavits of assignor and assignee as to accuracy of list
+- Section 18-2-48 - List to remain on file ten days
+- Section 18-2-49 - Correcting of mistake in list of assets or creditors
+- Section 18-2-50 - Notification of creditors of filing of assignment; notification of actions attacking assignment; sufficient notice
+- Section 18-2-51 - Foreign assignments to conform with Georgia law
+- Section 18-2-52 - Providing and filing of bond by assignee; amount of bond
+- Section 18-2-53 - Duties of assignee generally; payment of preferred debts after filing
+- Section 18-2-54 - Powers and rights of assignee
+- Section 18-2-55 - Nature of actions to set aside assignments generally; priorities and payment to creditors on judgments rendered after filing of complaint to set aside assignment
+- Section 18-2-56 - Parties to actions to set aside assignments
+- Section 18-2-57 - Proof required in rendering an assignment void
+- Section 18-2-58 - Judgment not required before action against assignor or assignee
+- Section 18-2-59 - Appointment of new assignees upon death or removal from jurisdiction of courts of state of sole or surviving assignee
+- Section 18-2-70 - Short title
+- Section 18-2-71 - Definitions
+- Section 18-2-72 - Determining insolvency
+- Section 18-2-73 - Value given for transfer
+- Section 18-2-74 - Voidable transfer; determination of actual intent
+- Section 18-2-75 - Transfer or obligation voidable if incurred without receiving reasonably equivalent value
+- Section 18-2-76 - When transfer made
+- Section 18-2-77 - Relief for creditor against fraudulent transfer or obligation
+- Section 18-2-78 - Conditions for voidability of transfer or obligation; judgment
+- Section 18-2-79 - Time for commencement of action
+- Section 18-2-80 - Venue
+- Section 18-2-81 - Series organization and determinations
+- Section 18-2-82 - Applicability of principles of law and equity
+- Section 18-2-83 - Uniformity with laws of other states
+- Section 18-2-84 - Construction with federal provisions
+- Section 18-2-85 - Transfers to charitable organizations; statute of limitations

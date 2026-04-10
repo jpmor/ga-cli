@@ -1,0 +1,117 @@
+# Chapter 8 - AGRICULTURAL COMMODITIES PROMOTION (§§ 2-8-1 — 2-8-219)
+
+- Section 2-8-1 - Short title
+- Section 2-8-2 - Intent and purpose of chapter
+- Section 2-8-5 - Definitions
+- Section 2-8-10 - Nonapplicability of article to Agricultural Commodity Commission for Peanuts, Agricultural Commodity Commission for Equines, Agricultural Commodity Commission for Georgia Grown Products; or Agricultural Commodity Commission for Propane
+- Section 2-8-11 - Definitions
+- Section 2-8-12 - Commissioner to administer and enforce article
+- Section 2-8-13 - Ratification of previously established commissions and establishment of additional commissions; contributions deemed voluntary; balloting to determine continued existence
+- Section 2-8-14 - Composition; appointments, terms of office, and compensation; certification; advisory boards, special committees, and personnel; legal representation; acceptance of donations; voting; termination
+- Section 2-8-15 - Public corporations; corporate powers; chairman; quorum; oath of office; certification of appointments to Secretary of State
+- Section 2-8-16 - Funds of commissions - Receipt, collection, and disbursement
+- Section 2-8-17 - Funds of commissions - Treatment as trust funds
+- Section 2-8-18 - Bonds of persons handling funds
+- Section 2-8-19 - Liability of commission members and employees
+- Section 2-8-20 - Cooperation with state and federal governmental authorities
+- Section 2-8-21 - Issuance of marketing orders authorized; notice; public hearing; record; reports from handlers; compilation of lists of producers and handlers; use of information in reports
+- Section 2-8-22 - Recommendation of marketing orders or amendments by commission; authorized provisions
+- Section 2-8-23 - Approval by producers prerequisite to issuance of marketing order or major amendment; notice; rules and regulations; expiration; extensions; referendum
+- Section 2-8-23.1 - Limitations on assessments
+- Section 2-8-24 - Area marketing orders authorized
+- Section 2-8-25 - Seasonal marketing regulations authorized; notice of issuance; liberal interpretation of Code section
+- Section 2-8-26 - Applicability of marketing orders
+- Section 2-8-27 - Assessments to defray expenses; borrowing in anticipation of collections; use and repayment of contributions in lieu of advance deposits; collection and enforcement of assessments generally; disposition and investment of proceeds; audit
+- Section 2-8-28 - Collection of assessments by civil action; penalty for delinquent payment
+- Section 2-8-29 - Maintenance and inspection of books and records and provision of information; confidentiality of information; hearings, testimony, and subpoenas
+- Section 2-8-30 - Use of grade or quality designations by persons not complying with order or regulations prohibited
+- Section 2-8-31 - Inspections; holding of commodity; warning notice; notice of noncompliance; time for correction of deficiencies; petition to divert or destroy; show cause order; disposition of noncomplying commodity; penalty provisions not waived by disposal
+- Section 2-8-32 - Civil penalties; notice and hearing; recovery procedure; disposition of proceeds
+- Section 2-8-33 - Action for civil penalty or injunctive relief; costs
+- Section 2-8-34 - Referral for institution of legal proceedings; administrative hearing; cease and desist order
+- Section 2-8-35 - Furnishing of false report, statement, record, or marketing order; refusal to furnish certain information
+- Section 2-8-36 - Criminal penalty
+- Section 2-8-37 - Penalties and remedies concurrent, alternative, and cumulative
+- Section 2-8-38 - Applicability of article to retailers
+- Section 2-8-50 - Applicability of article
+- Section 2-8-51 - Definitions
+- Section 2-8-52 - Commission continued in existence; powers and duties; continuation of certain rules, regulations, and orders; periodic determination as to continuation of commission
+- Section 2-8-53 - Membership of commission; division of peanut-producing counties into districts; election of members; compensation and expenses; certification of members to Secretary of State
+- Section 2-8-54 - Authority; legal representation; acceptance and use of donations, gifts, and other property; exercise of powers of corporations; continuation of existence of commission; authority to lease or purchase property
+- Section 2-8-55 - Commission as public corporation; name used in contracts and legal proceedings; chairman; quorum; oath of office; certification of election
+- Section 2-8-56 - Receipt, collection, and disbursal of funds
+- Section 2-8-57 - Funds held in trust; deposit, accounting, and disbursal of funds; exemption from requirements applicable to state funds
+- Section 2-8-58 - Bond of persons handling funds under article; signing of checks, drafts, and negotiable instruments; election, powers, and duties of treasurer
+- Section 2-8-59 - Liability of commission members
+- Section 2-8-60 - Authority to confer with and make information available to governmental authorities of this state, other states, and the United States
+- Section 2-8-61 - Issuance, administration, and enforcement of marketing orders; notice and hearing as to proposed order; information from persons who may be affected by order
+- Section 2-8-62 - Recommendation of promulgation of marketing order; permissible provisions of orders; effectiveness of orders heretofore adopted and in effect on July 1, 1989
+- Section 2-8-63 - Finding of assent or approval of producers required for marketing order to become effective; commission authorized to issue orders regulating peanuts; amendments; notice; rules and regulations; expiration and extension of orders
+- Section 2-8-64 - Limiting of application of marketing order to certain marketing areas or portions of state
+- Section 2-8-65 - Seasonal marketing regulations; legislative findings; interpretation of Code section
+- Section 2-8-66 - Applicability of orders regulating minimum quality, condition, size, or maturity
+- Section 2-8-67 - Assessments to defray expenses of marketing orders; budgets for administration; authority to borrow money; contributions in lieu of advance deposits; collection of assessments; rules; enforcement of payment; deposit and disbursement of moneys; investment of moneys
+- Section 2-8-68 - Assessment constitutes personal debt; action for collection; fee for late payment; remedies cumulative
+- Section 2-8-69 - Books and records of processors and distributors; furnishing information to commission; inspection of books and records; confidentiality; enforcement
+- Section 2-8-70 - Use of designations of grade, quality, or condition without complying with regulations or marketing order
+- Section 2-8-71 - Entry and inspection of premises to check compliance with marketing order; holding of lot of peanuts to ascertain compliance; affixing of notice of noncompliance; service of notice of noncompliance; correction of deficiencies; disposal of lot; applicability
+- Section 2-8-72 - Civil penalty; fixing amount of penalty; civil action; disposition of moneys
+- Section 2-8-73 - Action by Attorney General for civil penalties or injunctive relief; remedies court may impose; payment of costs
+- Section 2-8-74 - Referral of complaints to Attorney General or prosecuting attorney; hearing to consider charges; cease and desist order
+- Section 2-8-75 - False or fraudulent reports, statements, and records; failure or refusal to give name and address of person from whom peanuts received
+- Section 2-8-76 - Criminal penalty
+- Section 2-8-77 - Construction of penalty and remedy provisions
+- Section 2-8-78 - Applicability to retailers of peanuts
+- Section 2-8-79 - Applicability of &quot;Georgia Administrative Procedure Act.&quot;
+- Section 2-8-90 - Definitions
+- Section 2-8-91 - Authority of Commissioner
+- Section 2-8-92 - Creation
+- Section 2-8-93 - Composition; membership
+- Section 2-8-94 - Public corporation and instrumentality of the State of Georgia
+- Section 2-8-95 - Powers, duties, and authority of commission
+- Section 2-8-96 - Immunity from liability
+- Section 2-8-97 - Authority of Commissioner to issue, administer, and enforce provisions of marketing orders; hearings
+- Section 2-8-98 - Recommendation of promulgation of a marketing order
+- Section 2-8-99 - Amendments to marketing orders; notice; rules and regulations; termination of orders
+- Section 2-8-100 - Levying and collection of assessments
+- Section 2-8-101 - Limitations on application of marketing orders
+- Section 2-8-102 - Deposit and disbursement of funds; investment
+- Section 2-8-103 - Duties of Attorney General
+- Section 2-8-104 - Violations
+- Section 2-8-105 - Rules and regulations
+- Section 2-8-120 - Applicability
+- Section 2-8-121 - Definitions
+- Section 2-8-122 - Commissioner's authority
+- Section 2-8-123 - Commission created
+- Section 2-8-124 - Commission membership; nomination and election of commission members
+- Section 2-8-125 - Commission to be a public corporation and instrumentality of the state; powers; transaction of commission business
+- Section 2-8-126 - Receipt, collection, and disbursement of funds
+- Section 2-8-127 - Funds received under this article to be held in trust for the commission
+- Section 2-8-128 - Persons handling funds to be bonded
+- Section 2-8-129 - Committee members and employees not responsible individually for errors in judgment, mistakes or other acts
+- Section 2-8-130 - Commission authorized to share information with state and federal government agencies
+- Section 2-8-131 - Issuance, administration, and enforcement of marketing orders; hearing
+- Section 2-8-132 - Provisions for establishment of advertising, research, and education programs
+- Section 2-8-133 - Amendments to, rules and regulations governing, and expiration and termination of marketing orders
+- Section 2-8-134 - Limited application of marketing orders
+- Section 2-8-135 - Commission authorized to borrow funds for certain purposes; disposition of funds collected pursuant to this article
+- Section 2-8-200 - Definitions
+- Section 2-8-201 - Creation
+- Section 2-8-202 - Membership; vacancies; compensation; certification of membership; naming of chairperson; quorum
+- Section 2-8-203 - Use of outside resources; representation by Attorney General; acceptance of donations and gifts; property interests
+- Section 2-8-204 - Status of commission; oath of office
+- Section 2-8-205 - Funding obligations
+- Section 2-8-206 - Funds held in trust; accounting
+- Section 2-8-207 - Bonding requirements for those handling finances
+- Section 2-8-208 - No individual liability
+- Section 2-8-209 - Marketing orders; public hearings
+- Section 2-8-210 - Recommendation for promulgation of marketing order; prohibition against lobbying; administrative expenses; costs
+- Section 2-8-211 - Requirement for referendum; voters and voting rights; approval; record keeping; confidentiality
+- Section 2-8-212 - Opt out by dealers
+- Section 2-8-213 - Referendum vote on continuation of commission
+- Section 2-8-214 - Assessments as personal debt; cumulative nature of penalties
+- Section 2-8-215 - Civil penalty for violations
+- Section 2-8-216 - Actions brought by Attorney General; injunctions and specific performance; incurring and payment of costs
+- Section 2-8-217 - Attorney General or prosecuting attorney to bring actions; administrative hearings; response to finding violation
+- Section 2-8-218 - Falsification of reports, statements, or records; penalty
+- Section 2-8-219 - Regulatory authority

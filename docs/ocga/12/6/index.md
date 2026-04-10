@@ -1,0 +1,128 @@
+# Chapter 6 - FOREST RESOURCES AND OTHER PLANT LIFE (§§ 12-6-1 — 12-6-257)
+
+- Section 12-6-1 - Definitions
+- Section 12-6-2 - Creation of State Forestry Commission; members; terms of office; ineligibility of Governor for membership; vacancies; effect of appointment when Senate not in session
+- Section 12-6-3 - Chairman; reimbursement of members for expenses; meetings
+- Section 12-6-4 - Dismissal of members for failure to attend meetings
+- Section 12-6-5 - Powers and duties of commission generally; volunteer services
+- Section 12-6-5.1 - Legislative findings; reforestation incentives program authorized; powers of commission
+- Section 12-6-6 - Management, conservation, and protection of forest lands; sale of forest products from land managed by commission; production and sale of seedlings
+- Section 12-6-7 - Federal financial aid - Participation in rural fire prevention and control program; contributions by counties and fire departments
+- Section 12-6-8 - Federal financial aid - Expenditure of funds for forest farming and marketing of forest products
+- Section 12-6-9 - Acquisition of land; gifts of land for use as lookout tower sites; abandoned tower sites; improvements on land subject to reversionary clause
+- Section 12-6-10 - Reports to General Assembly
+- Section 12-6-11 - Director - Appointment; qualifications; salary; reimbursement for expenses; term
+- Section 12-6-12 - Director - Duty of director to devote full time to office; power and duty of director to act for commission when commission not in session
+- Section 12-6-13 - Director - Oath; bond; location of office
+- Section 12-6-14 - Director - Eligibility of commission members for directorship or for employment under commission or director
+- Section 12-6-15 - Director - Adoption of rules, regulations, and methods of administration
+- Section 12-6-16 - Director - Control of tree diseases and insect infestation
+- Section 12-6-17 - Director - Regulation of controlled burning where drought or other conditions exist
+- Section 12-6-18 - Director - Expenditure of funds for benefit of lands under commission's control; sale and disposal of products from controlled lands
+- Section 12-6-19 - Director - Promulgation of rules and regulations as to lands under commission's control; sale, lease, or exchange of controlled lands
+- Section 12-6-20 - Investigation and enforcement of forestry laws; powers of forestry investigators
+- Section 12-6-21 - Uncontrolled fire as constituting a public nuisance; duties and liabilities of person or entity responsible
+- Section 12-6-22 - Investigation of tree diseases or insect infestation; notification of landowner; recommendations; effect of landowner's failure to act; disposition of proceeds derived from sale of trees
+- Section 12-6-22.1 - Control of aviation; power of commission
+- Section 12-6-23 - Scale load ticket required for wood removal; form; exceptions
+- Section 12-6-24 - Notice of timber harvesting operations; standing timber notification website; rules and regulations; bonds and letters of credit
+- Section 12-6-40 - Legislative purpose
+- Section 12-6-41 - Definitions
+- Section 12-6-42 - State Board of Registration for Foresters - Creation; appointment of members; certificate of appointment; oath; term of office
+- Section 12-6-43 - State Board of Registration for Foresters - Qualifications of members
+- Section 12-6-44 - State Board of Registration for Foresters - Compensation of members
+- Section 12-6-45 - State Board of Registration for Foresters - Removal of members; vacancies
+- Section 12-6-46 - State Board of Registration for Foresters - Meetings; officers
+- Section 12-6-47 - State Board of Registration for Foresters - Rules and regulations; seal
+- Section 12-6-48 - State Board of Registration for Foresters - Record of proceedings
+- Section 12-6-49 - Qualifications and requirements for registered foresters
+- Section 12-6-49.1 - Denial or suspension of license for noncompliance with child support order
+- Section 12-6-49.2 - Suspension of registered forester license
+- Section 12-6-50 - Applications for registration; fee
+- Section 12-6-51 - Examinations
+- Section 12-6-52 - Licenses - Issuance generally; endorsement by registrant of plans, maps, specifications, and reports issued by registrant
+- Section 12-6-54 - Licenses - Reciprocity for nonresidents
+- Section 12-6-55 - Licenses - Only individuals may be licensed
+- Section 12-6-56 - Licenses - Expiration and renewal generally; continuing forestry education requirement
+- Section 12-6-57 - State Board of Registration for Foresters - Denial or revocation of license; discipline of licensee; code of ethics
+- Section 12-6-58 - State Board of Registration for Foresters - Duplicate license for lost, destroyed, or mutilated license
+- Section 12-6-60 - Injunctive relief
+- Section 12-6-61 - Prohibited acts
+- Section 12-6-62 - Penalty; authority to prefer charges; immunity of person bringing charges from liability; duty to enforce part; legal assistance by Attorney General
+- Section 12-6-80 - Short title
+- Section 12-6-81 - Legislative purpose
+- Section 12-6-82 - Definitions
+- Section 12-6-83 - Direction and supervision by State Forestry Commission of forest fire protection work; making and enforcing rules and regulations
+- Section 12-6-84 - Entry upon land for fire-prevention purposes or investigations
+- Section 12-6-85 - Fire protection units
+- Section 12-6-86 - Unit forestry boards - Creation; appointment; qualifications; terms of office; vacancies; service by members without compensation
+- Section 12-6-87 - Unit forestry boards - Duties
+- Section 12-6-88 - Unit forestry boards - Annual forest fire protection plans appropriation of funds for public information campaign
+- Section 12-6-89 - &quot;Extreme forest fire emergency&quot; defined; authority of Governor, forestry investigators, and peace officers in emergency; advice by director to Governor as to existence of emergency
+- Section 12-6-90 - Permit required for burning woods, lands, marshes, or other flammable vegetation; exceptions
+- Section 12-6-91 - Controlled burning by owners over own forest land
+- Section 12-6-92 - Vesting of title to property in State Forestry Commission
+- Section 12-6-93 - Appropriations; agreements between State Forestry Commission and counties; taxation by counties for fire protection
+- Section 12-6-110 - Powers and duties of State Forestry Commission as to forestry research
+- Section 12-6-111 - Employment by State Forestry Commission of assistants and other employees
+- Section 12-6-112 - Appropriations, grants, or gifts to State Forestry Commission for forestry research
+- Section 12-6-113 - through 12-6-118 - [Repealed]
+- Section 12-6-130 - through 12-6-139 - [Repealed and Reserved] Redesignated
+- Section 12-6-145 - Short title
+- Section 12-6-146 - Legislative findings and purpose
+- Section 12-6-147 - Definitions
+- Section 12-6-148 - Requirements for prescribed burning; limitation on liability
+- Section 12-6-149 - Fire manager program authorized; record-keeping requirements; public information campaign
+- Section 12-6-150 - Short title
+- Section 12-6-151 - Definitions
+- Section 12-6-152 - Prohibited acts regarding harvesting ginseng
+- Section 12-6-153 - Reports concerning disposal of ginseng
+- Section 12-6-154 - Registration and reports required of dealers or growers
+- Section 12-6-155 - Determination by department concerning continuing necessity of article; report to General Assembly
+- Section 12-6-156 - Registration forms and reporting forms
+- Section 12-6-157 - Penalty
+- Section 12-6-170 - Short title
+- Section 12-6-171 - Definitions
+- Section 12-6-172 - Powers and duties of Department and Board of Natural Resources as to wildflower preservation
+- Section 12-6-173 - Cutting, pulling up, digging, or removing protected species
+- Section 12-6-174 - Sale of protected species
+- Section 12-6-175 - Transporting, carrying, or conveying protected species without tag and written document
+- Section 12-6-176 - Penalty
+- Section 12-6-200 - Definitions
+- Section 12-6-201 - Legislative findings
+- Section 12-6-202 - Certificate of harvest
+- Section 12-6-203 - Prohibited acts
+- Section 12-6-204 - Stop sale, stop use, or removal orders to owners or custodians of pine straw
+- Section 12-6-205 - Seizure of pine straw obtained or offered for sale in violation of article
+- Section 12-6-206 - Harvesting or handling pine straw for home or personal use
+- Section 12-6-207 - Penalty
+- Section 12-6-220 - Short title
+- Section 12-6-221 - Definitions
+- Section 12-6-222 - Establishment of Carbon Sequestration Registry; uniform automated electronic information system
+- Section 12-6-223 - Purpose of registry
+- Section 12-6-224 - Role of the commission
+- Section 12-6-224.1 - Sustainable Building Material Technical Advisory Committee; operation and role; abolishment
+- Section 12-6-225 - Procedures and protocols
+- Section 12-6-226 - Procedures and protocols are not condition for ongoing use of forest land
+- Section 12-6-227 - Voluntary participation; right of withdrawal
+- Section 12-6-228 - Reporting of results; basic unit of participation in registry; filing of reports
+- Section 12-6-229 - Adoption of standardized forms
+- Section 12-6-230 - Certification of methodologies and results; approval of competent third-party organizations for certifying results; requirements of organizations; review, evaluation and reporting to Governor; review of standards
+- Section 12-6-231 - Reporting to Governor by director
+- Section 12-6-232 - Obligation of commission
+- Section 12-6-240 - Short title
+- Section 12-6-241 - Legislative findings
+- Section 12-6-242 - Definitions
+- Section 12-6-243 - Role of the commission
+- Section 12-6-244 - Powers and duties of commission
+- Section 12-6-245 - Dedication as forest heritage preserve
+- Section 12-6-246 - Use of forest heritage preserves
+- Section 12-6-247 - Impact of dedication as forest heritage preserve on other protected status
+- Section 12-6-250 - Definitions
+- Section 12-6-251 - Legislative findings
+- Section 12-6-252 - Certificates of harvest
+- Section 12-6-253 - Required recordkeeping and retention
+- Section 12-6-254 - Penalty for violations
+- Section 12-6-255 - Seizure of berries for noncompliance
+- Section 12-6-256 - Exemption for personal use
+- Section 12-6-257 - Unlawful activities associated with saw palmetto berries; making of false statements; restitution

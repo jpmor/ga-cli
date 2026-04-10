@@ -1,0 +1,40 @@
+# Chapter 14 - SALE OF AGRICULTURAL AND FOREST PRODUCTS (§§ 2-14-1 — 2-14-153)
+
+- Section 2-14-20 - Sale of cottonseed hulls without having weight stamped on package
+- Section 2-14-40 - License required for sale of bees; fee; revocation of license
+- Section 2-14-41 - Powers of Commissioner generally; promulgation and enforcement of rules, ordinances, and regulations
+- Section 2-14-41.1 - Prohibition against restriction of honeybee production or maintenance
+- Section 2-14-42 - Inspections authorized generally
+- Section 2-14-43 - Inspection of honeybee colonies; assistance in inspection
+- Section 2-14-44 - Disposition of infected bees or fixtures
+- Section 2-14-45 - Compensation for destroyed property authorized; appraisal
+- Section 2-14-46 - Importation of honeybees or secondhand equipment prohibited without special permit
+- Section 2-14-47 - Penalty for violation of article or rules or regulations
+- Section 2-14-60 - Definitions
+- Section 2-14-61 - Licenses required of pecan processors and wholesalers
+- Section 2-14-62 - Standards and grades; labels; improper grading or labeling as cause for license revocation
+- Section 2-14-63 - Disposition of pecans unfit for human consumption; violation of Code section grounds for license revocation
+- Section 2-14-64 - Rules and regulations
+- Section 2-14-65 - Injunctions
+- Section 2-14-66 - Penalty for violations of article or rules and regulations
+- Section 2-14-80 - Standard for computing board feet of lumber
+- Section 2-14-80.1 - Form of price quotation where weight is used to determine board feet, cords, or units of pulpwood or timber
+- Section 2-14-100 - through 2-14-113 - Reserved
+- Section 2-14-120 - &quot;Dimension lumber&quot; defined; adoption of standards for grading of dimension lumber
+- Section 2-14-121 - Graded dimension lumber to be stamped by licensed agency
+- Section 2-14-122 - Enforcement by Commissioner; stop sale, stop use, and removal orders; seizure of lumber
+- Section 2-14-123 - Violations
+- Section 2-14-130 - Short title
+- Section 2-14-131 - Definitions
+- Section 2-14-132 - Use of term &quot;Vidalia.&quot;
+- Section 2-14-132.1 - Vidalia onion trademark; royalties; license fees
+- Section 2-14-133 - Rules and regulations; enforcement of article
+- Section 2-14-134 - Violations; criminal penalties
+- Section 2-14-135 - Civil penalties; injunctions
+- Section 2-14-136 - Marketing season shipping date
+- Section 2-14-137 - Standards for grades
+- Section 2-14-138 - Advisory panel created
+- Section 2-14-150 - Legislative declarations; intent
+- Section 2-14-151 - Definitions
+- Section 2-14-152 - Liability of farm owner or operator
+- Section 2-14-153 - Warning notices required; effect of failure to comply with notice requirements

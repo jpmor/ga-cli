@@ -1,0 +1,25 @@
+# Chapter 35 - PREPAID LEGAL SERVICES PLANS (§§ 33-35-1 — 33-35-23)
+
+- Section 33-35-1 - Purposes of chapter; legislative findings of fact
+- Section 33-35-2 - Definitions
+- Section 33-35-3 - Benefits excluded from chapter application
+- Section 33-35-4 - Licenses required for sponsors of prepaid legal services plans; license fee; endorsement of change of address on license; requirements as to applications for licenses generally
+- Section 33-35-5 - Procedure for issuance or denial of licenses generally; standards for issuance or renewal of licenses generally
+- Section 33-35-6 - Minimum capital, surplus, and bond requirements
+- Section 33-35-7 - Grounds and procedure for revocation, suspension, or refusal to renew licenses; imposition of probation or fine; review
+- Section 33-35-8 - Execution, contents, and filing of subscription contracts generally
+- Section 33-35-9 - Sale of subscription contracts
+- Section 33-35-10 - Powers of sponsors to contract for provision of legal and administrative services
+- Section 33-35-11 - Submission to Commissioner of underwriting rules and rates, premiums, or fees; approval or disapproval
+- Section 33-35-12 - Standards for advertising and solicitation
+- Section 33-35-13 - Investment of funds of plans
+- Section 33-35-14 - Administration of deposits of plans
+- Section 33-35-15 - Maintenance of books and records by sponsors; examination by Commissioner; reports of examinations; payment of expenses of examinations
+- Section 33-35-16 - Annual filing of information by sponsors
+- Section 33-35-17 - Conduct of hearings and proceedings
+- Section 33-35-18 - Issuance of injunctions against transaction of business by plans; appointment of receivers; institution of criminal proceedings
+- Section 33-35-19 - Venue of actions against sponsors
+- Section 33-35-20 - [Reserved] Promulgation of rules and regulations by Commissioner
+- Section 33-35-21 - Applicability of chapter generally
+- Section 33-35-22 - Applicability of chapter to other insurers
+- Section 33-35-23 - Applicability of Chapter 6 of title

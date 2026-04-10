@@ -1,0 +1,55 @@
+# Chapter 2 - GUARDIANS OF MINORS (§§ 29-2-1 — 29-2-78)
+
+- Section 29-2-1 - Categories of guardians for minors
+- Section 29-2-2 - Qualified individuals to serve as guardian of minor
+- Section 29-2-3 - Guardian of minor children in event of divorce; death of spouse or former spouse
+- Section 29-2-4 - Nomination of testamentary guardian; no bond or security required
+- Section 29-2-5 - Petitions for temporary guardianship; requirements of petition
+- Section 29-2-6 - Parental consent to temporary guardianship; failure to consent; minor's preference; transfer to juvenile court
+- Section 29-2-7 - Powers of temporary guardians; medical insurance coverage for minors
+- Section 29-2-8 - Termination of temporary guardianship; petition for termination of guardianship
+- Section 29-2-9 - Definitions
+- Section 29-2-10 - Designation of standby guardian pending health issue; required probate court filing; no bond required; parental obligation to support continues
+- Section 29-2-11 - Designation in writing; requirements of designation; form
+- Section 29-2-12 - Revocation of standby guardianship prior to and subsequent to health determination
+- Section 29-2-13 - Petition seeking temporary guardianship; automatic termination of standby guardianship
+- Section 29-2-14 - Power of probate court to appoint guardian
+- Section 29-2-15 - &quot;Biological father&quot; defined; notice of petition for appointment of permanent guardian; protest of father; petition to legitimate
+- Section 29-2-16 - Individuals with preference for permanent guardianship of minor; preference not controlling
+- Section 29-2-17 - Petition for appointment of permanent guardian; requirements of petition; notice
+- Section 29-2-18 - Hearing; best interest of the child standard
+- Section 29-2-19 - Requirements of order granting permanent guardianship
+- Section 29-2-20 - Rights of minor; impact on testamentary capacity
+- Section 29-2-21 - Power of guardian over minor; obligations of guardians; liability of guardian
+- Section 29-2-22 - Authority of guardian; appointment of guardian ad litem
+- Section 29-2-23 - Conflicts of interest
+- Section 29-2-24 - Oath required of guardian
+- Section 29-2-25 - Bond requirements
+- Section 29-2-30 - Circumstances when guardianship terminates; delivery of property
+- Section 29-2-31 - Petition for order dismissing guardian
+- Section 29-2-40 - Petition to resign guardianship; requirements; service; hearing; appointment of successor guardian
+- Section 29-2-41 - Appointment of successor guardian
+- Section 29-2-41.1 - [Repealed]
+- Section 29-2-42 - Requirement of guardian to answer charges affecting obligations as guardian; revocation of guardianship; impact on other proceedings
+- Section 29-2-42.1 - [Repealed]
+- Section 29-2-43 - Minor's cause of action for breach of guardian's fiduciary duties
+- Section 29-2-44 - Statute of limitations
+- Section 29-2-45 - through 29-2-49 - [Repealed]
+- Section 29-2-50 - Appointment of temporary substitute guardian; length of service; powers; notice of appointment; application of chapter
+- Section 29-2-51 - Appointment of successor guardian; notice; preference to selected individuals; order of appointment
+- Section 29-2-52 - Delivery of property to successor guardian; reporting requirements
+- Section 29-2-60 - Petition for jurisdiction change; retention of jurisdiction for limited matters
+- Section 29-2-65 - &quot;Guardianship&quot; defined; requirements of petition for transfer
+- Section 29-2-66 - Notice to minor and foreign court; requirements of notice; notice to others; waiver of notice requirements
+- Section 29-2-67 - Hearing on petition for receipt and acceptance of foreign guardian; stay of proceedings authorized if protest
+- Section 29-2-68 - Required findings of court prior to acceptance of foreign guardianship; orderly transfer; right to petition for guardianship remains
+- Section 29-2-69 - Minor's move to a foreign jurisdiction; presumption of permanent move
+- Section 29-2-70 - Petition to transfer guardianship
+- Section 29-2-71 - Notice; requirements
+- Section 29-2-72 - Hearing
+- Section 29-2-73 - Required finds prior to transfer of guardianship; power of court; orderly and coordinated transfer
+- Section 29-2-74 - &quot;Foreign guardian&quot; defined; required filings; bond
+- Section 29-2-75 - Right of foreign guardian to bring action to enforce rights of minor
+- Section 29-2-76 - Filing of authenticated copy of letters of guardianship
+- Section 29-2-77 - Submission to jurisdiction by foreign guardian
+- Section 29-2-78 - through 29-2-85 - [Repealed]

@@ -1,0 +1,22 @@
+# Chapter 1 - GENERAL PROVISIONS (§§ 52-1-1 — 52-1-39)
+
+- Section 52-1-1 - Short title
+- Section 52-1-2 - Legislative findings and declaration of policy; public trust doctrine for tidewaters
+- Section 52-1-3 - Definitions
+- Section 52-1-4 - Declaration of public nuisance
+- Section 52-1-5 - Order for removal of structures; service and posting of order
+- Section 52-1-6 - Hearings and review
+- Section 52-1-7 - Seizure and removal of structures; notice; sale or disposal
+- Section 52-1-8 - Remedies not exclusive
+- Section 52-1-9 - Allowance of time for finding new residence
+- Section 52-1-10 - Issuance of permit; term; revocation
+- Section 52-1-30 - Short title
+- Section 52-1-31 - Legislative findings and declaration of policy
+- Section 52-1-32 - Definitions
+- Section 52-1-33 - Declaration of public nuisance
+- Section 52-1-34 - Order for removal of structures; service and posting of order
+- Section 52-1-35 - Hearings and review
+- Section 52-1-36 - Seizure and removal of structures; notice; sale or disposal
+- Section 52-1-37 - Remedies not exclusive
+- Section 52-1-38 - Allowance of time for finding new residence
+- Section 52-1-39 - Issuance of permit; term; revocation

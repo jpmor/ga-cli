@@ -1,0 +1,29 @@
+# Chapter 5 - ADMINISTRATION OF COURTS OF RECORD GENERALLY (§§ 15-5-1 — 15-5-112)
+
+- Section 15-5-1 - Short title
+- Section 15-5-2 - Judicial administration districts
+- Section 15-5-3 - District councils created
+- Section 15-5-4 - Election of district administrative judge; term; removal
+- Section 15-5-5 - Duties of district administrative judge
+- Section 15-5-6 - Administrative assistant; duties; compensation
+- Section 15-5-20 - Judicial Council of Georgia; powers and duties; membership
+- Section 15-5-21 - Promulgation of rules for transcripts and court reporters' fees
+- Section 15-5-21.1 - Development and utilization of uniform misdemeanor citation and complaint form
+- Section 15-5-22 - Administrative Office of the Courts
+- Section 15-5-23 - Director of Administrative Office of the Courts
+- Section 15-5-24 - Duties of Administrative Office of the Courts
+- Section 15-5-24.1 - Criminal Case Data Exchange Board; membership; role
+- Section 15-5-25 - Effect of article on authority of courts
+- Section 15-5-26 - Proposals for pilot programs involving nonuniform courts
+- Section 15-5-40 - Letter-sized paper to be accepted
+- Section 15-5-50 - Minimum amount for refund
+- Section 15-5-60 - Contract for administrative functions, services, and equipment
+- Section 15-5-80 - Definitions
+- Section 15-5-80.1 - Georgia Courts Automation Commission
+- Section 15-5-81 - Advisory council to commission
+- Section 15-5-82 - Authority of commission; appointment of committees
+- Section 15-5-83 - Commission assigned to Supreme Court; authority to receive and expend appropriations
+- Section 15-5-100 - Creation of Georgia Council of Court Administrators
+- Section 15-5-110 - [Effective 7/1/2025] Definitions
+- Section 15-5-111 - [Effective 7/1/2025] Duties of Administrative Office of the Courts in protecting judicial personally identifiable information
+- Section 15-5-112 - [Effective 7/1/2025] Restriction of public access; enforcement

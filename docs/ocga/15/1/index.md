@@ -1,0 +1,29 @@
+# Chapter 1 - GENERAL PROVISIONS (§§ 15-1-1 — 15-1-23)
+
+- Section 15-1-1 - Where judicial power vested
+- Section 15-1-2 - No jurisdiction by consent; waiver of personal jurisdiction
+- Section 15-1-3 - Powers of courts generally
+- Section 15-1-4 - Extent of contempt power
+- Section 15-1-5 - Effect of rules of court
+- Section 15-1-6 - Court's acts not invalid without clerk
+- Section 15-1-7 - Grounds for impeachment
+- Section 15-1-8 - When judge or judicial officer disqualified
+- Section 15-1-9 - When judge not disqualified
+- Section 15-1-9.1 - Requesting judicial assistance from other courts
+- Section 15-1-9.2 - Senior judge of superior courts
+- Section 15-1-9.3 - Senior judge of state court, probate court, or juvenile court; capital cases
+- Section 15-1-10 - Removal of court records; storage
+- Section 15-1-10.1 - Standards in determining grant of requests for televising, videotaping, or motion picture filming of judicial proceedings
+- Section 15-1-11 - Attendance of judges and court personnel at educational programs
+- Section 15-1-12 - Compensation of probate court judges and superior court clerks for certain services
+- Section 15-1-13 - Prior removal from judicial office as affecting qualification for judicial office
+- Section 15-1-14 - Rules and requirements for foreign language and hearing impaired interpreters
+- Section 15-1-15 - Drug court divisions
+- Section 15-1-16 - Mental health court divisions
+- Section 15-1-17 - Veterans court divisions
+- Section 15-1-18 - Council of Accountability Court Judges of Georgia; creation; membership; funding; support
+- Section 15-1-19 - Creation of operating under the influence court divisions; organization and functions
+- Section 15-1-20 - Definitions; restrictions on dissemination of criminal history record information; conditions under which inspection, copying, and use of restricted criminal history record information available
+- Section 15-1-21 - Judicial Qualifications Commission created; powers, composition, and appointment; term and removal of member; procedures; confidentiality
+- Section 15-1-22 - Exclusive agreement for electronic filing service prohibited
+- Section 15-1-23 - Grant program for accountability courts serving mental health and substance use disorder population; technical assistance

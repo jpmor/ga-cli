@@ -1,0 +1,32 @@
+# Chapter 17 - PEACE OFFICERS' ANNUITY AND BENEFIT FUND (§§ 47-17-1 — 47-17-105)
+
+- Section 47-17-1 - [See Note] Definitions
+- Section 47-17-20 - Membership of the board; manner of appointment; filling of vacancies; reimbursement of expenses; election of officers; quorum
+- Section 47-17-21 - Creation of the office of secretary-treasurer; duties and compensation; quarterly report and accounting to the board; performance bond
+- Section 47-17-22 - Powers and duties of the board generally
+- Section 47-17-23 - Special account for funds; investment powers of board; gifts, grants, and bequests
+- Section 47-17-24 - Duty of the board to keep permanent records of annuities and benefits granted; contents, preservation, and transfer of records, papers, and other data
+- Section 47-17-25 - Duty of the state auditor to make an annual audit and report; audit upon request of the board; contents of annual report
+- Section 47-17-26 - Methods of providing increases in maximum benefit payable under Article 6 of this chapter
+- Section 47-17-27 - Board authorized to employ hearing officer; powers and duties of hearing officer; appeal
+- Section 47-17-40 - Application for membership in the fund
+- Section 47-17-41 - [Reserved]
+- Section 47-17-42 - Other benefits
+- Section 47-17-43 - Participation of members in other retirement, annuity, or benefit systems
+- Section 47-17-44 - Amount of dues; deadline and minimum period for payments
+- Section 47-17-60 - Payments to the fund from fines and bonds collected in criminal and quasi-criminal cases; duty of collecting authority to record and remit sums collected; penalty
+- Section 47-17-61 - Employer contributions by Georgia Composite Medical Board
+- Section 47-17-62 - Payment of employment contributions by Board of Dentistry
+- Section 47-17-63 - [See Note] Coordination to ensure funding
+- Section 47-17-70 - Credit for service as peace officer; credit for service in the armed forces of the United States
+- Section 47-17-71 - Grant of creditable service for active members previously denied membership in fund because of race or ethnicity
+- Section 47-17-80 - Retirement benefit options; payment to surviving spouse; requirements; effect of reemployment; effect of changes in retirement benefits; payment on death of member
+- Section 47-17-81 - [See Note] Eligibility for disability benefits; periodic medical examination; termination of disability benefits; application; hearings
+- Section 47-17-82 - Amount of death benefits; provisions for payment of death benefits; refund of dues paid
+- Section 47-17-83 - Refunds of membership dues; eligibility for reinstatement; eligibility to rejoin as a new member; refunds of overpaid dues
+- Section 47-17-100 - Effect of funding on provisions for benefits and annuities; coverage of claims before funds available; credit for service after February 1, 1950, but before this effective date
+- Section 47-17-101 - Vesting of rights under this chapter
+- Section 47-17-102 - Reduction of benefits upon determination that available funds are insufficient; liability of members of the board for such reductions
+- Section 47-17-103 - Exemption of rights and benefits under this chapter from taxation; exemption from garnishment, attachment, or other process; assignability
+- Section 47-17-104 - Attempts to defraud the fund by false information; failure to remit sums provided for in Code Section 47-17-60
+- Section 47-17-105 - Member's obligation to notify board of employment change

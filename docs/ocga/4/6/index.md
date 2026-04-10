@@ -1,0 +1,30 @@
+# Chapter 6 - LIVESTOCK DEALERS AND AUCTIONS (§§ 4-6-1 — 4-6-55)
+
+- Section 4-6-1 - Definitions
+- Section 4-6-2 - Sale, auction, transfer, or movement of infected livestock
+- Section 4-6-3 - Licenses - Required; fee; term; surety requirement
+- Section 4-6-4 - Licenses - Revocation, cancellation, or suspension
+- Section 4-6-5 - Maintenance of records
+- Section 4-6-6 - Quarantine of premises; promulgation of rules and regulations prescribing sanitary standards
+- Section 4-6-7 - Rules and regulations - Promulgation and enforcement generally
+- Section 4-6-8 - Rules and regulations - Administrative remedies of persons aggrieved by promulgation or enforcement
+- Section 4-6-9 - Injunctions
+- Section 4-6-10 - Penalty for violations of chapter or rules or regulations
+- Section 4-6-11 - Liability of purchaser or seller of leased livestock to owner or lessor of livestock
+- Section 4-6-12 - Publication of licensed dealers and livestock market operators
+- Section 4-6-20 - Short title
+- Section 4-6-21 - Maintenance of custodial accounts; deposits; commingling of funds
+- Section 4-6-22 - Payments from custodial accounts
+- Section 4-6-23 - Penalty for failure to deposit proceeds of sale in custodial account
+- Section 4-6-42 - Surety bond - Generally
+- Section 4-6-43 - Surety bond - Dealers generally
+- Section 4-6-44 - [Repealed] Surety bond - Annual sales and purchases
+- Section 4-6-46 - Maintenance of records and accounts; inspections
+- Section 4-6-47 - When payment for livestock purchased due; disposition of proceeds; methods of payment
+- Section 4-6-48 - Report of dishonor of a check or draft issued in payment for livestock
+- Section 4-6-49 - [Repealed] Annual reports of sales and purchases; proof of compliance with bonding requirements
+- Section 4-6-49.1 - Denial of licenses; Commissioner's right to require disclosures and examine records and accounts; dealers purchasing livestock for cash only; financial statement
+- Section 4-6-50 - Livestock weighed at sales establishment; certified public weigher
+- Section 4-6-51 - Isolation of employees of sales establishments during conduct of sale
+- Section 4-6-52 - Special sales
+- Section 4-6-54 - Use of persuader in loading or handling of livestock

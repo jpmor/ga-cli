@@ -1,0 +1,57 @@
+# Chapter 5 - PROBATE (§§ 53-5-1 — 53-5-71)
+
+- Section 53-5-1 - Jurisdiction and domicile
+- Section 53-5-2 - Right to offer will for probate; &quot;interested person&quot; defined
+- Section 53-5-3 - Time limitation
+- Section 53-5-4 - Recovery of property from bona fide purchaser for value
+- Section 53-5-5 - Duty to file will
+- Section 53-5-6 - Admission of executor before qualification or of a beneficiary
+- Section 53-5-7 - Proof of codicil
+- Section 53-5-8 - Notice to beneficiary provided by personal representative; representation for beneficiaries
+- Section 53-5-15 - Common or solemn form
+- Section 53-5-16 - Conclusiveness; persons protected if set aside
+- Section 53-5-17 - Procedure
+- Section 53-5-18 - Court order
+- Section 53-5-19 - When conclusive upon parties in interest
+- Section 53-5-20 - Conclusiveness
+- Section 53-5-21 - Procedure
+- Section 53-5-22 - Service of notice
+- Section 53-5-23 - Methods of examining witnesses; photocopy of will
+- Section 53-5-24 - Unavailability of subscribing witnesses
+- Section 53-5-25 - Settlement agreement
+- Section 53-5-26 - Persons entitled to recover expenses
+- Section 53-5-27 - Nonjudicial settlement agreement
+- Section 53-5-30 - Definitions
+- Section 53-5-31 - Requisites for admission to probate
+- Section 53-5-32 - Effect of admission to probate
+- Section 53-5-33 - Requisites for admission to ancillary probate
+- Section 53-5-34 - Effect of admission to ancillary probate
+- Section 53-5-35 - Muniments of title to realty
+- Section 53-5-36 - Jurisdiction
+- Section 53-5-37 - Qualification of executor or administrator
+- Section 53-5-38 - Distribution of intestate nondomiciliary's real property
+- Section 53-5-39 - Appointment of administrator of intestate nondomiciliary's estate
+- Section 53-5-40 - Notice given by ancillary personal representative
+- Section 53-5-41 - Laws or court orders governing administration of estate by ancillary personal representative
+- Section 53-5-42 - Powers
+- Section 53-5-43 - Evidence of authority
+- Section 53-5-44 - Application to protect interest in property
+- Section 53-5-45 - Jurisdiction
+- Section 53-5-46 - Service of process
+- Section 53-5-47 - Effect of adjudication
+- Section 53-5-50 - Original jurisdiction; petition and pleading requirements
+- Section 53-5-51 - Contents of petition; service of notice; issuance of relief
+- Section 53-5-52 - Time limitation; filing of petition constitutes claim against estate
+- Section 53-5-53 - Applicability of article
+- Section 53-5-60 - Short title
+- Section 53-5-61 - Definitions
+- Section 53-5-62 - Ownership of a security
+- Section 53-5-63 - Authorization of beneficiary form
+- Section 53-5-64 - Registration of a beneficiary form
+- Section 53-5-65 - Words used in beneficiary form
+- Section 53-5-66 - Designation of transfer in beneficiary form
+- Section 53-5-67 - Ownership of registered security after death
+- Section 53-5-68 - Duties of registering entity; implementation of registration; applicability of Code Section 53-5-67; protective effect
+- Section 53-5-69 - Effect of beneficiary form
+- Section 53-5-70 - Terms and conditions of beneficiary form; illustrations
+- Section 53-5-71 - Applicability of article

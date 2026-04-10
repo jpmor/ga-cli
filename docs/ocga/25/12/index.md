@@ -1,0 +1,24 @@
+# Chapter 12 - REGULATION OF FIRE EXTINGUISHERS AND SUPPRESSION SYSTEMS (§§ 25-12-1 — 25-12-22)
+
+- Section 25-12-1 - Compliance with chapter; license requirement
+- Section 25-12-2 - Definitions
+- Section 25-12-3 - Fire suppression systems; license required
+- Section 25-12-4 - Portable fire extinguishers; license required
+- Section 25-12-5 - Exemption for routine visual inspections of preengineered fire protection devices
+- Section 25-12-6 - Exemption for routine visual inspections of self-owned fire protection devices; exemption from fees
+- Section 25-12-7 - License required for work related to fire suppression systems or portable fire extinguishers; maximum fee
+- Section 25-12-8 - Permit required for work related to fire suppression systems or portable fire extinguishers; maximum fee
+- Section 25-12-9 - Period of licenses and permits; failure to renew
+- Section 25-12-10 - Forms of licenses, permits, and applications
+- Section 25-12-11 - Requirements for issuance of license
+- Section 25-12-12 - Nonrefundable filing fee required for first permit
+- Section 25-12-13 - Amended licenses or permits
+- Section 25-12-14 - Production of license or permit on demand
+- Section 25-12-15 - Rules and regulations for standards
+- Section 25-12-16 - Specifications for service tags
+- Section 25-12-17 - Violation of chapter by licensee or permittee
+- Section 25-12-18 - Cease and desist orders; period of revocation; civil penalty; opportunity for hearing; civil actions
+- Section 25-12-19 - Penalty for violation of chapter
+- Section 25-12-20 - Delegation of authority by the Commissioner
+- Section 25-12-21 - Fees collected; grants and gifts
+- Section 25-12-22 - Power of municipality, county, or state to regulate not limited

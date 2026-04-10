@@ -1,0 +1,38 @@
+# Chapter 1A - EARLY CARE AND LEARNING (§§ 20-1A-1 — 20-1A-45)
+
+- Section 20-1A-1 - Creation
+- Section 20-1A-2 - Definitions
+- Section 20-1A-3 - Commissioner; board; duties and powers; salary; personnel; rules and regulations
+- Section 20-1A-4 - Powers and duties
+- Section 20-1A-4.1 - Department authorized to establish nonprofit corporation to qualify as a public foundation to aid in carrying out department's powers and purposes; requirements; annual report
+- Section 20-1A-5 - Impact of transfer of operations on individuals
+- Section 20-1A-6 - Department to succeed to applicable rules and regulations
+- Section 20-1A-7 - Pre-kindergarten name change required in publications, posters, banners, and signs
+- Section 20-1A-8 - Transfer of functions, powers, personnel, equipment, and assets to department; funding
+- Section 20-1A-9 - Authority to license and regulate child care learning centers and family child care learning homes transferred to department
+- Section 20-1A-10 - Regulation of early care and education programs
+- Section 20-1A-10.1 - Determination of payments and eligibility
+- Section 20-1A-11 - Penalties; notice
+- Section 20-1A-12 - Application; &quot;license&quot; defined; actions authorized by department in event of violations; investigations; governmental immunity
+- Section 20-1A-13 - Emergency placement of monitors; emergency closure upon minor's death; requirements and procedures
+- Section 20-1A-14 - Variances and waivers to regulatory requirements
+- Section 20-1A-15 - Issuance of inspection warrants; evidence generated inadmissible in criminal proceedings
+- Section 20-1A-16 - Coordination of efforts between departments and agencies
+- Section 20-1A-17 - Transfer of programs from Department of Education
+- Section 20-1A-18 - Information on influenza vaccine
+- Section 20-1A-30 - Definitions
+- Section 20-1A-31 - Records check application for potential employees; comprehensive records check determination
+- Section 20-1A-32 - Program license or commission applicants; comprehensive records check requirements; change of ownership
+- Section 20-1A-33 - Notification to applicant on comprehensive records check
+- Section 20-1A-34 - Check of fingerprints on national level; satisfactory determination prior to employment; additional records checks; retention of fingerprints
+- Section 20-1A-35 - Provisional employees; receipt of satisfactory determination; revocation of license, commission, or permit for violations
+- Section 20-1A-36 - Certain offenders prohibited as employees of facilities
+- Section 20-1A-37 - Director or employee residing in family child care learning home or at certain programs; comprehensive records check requirements
+- Section 20-1A-38 - Change of directors; records check requirements
+- Section 20-1A-39 - Potential employees; current employees and directors; comprehensive records check requirements; satisfactory determination; liability for hiring ineligible employee
+- Section 20-1A-40 - Cooperation with GCIC and other law enforcement agencies; fees; penalty for misuse of information
+- Section 20-1A-41 - Liability for information or determinations made based upon records check
+- Section 20-1A-42 - Construction with Article 1
+- Section 20-1A-43 - Contested case procedure following rejection or other suspension of license or application
+- Section 20-1A-44 - Regulatory authority
+- Section 20-1A-45 - Valid period for records check for separated employees

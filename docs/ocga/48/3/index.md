@@ -1,0 +1,38 @@
+# Chapter 3 - TAX EXECUTIONS (§§ 48-3-1 — 48-3-44)
+
+- Section 48-3-1 - [Repealed] [Reserved] Execution for collection of money due the state; affidavit of illegality
+- Section 48-3-2 - Executions against foreign corporations
+- Section 48-3-3 - Executions for nonpayment of taxes collectible by tax collectors and tax commissioners
+- Section 48-3-3.1 - Immediate payment or bond when taxpayer likely to act to prejudice or render ineffective proceedings
+- Section 48-3-4 - Selection of property to be levied
+- Section 48-3-5 - Geographical scope of tax executions
+- Section 48-3-6 - Levying officers; aggregate multiple executions
+- Section 48-3-7 - Issuance of alias tax execution to replace lost original; conversion of executions into electronic form
+- Section 48-3-8 - Interest on executions
+- Section 48-3-9 - Notice of levy to owner of security deed or mortgage; lists; fees
+- Section 48-3-10 - Form of notice
+- Section 48-3-12 - Issuance of garnishments by tax collectors and tax commissioners; proceedings
+- Section 48-3-13 - Procedures to petition to reduce unsatisfied tax execution to final judgment
+- Section 48-3-14 - Procedures to petition to reduce unsatisfied tax execution to final judgment against nonresident; notices
+- Section 48-3-15 - Demand for jury trial and issues available in action to reduce execution to judgment
+- Section 48-3-16 - Procedures when respondent in action to reduce execution to judgment fails to appear
+- Section 48-3-17 - Grace period after order; effect of respondent's appearance
+- Section 48-3-18 - Deputies acting for named officers; Secretary of State relieved from mailing papers to respondent
+- Section 48-3-19 - Transfer of executions
+- Section 48-3-20 - Interest on transferred executions
+- Section 48-3-21 - Statute of limitations for tax executions
+- Section 48-3-21.1 - Statute of limitations for enforcement of executions for ad valorem taxes of less than $5.00; execution; restriction on adding together taxes to exceed limit
+- Section 48-3-22 - Statutory limitations applicable to tax executions
+- Section 48-3-23 - [Repealed] [Reserved] Nulla bona; tolling of statute of limitations
+- Section 48-3-23.1 - Authorization for commissioner to develop standards which will provide a mechanism to discharge debts or obligations barred by the statute of limitations
+- Section 48-3-24 - Interposition of claims; oath; bond; trial
+- Section 48-3-25 - Remittance of money collected on process
+- Section 48-3-26 - Judicial interference in tax levies
+- Section 48-3-27 - Obstructing levying officers; penalty
+- Section 48-3-28 - Release of state tax execution upon full satisfaction
+- Section 48-3-29 - [Repealed] Publication of information regarding executions; withdrawal
+- Section 48-3-40 - Purpose; application; definitions
+- Section 48-3-41 - When executions issue
+- Section 48-3-42 - Filing; effective dates; electronic filings; continuing effectiveness
+- Section 48-3-43 - Availability of information via electronic means; public records; unlawful use of data; regulatory authority
+- Section 48-3-44 - &quot;Released&quot; executions

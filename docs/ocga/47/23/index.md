@@ -1,0 +1,55 @@
+# Chapter 23 - GEORGIA JUDICIAL RETIREMENT SYSTEM (§§ 47-23-1 — 47-23-124)
+
+- Section 47-23-1 - Definitions
+- Section 47-23-20 - Administration; membership of the board; term; compensation; quorum
+- Section 47-23-21 - Authority of board
+- Section 47-23-22 - Control of funds; investments
+- Section 47-23-23 - Gifts
+- Section 47-23-24 - Records; audited annual financial statement
+- Section 47-23-25 - Payment of administrative expenses
+- Section 47-23-26 - Administration of fund
+- Section 47-23-27 - Legal adviser
+- Section 47-23-28 - Transfer of contributions from earlier funds
+- Section 47-23-29 - Survivors benefits - Group term life insurance
+- Section 47-23-30 - Contract for group term life insurance protection
+- Section 47-23-31 - Plan year designated
+- Section 47-23-40 - Eligibility
+- Section 47-23-41 - Employee contributions
+- Section 47-23-42 - Judges and solicitors-general of state courts ineligible
+- Section 47-23-43 - Preservation of prior rights under this Code section by certain attorneys employed by Legislative Counsel or Department of Law
+- Section 47-23-43.1 - Membership for persons employed by the Office of Legislative Counsel in full-time positions requiring admission to State Bar of Georgia
+- Section 47-23-44 - Members receiving benefits from predecessor retirement systems; creditable service with other systems
+- Section 47-23-45 - Effect of change in employment
+- Section 47-23-46 - Members from District Attorneys' Retirement System
+- Section 47-23-47 - Transfer of members' contributions
+- Section 47-23-48 - Election of retirement system; effect of subsequent legislation
+- Section 47-23-49 - Membership for full-time judges of the state-wide business court; creditable service
+- Section 47-23-50 - Retirement options for state judges serving Fulton County
+- Section 47-23-60 - Transfer of service credits
+- Section 47-23-61 - Establishing creditable service
+- Section 47-23-62 - Obtaining creditable service; obtaining creditable service in other systems; calculations
+- Section 47-23-63 - Definition and effect of full-time and part-time service; calculations
+- Section 47-23-64 - Transfer of funds from Employees' Retirement System of Georgia by judges, solicitor general, or district attorneys; crediting service
+- Section 47-23-65 - Creditable service for certain prior service
+- Section 47-23-80 - Contributions by superior court judges and district attorneys; employer contributions
+- Section 47-23-81 - Contributions by judges and solicitors-general of state courts; employer contributions; reports required
+- Section 47-23-82 - Contributions by juvenile court judges; employer contributions; reports required
+- Section 47-23-83 - Termination of membership prior to vesting
+- Section 47-23-84 - Payment of remainder of accumulated contributions upon death
+- Section 47-23-100 - Salary defined
+- Section 47-23-101 - Calculation of benefits based on salary after July 1, 1998
+- Section 47-23-102 - Vesting; benefits upon retirement; compliance with federal income tax laws
+- Section 47-23-103 - Retirement based on age; application to retire
+- Section 47-23-104 - Disability; determination of benefits; determining disability
+- Section 47-23-105 - Spouses' benefits; ceasing spouses' benefits; vesting; designation of survivors benefits; member who rejected survivor's benefits may later elect such benefits by paying actuarial cost; applicability
+- Section 47-23-105.1 - Modification of retirement allowance
+- Section 47-23-106 - County supplement of salaries
+- Section 47-23-107 - Appointing beneficiary
+- Section 47-23-108 - Withdrawal of funds
+- Section 47-23-109 - Cessation of retirement allowance for resuming state service; required notification
+- Section 47-23-110 - Service as a senior judge
+- Section 47-23-120 - No abridgement of rights under predecessor retirement provisions
+- Section 47-23-121 - Exemption from levy and sale, garnishment or attachment
+- Section 47-23-122 - Falsification of records; correction of errors; participation in Employees' Retirement System or Superior Court Judges Retirement Fund
+- Section 47-23-123 - Participation in Superior Court Judges Retirement Fund, District Attorneys Emeritus, and District Attorneys Retirement Fund
+- Section 47-23-124 - Legislative intent

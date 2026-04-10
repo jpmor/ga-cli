@@ -1,0 +1,34 @@
+# Chapter 39A - REAL ESTATE APPRAISER AND REAL ESTATE APPRAISAL MANAGEMENT COMPANY CLASSIFICATION AND REGULATION ACT (§§ 43-39A-1 — 43-39A-27)
+
+- Section 43-39A-1 - Short title
+- Section 43-39A-2 - Definitions
+- Section 43-39A-3 - Georgia Real Estate Appraisers Board; membership; qualifications; recusal for conflict of interest; terms; removal; meetings; compensation
+- Section 43-39A-4 - Fees
+- Section 43-39A-4.1 - Rules and regulations
+- Section 43-39A-5 - Status of appraiser classification issued by board to employee of commission
+- Section 43-39A-6 - Seal; records
+- Section 43-39A-7 - Applications for appraiser classification; registration; confidentiality
+- Section 43-39A-8 - Establishment of appraiser classifications and appraisal management company registrations complying with federal law; continuing education courses; approval of instructors
+- Section 43-39A-9 - Requirements for nonresident applicants; service of process; reciprocity; temporary permits
+- Section 43-39A-10 - Wall certificates and pocket cards; disclosure of classification and number
+- Section 43-39A-11 - Fees; reactivation and reinstatement standards for appraiser classifications; proof of financial responsibility of a real estate appraisal management company
+- Section 43-39A-12 - Disposition of fees collected
+- Section 43-39A-13 - Power of board to regulate, discipline, and establish standards; power to enter contracts
+- Section 43-39A-14 - Required conduct of applicants; grounds for refusal of classification, imposition of sanctions, and suspension or revocation of classification
+- Section 43-39A-14.1 - Requirements for the establishment and maintenance of a real estate appraisal management company
+- Section 43-39A-14.2 - Composition of appraisal panel
+- Section 43-39A-14.3 - Appraiser as part of appraisal management company's appraiser panel; term; removal
+- Section 43-39A-15 - Hearings in accordance with &quot;Georgia Administrative Procedure Act.&quot;
+- Section 43-39A-16 - Notification by appraiser of change of address; professional corporations
+- Section 43-39A-17 - Civil actions
+- Section 43-39A-18 - Penalties for violations; unfair trade practices; civil judgments
+- Section 43-39A-18.1 - Alternative disciplinary procedures; citations
+- Section 43-39A-19 - Use of title or terms denoting appraiser classification; federally related transactions; no issuance of classification to business entity
+- Section 43-39A-20 - Use of appraiser as disinterested third party for rendering unbiased valuation or analysis; &quot;specialized services&quot;; contingent fees
+- Section 43-39A-21 - Hearings on imposition of sanctions against appraisers; judicial review
+- Section 43-39A-22 - Investigations; subpoenas; confidentiality; access to records; publication of names of disciplined appraisers and schools; closed meetings
+- Section 43-39A-22.1 - Conviction data defined; fingerprint records check; disclosure
+- Section 43-39A-23 - Injunctions
+- Section 43-39A-24 - Unlawful to operate without appraiser classification; exceptions
+- Section 43-39A-25 - Certain actions relating to appraisal activity as constituting crimes; cease and desist orders; fine
+- Section 43-39A-26 - Penalty

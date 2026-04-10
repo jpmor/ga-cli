@@ -1,0 +1,74 @@
+# Chapter 1 - GENERAL PROVISIONS (§§ 51-1-1 — 51-1-57)
+
+- Section 51-1-1 - Tort defined
+- Section 51-1-2 - Ordinary diligence and ordinary negligence defined
+- Section 51-1-3 - Extraordinary diligence and slight negligence defined
+- Section 51-1-4 - Slight diligence and gross negligence defined
+- Section 51-1-5 - Meaning of &quot;due care&quot; in reference to child of tender years
+- Section 51-1-6 - Recovery of damages upon breach of legal duty
+- Section 51-1-7 - When infraction of public duty gives cause of action to individual
+- Section 51-1-8 - Right of action arising from breach of private duty
+- Section 51-1-9 - Recovery for torts to self, wife, child, ward, or servant
+- Section 51-1-10 - Who may bring an action for torts to wife; action by wife living apart from husband for torts to self or children
+- Section 51-1-11 - When privity required to support action; product liability action and time limitation therefore; industry-wide liability theories rejected
+- Section 51-1-11.1 - Liability of product seller as a manufacturer
+- Section 51-1-12 - Liability for ratifying tort
+- Section 51-1-13 - Cause of action for physical injury; intention considered in assessing damages
+- Section 51-1-14 - Violent injury or attempt to commit injury
+- Section 51-1-15 - Right of action for abduction or harboring of wife
+- Section 51-1-16 - Right of action for seduction of daughter; exemplary damages
+- Section 51-1-17 - Rights of action for adultery, alienation of affections, and criminal conversation abolished
+- Section 51-1-18 - Furnishing alcoholic beverages to minor children; gambling with minor children
+- Section 51-1-19 - Negligence by person given trust or confidence for consideration
+- Section 51-1-20 - Liability of persons serving charitable organizations and public entities while acting in good faith
+- Section 51-1-20.1 - Liability of volunteers, employees, or officers of nonprofit association conducting or sponsoring sports or safety program; liability of association
+- Section 51-1-20.2 - Liability of child passenger safety technicians
+- Section 51-1-21 - Liability of owner of watercraft for torts generally
+- Section 51-1-22 - Owner's liability for negligent operation of vessel; express or implied consent prerequisite
+- Section 51-1-22.1 - Liability of an operator of a vessel under certain conditions
+- Section 51-1-23 - Sale of unwholesome provisions
+- Section 51-1-24 - Sale of adulterated drugs or alcoholic beverages
+- Section 51-1-25 - Furnishing of wrong article or medicine by vender of drugs and medicines
+- Section 51-1-26 - Survivability of actions under Code Sections 51-1-23 through 51-1-25
+- Section 51-1-27 - Recovery for medical malpractice authorized
+- Section 51-1-28 - Transfusions, transplants, and transfers of human blood, tissue, organs; negligence prerequisite to recovery for damages
+- Section 51-1-29 - Liability of persons rendering emergency care
+- Section 51-1-29.1 - Liability of voluntary health care provider and sponsoring organization
+- Section 51-1-29.2 - Liability of persons or entities acting to prevent, minimize, and repair injury and damage resulting from catastrophic acts of nature
+- Section 51-1-29.3 - Immunity for operators of external defibrillators
+- Section 51-1-29.4 - Liability of voluntary health care providers and sponsoring organizations; cumulative immunity; application
+- Section 51-1-29.5 - Definitions; limitation on health care liability claim to gross negligence in emergency medical care; factors for jury consideration
+- Section 51-1-29.6 - Liability of health care institutions and providers regarding THC oil
+- Section 51-1-29.7 - Liability for mental health care providers
+- Section 51-1-30 - Liability of officers and agents for acts performed while fighting fires or performing duties at the scene of emergencies
+- Section 51-1-30.1 - Exemption from tort liability of drivers and operators of fire apparatus in certain municipalities
+- Section 51-1-30.2 - Immunity of teachers and school personnel from liability for communicating information concerning drug abuse
+- Section 51-1-30.3 - Immunity from liability for persons providing certain services upon public or private school property and for public or private schools requesting such services
+- Section 51-1-30.4 - Immunity from liability for officers providing security at nuclear facilities
+- Section 51-1-31 - Liability from donation of canned or perishable food to charitable or nonprofit organizations for use or distribution
+- Section 51-1-32 - Separate causes of action for personal injury and property damage caused by motor vehicle
+- Section 51-1-33 - Settlement of single action under Code Section 51-1-32 - Evidence in separate action
+- Section 51-1-34 - Settlement of single action under Code Section 51-1-32 - Effect in separate action
+- Section 51-1-35 - When negotiating or obtaining statement from injured adverse party prohibited; effect of prohibited settlement in court action
+- Section 51-1-36 - Duty of care of operator of motor vehicle to passengers
+- Section 51-1-37 - Negligent or improper administration of polygraph examination; measure of damages
+- Section 51-1-38 - Tort immunity for medical students; exceptions
+- Section 51-1-39 - Liability for injuries of person committing crime on political subdivision property
+- Section 51-1-40 - Liability for acts of intoxicated persons
+- Section 51-1-41 - Liability of sports officials at amateur athletic contests
+- Section 51-1-42 - Limitation of liability for transportation of senior citizens by volunteer
+- Section 51-1-43 - &quot;Roller Skating Safety Act of 1993.&quot;
+- Section 51-1-44 - Limitation of liability for dental students
+- Section 51-1-45 - Immunity of persons serving without compensation as athletic team physicians
+- Section 51-1-46 - &quot;Drug Dealer Liability Act&quot;; purpose; definitions; actions against persons participating in illegal marketing of controlled substances
+- Section 51-1-47 - Immunity for disconnection of motor vehicle air bags
+- Section 51-1-48 - Diligence required in reviewing claims; nonwaivable liability is not created; definitions
+- Section 51-1-49 - Requirements for maintaining cause of action against managed care entity; notice; independent review
+- Section 51-1-50 - Immunity of broadcasters from liability for Levi's Call: Georgia's Amber Alert Program
+- Section 51-1-51 - Limitations on liability of liquefied petroleum gas providers
+- Section 51-1-52 - Federal law payor guidelines and criteria not a legal basis for negligence or standard of care for medical malpractice or product liability
+- Section 51-1-53 - Recreational joint-use agreements
+- Section 51-1-54 - Program and Treatment Completion Certificate
+- Section 51-1-55 - Firearm instructor liability
+- Section 51-1-56 - Civil recovery available to victims of human trafficking; statute of limitations; relief sought by Attorney General
+- Section 51-1-57 - Damages for false solicitation in media and false advertising of media services

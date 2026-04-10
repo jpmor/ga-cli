@@ -1,0 +1,29 @@
+# Chapter 10A - PROFESSIONAL COUNSELORS, SOCIAL WORKERS, AND MARRIAGE AND FAMILY THERAPISTS (§§ 43-10A-1 — 43-10A-61)
+
+- Section 43-10A-1 - Short title
+- Section 43-10A-2 - Declaration of purpose
+- Section 43-10A-3 - Definitions
+- Section 43-10A-4 - Georgia Composite Board of Professional Counselors, Social Workers, and Marriage and Family Therapists; composition; terms; removal; vacancies
+- Section 43-10A-5 - Powers and duties of board; quorum; meetings
+- Section 43-10A-6 - Separate standards committees for professional counseling specialty, social work specialty, and marriage and family therapy specialty
+- Section 43-10A-7 - Licensing requirement; exceptions
+- Section 43-10A-8 - Eligibility for licensure
+- Section 43-10A-9 - Examination
+- Section 43-10A-10 - Licensure without examination; waiver of experience requirements
+- Section 43-10A-11 - Requirements for licensure as associate professional counselor or professional counselor; use of title
+- Section 43-10A-12 - Requirements for licensure in social work; authorized services
+- Section 43-10A-13 - Requirements for licensure in marriage and family therapy; expedited license by endorsement
+- Section 43-10A-14 - Fees
+- Section 43-10A-15 - Expiration, renewal, and penalty dates
+- Section 43-10A-16 - Requirements for continuing education
+- Section 43-10A-17 - Denial or revocation of license; other discipline; fitness of licensee; voluntary surrender of license
+- Section 43-10A-18 - Enforcement
+- Section 43-10A-19 - Obtaining license by fraudulent representation
+- Section 43-10A-20 - Penalty
+- Section 43-10A-21 - Restrictions on use of terms in corporate, partnership, association, or business names
+- Section 43-10A-22 - Restrictions on scope of article
+- Section 43-10A-23 - Insurance coverage for specialty practitioners
+- Section 43-10A-50 - Short title
+- Section 43-10A-51 - Text of compact
+- Section 43-10A-60 - Short title
+- Section 43-10A-61 - Compact enacted; text of compact

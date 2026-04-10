@@ -1,0 +1,37 @@
+# Chapter 50 - VETERINARY PRACTICE (§§ 43-50-1 — 43-50-110)
+
+- Section 43-50-1 - Short title
+- Section 43-50-2 - Legislative purpose
+- Section 43-50-3 - Definitions
+- Section 43-50-20 - [See note] Creation of board; members; qualifications; vacancies; expenses; meetings; officers
+- Section 43-50-21 - General powers of board; liberal construction of powers
+- Section 43-50-21.1 - Monitoring and rehabilitation of impaired veterinarians; definitions; confidentiality; costs
+- Section 43-50-30 - License requirement for practice of veterinary medicine; practice by business employee
+- Section 43-50-31 - Application for license; qualifications; recordation of license
+- Section 43-50-32 - [Repealed] Frequency of examinations; notification to applicants of results; admission for reexamination
+- Section 43-50-33 - [Repealed] Application of article to persons licensed on July 1, 2003
+- Section 43-50-40 - [See note.] Renewal of licenses; reinstatement; waiver of fee; continuing education; inactive status
+- Section 43-50-41 - Disciplinary action; subpoenas; judicial review; reinstatement; investigatory powers; immunity; failure to appear; voluntary surrender of license
+- Section 43-50-42 - Issuance and renewal of temporary license for transitioning service members
+- Section 43-50-42.1 - Temporary license for holder of veterinary or veterinary technician license issued by another state
+- Section 43-50-43 - Veterinary faculty licenses
+- Section 43-50-44 - Exemptions from article
+- Section 43-50-45 - Unlawful acts; penalties; injunctions
+- Section 43-50-50 - Purpose of part
+- Section 43-50-51 - Practice of veterinary technology by licensed veterinary technician
+- Section 43-50-52 - Application for license as veterinary technician; qualifications; examination; renewal; applicants registered in other states; board's responsibility
+- Section 43-50-53 - Administration of examinations; reexamination; reactivation
+- Section 43-50-54 - Supervision required; prohibited activities of technician
+- Section 43-50-55 - Posting notice of use of licensed veterinary technicians; proper identification
+- Section 43-50-56 - Veterinarian responsible for licensed veterinary technician's violations of limitations on duties
+- Section 43-50-60 - Purpose
+- Section 43-50-61 - Practice of veterinary technology by a veterinary assistant
+- Section 43-50-62 - Supervision required; prohibited uses of veterinary assistant
+- Section 43-50-63 - Posting notice of use of veterinary assistant; proper identification required
+- Section 43-50-64 - Veterinarian ultimately responsible for violations of veterinary assistant
+- Section 43-50-70 - [Renumbered as 43-50-90]
+- Section 43-50-71 - [Renumbered as 43-50-91]
+- Section 43-50-80 - Good faith emergency treatment to sick or injured animals; no liability
+- Section 43-50-90 - [See Note] Establishing standards for facilities and equipment; monitoring, investigation, and enforcement actions
+- Section 43-50-91 - [See Note] Facilities accredited by American Zoo and Aquarium Association or equivalent agency exempt
+- Section 43-50-110 - Duties, powers, and authority of board; regulation

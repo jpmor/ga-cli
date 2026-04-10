@@ -1,0 +1,42 @@
+# Chapter 17 - STATE DEBT, INVESTMENT, AND DEPOSITORIES (§§ 50-17-1 — 50-17-105)
+
+- Section 50-17-1 - Use of facsimile signatures on public securities authorized
+- Section 50-17-2 - Agreements to resell or repurchase United States government obligations at stated rate of interest; delivery and safekeeping of such obligations; investment in authorized securities
+- Section 50-17-20 - Short title
+- Section 50-17-21 - Definitions
+- Section 50-17-22 - State Financing and Investment Commission
+- Section 50-17-23 - General obligation and guaranteed revenue debts; sinking and common reserve funds; appropriations; investments; taxation to pay debt service requirements
+- Section 50-17-24 - Authority to incur public debt; purposes; limitations
+- Section 50-17-25 - Incurring public debt by resolution; sale of evidences of indebtedness; form of obligations; validation of bonds; civil claims and actions
+- Section 50-17-26 - Evidences of indebtedness generally; accrual of interest; paying agent; executory contracts; audits; legal services
+- Section 50-17-27 - Application and investment of public debt proceeds by commission and by the Environmental Finance Authority
+- Section 50-17-28 - Bond security contracts prohibited
+- Section 50-17-29 - Miscellaneous pledges, authorizations, and exemptions
+- Section 50-17-30 - Liability of public officers and employees
+- Section 50-17-50 - Creation of State Depository Board; membership; quorum; assignment for administrative purposes
+- Section 50-17-50.1 - Authority to vote
+- Section 50-17-51 - Meetings of State Depository Board; records; list of deposits; interest policy; cash management policies and procedures
+- Section 50-17-52 - Contracts for interest on deposits; authority to remove deposits
+- Section 50-17-53 - Authority to determine amount to be deposited; deposit security required
+- Section 50-17-54 - Monitoring financial condition of depositories; action in case of insolvency of depository
+- Section 50-17-55 - Absolute discretion of State Depository Board in performance of duties
+- Section 50-17-56 - State treasurer to make deposits in compliance with board's determinations
+- Section 50-17-57 - State treasurer to make reports
+- Section 50-17-58 - Execution of bonds by depositories
+- Section 50-17-59 - Deposit of securities in lieu of bond
+- Section 50-17-60 - Governor to sell bonds to reimburse state for any default
+- Section 50-17-61 - Procedure for relief of bond sureties
+- Section 50-17-62 - Funds to be held by depositories
+- Section 50-17-63 - Deposit of demand funds; investment of funds; reports; remittance of interest earned; motor fuel tax revenues
+- Section 50-17-64 - Depositories required to furnish monthly statements
+- Section 50-17-65 - State officials to notify depositories of any unauthorized signatures or alterations; notification in lieu of other obligations to notify; assent to provisions by depositories
+- Section 50-17-66 - State officer not to receive commission, interest, compensation, or reward for depositing state money
+- Section 50-17-67 - Depositories to serve without definite term or salary or fees; exception
+- Section 50-17-90 - Definitions
+- Section 50-17-91 - Governed by general provisions on commercial paper; issuance of security by governmental entity; requirements of governing body; renewal and reissuance of commercial paper
+- Section 50-17-100 - Definitions
+- Section 50-17-101 - Guidelines, rules, and regulations for interest rate management plans and agreements; authority to enter into, modify, or terminate; disposition of payments under agreements; obligations, terms, and conditions; agency for state
+- Section 50-17-102 - Interest rate management plans
+- Section 50-17-103 - Requirements for interest rate management agreements; credit enhancement or liquidity agreements
+- Section 50-17-104 - Information required in annual financial statements
+- Section 50-17-105 - Applicability of state law; jurisdiction

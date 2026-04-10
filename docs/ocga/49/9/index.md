@@ -1,0 +1,30 @@
+# Chapter 9 - REHABILITATION SERVICES (§§ 49-9-1 — 49-9-53)
+
+- Section 49-9-1 - Definitions
+- Section 49-9-2 - Creation of Georgia Vocational Rehabilitation Services Board; membership; duties
+- Section 49-9-3 - Duties of executive director of Georgia Vocational Rehabilitation Agency
+- Section 49-9-4 - Creation of Georgia Vocational Rehabilitation Agency; function
+- Section 49-9-5 - Provision of services to persons with disabilities
+- Section 49-9-6 - Authorization to utilize funds
+- Section 49-9-7 - Cooperation to carry out the purposes of federal statutes
+- Section 49-9-8 - Office of State Treasurer designated custodian of federal moneys
+- Section 49-9-9 - Budget estimates
+- Section 49-9-10 - Acceptance and use of gifts
+- Section 49-9-11 - Residency requirement; financial need
+- Section 49-9-12 - Independent living program
+- Section 49-9-13 - Entitlement to hearing if aggrieved
+- Section 49-9-14 - Rights not transferable; exempt from creditors
+- Section 49-9-15 - Coverage by a hospitalization or medical insurance policy
+- Section 49-9-16 - Lien upon causes of actions; procedure for perfecting lien; notice; fee; releases and covenants not to sue
+- Section 49-9-17 - Authorization to retain title; authorization to sell; surplus; receipts; deposit of funds received
+- Section 49-9-18 - Confidentiality; penalty
+- Section 49-9-19 - Governing prohibitions
+- Section 49-9-20 - Rights of General Assembly to amend or repeal chapter
+- Section 49-9-21 - Delivery of deaf-blind services and techniques leading to maximum independence; integration
+- Section 49-9-40 - Definitions
+- Section 49-9-41 - Declaration of public policy; income
+- Section 49-9-42 - Operation of vending facilities on state property; preference for licensed disabled persons
+- Section 49-9-50 - Definitions
+- Section 49-9-51 - Creation of Employment First Georgia Council; membership; operation
+- Section 49-9-52 - Purpose of council; &quot;Employment First Policy&quot; or &quot;Employment First.&quot;
+- Section 49-9-53 - Powers, duties, and responsibilities of council

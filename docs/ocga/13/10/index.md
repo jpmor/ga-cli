@@ -1,0 +1,29 @@
+# Chapter 10 - CONTRACTS FOR PUBLIC WORKS (§§ 13-10-1 — 13-10-91)
+
+- Section 13-10-1 - &quot;State&quot; defined
+- Section 13-10-2 - Approval of bond; strengthening of bond
+- Section 13-10-3 - Determining Georgia residency for businesses; preferences; adherence to policies and procedures of State Construction Manual; public works construction contracts
+- Section 13-10-4 - Limitation on disqualification of bidders upon lack of previous experience
+- Section 13-10-20 - Large public works contracts; requirements for bid bonds; withdrawal of bid
+- Section 13-10-21 - Alternatives to bid bond
+- Section 13-10-22 - &quot;Bid&quot; and &quot;bidder&quot; defined; appreciable errors in calculation of bids; withdrawing bids
+- Section 13-10-23 - Affiliated corporations
+- Section 13-10-24 - Maintenance of action on bid bond by obligee
+- Section 13-10-40 - Large public works contracts; requirement for performance bond
+- Section 13-10-41 - Alternatives to performance bond
+- Section 13-10-42 - Maintenance of action on performance bond by obligee
+- Section 13-10-43 - Acceptance of electronic signatures and seals
+- Section 13-10-60 - Large public works contracts; requirement for payment bonds
+- Section 13-10-61 - Liability of contracting entity for failure to comply with article
+- Section 13-10-62 - Notice of commencement
+- Section 13-10-63 - Pursuit of action by person entitled to protection of payment bond; liability of public entity
+- Section 13-10-64 - Supplying copy of bond or security deposit agreement and contract; fees for certified copies
+- Section 13-10-65 - Time for instituting action
+- Section 13-10-66 - Acceptance of electronic signatures and seals
+- Section 13-10-70 - Liquidated damages for late completion and incentives for early completion
+- Section 13-10-80 - Definitions; contract requirements; application; effect of greater benefits contracted for; evidence of indebtedness paid
+- Section 13-10-81 - Authorization and procedure for retention of contractual payments by state or political subdivisions; procedure for final payment
+- Section 13-10-82 - Authorization and procedure for creation and maintenance of escrow accounts by state or political subdivisions
+- Section 13-10-83 - Construction of provisions of article
+- Section 13-10-90 - Definitions
+- Section 13-10-91 - Verification of new employee eligibility; applicability; rules and regulations

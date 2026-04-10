@@ -1,0 +1,34 @@
+# Chapter 8 - ADOPTION (§§ 19-8-1 — 19-8-43)
+
+- Section 19-8-1 - Definitions
+- Section 19-8-2 - [See Note] Jurisdiction and venue of adoption proceedings (§ 19-8-2)
+- Section 19-8-3 - [See Note] Who may adopt a child; when petition must be filed in names of both spouses (§ 19-8-3)
+- Section 19-8-4 - [See Note] Adoption through the department, child-placing agency, or out-of-state licensed agency (§ 19-8-4)
+- Section 19-8-5 - [See Note] Third party adoption by party who is not stepparent or relative of child (§ 19-8-5)
+- Section 19-8-6 - Stepparent adoption
+- Section 19-8-7 - [See Note] Adoption by certain relatives related to child by blood or marriage (§ 19-8-7)
+- Section 19-8-8 - Domestication of adoption of child born in foreign country; Certificate of Foreign Birth; authority of court to change date of birth
+- Section 19-8-9 - Revocation of surrender of rights; time limit; effect of voluntary surrender of rights by legal mother
+- Section 19-8-10 - When surrender or termination of parental rights of living parent not required; service on parents in such cases; involuntary termination of rights
+- Section 19-8-11 - [See Note] Petitioning superior court to terminate rights of one parent or guardian of child; service of process (§ 19-8-11)
+- Section 19-8-12 - Notice to biological father; procedure when identity or location of father not known; effect of order terminating biological father's rights; legitimation of child by father; rights of mother
+- Section 19-8-13 - [See Note] Petition; filing and contents; financial disclosures; attorney's affidavit; redaction of certain information unnecessary (§ 19-8-13)
+- Section 19-8-14 - Timing of adoption hearing; record retention; clerk's duties
+- Section 19-8-15 - Objections to petition for adoption
+- Section 19-8-16 - Investigation by court-appointed agent; criminal history records check for adoption petitioners
+- Section 19-8-17 - Report and findings of investigating agent; dismissal of petition; appointment of guardian ad litem
+- Section 19-8-18 - Hearing; district attorney to be directed to review inducement violations; decree of adoption; factors considered in determining best interests of child; disposition of child on denial of petition
+- Section 19-8-19 - Effect of decree of adoption
+- Section 19-8-20 - Forwarding of decree, report, and subsequent orders to department; issuance of adoption certificate; use as evidence
+- Section 19-8-21 - Adoption of adult individuals; applicability of Code Sections 19-8-19 and 19-8-20
+- Section 19-8-22 - Recognition and effect of order by court or administrative body within or outside United States
+- Section 19-8-23 - Where records of adoption kept; examination by parties and attorneys; use of information by agency and department
+- Section 19-8-24 - Advertising restrictions and requirements; &quot;inducements&quot; defined; unlawful inducements; penalties; exemption for personal communications; civil actions
+- Section 19-8-25 - Effect of prior consent or surrender of rights
+- Section 19-8-26 - Forms
+- Section 19-8-27 - Postadoption contact agreements; definitions; procedure; jurisdiction; warnings; enforcement, termination, or modification; expenses of litigation
+- Section 19-8-28 - Adoption of an orphan
+- Section 19-8-40 - Definitions
+- Section 19-8-41 - Release of responsibility by legal embryo custodian; procedures; presumption of parentage
+- Section 19-8-42 - Petition for expedited order of adoption or parentage; notice; waiver of technical requirements
+- Section 19-8-43 - Finality of orders of adoption or parentage

@@ -1,0 +1,61 @@
+# Chapter 36 - ANNEXATION OF TERRITORY (§§ 36-36-1 — 36-36-134)
+
+- Section 36-36-1 - Applicability of article
+- Section 36-36-2 - Effective date of annexation
+- Section 36-36-3 - Report identifying annexed property; maps and surveys; technical assistance to municipalities; preclearance
+- Section 36-36-4 - Creation of unincorporated islands prohibited; authorization to provide services or functions
+- Section 36-36-6 - Notice by municipal governing authority to county governing authority of proposed annexation
+- Section 36-36-7 - Effect of annexation upon county owned property or facilities; notice; acquisition of property or facilities by municipality
+- Section 36-36-8 - Effect of annexation upon utility service agreements
+- Section 36-36-9 - Notice to be sent by certified mail or statutory overnight delivery, return receipt requested
+- Section 36-36-10 - Legislative intent
+- Section 36-36-11 - Effect of objection to land use following rezoning; minimum procedures for addressing issues
+- Section 36-36-15 - &quot;Used for residential purposes&quot; defined
+- Section 36-36-16 - Procedures for annexation; referendum
+- Section 36-36-20 - &quot;Contiguous area&quot; defined
+- Section 36-36-21 - Annexation upon application of all land owners; filing of identification of annexed property with Department of Community Affairs and county governing authority; effect of annexation
+- Section 36-36-22 - Deannexation; authority; procedures; identification; status of lands
+- Section 36-36-23 - Annexation by a municipal corporation into an adjoining county
+- Section 36-36-30 - &quot;Municipal corporation&quot; defined
+- Section 36-36-31 - &quot;Contiguous area&quot; defined; determination of aggregate external boundary
+- Section 36-36-32 - Annexation upon application of owners of 60 percent of the land and 60 percent of the resident electors generally; application and signature requirements
+- Section 36-36-33 - Annexation across county boundary lines prohibited
+- Section 36-36-34 - Determination of compliance with article; notice upon noncompliance; proceedings upon compliance
+- Section 36-36-35 - Plans and report for extension of services to area proposed to be annexed
+- Section 36-36-36 - Requirement of public hearing; notice of time and place; persons entitled to be heard; right of property owner to withdraw consent
+- Section 36-36-37 - Adoption of annexing ordinance
+- Section 36-36-38 - Filing of identification of annexed property with county and Department of Community Affairs; applicability of municipal ad valorem taxes to annexed territory; effect of annexation
+- Section 36-36-39 - Filing of petition for declaratory judgment to determine validity of annexation; judicial review
+- Section 36-36-40 - Use of municipally owned utilities by residents of annexed territory
+- Section 36-36-50 - Purpose of article
+- Section 36-36-51 - Legislative declaration of policy
+- Section 36-36-52 - Definitions
+- Section 36-36-53 - Authorization of annexation generally
+- Section 36-36-54 - Standards and requirements for area proposed to be annexed
+- Section 36-36-55 - Determination of compliance with standards and requirements; review of determination by superior court
+- Section 36-36-56 - Plans and report for extension of services to area proposed to be annexed
+- Section 36-36-57 - Adoption of annexation resolution by municipal corporation; contents of resolutions; approval, availability, and distribution of report relating to extension of services; conduct of public hearing
+- Section 36-36-58 - Referendum for ratification or rejection of annexation resolution generally; procedure; subsequent annexation attempt
+- Section 36-36-59 - Filing of identification of annexed territory with Department of Community Affairs and county governing authority
+- Section 36-36-60 - Authorized expenditures relating to annexation
+- Section 36-36-61 - Restriction on applicability of article
+- Section 36-36-70 - Prohibition on annexation of county operated airport property by certain municipal corporations absent approval of airport's governing authority
+- Section 36-36-90 - Definitions
+- Section 36-36-91 - Area included in determining aggregate external boundary
+- Section 36-36-92 - Annexation of unincorporated islands; procedures; provision of municipal services
+- Section 36-36-110 - Applicability
+- Section 36-36-110.1 - Definitions
+- Section 36-36-111 - Notice of annexation
+- Section 36-36-112 - Prohibition on a change in zoning or land use
+- Section 36-36-113 - Objection to annexation; grounds and procedures
+- Section 36-36-114 - Arbitration panel; composition and membership; assistance in formulating record; regulation
+- Section 36-36-115 - Meetings of arbitration panel; duties; findings and recommendations; compensation
+- Section 36-36-116 - Appeal
+- Section 36-36-117 - Annexation after conclusion of procedures; remedies for violations of conditions
+- Section 36-36-118 - Abandonment of proposed annexation; remedies for violations of conditions
+- Section 36-36-119 - Good faith negotiations; written agreement governing terms of annexation
+- Section 36-36-130 - Application of statutory provisions
+- Section 36-36-131 - Application for deannexation; scope; filing of notification of deannexation; reannexation
+- Section 36-36-132 - Unincorporated islands prohibited
+- Section 36-36-133 - Debt limitations on deannexation
+- Section 36-36-134 - Municipal services for deannexed property

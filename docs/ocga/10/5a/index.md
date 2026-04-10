@@ -1,0 +1,23 @@
+# Chapter 5A - COMMODITIES AND COMMODITY CONTRACTS AND OPTIONS (§§ 10-5A-1 — 10-5A-31)
+
+- Section 10-5A-1 - Definitions
+- Section 10-5A-2 - Prohibited activities concerning purchase or sale of commodities
+- Section 10-5A-3 - Exempt purchasers and sellers
+- Section 10-5A-4 - Exempt transactions and contracts; rules and regulations
+- Section 10-5A-5 - Conditions for acting as commodity merchant; designation of board of trade
+- Section 10-5A-6 - Fraudulent or deceitful acts or willful misappropriation prohibited
+- Section 10-5A-7 - Liability for acts or omissions of employees, officers, or agents
+- Section 10-5A-8 - Applicability of securities law
+- Section 10-5A-9 - Construction of chapter
+- Section 10-5A-20 - Investigations
+- Section 10-5A-21 - Actions by Commissioner if chapter, rule, or order violated
+- Section 10-5A-22 - Legal or equitable remedies; special remedies
+- Section 10-5A-23 - Venue for civil and criminal actions
+- Section 10-5A-24 - Commissioner of Securities; employees; compensation and expenses; assistant commissioner; prohibited use of information; confidential information
+- Section 10-5A-25 - Cooperation with agencies, administrators, and organizations
+- Section 10-5A-26 - Rules and regulations
+- Section 10-5A-27 - Applicability of Code Sections 10-5A-2, 10-5A-5, and 10-5A-6
+- Section 10-5A-28 - Administrative proceedings
+- Section 10-5A-29 - Judicial review of Commissioner's orders
+- Section 10-5A-30 - Burden of proving exemptions
+- Section 10-5A-31 - Criminal penalties for violating chapter; institution of criminal proceedings

@@ -1,0 +1,29 @@
+# Chapter 25 - GEORGIANET AUTHORITY (§§ 50-25-1 — 50-25-16)
+
+- Section 50-25-1 - Establishment of Georgia Technology Authority
+- Section 50-25-2 - Membership
+- Section 50-25-3 - Administration; legal services
+- Section 50-25-4 - General powers
+- Section 50-25-4.1 - Fingerprint criminal background checks for employees with access to state filings; storage; fees; use
+- Section 50-25-5 - Access to records of state departments, agencies, boards, bureaus, commissions, and other authorities
+- Section 50-25-5.1 - Chief information officer; appointment and removal; compensation; powers and duties
+- Section 50-25-6 - Georgia Register
+- Section 50-25-7 - Sale of files of public information; receipt of data in electronic format from public; application of statutory restrictions on confidentiality to authority
+- Section 50-25-7.1 - Technology empowerment fund; appropriations; initiatives; steering committee; release of funds
+- Section 50-25-7.2 - Adherence to technical standards and specifications established by the authority
+- Section 50-25-7.3 - through 50-25-7.6 - Reserved
+- Section 50-25-7.7 - Conflicts of interest; violations; penalties
+- Section 50-25-7.8 - [Reserved] Contracts for purchases contrary to chapter shall be void; personal liability of official making such purchases; recovery of state funds
+- Section 50-25-7.9 - [Reserved] &quot;Person&quot; defined; purchase of articles for personal or individual ownership prohibited; sale of articles for personal or individual ownership prohibited; violation a misdemeanor
+- Section 50-25-7.10 - Annual state information technology report; requirements; standards
+- Section 50-25-7.11 - Authority of Governor; implementation by executive order
+- Section 50-25-7.13 - Adoption of procedures to ensure compliance with United States copyright laws and applicable licensing restrictions
+- Section 50-25-8 - Tax exemption
+- Section 50-25-9 - Jurisdiction of actions brought against authority
+- Section 50-25-10 - Moneys received by authority deemed to be trust funds
+- Section 50-25-11 - Chapter as supplemental and additional to other powers
+- Section 50-25-12 - Ownership of data not affected
+- Section 50-25-13 - Liberal construction of chapter
+- Section 50-25-14 - Distribution of legislative information
+- Section 50-25-15 - Georgia Technology Authority Overview Committee created; membership; organization
+- Section 50-25-16 - Inquiry and review

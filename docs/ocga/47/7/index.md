@@ -1,0 +1,42 @@
+# Chapter 7 - GEORGIA FIREFIGHTERS' PENSION FUND (§§ 47-7-1 — 47-7-127)
+
+- Section 47-7-1 - Definitions
+- Section 47-7-2 - Purpose of fund; legislative intent
+- Section 47-7-20 - Membership of the board; manner of election; compensation and expenses
+- Section 47-7-21 - Creation of the office of executive director of the board; appointment of the executive director; compensation; bond
+- Section 47-7-22 - Legal adviser to the board
+- Section 47-7-23 - Powers and duties of the board generally
+- Section 47-7-24 - Power of the board to accept and use any gift, grant, or bequest
+- Section 47-7-25 - Annual audit of the fund
+- Section 47-7-26 - Power of board to determine eligibility for membership or retirement of any volunteer firefighter unable to attend the prescribed number of drills, meetings, and fires
+- Section 47-7-27 - Power of board to grant retirement benefit increases
+- Section 47-7-40 - Eligibility to apply for membership; transfer of Georgia Class Nine Fire Department Pension Fund
+- Section 47-7-41 - Effect of withdrawal of contributions or termination of employment; inactive membership; eligibility for reinstatement; credit for time spent on leave of absence and resumption of payments to fund upon reinstatement as active member
+- Section 47-7-43 - Employees of the fund
+- Section 47-7-60 - Dues required of active members; effect of failure to pay dues in timely manner; suspended membership
+- Section 47-7-61 - Tax on premiums charged by fire insurance companies for certain classes of coverage; exclusions; penalty for failure to report and pay such tax
+- Section 47-7-80 - Transfer of service credits from one fire department to another
+- Section 47-7-81 - Effect of failure of volunteer fire department to hold required drills; effect of volunteer firefighter's failure to meet attendance requirements
+- Section 47-7-82 - Fire department employees other than firefighters or volunteer firefighters
+- Section 47-7-83 - Service credit of member who is also member of Peace Officers' Annuity and Benefit Fund
+- Section 47-7-84 - Credit for prior eligible service by persons who are members as of September 1, 1992, or who applied for membership on or before that date
+- Section 47-7-85 - Credit for prior eligible service by persons who are members as of July 1, 1998, or become members after that date
+- Section 47-7-86 - [Repealed] Creditable service for other pension fund participation for members of Georgia Class Nine Fire Department Pension Fund
+- Section 47-7-87 - Credit for prior eligible service; requirements
+- Section 47-7-88 - Impact of active duty military service upon receipt of creditable service time
+- Section 47-7-89 - Calculating creditable service time
+- Section 47-7-90 - Impact of sentence of confinement on accrual of creditable service
+- Section 47-7-100 - Eligibility for full pension benefits; eligibility for partial benefits; optional pension benefits; vesting of rights to pension benefits; early retirement provisions
+- Section 47-7-101 - Eligibility for retirement benefits; withdrawal of application for benefits before approval; reemployment
+- Section 47-7-102 - Eligibility for disability benefits; notice of injury; application for benefits; periodic medical examinations; termination of benefits; action contesting determination of board
+- Section 47-7-103 - Benefits payable upon death; failure to designate beneficiary
+- Section 47-7-104 - Benefits payable to volunteer firefighters erroneously found to be eligible for such benefits
+- Section 47-7-105 - Refund of contributions upon withdrawal from the fund
+- Section 47-7-120 - Reduction of benefits upon determination that available moneys are insufficient; liability of members of the board for such reductions
+- Section 47-7-121 - Vesting of rights to benefits
+- Section 47-7-122 - Exemption of benefits under this chapter from garnishment, attachment, or other process; exemption from taxation; assignment of such benefits
+- Section 47-7-123 - Exemption of assets of the board from taxation
+- Section 47-7-124 - Disposition of funds abandoned by members separated from the service; notice; limitation on asserting certain claims; venue
+- Section 47-7-125 - Availability of records of local departments to board; confidentiality
+- Section 47-7-126 - Penalty for false statements or falsified records; correction of errors by the board
+- Section 47-7-127 - [Repealed] &quot;Alternative investments&quot; defined; code of ethics

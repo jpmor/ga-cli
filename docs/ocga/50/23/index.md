@@ -1,0 +1,36 @@
+# Chapter 23 - ENVIRONMENTAL FACILITIES AUTHORITY (§§ 50-23-1 — 50-23-35)
+
+- Section 50-23-1 - Short title
+- Section 50-23-2 - Legislative intent; assumption of rights, duties, and assets of the Georgia Development Authority
+- Section 50-23-3 - Creation; members; quorum; travel and expenses; legal services; members' accountability recordkeeping; authority assigned
+- Section 50-23-4 - Definitions
+- Section 50-23-5 - Purpose, powers, and duties
+- Section 50-23-6 - Loans to local governments; repayment
+- Section 50-23-7 - Lease agreements
+- Section 50-23-8 - Issuing and refunding of bonds
+- Section 50-23-9 - Review of contracts and agreements by Environmental Protection Division or Georgia Land Conservation Council
+- Section 50-23-10 - Bonds of authority approved for investment and deposit by state, local governments, and others
+- Section 50-23-11 - Pledge of state not to alter or limit the rights of bondholders
+- Section 50-23-12 - Personal liability of members of authority, officers, and employees
+- Section 50-23-13 - Liberal construction; bonds exempt from securities law; necessity of notice, proceeding, or publication; referendums
+- Section 50-23-14 - Bonds not indebtedness of state; guarantee of bonds by state
+- Section 50-23-15 - Exemptions from taxation
+- Section 50-23-16 - Rights under federal Constitution
+- Section 50-23-17 - Approval of bond issues and other obligations by state financing and investment commission
+- Section 50-23-18 - Liberal construction
+- Section 50-23-19 - Limitation on issue of bonds
+- Section 50-23-20 - Withholding state funds from local governments or nongovernmental entities failing to collect and remit amounts when due
+- Section 50-23-21 - Grants for clean energy property; rules and regulations; annual report
+- Section 50-23-25 - &quot;Division&quot; defined
+- Section 50-23-26 - Creation of Water Supply Division; director
+- Section 50-23-27 - Powers, duties, and responsibilities
+- Section 50-23-28 - Establishment of Georgia Reservoir Fund; administration; report
+- Section 50-23-28.1 - Authority to make loans and grants to local governments for expansion of existing reservoirs; criteria
+- Section 50-23-28.2 - Participation by division in certain local water reservoir, facilities, and systems projects
+- Section 50-23-29 - Rules and regulations
+- Section 50-23-30 - &quot;Division&quot; defined
+- Section 50-23-31 - Creation; executive director
+- Section 50-23-32 - Powers and duties
+- Section 50-23-33 - [Repealed] [Reserved] Employees
+- Section 50-23-34 - [Repealed] [Reserved] Office of Energy Resources: Assets, funds, property, contracts, programs, obligations, interests transferred to authority
+- Section 50-23-35 - Rules and regulations authorized

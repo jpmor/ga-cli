@@ -1,0 +1,37 @@
+# Chapter 8 - ACCOUNTING FOR PUBLIC FUNDS (§§ 45-8-1 — 45-8-33)
+
+- Section 45-8-1 - Definitions
+- Section 45-8-2 - Bonds - Requirement of officers holding state funds; requirement of additional bond or security; declaring office vacant upon failure to give additional security; reduction of bonds; substitution of new bonds
+- Section 45-8-3 - Bonds - Requirement of officers holding other than state funds; increase, reduction, or discharge of bonds
+- Section 45-8-4 - Bonds - Declaring office vacant upon officer's failure to give additional security
+- Section 45-8-5 - Bonds - Fixing of amount and approval
+- Section 45-8-6 - Bonds - Liability of new or additional bond for defaults occurring prior to and subsequent to effective date
+- Section 45-8-7 - Bonds - Interest against principal and surety upon breach of bond; additional penalty for bad faith; attorneys' fees
+- Section 45-8-8 - Bonds - When principal and surety not liable
+- Section 45-8-9 - Bonds - Limitation of actions on bonds
+- Section 45-8-10 - Deposit of funds in banks or depositories - Requirement generally
+- Section 45-8-11 - Deposit of funds in banks or depositories - Authority of officers holding public funds to determine amounts to be deposited; waiver of requirement for depository to give security
+- Section 45-8-12 - Deposit of funds in banks or depositories - Depository to give bond; pledge of securities in lieu of bond; acceptance of federal insurance as security; combination of securities; aggregate amount of bond
+- Section 45-8-13 - Deposit of funds in banks or depositories - Deposit of securities by banks or depositories; contract as to interest or compensation
+- Section 45-8-13.1 - Depositories using pooled method of securing deposits of public funds; qualifications; rights and responsibilities of state treasurer; establishing policies and procedures
+- Section 45-8-14 - Depositories for county and school district moneys
+- Section 45-8-14.1 - Funds held by depository; policies and procedures; effective date
+- Section 45-8-15 - Deposit of funds in banks or depositories - Lien in favor of public body on bank assets; deposit as trust fund
+- Section 45-8-16 - Deposit of funds in banks or depositories - Deposits showing officer's official title deemed public funds
+- Section 45-8-17 - Deposit of funds in banks or depositories - Liability
+- Section 45-8-18 - Investment of surplus funds in war bonds or other obligations by treasurer of governmental entity
+- Section 45-8-19 - Jurisdiction to cite defaulting officers, depositories, or sureties for accounting and to issue execution
+- Section 45-8-20 - Citation of officer, bank, or depository to show cause; service of notice
+- Section 45-8-21 - Right to appear at hearing
+- Section 45-8-22 - Cited official, bank, or depository to file statement of accounts; preparation of statement by citing official or authority; entry of judgment or order in nature of judgment; settling accounts
+- Section 45-8-23 - Authority to issue subpoenas; punishment for contempt for refusal to obey
+- Section 45-8-24 - Joinder of parties in proceedings for accounting; power of authorities to determine liability
+- Section 45-8-25 - Issuance of execution against defaulting officer, bank, depository, or surety; enforcement; proceedings to arrest enforcement; burden of proof at trial; parties; effect of admission of correctness by defendant in execution
+- Section 45-8-26 - Action by bond obligee before citation or execution
+- Section 45-8-27 - Procedure for accounting when officer succeeds himself
+- Section 45-8-28 - Personal representative of insane or deceased officer as party to proceedings
+- Section 45-8-29 - Effect of judgment or execution as lien; transfer of judgment or execution; enforcement by transferee; effect of sale or transfer of assets by bank to innocent purchaser for value
+- Section 45-8-30 - Release of property of county officers from state lien - Authorization
+- Section 45-8-31 - Release of property of county officers from state lien - Procedure generally
+- Section 45-8-32 - Release of property of county officers from state lien - Deadline to consummate proposed sale or loan
+- Section 45-8-33 - Effect of chapter upon liability of officers to private persons

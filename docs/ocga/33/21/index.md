@@ -1,0 +1,33 @@
+# Chapter 21 - HEALTH MAINTENANCE ORGANIZATIONS (§§ 33-21-1 — 33-21-29)
+
+- Section 33-21-1 - Definitions
+- Section 33-21-2 - Procedure for establishment of health maintenance organizations generally; notice of modification; exemption of item from filing requirements
+- Section 33-21-3 - Grounds and procedure for issuance or denial of certificate of authority; endorsement of change of address upon certificate of authority
+- Section 33-21-4 - Annual license fee
+- Section 33-21-5 - Suspension or revocation of certificate of authority
+- Section 33-21-6 - Composition of governing body; duty to establish mechanism for participation by enrollees in matters of policy and operation
+- Section 33-21-7 - Fiduciary responsibilities of directors, officers, or partners
+- Section 33-21-8 - Powers of organizations generally; filing of notice of exercise of powers
+- Section 33-21-9 - Establishment and maintenance of complaint system; maintenance of records of complaints; summary reports; examination of system
+- Section 33-21-10 - Responsibility of organizations for financial risks of providing services generally; reinsurance of risks; deposit of cash or securities with Commissioner
+- Section 33-21-11 - Investment of funds of organizations
+- Section 33-21-12 - Participation in organizations by members of associations
+- Section 33-21-13 - Evidence of coverage; filing and approval of basic rates and method of computation of coverage
+- Section 33-21-14 - Annual information to enrollees
+- Section 33-21-15 - Filing of annual reports; contents
+- Section 33-21-16 - Fees and taxes
+- Section 33-21-17 - Examinations of organizations and providers; reports of examinations; payment of expenses of examinations
+- Section 33-21-18 - Adoption of rules and regulations generally
+- Section 33-21-18.1 - Emergency services requirements; restrictive formulary requirements
+- Section 33-21-19 - Promulgation of rules and regulations for licensing of agents
+- Section 33-21-20 - Conduct of hearings generally; participation in hearings by commissioner of community health; judicial review
+- Section 33-21-20.1 - Regulation of HMOs by commissioner of community health
+- Section 33-21-21 - Authority of commissioner of community health to contract for making of recommendations required by chapter; acceptance of recommendations
+- Section 33-21-22 - Applications, filings, and reports to be treated as public documents
+- Section 33-21-23 - Confidentiality of medical information; claim of privileges by organizations
+- Section 33-21-24 - Rehabilitation, liquidation, or conservation of organizations
+- Section 33-21-25 - Organization and operation of health maintenance organizations by insurers or health care corporations
+- Section 33-21-26 - Untrue or misleading statements; deceptive evidence of coverage; cancellation or nonrenewal of enrollees
+- Section 33-21-27 - Enforcement of chapter; penalties for violations of chapter
+- Section 33-21-28 - Applicability of provisions of title and of other laws to health maintenance organizations and representatives
+- Section 33-21-29 - Point-of-service option for persons offered health care coverage through health maintenance organization

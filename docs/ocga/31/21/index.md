@@ -1,0 +1,24 @@
+# Chapter 21 - DEAD BODIES (§§ 31-21-1 — 31-21-45)
+
+- Section 31-21-1 - Approved disinfectant; &quot;embalming&quot; defined
+- Section 31-21-2 - Conflict with authority of Commissioner of Agriculture
+- Section 31-21-3 - Death of person with infectious or communicable disease; required reporting procedures; confidentiality; disclosure; penalties
+- Section 31-21-4 - Burial at sea of cremated remains; notification that cremated remains are ready for interment; unclaimed cremated remains
+- Section 31-21-5 - Incineration or cremation of dead body or parts thereof
+- Section 31-21-6 - Notification of law enforcement agency upon disturbance, destruction, or debasement of human remains
+- Section 31-21-7 - Preneed contracts and revisions; affidavit on disposition of remains; role of probate court; warrant as to truthfulness; liability of funeral home
+- Section 31-21-20 - Board for the Distribution of Cadavers
+- Section 31-21-21 - Delivery to board of certain unclaimed bodies
+- Section 31-21-22 - Disposition of bodies of travelers dying suddenly
+- Section 31-21-23 - Distribution of bodies by board
+- Section 31-21-24 - Transportation of bodies
+- Section 31-21-25 - Bonds
+- Section 31-21-26 - Payment of expenses
+- Section 31-21-40 - Omission to perform duties imposed by chapter
+- Section 31-21-41 - Traffic in human bodies
+- Section 31-21-42 - Disinterment by coroner without good grounds
+- Section 31-21-43 - Removal of dead body from grave for purposes of sale or dissection
+- Section 31-21-44 - Wanton or malicious removal of dead body from grave or disturbance of contents of grave; receipt, retention, disposal, or possession of unlawfully removed dead body or bodily part
+- Section 31-21-44.1 - Abuse of dead body
+- Section 31-21-44.2 - Throwing away or abandonment of dead bodies prohibited; punishment
+- Section 31-21-45 - Public exhibit or display of dead human bodies of American Indians or American Indian human remains

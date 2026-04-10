@@ -1,0 +1,38 @@
+# Chapter 60 - GENERAL PROVISIONS (§§ 36-60-1 — 36-60-32)
+
+- Section 36-60-1 - Licensing of self-service motor fuel dispensing pumps; penalty for operation without license or attendant
+- Section 36-60-2 - Contracts to provide industrial waste-water treatment services
+- Section 36-60-3 - Restriction of adult bookstores and movie houses to certain areas
+- Section 36-60-4 - Removal of junked motor vehicles; adoption of ordinances; authority to contract for removal
+- Section 36-60-5 - Installation of road grates to accommodate bicycles
+- Section 36-60-6 - Utilization of federal work authorization program; &quot;employee&quot; defined; issuance of license; evidence of state licensure; annual reporting; standardized form affidavit; violation; investigations
+- Section 36-60-7 - Use of excess proceeds of bonds issued to match state and federal allocations for hospital
+- Section 36-60-8 - Audit of county or municipal corporation or units thereof
+- Section 36-60-9 - Investigation of business for issuance of county or municipal license; criminal sanction for violation
+- Section 36-60-10 - Annual meeting and agreement between county and city representatives as to services in portion of city within county
+- Section 36-60-11 - [Repealed] Attorney General to receive a copy of any submission to the United States Department of Justice pursuant to federal Voting Rights Act of 1965
+- Section 36-60-12 - Electronic security systems; installation, service, operation, sale, or lease by counties or municipal corporations
+- Section 36-60-12.1 - Fence detection systems; definition; utilization
+- Section 36-60-13 - Multiyear lease, purchase, or lease-purchase contracts
+- Section 36-60-14 - Authority to enter into certain one-year, or less, contracts; exception
+- Section 36-60-15 - Property subject to contract for lease purchase or installment purchase
+- Section 36-60-15.1 - Operation and maintenance of water treatment systems by private entities
+- Section 36-60-16 - Separate approval of municipal and county consolidation by referendum
+- Section 36-60-17 - Water supplier's cut off of water to property because of indebtedness of prior owner, occupant, or lessee prohibited; records required; statement of past due amounts; limited liens for unpaid charges for water, gas, sewerage service, or electricity
+- Section 36-60-17.1 - Localities prohibited from requiring connection with or use of water supplied by a public water system except when other water unfit; charges or fees for services made available but not used prohibited; applicability
+- Section 36-60-17.2 - Limited exemption from storm water fees
+- Section 36-60-18 - Obtaining real property within adjoining county which will be exchanged for federal property
+- Section 36-60-19 - Dispatch centers; required training for communications officers; exceptions; penalty for noncompliance
+- Section 36-60-20 - Political subdivisions have no liability for losses from any failure or malfunction of computer software
+- Section 36-60-21 - Contracts with private companies to construct and operate private toll roads and bridges to facilitate public transportation without additional tax revenues
+- Section 36-60-22 - Rock quarry operations prohibited under certain circumstances
+- Section 36-60-23 - Volunteer firefighters for counties and municipalities
+- Section 36-60-24 - Sale or use or ignition of consumer fireworks products
+- Section 36-60-25 - Certificates of public necessity and convenience and medallions for taxicabs
+- Section 36-60-26 - Unlawful to issue backdated license, permit, or other authorizing document; documents issued in violation void in entirety; criminal penalty for violations
+- Section 36-60-27 - Banking improvement zones
+- Section 36-60-28 - Penalties for alarm system contractors for false alarms
+- Section 36-60-29 - Limitation on decreasing funding for municipal police force; exceptions
+- Section 36-60-30 - Local regulation of leaf blowers
+- Section 36-60-31 - Obstruction of sidewalks by camping or sleeping; enforcement
+- Section 36-60-32 - Video surveillance equipment at locations where the retail sale of automotive gasoline occurs

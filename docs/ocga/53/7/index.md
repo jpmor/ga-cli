@@ -1,0 +1,62 @@
+# Chapter 7 - ADMINISTRATION OF ESTATES GENERALLY (§§ 53-7-1 — 53-7-78)
+
+- Section 53-7-1 - General powers and duties of personal representative; additional powers
+- Section 53-7-2 - Administration of entire estate; distribution of residuum
+- Section 53-7-3 - Powers and immunities of administrator with will annexed
+- Section 53-7-4 - Powers of temporary administrators pending appointment of personal representative and executors pending litigation of caveats to wills
+- Section 53-7-5 - Powers, duties, and liabilities if more than one personal representative; safe deposit boxes or receptacles
+- Section 53-7-6 - Power to borrow money, make and fulfill contracts, provide legal counsel, continue decedent's business, and perform other acts
+- Section 53-7-7 - Disposition of income received during administration
+- Section 53-7-8 - Support and education of minor heirs and beneficiaries without conservators
+- Section 53-7-10 - Allowable defenses; generally
+- Section 53-7-11 - Allowable defenses; action originating in lifetime of decedent
+- Section 53-7-12 - Survival of action
+- Section 53-7-13 - Service of notice, writ, or process
+- Section 53-7-14 - Action against removed personal administrator
+- Section 53-7-15 - Applicability of provisions relating to sureties on guardians' or conservators' bonds
+- Section 53-7-16 - Joint and several liability of personal representative and sureties
+- Section 53-7-17 - Liability on common bond of two or more personal representatives
+- Section 53-7-18 - Liability of sureties on bond of removed personal representative
+- Section 53-7-19 - Action on bond for failure to settle and account with heir or beneficiary
+- Section 53-7-20 - Action on bond upon liability of decedent and return of execution marked nulla bona
+- Section 53-7-21 - Against what property judgment levied
+- Section 53-7-22 - Levy upon property; entering of judgment and issuance of execution
+- Section 53-7-23 - Property upon which execution levied
+- Section 53-7-30 - Filing and contents
+- Section 53-7-31 - Making of inventory jointly by all personal representatives; proof of joint possession of assets
+- Section 53-7-32 - Waiver of right to receive; relieving personal representative of duty to make
+- Section 53-7-33 - Power of testator to dispense with making inventory
+- Section 53-7-34 - Failure to return a correct inventory
+- Section 53-7-40 - Liability of estate; priority of claims
+- Section 53-7-41 - Notice for creditors to render accounts; notification of creditors' claims; requirement of reasonable additional proof or accounting; failure of creditors to give notice of claims
+- Section 53-7-42 - Time for payment of debts; time for commencing action to recover debt
+- Section 53-7-43 - Compelling heirs or beneficiaries to contribute to payment of debt
+- Section 53-7-44 - Satisfaction of debts
+- Section 53-7-45 - Compromise of claims
+- Section 53-7-50 - Petition by personal representative for discharge; citation and publication; hearing; subsequently discovered estate
+- Section 53-7-51 - Discharge when funds unclaimed
+- Section 53-7-52 - Discharge of temporary administrator
+- Section 53-7-53 - Discharge obtained by fraud
+- Section 53-7-54 - Breach of fiduciary duty
+- Section 53-7-55 - Revocation of letters of personal representative or other sanctions
+- Section 53-7-56 - Resignation
+- Section 53-7-60 - Jurisdiction
+- Section 53-7-61 - Filing of petition upon termination of personal representative
+- Section 53-7-62 - Appearance before court; failure of personal representative to appear; right to appeal
+- Section 53-7-63 - Making and enforcing final settlement
+- Section 53-7-64 - Accounting for income on property administered
+- Section 53-7-65 - Recordation of final receipts; admission in evidence
+- Section 53-7-66 - Refunding bonds
+- Section 53-7-67 - Required annual filing; reporting period
+- Section 53-7-68 - Mailing of return to heirs and beneficiaries; relieving personal representative of duty to file return
+- Section 53-7-69 - Power of testator to dispense with necessity of return
+- Section 53-7-69.1 - Annual statement of receipts and disbursements
+- Section 53-7-70 - Examination and recordation of returns and vouchers; evidentiary effect
+- Section 53-7-71 - Return of nonresident or deceased personal representative
+- Section 53-7-72 - Docket of persons liable to make returns; failure to make returns
+- Section 53-7-73 - Filing and contents of intermediate report; notice to heirs and beneficiaries
+- Section 53-7-74 - Filing of objections to intermediate report; continuation of hearing; appeal
+- Section 53-7-75 - Construction of will by superior court
+- Section 53-7-76 - Judgment surcharging fiduciary
+- Section 53-7-77 - Conclusiveness of order on intermediate report
+- Section 53-7-78 - Taxing of costs

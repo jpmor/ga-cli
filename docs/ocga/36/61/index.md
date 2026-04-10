@@ -1,0 +1,22 @@
+# Chapter 61 - URBAN REDEVELOPMENT (§§ 36-61-1 — 36-61-19)
+
+- Section 36-61-1 - Short title
+- Section 36-61-2 - Definitions
+- Section 36-61-3 - Legislative findings and declaration of necessity
+- Section 36-61-3.1 - &quot;Public use&quot; defined; eminent domain to be exercised solely for public use
+- Section 36-61-4 - Encouragement of private enterprise
+- Section 36-61-5 - Resolution of necessity prerequisite to exercise of powers
+- Section 36-61-6 - Formulation of workable program
+- Section 36-61-7 - Preparation of redevelopment plan; approval; modification; effect of approval
+- Section 36-61-8 - Powers of municipalities and counties generally
+- Section 36-61-9 - Power of eminent domain; conditions; title acquired
+- Section 36-61-10 - Disposal of property in redevelopment area generally; notice and bidding procedures; exchange with veterans' organization; temporary operation of property
+- Section 36-61-11 - Repair, closing, and demolition of dwellings unfit for human habitation
+- Section 36-61-12 - Issuance of bonds; payment; tax exemption; form; terms; signatures; negotiability; effect of recitation on bonds
+- Section 36-61-13 - Bonds declared legal investments
+- Section 36-61-14 - Exemption of property from execution, levy, and sale; tax exemption
+- Section 36-61-15 - Presumption as to title of purchaser of property from municipality or county
+- Section 36-61-16 - Assistance by public bodies generally; powers of public bodies; powers of municipalities and counties
+- Section 36-61-17 - Exercise of redevelopment powers by municipalities and counties; delegation to redevelopment agency or housing authority
+- Section 36-61-18 - Creation of agency; appointment of board of commissioners; compensation, term, and certificate; annual report; removal of commissioners
+- Section 36-61-19 - Interest by public official or employee or employee of redevelopment agency in redevelopment project or property; disclosure; eligibility of commissioners and officers of housing authorities for other office

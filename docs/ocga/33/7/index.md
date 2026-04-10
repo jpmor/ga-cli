@@ -1,0 +1,21 @@
+# Chapter 7 - KINDS OF INSURANCE; LIMITS OF RISKS; REINSURANCE (§§ 33-7-1 — 33-7-15)
+
+- Section 33-7-1 - Definitions of insurance not deemed mutually exclusive
+- Section 33-7-2.1 - Direct primary care agreements; no special certificate or license; requirements for agreement and discontinuation of services; refunding
+- Section 33-7-2 - Accident and sickness insurance
+- Section 33-7-3 - Casualty insurance
+- Section 33-7-3.1 - Credit insurance
+- Section 33-7-4 - Life insurance
+- Section 33-7-5 - Marine and transportation insurance
+- Section 33-7-6 - Property insurance; contract requirements; rules and regulations; exemptions
+- Section 33-7-7 - Surety insurance
+- Section 33-7-8 - Title insurance
+- Section 33-7-8.1 - Closing protection letters; definitions; premiums regarding such letters; maintenance of adequate reserves; rules and regulations
+- Section 33-7-9 - Vehicle insurance
+- Section 33-7-10 - Persons deemed subject to laws regulating life insurance companies
+- Section 33-7-11 - Uninsured motorist coverage under motor vehicle liability policies
+- Section 33-7-11.1 - Commencement of liability of insurer to pay benefits to third party on behalf of insured; applicability of Code section
+- Section 33-7-12 - Effect of policy provision permitting insurer to settle or compromise claims of third persons against insured; release of claims by third persons
+- Section 33-7-13 - Limitation of risks
+- Section 33-7-14 - Reinsurance of risks
+- Section 33-7-15 - Cooperation by insured with insurer in defense of action or threatened action under policy

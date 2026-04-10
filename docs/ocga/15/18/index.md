@@ -1,0 +1,76 @@
+# Chapter 18 - PROSECUTING ATTORNEYS (§§ 15-18-1 — 15-18-99)
+
+- Section 15-18-1 - District attorney as successor to solicitor-general
+- Section 15-18-2 - Oath of office
+- Section 15-18-3 - Qualifications
+- Section 15-18-4 - Effect of attachment of county of residence to different circuit
+- Section 15-18-4.1 - District attorney performing ordered military duty
+- Section 15-18-5 - Appointment of substitute for absent or disqualified district attorney
+- Section 15-18-6 - Duties of district attorney
+- Section 15-18-6.1 - Representation of state in juvenile court cases
+- Section 15-18-7 - Representation of state in criminal cases removed to federal court
+- Section 15-18-9 - Authority to enter nolle prosequi
+- Section 15-18-10 - Compensation of district attorneys; private practice of law prohibited
+- Section 15-18-10.1 - Annual accountability supplement; exception
+- Section 15-18-11 - Supplementation of compensation for services under Code Section 19-11-23
+- Section 15-18-12 - Travel expenses; provision of county vehicle; budget request for state funds
+- Section 15-18-13 - Payment of costs in appellate courts
+- Section 15-18-14 - Appointment of assistant district attorneys; qualifications; compensation
+- Section 15-18-14.1 - Investigators; qualifications; powers; compensation
+- Section 15-18-14.2 - Victim assistance coordinator
+- Section 15-18-15 - Chief assistant district attorney; powers and duties in district attorney's absence
+- Section 15-18-16 - Substitution of assistant on death or resignation of district attorney
+- Section 15-18-17 - Employment of administrative personnel generally
+- Section 15-18-18 - [Reserved] Alternate hiring procedure for secretaries
+- Section 15-18-19 - State paid personnel; salary schedules
+- Section 15-18-20 - Additional personnel as state employees
+- Section 15-18-20.1 - Additional personnel for district attorney's office
+- Section 15-18-21 - Qualifications of attorneys and investigators employed by district attorney
+- Section 15-18-22 - Use of third-year law students and law school staff instructors as legal assistants in criminal proceedings
+- Section 15-18-23 - Office expenses
+- Section 15-18-24 - Liability of district attorney; failure to comply as ground for impeachment
+- Section 15-18-25 - Fine for failure to attend courts
+- Section 15-18-26 - Taking money or thing of value in exchange for official actions; ground for impeachment
+- Section 15-18-27 - Allegation of indictable offense committed by district attorney or staff member; procedure if true bill found
+- Section 15-18-28 - Personnel positions continuation after April 11, 1990
+- Section 15-18-29 - Honorary office of district attorney emeritus
+- Section 15-18-30 - Temporary assistance of retired prosecuting attorney
+- Section 15-18-31 - Referrals to defensive driving programs
+- Section 15-18-32 - Prosecuting Attorneys Qualifications Commission; authority; membership; ex parte communications; governance; disciplinary actions; confidentiality; privileged nature
+- Section 15-18-40 - Prosecuting Attorneys' Council established; purpose and functions
+- Section 15-18-41 - Composition of council; election and term of office; filling of vacancies; removal
+- Section 15-18-42 - Meetings; officers; reimbursement for expenses
+- Section 15-18-43 - Members not ineligible for office
+- Section 15-18-44 - Powers and duties; employees' bonds; audits
+- Section 15-18-45 - Authorization to conduct or approve training programs; requirements for designated special drug prosecutor
+- Section 15-18-46 - Prohibited activities
+- Section 15-18-47 - Qualifications, authority, and duties
+- Section 15-18-60 - Establishment of solicitor-general; term; vacancies; service by district attorney; multicounty service
+- Section 15-18-61 - Oath
+- Section 15-18-62 - Requirements
+- Section 15-18-63 - Part-time and full-time solicitors-general and employees; private practice of law
+- Section 15-18-64 - Leave of absence; ordered military duty
+- Section 15-18-65 - Disqualification; solicitor-general pro tempore
+- Section 15-18-66 - Duties; authority
+- Section 15-18-67 - Compensation
+- Section 15-18-68 - Reimbursement for expenses
+- Section 15-18-69 - Payment of costs and fees by state
+- Section 15-18-70 - Chief or acting assistant solicitor-general
+- Section 15-18-70.1 - Acting solicitor-general in the event of death or resignation
+- Section 15-18-71 - Additional personnel and employees
+- Section 15-18-72 - Qualifications of personnel
+- Section 15-18-73 - Offices, utilities, equipment, supplies, expenses, costs, materials
+- Section 15-18-74 - Liability; immunity from suit; liability insurance or contracts of indemnity
+- Section 15-18-80 - Policy and procedure
+- Section 15-18-81 - Court costs
+- Section 15-18-82 - Definition
+- Section 15-18-90 - Applicability of article
+- Section 15-18-91 - Creation of office of prosecuting attorney of municipal court; term; cooperative efforts
+- Section 15-18-92 - Criteria for appointment; consent
+- Section 15-18-93 - Oath of office
+- Section 15-18-94 - Employment status; additional duties
+- Section 15-18-95 - Disqualification or incapacity of prosecuting attorney; substitution
+- Section 15-18-96 - Authority of prosecuting attorney
+- Section 15-18-97 - Compensation for prosecuting attorney
+- Section 15-18-98 - Appointment of staff
+- Section 15-18-99 - Qualifications of prosecutors

@@ -1,0 +1,25 @@
+# Chapter 14 - SUPERIOR COURT CLERKS' RETIREMENT FUND OF GEORGIA (§§ 47-14-1 — 47-14-91)
+
+- Section 47-14-1 - Definitions
+- Section 47-14-20 - Creation of the Board of Commissioners of the Superior Court Clerks' Retirement Fund of Georgia; membership of the board; quorum; compensation and expenses
+- Section 47-14-21 - Creation of office of secretary-treasurer; selection, compensation, and powers and duties; periodic reports of moneys in hand, receipts, and expenditures; performance bond
+- Section 47-14-22 - Powers and duties of the board generally
+- Section 47-14-23 - Special account for funds; investment powers of board
+- Section 47-14-24 - Gifts, grants, and bequests
+- Section 47-14-25 - Duty of board to keep records; presentation of annual financial statement to Clerks' Group of the County Officers' Association of Georgia
+- Section 47-14-26 - Duty of the state auditor to make an annual audit and report; audit upon request of the board or the Governor; contents of annual report
+- Section 47-14-40 - Application for membership in the fund; payments by members into the fund; penalties for late payment; creditable service impacted by late payments
+- Section 47-14-50 - &quot;Collecting authority&quot; defined; payments to fund from fines and bonds collected in criminal and quasi-criminal cases; duty of collecting authority to record and remit; penalty for late payment
+- Section 47-14-51 - Payments to the fund from fees collected in certain civil actions and for recording of instruments pertaining to real estate; records; audit of records; use of sums remitted; failure of clerk to remit
+- Section 47-14-70 - Eligibility for retirement benefits; additional or partial retirement benefits; election of spousal benefits
+- Section 47-14-71 - Eligibility for disability benefits; determination of disability
+- Section 47-14-72 - Benefits payable in the event of death before retirement; rights of surviving spouse
+- Section 47-14-73 - Eligibility to retire and receive retirement benefits; effect of retirement before age 55
+- Section 47-14-74 - Application of certain increases in benefits to benefits paid to surviving spouses
+- Section 47-14-75 - Eligibility for certain benefit increases
+- Section 47-14-76 - Right to withdraw dues; effect of withdrawal on membership and benefits; eligibility to rejoin the fund
+- Section 47-14-77 - Service for which no credit received for retirement purposes
+- Section 47-14-78 - Service for which credit received for retirement purposes
+- Section 47-14-79 - Death benefit paid to designated beneficiary of member who dies in service
+- Section 47-14-90 - Reduction of benefits upon determination that available funds are insufficient; order of payment upon resumption of payments in full; liability of board for such reductions
+- Section 47-14-91 - Exemption of rights and benefits under this chapter from taxation; exemption from levy and sale, garnishment, attachment, or other process; assignability

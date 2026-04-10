@@ -1,0 +1,68 @@
+# Chapter 15 - OFFICE OF SAFETY FIRE COMMISSIONER (§§ 25-15-1 — 25-15-110)
+
+- Section 25-15-1 - Office of Safety Fire Commissioner to be successor to Department of Labor relating to transferred functions
+- Section 25-15-10 - Short title
+- Section 25-15-11 - Definitions
+- Section 25-15-12 - Consulting on boilers and pressure vessels
+- Section 25-15-13 - Definitions, rules, and regulations for safe construction, installation, inspection, maintenance, and repair
+- Section 25-15-14 - Effect on new construction and installation
+- Section 25-15-15 - Maximum allowable working pressure
+- Section 25-15-16 - Exceptions from article and exemptions from inspection and certificate requirements
+- Section 25-15-17 - Chief inspector
+- Section 25-15-18 - Deputy inspectors; qualifications; examination
+- Section 25-15-19 - Special inspectors; owner or user inspectors
+- Section 25-15-20 - Examination of inspectors
+- Section 25-15-21 - Suspension and revocation of inspector's certificate of competency; hearing; reinstatement
+- Section 25-15-22 - Replacement of lost or destroyed certificates of competency
+- Section 25-15-23 - Inspections
+- Section 25-15-24 - Filing and maintenance of special investigator's report; issuance and suspension of inspection certificate
+- Section 25-15-25 - Reinspections and fees; waiver of penalties and interest
+- Section 25-15-26 - Requirement of valid inspection certificate for operation of a boiler or pressure vessel
+- Section 25-15-27 - Payment of inspection fees
+- Section 25-15-28 - Appeals
+- Section 25-15-29 - Limitations on authority of local governments to regulate boilers and pressure vessels
+- Section 25-15-30 - State liability not created
+- Section 25-15-31 - Civil penalties for violations; authority of Commissioner to bring civil action
+- Section 25-15-50 - Short title
+- Section 25-15-51 - Definitions
+- Section 25-15-52 - Consultation with persons knowledgeable in area of amusement rides
+- Section 25-15-53 - Formulation of standards and regulations for rides; related powers and duties
+- Section 25-15-54 - Licensing of private inspectors
+- Section 25-15-55 - Permit required to operate rides; certificate of inspection
+- Section 25-15-56 - Amusement ride inspection; issuance of certificate of inspection
+- Section 25-15-57 - Waiver of ride inspection requirement
+- Section 25-15-58 - Issuance of permits
+- Section 25-15-59 - Owner recordkeeping
+- Section 25-15-60 - Restrictions on ride operators
+- Section 25-15-61 - Accident reports
+- Section 25-15-62 - Liability insurance, bond, cash, or security coverage
+- Section 25-15-63 - Variances
+- Section 25-15-64 - Applicability of article
+- Section 25-15-65 - Compliance of existing rides
+- Section 25-15-66 - Order for temporary cessation; injunction; penalties
+- Section 25-15-67 - Right of owner or operator to deny entry to rides; inspector's right of access
+- Section 25-15-68 - State liability not created
+- Section 25-15-69 - Regulation of amusement rides by counties, municipalities, and other political subdivisions
+- Section 25-15-80 - Short title
+- Section 25-15-81 - Definitions
+- Section 25-15-82 - Authority to consult
+- Section 25-15-83 - Safety standards and regulations; licensing of inspectors; ride permits; fees
+- Section 25-15-84 - Licensing of private inspectors
+- Section 25-15-85 - Permit required; application; engineering evaluation
+- Section 25-15-86 - Inspections
+- Section 25-15-87 - Waiver of inspection for rides inspected by other entity
+- Section 25-15-88 - Issuance of permit
+- Section 25-15-89 - Maintenance, inspection, and repair records
+- Section 25-15-90 - Ride operators; minimum standards for operation of rides
+- Section 25-15-91 - Accident reports
+- Section 25-15-92 - Liability insurance, bond, or other security required
+- Section 25-15-93 - Variances from standards and regulations
+- Section 25-15-94 - Exempted rides
+- Section 25-15-95 - Existing rides
+- Section 25-15-96 - Order for temporary cessation; injunction; penalties
+- Section 25-15-97 - Right of owner or operator to deny entry to rides; right of inspector to access ride
+- Section 25-15-98 - Posting of age, size, and weight requirements for rides
+- Section 25-15-99 - Itinerant carnival rides to be continuously registered with in-state agent
+- Section 25-15-100 - State liability not created
+- Section 25-15-101 - Regulation of carnival rides by counties, municipalities, and other political subdivisions
+- Section 25-15-110 - Requirements for scaffolding and staging design; inspection by Safety Fire Commissioner

@@ -1,0 +1,160 @@
+# Chapter 34 - PHYSICIANS, ACUPUNCTURE, PHYSICIAN ASSISTANTS, CANCER AND GLAUCOMA TREATMENT, RESPIRATORY CARE, CLINICAL PERFUSIONISTS, AND ORTHOTICS AND PROSTHETICS PRACTICE (§§ 43-34-1 — 43-34-316)
+
+- Section 43-34-1 - Definitions
+- Section 43-34-2 - Creation of board; members; physician assistants advisory committee; review of qualifications; required training
+- Section 43-34-3 - Terms of office; representation of geographic regions; vacancies
+- Section 43-34-4 - Oath of board members; certificate of appointment
+- Section 43-34-5 - Election of board officers; reimbursement of members; meetings; powers and duties; no restriction on licenses
+- Section 43-34-5.1 - Professional health program for monitoring and rehabilitation of impaired health care professionals; definitions; authorization; confidentiality; costs
+- Section 43-34-6 - Board as an independent agency; executive director; meetings and hearings; licenses, certificates, and permits; investigations; venue; credit to veterans; annual report
+- Section 43-34-7 - Maintenance of roster; confidentiality
+- Section 43-34-8 - Authority to refuse license, certificate, or permit or issue discipline; suspension; restoration; investigations; hearings on fitness; immunity; publication of final disciplinary actions
+- Section 43-34-9 - Prior notice and hearing in disciplinary proceedings; proceedings as constituting contested cases; subpoenas; failure to appear
+- Section 43-34-10 - Notification of conviction
+- Section 43-34-11 - Continuing education requirement; required training for physicians
+- Section 43-34-12 - Radiologist assistant defined
+- Section 43-34-13 - &quot;Expedited physician licensee&quot; and &quot;health care professional&quot; defined; fingerprinting and criminal background check
+- Section 43-34-14 - Development and identification of educational materials on sexual misconduct, sexual boundaries, and impacts of trauma and implicit bias
+- Section 43-34-15 - Prohibition on certain therapies and procedures for treatment of gender dysphoria in minors; regulations; exceptions; accountability
+- Section 43-34-20 - Short title
+- Section 43-34-21 - Definitions
+- Section 43-34-22 - Practicing medicine without a license; titles and abbreviations; exceptions
+- Section 43-34-22.1 - [Repealed] Requirements for advertising or publicizing of specialty certification
+- Section 43-34-23 - Delegation of authority to nurse or physician assistant
+- Section 43-34-24 - Drug therapy management; modification by pharmacist
+- Section 43-34-25 - Delegation of certain medical acts to advanced practice registered nurse; construction and limitations of such delegation; conditions of nurse protocol; issuance of prescription drug orders
+- Section 43-34-26 - License requirement for persons engaged in practice of medicine; qualifications; evaluation program; examinations
+- Section 43-34-26.1 - Vaccine protocol agreements
+- Section 43-34-27 - Licensing aliens; licensing Canadian medical school graduates
+- Section 43-34-28 - Reciprocity; expedited license
+- Section 43-34-29 - Issuance of teacher's license to licensed physicians of other states and foreign countries; renewal
+- Section 43-34-29.1 - Administrative medicine licenses; definitions; requirements; rules of board
+- Section 43-34-29.2 - Educational certificates for out-of-state physicians participating in educational training requiring patient care
+- Section 43-34-29.3 - Provider defined; exemption from licensing requirement; reciprocating between states
+- Section 43-34-30 - Out-of-state physicians entering state for consultation; establishment of offices by out-of-state physicians
+- Section 43-34-31 - Practice of medicine from foreign jurisdiction by electronic means; exceptions; patient records; confidentiality
+- Section 43-34-31.1 - Licensing of telemedicine physicians; revocation
+- Section 43-34-32 - Temporary licenses
+- Section 43-34-33 - Institutional licenses
+- Section 43-34-34 - Limited provisional licenses
+- Section 43-34-35 - Issuance of license upon presentation of evidence of required qualifications
+- Section 43-34-36 - Passing upon good standing and reputation of medical and osteopathic colleges
+- Section 43-34-37 - Persons authorized to perform artificial insemination; civil liability of physician or surgeon
+- Section 43-34-38 - [Repealed] [Reserved] Access to medical treatment; experimental and nonconventional medical treatments
+- Section 43-34-39 - Injunctions; violations of article as constituting nuisance
+- Section 43-34-40 - Fraudulently obtaining or selling records; fraudulent use of terms
+- Section 43-34-41 - Special licenses for volunteers
+- Section 43-34-42 - Penalty
+- Section 43-34-43 - Temporary postgraduate training permits; notifications to board; authorization to adopt regulations
+- Section 43-34-44 - Role of medical assistants clarified
+- Section 43-34-45 - Polysomnography; practice
+- Section 43-34-46 - Maintenance of certification programs
+- Section 43-34-47 - Regulation of sedation and rescue in office based surgeries; failure to comply
+- Section 43-34-48 - Reporting of sexual assaults by physicians on patients; protections for actions done in good faith; penalty for failing to report; use of records
+- Section 43-34-60 - Short title
+- Section 43-34-61 - Purpose
+- Section 43-34-62 - Definitions
+- Section 43-34-63 - Power and responsibility of the board
+- Section 43-34-64 - Licensure requirements
+- Section 43-34-65 - Applicant notification procedures
+- Section 43-34-66 - License surrender upon demand; display requirements; change of address
+- Section 43-34-67 - License renewal requirements; inactive status
+- Section 43-34-68 - Informed consent requirements
+- Section 43-34-69 - Sanctions
+- Section 43-34-70 - Advisory committee
+- Section 43-34-71 - Unlicensed practice; exceptions; penalties
+- Section 43-34-72 - Use of titles and professional designations
+- Section 43-34-100 - Short title
+- Section 43-34-101 - Legislative purpose
+- Section 43-34-102 - Definitions
+- Section 43-34-103 - Application for licensure as a physician assistant; authorized delegated authority; prohibited acts
+- Section 43-34-104 - Notice of application approval or disapproval; issuance of license
+- Section 43-34-105 - Performance of tasks in accordance with job description
+- Section 43-34-106 - Posting notice that assistants are being utilized
+- Section 43-34-107 - Termination of approval and revocation of license; notice and hearing; sanctions
+- Section 43-34-108 - Powers and duties of board
+- Section 43-34-109 - Involvement of supervising physician in patient's care
+- Section 43-34-110 - Abortions not to be performed by physician assistants
+- Section 43-34-120 - Short title
+- Section 43-34-121 - Legislative intent
+- Section 43-34-122 - Definitions
+- Section 43-34-123 - Controlled Substances Therapeutic Research Program
+- Section 43-34-124 - Patient Qualification Review Board; members; officers; meetings; duties; exception to open meetings requirements
+- Section 43-34-125 - Receipt of marijuana by board; distribution; responsibility for costs of obtaining and testing marijuana
+- Section 43-34-126 - Immunity of program participants from state prosecution for possession or use of authorized marijuana
+- Section 43-34-140 - Short title
+- Section 43-34-141 - Legislative finding and declaration
+- Section 43-34-142 - Definitions
+- Section 43-34-143 - Powers and duties of board
+- Section 43-34-144 - Requirements for certification; supervision
+- Section 43-34-145 - Notice to applicant of acceptance or rejection
+- Section 43-34-146 - Ownership of certificate; posting; change of address; renewal; inactive status; board authorized to determine renewal requirements
+- Section 43-34-147 - Temporary permits
+- Section 43-34-148 - Reciprocity
+- Section 43-34-149 - Sanctions
+- Section 43-34-150 - Respiratory care advisory committee
+- Section 43-34-151 - Practice of respiratory care or representation as respiratory care professional without certification prohibited; exceptions; penalty; application of emergency care law
+- Section 43-34-152 - &quot;Georgia Administrative Procedure Act&quot; applicable
+- Section 43-34-170 - Short title
+- Section 43-34-171 - Definitions
+- Section 43-34-172 - Powers and responsibilities of board
+- Section 43-34-173 - Requirements for licensure
+- Section 43-34-174 - License to be property of board; display of license; surrender of license; renewal; expired license
+- Section 43-34-175 - Issuance of provisional licensed clinical perfusionist license; supervision of licensee; renewal; revocation
+- Section 43-34-176 - Requirements for waiver of examination and educational requirements
+- Section 43-34-177 - Engaging in practice of perfusion without license; titles; violation
+- Section 43-34-178 - Nonapplicability of Code Section 43-34-177; violation
+- Section 43-34-179 - Sanctions by board
+- Section 43-34-180 - Advisory committee
+- Section 43-34-190 - Short title
+- Section 43-34-191 - Findings of General Assembly
+- Section 43-34-192 - Definitions
+- Section 43-34-193 - Construction of article
+- Section 43-34-194 - Application for original license
+- Section 43-34-195 - Qualifications for license
+- Section 43-34-196 - Sanctions authorized
+- Section 43-34-197 - Supervision of assistants and technicians
+- Section 43-34-198 - Application for license for persons currently practicing orthotics or prosthetics
+- Section 43-34-199 - Order from licensed physician or podiatrist required
+- Section 43-34-200 - Expiration date and renewal period; continuing education; procedure for restoration
+- Section 43-34-201 - Inactive status
+- Section 43-34-202 - Reciprocal licensure requirements
+- Section 43-34-203 - Advisory committee
+- Section 43-34-240 - Short title
+- Section 43-34-241 - Legislative findings; purpose
+- Section 43-34-242 - Definitions
+- Section 43-34-243 - Permitted activities
+- Section 43-34-244 - Two levels of license; application
+- Section 43-34-245 - Expiration of licenses; license renewal
+- Section 43-34-246 - Sanctions
+- Section 43-34-247 - Petition to restrain or enjoin unlicensed cosmetic laser practitioner
+- Section 43-34-248 - Agreement with consulting physician
+- Section 43-34-249 - Informed consent
+- Section 43-34-249.1 - Waiver
+- Section 43-34-250 - Advisory committee
+- Section 43-34-251 - Prohibited activities
+- Section 43-34-252 - Noncompliance of facility owner; penalty
+- Section 43-34-253 - Violation; penalty
+- Section 43-34-280 - Short title
+- Section 43-34-281 - Legislative intent
+- Section 43-34-282 - Definitions
+- Section 43-34-283 - Licensure requirements
+- Section 43-34-284 - Denial, suspension, and revocation of licenses
+- Section 43-34-285 - Notice to the board upon the occurrence of certain events
+- Section 43-34-286 - Registration of clinics dispensing controlled substances
+- Section 43-34-287 - Renewal of licenses
+- Section 43-34-288 - Penalty for violation of article
+- Section 43-34-289 - Annual notification regarding use of Schedule II or III controlled substances
+- Section 43-34-290 - Confidentiality of records
+- Section 43-34-300 - Short title
+- Section 43-34-301 - Enactment; text of compact
+- Section 43-34-302 - Regulatory authority
+- Section 43-34-303 - Voting representatives serving as commissioners on the Interstate Medical Licensure Compact Commission
+- Section 43-34-304 - Requirements of physicians with expedited license
+- Section 43-34-310 - Short title
+- Section 43-34-311 - Definitions
+- Section 43-34-312 - Requirements for licensure; temporary licensing
+- Section 43-34-313 - Renewal, term, and restoration of license
+- Section 43-34-314 - License required for practice; misrepresentation of status
+- Section 43-34-315 - Powers and responsibilities of board
+- Section 43-34-316 - Exceptions

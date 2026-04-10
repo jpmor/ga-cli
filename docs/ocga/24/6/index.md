@@ -1,0 +1,31 @@
+# Chapter 6 - WITNESSES (§§ 24-6-601 — 24-6-658)
+
+- Section 24-6-601 - General rule of competency
+- Section 24-6-602 - Lack of personal knowledge
+- Section 24-6-603 - Oath or affirmation
+- Section 24-6-604 - Interpreters
+- Section 24-6-605 - Judge as witness
+- Section 24-6-606 - Juror as witness
+- Section 24-6-607 - Who may impeach
+- Section 24-6-608 - Evidence of character and conduct of witness
+- Section 24-6-609 - Impeachment by evidence of conviction of a crime
+- Section 24-6-610 - Religious beliefs or opinions
+- Section 24-6-611 - Mode and order of witness interrogation and presentation
+- Section 24-6-612 - Writing used to refresh memory
+- Section 24-6-613 - Prior statements of witnesses
+- Section 24-6-614 - Calling and interrogation of witnesses by court
+- Section 24-6-615 - Exclusion of witnesses
+- Section 24-6-616 - Presence in courtroom of victim of criminal offense
+- Section 24-6-620 - Credibility a question for trier of fact
+- Section 24-6-621 - Impeachment by contradiction
+- Section 24-6-622 - Witness's feelings towards and relationship to parties provable
+- Section 24-6-623 - Treatment of witness
+- Section 24-6-650 - State policy on hearing impaired persons
+- Section 24-6-651 - Definitions
+- Section 24-6-652 - Qualified interpreters at agency proceedings
+- Section 24-6-653 - Procedure for interrogation and taking of statements from hearing impaired persons arrested for violation of criminal laws
+- Section 24-6-654 - Indigent hearing impaired defendants to be provided with interpreters
+- Section 24-6-655 - Waiver of right to interpreter
+- Section 24-6-656 - Replacement of interpreters unable to communicate accurately with hearing impaired persons; appointment of intermediary interpreters
+- Section 24-6-657 - Oath of interpreters; privileged communications; taping and filming of hearing impaired persons' testimony
+- Section 24-6-658 - Compensation of interpreters

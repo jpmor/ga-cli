@@ -1,0 +1,59 @@
+# Chapter 7 - PRETRIAL PROCEEDINGS (§§ 17-7-1 — 17-7-210)
+
+- Section 17-7-1 - Jailing of prisoners where no jail in county or when deemed necessary by sheriff; fees and costs; authority to levy and collect tax
+- Section 17-7-2 - When sheriff not required to receive prisoner from another county
+- Section 17-7-3 - List of children in detention pending trial provided to chief judge and prosecuting attorney
+- Section 17-7-4 - [Repealed] Trial without a jury; court requirements; court ordering trial with jury; repealing provision
+- Section 17-7-20 - Persons who may hold courts of inquiry
+- Section 17-7-21 - Holding of court of inquiry by several judicial officers; procedure for deciding questions
+- Section 17-7-22 - Powers of presiding officer in court of a municipal corporation to bind over or commit criminal offenders to jail
+- Section 17-7-23 - Duties of court of inquiry; preclusion of certain courts from trying charges involving Code Section 16-11-126
+- Section 17-7-24 - Time granted parties to prepare case and to secure counsel; granting of bail where hearing delayed
+- Section 17-7-25 - Power of court to compel attendance of witnesses
+- Section 17-7-26 - Authority to require bonds to secure appearance of witnesses
+- Section 17-7-27 - Sheriffs and constables to accept bond for appearance of witnesses; approval of sureties by sheriff
+- Section 17-7-28 - Hearing of evidence by court of inquiry; right of accused to testify; application of rules of evidence; effect of failure of accused to testify
+- Section 17-7-29 - Commitment of defendant for different offense than stated in warrant
+- Section 17-7-30 - Form of commitment
+- Section 17-7-31 - Endorsement of names of state's witnesses on warrant
+- Section 17-7-32 - Disposition of commitment form, warrant, and other papers; delivery of accused to person in charge of jail
+- Section 17-7-34 - Effect of informality in commitment or prior proceedings
+- Section 17-7-50 - Right to grand jury hearing within 90 days where bail refused; right to have bail set absent hearing within 90 day period
+- Section 17-7-50.1 - Time for presentment of child's case to a grand jury; exception
+- Section 17-7-51 - Special presentments treated as indictments; entry upon minutes; prosecutions upon special presentments
+- Section 17-7-52 - Procedure for indictment or special presentment of peace officer for crime in performance of duties; notification; rights of officer
+- Section 17-7-53 - Operation of two returns of &quot;no bill&quot; on charge as bar to future prosecution for same charge
+- Section 17-7-53.1 - Quashing of second grand jury indictment or presentment bars further prosecution
+- Section 17-7-54 - Form of indictment by grand jury
+- Section 17-7-55 - Empaneling concurrent grand juries
+- Section 17-7-70 - Trial upon accusations of felony and misdemeanor cases in which guilty plea entered and indictment waived
+- Section 17-7-70.1 - Trial upon accusations in certain felony and misdemeanor cases; trial upon plea of guilty or nolo contendere
+- Section 17-7-71 - Trials of misdemeanors; trial of misdemeanor motor vehicle violations; form and contents of accusations; amendment of accusation; service of amendment upon defendant; continuances
+- Section 17-7-72 - Jurisdiction of probate courts to try certain drug and alcohol offenses
+- Section 17-7-73 - Trial of litter offenses upon summons or citation without accusation
+- Section 17-7-90 - Issuance of bench warrant; execution; receiving bail, fixing bond, and approving sureties
+- Section 17-7-91 - Date of arraignment; notice; service of notice and fee therefor; notice to surety on bond; arraignment; receipt and entering of plea; establishment of time for trial; effect of appearance and plea on notice requirement
+- Section 17-7-92 - Service of notice of filing of indictment, special presentment, or accusation against corporation; return of service; failure of corporation to appear or enter plea; judgment and execution against corporate property
+- Section 17-7-93 - Reading of indictment or accusation; answer of accused to charge; recordation of &quot;guilty&quot; plea and pronouncement of judgment; withdrawn guilty pleas; pleas by immigrants
+- Section 17-7-94 - Recordation and effect of plea of &quot;not guilty&quot; or of standing mute
+- Section 17-7-95 - Plea of nolo contendere in noncapital felony cases; imposition of sentence; use of plea in other proceedings; use of plea to effect civil disqualifications; imposition of sentence upon plea deemed jeopardy
+- Section 17-7-96 - Prosecuting officer to enter arraignment and plea on indictment or accusation
+- Section 17-7-97 - Proceedings upon failure of clerk to record arraignment and plea; effect of proceedings
+- Section 17-7-110 - Time for filing pretrial motions
+- Section 17-7-111 - Demurrers and special pleas to be in writing; right to plead &quot;not guilty&quot; if demurrer or plea denied
+- Section 17-7-112 - Plea of misnomer
+- Section 17-7-113 - Time for making exception to form of indictment or accusation
+- Section 17-7-129 - Mental capacity to stand trial; release of competency evaluation to prosecuting attorney
+- Section 17-7-130 - Proceedings upon plea of mental incompetency to stand trial
+- Section 17-7-130.1 - Evidence as to defendant's sanity at time of offense; examination and testimony by psychiatrist or psychologist
+- Section 17-7-131 - Proceedings upon plea of insanity or mental incompetency at time of crime
+- Section 17-7-150 - Procedures for change of venue; transfer of case; appeal from denial of change of venue
+- Section 17-7-151 - Transfer upon change of venue of evidence, list of witnesses, and papers; issuance of subpoenas to witnesses and others by clerk of court selected to try case
+- Section 17-7-152 - Subsequent changes of venue
+- Section 17-7-170 - Demand for speedy trial; service; discharge and acquittal for lack of prosecution; expiration; reversal on direct appeal; mistrial and retrial; special pleas of incompetency
+- Section 17-7-171 - Time for demand for speedy trial in capital cases; discharge and acquittal when no trial held before end of two court terms of demand; counting of terms in cases in which death penalty is sought; special pleas of incompetency
+- Section 17-7-172 - Requirement of announcement by state of readiness for trial prior to announcement by defendant; speedy trial
+- Section 17-7-190 - Subpoena of material witnesses for state for appearance before grand jury; furnishing of prosecuting officers with list of persons subpoenaed
+- Section 17-7-191 - Subpoena process for witnesses of defendant; when subpoenas may be extended to witnesses outside of county
+- Section 17-7-192 - Continuance for nonattendance of witnesses not subpoenaed by defendant
+- Section 17-7-210 - 17-7-211 - Reserved

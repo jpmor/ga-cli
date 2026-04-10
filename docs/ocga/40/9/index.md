@@ -1,0 +1,36 @@
+# Chapter 9 - REPORTING ACCIDENTS; GIVING PROOF OF FINANCIAL RESPONSIBILITY (§§ 40-9-1 — 40-9-103)
+
+- Section 40-9-1 - Short title
+- Section 40-9-2 - Definitions
+- Section 40-9-3 - Administration of chapter; rules and regulations; hearings; appeals
+- Section 40-9-4 - Exceptions to application of chapter
+- Section 40-9-5 - Application of chapter to nonresidents, unlicensed drivers, and unregistered vehicles; accidents in other states
+- Section 40-9-6 - [Repealed] Transfer of registration of vehicle after registration suspended
+- Section 40-9-7 - Surrender of license after suspension
+- Section 40-9-8 - Operating vehicle during suspension of driver's license or operating privilege
+- Section 40-9-9 - Reinstatement of driver's license; fee
+- Section 40-9-10 - Chapter supplemental
+- Section 40-9-11 - Chapter not to prevent other process
+- Section 40-9-12 - Violations generally
+- Section 40-9-30 - Fee for copy of accident report
+- Section 40-9-31 - Submission of accident reports to department
+- Section 40-9-32 - Determination of amount of security required; time limitation on consideration of accident report, notice, or claim; administrative hearing; judicial review
+- Section 40-9-33 - Suspension of driver's license or operating privilege for failure to deposit security
+- Section 40-9-34 - Exceptions to requirement of security
+- Section 40-9-35 - Agreements for payment of damages
+- Section 40-9-36 - Amount of security; designation of persons for whom deposit made; reduction or increase in amount
+- Section 40-9-37 - Requirements for liability insurance policies; erroneous information as to insurance
+- Section 40-9-38 - Surety bonds and real property bonds as security; requirements; cancellations; liens; actions on bonds; reduction or increase of security; erroneous information
+- Section 40-9-39 - Custody, disposition, and return of deposit
+- Section 40-9-40 - Check of court records for pending action or unsatisfied judgment; certificate of clerk
+- Section 40-9-41 - Matters not to be evidence in civil actions for damages
+- Section 40-9-60 - Courts to report unpaid judgments to department; department to report judgments against nonresidents
+- Section 40-9-61 - Suspension of driver's license or operating privilege for nonpayment of judgment
+- Section 40-9-62 - Duration of suspension; when judgments deemed satisfied
+- Section 40-9-63 - Installment payment of judgments
+- Section 40-9-80 - Methods of giving proof; duration
+- Section 40-9-81 - Proof required upon restoration of driver's license suspended for certain offenses
+- Section 40-9-82 - Cancellation of insurance certificate
+- Section 40-9-100 - Assigned risk plan
+- Section 40-9-102 - Insurance for person renting U-drive-it vehicle
+- Section 40-9-103 - Cooperation by insured with insurer in connection with defense of action or threatened action under policy

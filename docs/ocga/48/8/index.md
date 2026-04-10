@@ -1,0 +1,293 @@
+# Chapter 8 - SALES AND USE TAXES (§§ 48-8-1 — 48-8-278)
+
+- Section 48-8-1 - Intent of article with respect to taxation of tangible personal property and services; constitutional and other exemptions
+- Section 48-8-2 - Definitions
+- Section 48-8-3 - Exemptions
+- Section 48-8-3.1 - Exemptions for motor fuels
+- Section 48-8-3.2 - Exemptions for manufacturing equipment, industrial materials, packing supplies, and energy
+- Section 48-8-3.3 - Exemptions for agricultural operations; establishment of Georgia Agricultural Trust Fund
+- Section 48-8-3.4 - [Repealed Effective 6/30/2031] Maximum amount of sales and use tax imposed and collected on the maintenance, refitting, and repair of any single boat
+- Section 48-8-3.5 - Taxation on sale or use of jet fuel
+- Section 48-8-4 - Nonapplicability of use tax to products produced and used by farmer
+- Section 48-8-5 - Exemptions for agricultural commodities not sold as finished product to ultimate consumer
+- Section 48-8-6 - Prohibition of political subdivisions from imposing various taxes; ceiling on local sales and use taxes; taxation of mobile telecommunications
+- Section 48-8-7 - Violation of article
+- Section 48-8-8 - Filing false or fraudulent return by dealer under article
+- Section 48-8-9 - Failure by dealer to furnish return under article
+- Section 48-8-10 - Failure by dealer to keep or to allow inspection of records under article
+- Section 48-8-11 - Violation of any other provision of article; penalty
+- Section 48-8-12 - Refusal by transportation company, agency, firm, or person to allow examination of its books, records, and other documents under article
+- Section 48-8-13 - Taxing jurisdiction for mobile telecommunications services
+- Section 48-8-14 - Restrictions on state contracts with nongovernmental vendors failing or refusing to collect sales or use taxes
+- Section 48-8-15 - Ratification of Executive Order on temporary and partial exemption for liquid propane gas commodity sold and delivered for residential heating
+- Section 48-8-16 - Ratification of Executive Order on temporary exemption for dyed fuel oils used for certain purposes
+- Section 48-8-17 - Ratification of Executive Order on temporary suspension on the collection of tax on sales of motor fuel and aviation gasoline
+- Section 48-8-17.1 - [Repealed] Ratification of Executive Order on prepaid taxes; suspension of provisions
+- Section 48-8-18 - Ratification of Executive Order on temporary suspension on the collection of tax on pharmaceutical medications distributed without cost
+- Section 48-8-19 - Ratification of Executive Order on temporary suspension of collection of tax on jet fuel
+- Section 48-8-30 - Imposition, rate, and collection of tax
+- Section 48-8-31 - Tax computation to be carried to third decimal place; rounding
+- Section 48-8-32 - Tax collectable from dealers; rate for retail sales price and purchase price
+- Section 48-8-33 - Collection of tax by dealer as agent of state notwithstanding constitutional or other exemptions
+- Section 48-8-34 - Collection of tax from purchaser by dealer at time of sale; payment of tax on imports; use, consumption, distribution, or storage equivalent to sale at retail; no duplication of tax
+- Section 48-8-35 - Addition of tax by dealer to sale price or charge; amount of tax as debt owed by purchaser to dealer; liability of dealer for failure to collect
+- Section 48-8-36 - Prohibition of advertising by dealer of assumption of payment of tax; exception; liability of dealer
+- Section 48-8-37 - Penalty for violation of Code Section 48-8-36
+- Section 48-8-38 - Burden of proof on seller as to taxability; certificate that property purchased for resale; proof of claimed exemption
+- Section 48-8-39 - Effect of use other than retention, demonstration, or display by giver of certificate or by processor, manufacturer, or converter
+- Section 48-8-40 - Effect of sales from commingled goods when certificate given for portion of goods
+- Section 48-8-41 - Bringing action raising issue of taxability; copy of initial pleading to Attorney General; filing of acknowledgment of pleading in court; judgment void absent filed acknowledgment
+- Section 48-8-42 - Credit for tax when like tax paid in another state; procedure; proof of payment; payment of difference when like tax less than tax imposed by article; exceptions
+- Section 48-8-43 - Disposition of taxes collected in excess of 4 percent
+- Section 48-8-44 - Payment of tax when used articles taken as credit on sale of new and used articles
+- Section 48-8-45 - Reporting cash and credit sales; election of basis of accounting; payments under cash basis of accounting; deduction of bad debts under accrual basis of accounting; bad debt deductions, refunds, and allocation
+- Section 48-8-46 - Final return and payment upon sale of or quitting business; withholding of sufficient amount of purchase money by successor; effect of failure to withhold
+- Section 48-8-47 - Notice by commissioner to persons holding credits of or owing debts to delinquent dealers; duty of such persons
+- Section 48-8-48 - Penalty for violation of Code Section 48-8-46 or 48-8-47
+- Section 48-8-49 - Dealers' returns as to gross proceeds of sales and purchases; returns based on estimated tax liability; returns as to rentals or leases; granting of extensions
+- Section 48-8-49.1 - Direct pay permit program
+- Section 48-8-50 - Compensation of dealers for reporting and paying tax; reimbursement deduction
+- Section 48-8-51 - Extension of time for making returns; limits; conditions; remittance; interest; estimate when no return or false return filed; presumption of correctness
+- Section 48-8-52 - Dealers' duty to keep and produce records of sales, purchases, and invoices; examination and fixing by commissioner; assessment and collection of taxes
+- Section 48-8-53 - Duty of wholesalers and jobbers to keep records; contents; inspection by commissioner
+- Section 48-8-54 - Failure of wholesalers or jobbers to keep and allow inspection of records under Code Section 48-8-53; penalty
+- Section 48-8-55 - Appearance before commissioner of dealer who fails to file return or files false or fraudulent return; notice; presumption of correctness of commissioner's assessment
+- Section 48-8-56 - Period of delinquency of unpaid taxes; issuance of fi. fa. for collection
+- Section 48-8-57 - Furnishing of bond by chronically delinquent or defaulting dealers; amount; sale at public auction of securities for collection of taxes due; notice requirements
+- Section 48-8-58 - Property sold returned to dealer by purchaser; return allowances; credits and deductions; refunds of tax credit by retired dealer; failure to secure forms
+- Section 48-8-59 - Dealer's certificate of registration; application process and conditions; renewal fee following revocation or suspension
+- Section 48-8-60 - Engaging in business as seller without certificate of registration required by Code Section 48-8-59; penalty
+- Section 48-8-61 - Application for certificate of registration by importing dealers; filing of returns and payment of use tax on imported tangible personal property
+- Section 48-8-62 - Revocation or suspension of certificate of registration for violation of article or regulation; notice; hearing
+- Section 48-8-63 - Nonresident subcontractors; payment of tax; liability of seller; withholding; rates; bonds; exemption for unconsumed property; property of the state or the United States
+- Section 48-8-64 - Time for assessment
+- Section 48-8-65 - Nonresident dealers; circumstances and events constituting engaging in business; appointment of Secretary of State as attorney in fact for service of process; venue; perfection of service of process
+- Section 48-8-66 - Penalties for failure to file return or pay in full; exception for providential cause; penalty for filing false or fraudulent return
+- Section 48-8-67 - Distribution of certain unidentifiable sales and use tax proceeds; limitations; powers and duties of state revenue commissioner
+- Section 48-8-68 - Relief from liability in certain circumstances for failure to collect tax at new rate
+- Section 48-8-69 - Purchases from printed catalogs; local jurisdiction boundary changes
+- Section 48-8-70 - Determination of ZIP Code designation applicable to particular purchases; rebuttable presumption of seller's due diligence
+- Section 48-8-71 - Immunity from liability for reliance upon erroneous data provided by the state on tax rates, local boundaries, and taxing jurisdiction assignments
+- Section 48-8-72 - Over-collected sales or use tax
+- Section 48-8-73 - Immunity from liability for reliance upon erroneous taxability matrix data provided by the state
+- Section 48-8-74 - Effective date for sales tax rate change
+- Section 48-8-75 - Purchaser's immunity from liability for failure to pay correct sales tax under certain circumstances
+- Section 48-8-76 - Compliance with terms of Streamlined Sales and Use Tax Agreement; relief from certain obligations
+- Section 48-8-77 - Sourcing; definitions; sales of advertising and promotional direct mail and other direct mail; sales of telecommunications service
+- Section 48-8-77.1 - Certification of review software by department; relief from liability
+- Section 48-8-78 - Appropriation for freight and logistic projects
+- Section 48-8-80 - &quot;Qualified municipality&quot; defined
+- Section 48-8-81 - Creation of special districts
+- Section 48-8-82 - Authority to impose joint sales and use tax; rate of tax
+- Section 48-8-83 - Special districts where joint tax to be levied
+- Section 48-8-83.1 - Levying and collection of joint tax to be continued
+- Section 48-8-84 - Resolution by governing authorities of counties and municipalities in special districts imposing tax; time
+- Section 48-8-85 - Referendum election for imposition of tax; procedures; subsequent elections; expenses
+- Section 48-8-86 - Adoption of resolution imposing tax by governing authorities of county and municipality; effective dates and applicability; notice to commissioner
+- Section 48-8-87 - Administration and collection of tax by commissioner; applicability of Article 1 of this chapter; proceeds owed to the state; dealer compensation
+- Section 48-8-88 - Required information on sales tax returns; purpose
+- Section 48-8-89 - Distribution and use of proceeds; negotiated certificate of distribution for political subdivisions; absent municipalities; filing of certificates; renegotiations
+- Section 48-8-89.1 - Procedure for certifying additional qualified municipalities; issuance of new distribution certificate; cessation of authority to collect tax
+- Section 48-8-89.2 - Distribution of tax proceeds upon qualified municipality ceasing to be qualified
+- Section 48-8-89.3 - Levy of tax in certain special districts; distribution of proceeds to qualified municipality
+- Section 48-8-90 - Credit for tax paid in another jurisdiction
+- Section 48-8-91 - Condition precedent to authority to impose tax after first year; annual adjustment of millage rate; formula; information required on tax bills
+- Section 48-8-92 - Referendum election to discontinue imposition of tax; ballot question; resubmission of question
+- Section 48-8-93 - Inapplicability of tax to property ordered and delivered outside taxing special district
+- Section 48-8-94 - Inapplicability of tax to certain sales or uses of building and construction materials for projects bid prior to referendum on tax
+- Section 48-8-95 - Rules and regulations
+- Section 48-8-96 - Taxation of property in consolidated governments; change in tax rates
+- Section 48-8-97 - Levy of joint county and municipal sales and use tax by consolidated governments; use of proceeds; referendum
+- Section 48-8-100 - Short title
+- Section 48-8-101 - Definitions
+- Section 48-8-101.1 - Equal distribution of homestead option sales and use tax among counties and municipalities
+- Section 48-8-102 - Creation of special districts; levying of tax; use of proceeds of tax; restriction on levying taxes
+- Section 48-8-103 - Submission to voters to determine imposition of tax
+- Section 48-8-104 - Administration and collection of tax; disbursement of proceeds
+- Section 48-8-105 - Credit for tax paid in another jurisdiction
+- Section 48-8-106 - Submission to voters of question as to whether to discontinue tax
+- Section 48-8-107 - Inapplicability of tax to property ordered and delivered outside taxing special district
+- Section 48-8-108 - Inapplicability of tax to certain sales or uses of building and construction materials for projects bid prior to referendum on tax
+- Section 48-8-109 - Rules and regulations
+- Section 48-8-109.1 - Short title
+- Section 48-8-109.2 - Referendum on suspension of taxation
+- Section 48-8-109.3 - Creation of special districts; application of tax
+- Section 48-8-109.4 - Role of election superintendent
+- Section 48-8-109.5 - Administration and collection of tax; disbursement of proceeds
+- Section 48-8-109.6 - Credit for tax paid in another jurisdiction
+- Section 48-8-109.7 - Referendum on discontinuation of taxation; ballot
+- Section 48-8-109.8 - Inapplicability of tax to property ordered and delivered outside taxing special district
+- Section 48-8-109.9 - Inapplicability of tax to certain sales or uses of building and construction materials for projects bid prior to referendum on tax
+- Section 48-8-109.10 - Rules and regulations
+- Section 48-8-109.15 - Short title
+- Section 48-8-109.16 - Approval by electorate of sales and use taxes authorized by this part
+- Section 48-8-109.17 - Creation of special districts; imposition of local sales and use tax within special district
+- Section 48-8-109.18 - Petition for referendum to approve tax; ballot question; conduct of election; adoption of resolution
+- Section 48-8-109.19 - Administration and collection of tax; disbursement of proceeds; remittance of taxes collected
+- Section 48-8-109.20 - Credit for tax paid in another jurisdiction
+- Section 48-8-109.21 - Referendum election to decide imposition of tax; procedure
+- Section 48-8-109.22 - Inapplicability of tax to property ordered and delivered outside taxing special district
+- Section 48-8-109.23 - Inapplicability of tax to certain sales or uses of building and construction materials for projects bid prior to referendum on tax
+- Section 48-8-109.24 - Rules and regulations
+- Section 48-8-109.30 - Creation of special districts
+- Section 48-8-109.31 - Imposition of special sales and use tax within special district; limited time and purpose
+- Section 48-8-109.32 - Maximum period of time of the tax; submission to voters to determine imposition of tax; ballot language; expenses of election
+- Section 48-8-109.33 - Timing for imposition of tax following approval; termination of tax
+- Section 48-8-109.34 - Administration and collection of tax
+- Section 48-8-109.35 - Remittance of taxes collected
+- Section 48-8-109.36 - Disbursement of proceeds
+- Section 48-8-109.37 - Credit for tax paid in another jurisdiction
+- Section 48-8-109.38 - Inapplicability of tax to property ordered and delivered outside taxing special. district
+- Section 48-8-109.39 - Inapplicability of tax to certain sales or uses of building and construction materials for projects bid prior to referendum on tax
+- Section 48-8-109.40 - Rules and regulations
+- Section 48-8-109.41 - Impact on other taxes
+- Section 48-8-109.42 - Use of tax proceeds; property tax relief requirements; noncompliance
+- Section 48-8-110 - Definitions
+- Section 48-8-110.1 - Creation of special districts; authority to impose special sales and use tax; rate of tax
+- Section 48-8-111 - Procedure for imposition of tax; resolution or ordinance; notice to county election superintendent; election
+- Section 48-8-111.1 - Application of part to consolidated government
+- Section 48-8-112 - Effective date of tax; termination of tax; limitation on taxation; continuation of tax
+- Section 48-8-113 - Administration and collection of tax
+- Section 48-8-114 - Remittance of taxes collected
+- Section 48-8-115 - Disbursement of proceeds
+- Section 48-8-116 - Credit for tax paid in another jurisdiction
+- Section 48-8-117 - Inapplicability of tax to property ordered and delivered outside taxing county
+- Section 48-8-118 - Inapplicability of tax to certain sales or uses of building and construction materials for projects bid prior to referendum on tax
+- Section 48-8-119 - Rules and regulations
+- Section 48-8-120 - Impact on other taxes
+- Section 48-8-121 - Use of tax proceeds; requirements for general obligation debt
+- Section 48-8-122 - Annual reporting to public
+- Section 48-8-123 - Procedure for modification of infeasible projects previously approved by referendum
+- Section 48-8-124 - Enforcement
+- Section 48-8-140 - Authority and legislative intent
+- Section 48-8-141 - Manner of imposition of tax; report; rate
+- Section 48-8-142 - Issuance of general obligation debt in conjunction with tax; required contents of resolution and ballot
+- Section 48-8-143 - Distribution of sales tax for educational purposes
+- Section 48-8-144 - Local charter schools and state chartered special schools as capital outlay project
+- Section 48-8-145 - Definitions
+- Section 48-8-146 - Imposing taxes for funding coliseum capital outlay projects; tax rate
+- Section 48-8-147 - Requirements for ordinance or resolution authorizing tax; ballot question; expenses of election; resubmission of question; general obligation debt
+- Section 48-8-148 - Timing for imposition of tax following approval; termination of tax; maximum general obligation debt and combined rate of taxes; renewal prohibited
+- Section 48-8-149 - Administration and collection of tax
+- Section 48-8-150 - Remittance of taxes collected
+- Section 48-8-151 - Disbursement of proceeds
+- Section 48-8-152 - Credit for tax paid in another jurisdiction
+- Section 48-8-153 - Inapplicability of tax to property ordered and delivered outside geographical area of taxing consolidated government
+- Section 48-8-154 - Inapplicability of tax to certain sales or uses of building and construction materials for projects bid prior to referendum on tax
+- Section 48-8-155 - Rules and regulations
+- Section 48-8-156 - Impact on other taxes
+- Section 48-8-157 - Use of tax proceeds; requirements for general obligation debt
+- Section 48-8-160 - Short title
+- Section 48-8-161 - Definitions
+- Section 48-8-162 - Authorization to enter Streamlined Sales and Use Tax Agreement with other states
+- Section 48-8-163 - Effect upon other statutory provisions
+- Section 48-8-164 - Purpose
+- Section 48-8-165 - Benefit is to the state; no individual right to challenge or contest application
+- Section 48-8-166 - Certified service provider as agent of seller; responsibility for proper functioning of automated systems; failure to meet performance standards by sellers of proprietary systems
+- Section 48-8-167 - Member of Streamlined Sales Tax Governing Board
+- Section 48-8-200 - Definitions
+- Section 48-8-201 - Intergovernmental contract for distribution of tax proceeds; approval of referendum by voters; cap on aggregate amount of tax; rate
+- Section 48-8-202 - Requirement of municipal ordinance or resolution authorizing tax; voter approval; form for ballot
+- Section 48-8-203 - Timing for imposition of tax following approval; termination of tax
+- Section 48-8-204 - Administration and collection of tax
+- Section 48-8-205 - Remittance of taxes collected
+- Section 48-8-206 - Disbursement of proceeds
+- Section 48-8-207 - Credit for tax paid in another jurisdiction
+- Section 48-8-208 - Inapplicability of tax to property ordered and delivered outside taxing municipality
+- Section 48-8-209 - Inapplicability of tax to certain sales or uses of building and construction materials for projects bid prior to referendum on tax
+- Section 48-8-210 - Rules and regulations
+- Section 48-8-211 - Impact on other taxes
+- Section 48-8-212 - Use of tax proceeds; requirements for general obligation debt
+- Section 48-8-240 - Findings; purpose
+- Section 48-8-241 - Creation of special districts; tax rate
+- Section 48-8-242 - Definitions
+- Section 48-8-243 - Criteria for development of investment list of projects and programs; report; gridlock
+- Section 48-8-244 - Election; ballot
+- Section 48-8-244.1 - Effect of special district levy on state allocation of funds under Code Section 32-5-27
+- Section 48-8-245 - Timing for imposition of tax following approval; termination of tax
+- Section 48-8-246 - Administration and collection of tax
+- Section 48-8-247 - Remittance of taxes collected
+- Section 48-8-248 - Disbursement of proceeds
+- Section 48-8-249 - Use of tax proceeds; contracts; delivery of projects
+- Section 48-8-250 - Annual reporting to public
+- Section 48-8-251 - Citizens Review Panel; membership; vacancy; recommendations; report
+- Section 48-8-252 - Credit for tax paid in another jurisdiction
+- Section 48-8-253 - Inapplicability of tax to property ordered and delivered outside taxing special district
+- Section 48-8-254 - Inapplicability of tax to certain sales or uses of building and construction materials for projects bid prior to referendum on tax
+- Section 48-8-255 - Rules and regulations
+- Section 48-8-256 - Allocation or balancing of state and federal funds
+- Section 48-8-260 - Definitions
+- Section 48-8-261 - Creation of special districts; authority to impose a transportation special purpose local option sales and use tax
+- Section 48-8-262 - Notice; agreement memorializing levy and rate of tax; rate; resolution required
+- Section 48-8-263 - Ballot question; expenses of election; resubmission of question; general obligation debt
+- Section 48-8-264 - Timing for imposition of tax following approval; termination of tax; maximum combined rate of taxes; timing for reimposition
+- Section 48-8-264.1 - Referendum timing
+- Section 48-8-265 - Administration and collection of tax
+- Section 48-8-266 - Remittance of taxes collected
+- Section 48-8-267 - Disbursement of proceeds
+- Section 48-8-268 - Allocation or balancing of state and federal funds
+- Section 48-8-269 - Exemption from taxation
+- Section 48-8-269.1 - Credit for tax paid in another jurisdiction
+- Section 48-8-269.2 - Inapplicability of tax to property ordered and delivered outside taxing special district
+- Section 48-8-269.3 - Rules and regulations
+- Section 48-8-269.4 - Impact on other taxes
+- Section 48-8-269.5 - Use of tax proceeds; requirements for general obligation debt
+- Section 48-8-269.6 - Annual reporting to public
+- Section 48-8-269.7 - Creation of special districts; applicability to metropolitan county special districts
+- Section 48-8-269.8 - Authority to impose a transportation special purpose local option sales and use tax; notice; meeting; resolution
+- Section 48-8-269.9 - Ballot question; expenses of election; resubmission of question; general obligation debt
+- Section 48-8-269.10 - Timing for imposition of tax following approval; termination of tax; maximum combined rate of taxes
+- Section 48-8-269.11 - Administration and collection of tax
+- Section 48-8-269.12 - Remittance of taxes collected
+- Section 48-8-269.13 - Disbursement of proceeds
+- Section 48-8-269.14 - Allocation or balancing of state and federal funds
+- Section 48-8-269.15 - Tax imposed
+- Section 48-8-269.16 - Credit for tax paid in another jurisdiction
+- Section 48-8-269.17 - Inapplicability of tax to property ordered and delivered outside taxing special district
+- Section 48-8-269.18 - Rules and regulations
+- Section 48-8-269.19 - Impact on other taxes
+- Section 48-8-269.20 - Use of tax proceeds; requirements for general obligation debt
+- Section 48-8-269.21 - Annual reporting to public
+- Section 48-8-269.22 - Creation of special districts; applicability to metropolitan municipality special district
+- Section 48-8-269.23 - Authority to impose a transportation special purpose local option sales and use tax; notice; meeting; resolution
+- Section 48-8-269.24 - Ballot question; expenses of election; resubmission of question; general obligation debt
+- Section 48-8-269.25 - Timing for imposition of tax following approval; termination of tax; maximum combined rate of taxes
+- Section 48-8-269.26 - Administration and collection of tax
+- Section 48-8-269.27 - Remittance of taxes collected
+- Section 48-8-269.28 - Disbursement of proceeds
+- Section 48-8-269.29 - Allocation or balancing of state and federal funds
+- Section 48-8-269.30 - Tax imposed
+- Section 48-8-269.31 - Credit for tax paid in another jurisdiction
+- Section 48-8-269.32 - Inapplicability of tax to property ordered and delivered outside taxing metropolitan county special district
+- Section 48-8-269.33 - Rules and regulations
+- Section 48-8-269.34 - Impact on other taxes
+- Section 48-8-269.35 - Use of tax proceeds; requirements for general obligation debt
+- Section 48-8-269.36 - Annual reporting to public
+- Section 48-8-269.40 - Definitions
+- Section 48-8-269.41 - Creation of special districts; authority to impose a transit special purpose local option sales and use tax
+- Section 48-8-269.42 - Prerequisite for authority to impose tax
+- Section 48-8-269.43 - Notice; meeting; intergovernmental agreement
+- Section 48-8-269.44 - Ballot question; expenses of election; resubmission of question; general obligation debt
+- Section 48-8-269.45 - Notice; meeting; resolution authorizing referendum
+- Section 48-8-269.46 - Ballot question; expenses of election; resubmission of question; general obligation debt
+- Section 48-8-269.47 - Tax rate; timing for imposition of tax following approval; termination of tax; timing for reimposition of tax
+- Section 48-8-269.48 - Administration and collection of tax
+- Section 48-8-269.49 - Remittance of taxes collected
+- Section 48-8-269.50 - Disbursement of proceeds
+- Section 48-8-269.51 - Allocation or balancing of state and federal funds
+- Section 48-8-269.52 - Exemption from taxation
+- Section 48-8-269.53 - Credit for tax paid in another jurisdiction
+- Section 48-8-269.54 - Inapplicability of tax to property ordered and delivered outside taxing special district
+- Section 48-8-269.55 - Rules and regulations
+- Section 48-8-269.56 - Impact on other taxes
+- Section 48-8-269.57 - Use of tax proceeds; requirements for general obligation debt
+- Section 48-8-269.58 - Annual reporting to public
+- Section 48-8-270 - Short title
+- Section 48-8-271 - Definitions
+- Section 48-8-272 - Purpose; legislative findings
+- Section 48-8-273 - Tourism attractions agreements; execution; 10-year term; sales and use tax refund; administrative regulations
+- Section 48-8-274 - Standards for filing tourism attraction project applications; analysis of projects by independent consultants; conditions of eligibility and approval
+- Section 48-8-275 - Authority of Department of Community Affairs to enter into agreements with approved companies; required terms and provisions of agreements
+- Section 48-8-276 - Compliance subject to review by Department of Community Affairs; failure to abide by terms of agreement
+- Section 48-8-277 - Transfer of rights, duties, and obligations to successor company
+- Section 48-8-278 - [Repealed] Article inapplicable to sales tax levied for educational purposes

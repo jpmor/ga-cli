@@ -1,0 +1,22 @@
+# Chapter 5B - GEORGIA TAX COURT ACT OF 2025 (§§ 15-5B-1 — 15-5B-20)
+
+- Section 15-5B-1 - [See Note] Short title
+- Section 15-5B-2 - [See Note] Definitions
+- Section 15-5B-3 - [See Note] Court seal
+- Section 15-5B-4 - [See Note] Chief court judge
+- Section 15-5B-5 - [See Note] Eligibility for judgeship; oath of office; limitations
+- Section 15-5B-6 - [See Note] Terms of court; place for court; disqualification of judges
+- Section 15-5B-7 - [See Note] Location of office; electronic filing system
+- Section 15-5B-8 - [See Note] Law assistants; appointment; duties
+- Section 15-5B-9 - [See Note] Court staff and salaries
+- Section 15-5B-10 - [See Note] Court budget
+- Section 15-5B-11 - [See Note] Jurisdiction
+- Section 15-5B-12 - [See Note] Proceedings; filing procedures; service; scheduling
+- Section 15-5B-13 - [See Note] Filing petition with court operates as stay of enforcement or collection action
+- Section 15-5B-14 - [See Note] Fees
+- Section 15-5B-15 - [See Note] Conduct of proceedings
+- Section 15-5B-16 - [See Note] Conduct of trials
+- Section 15-5B-17 - [See Note] Court judgments and orders; confidentiality
+- Section 15-5B-18 - [See Note] Small claims division of the court
+- Section 15-5B-19 - [See Note] Rulemaking authority
+- Section 15-5B-20 - [See Note] Declaratory judgments; interlocutory order; award of fees; exclusion of orders

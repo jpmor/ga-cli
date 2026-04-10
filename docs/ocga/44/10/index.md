@@ -1,0 +1,30 @@
+# Chapter 10 - HISTORIC PRESERVATION (§§ 44-10-1 — 44-10-47)
+
+- Section 44-10-1 - Short title
+- Section 44-10-2 - Definitions
+- Section 44-10-3 - Creation or alteration of conservation easements; acceptance; duration; effect on existing rights and duties; limitation of liability; encumbered property must be located within boundaries of locality holding easement
+- Section 44-10-4 - Actions affecting easements; parties; power of court to modify or terminate easement
+- Section 44-10-5 - Validity of easement
+- Section 44-10-6 - Interests covered by article; interests not invalidated by article
+- Section 44-10-7 - Construction and application of article to effect uniformity of laws
+- Section 44-10-8 - Recordation of easements; revaluation of encumbered property; appeals
+- Section 44-10-20 - Short title
+- Section 44-10-21 - Legislative purpose; intent
+- Section 44-10-22 - Definitions
+- Section 44-10-23 - Exemptions
+- Section 44-10-24 - Establishment or designation of historic preservation commission; number, eligibility, and terms of members
+- Section 44-10-25 - Powers and duties of historic preservation commission
+- Section 44-10-26 - Designation by ordinance of historic properties or districts; required provisions; investigation and report; submittal to Department of Community Affairs; notice and hearing; notification of owners
+- Section 44-10-27 - Requirement for certificate of appropriateness; local or state actions
+- Section 44-10-28 - Review of applications; procedure; approval, modification, or rejection; negotiations for acquisitions; variances; appeals
+- Section 44-10-29 - Certain changes or uses not prohibited
+- Section 44-10-30 - Court action or proceedings to prevent improper changes or illegal acts or conduct
+- Section 44-10-31 - Violations of this article; penalties
+- Section 44-10-40 - Short title
+- Section 44-10-41 - Legislative findings
+- Section 44-10-42 - Definitions
+- Section 44-10-43 - Farmland Conservation Fund created; investments; expenditures; accounting of expenditures
+- Section 44-10-44 - Farmland Conservation Fund Program created; grants; costs of administration
+- Section 44-10-45 - Administration of program
+- Section 44-10-46 - Farmland Advisory Council created; membership; terms; compensation; meetings; quorum
+- Section 44-10-47 - Powers and duties of Council

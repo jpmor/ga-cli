@@ -1,0 +1,47 @@
+# Chapter 3 - MARRIAGE GENERALLY (§§ 19-3-1 — 19-3-68)
+
+- Section 19-3-1 - Prerequisites to valid marriage
+- Section 19-3-1.1 - Common-law marriage; effectiveness
+- Section 19-3-2 - Who may contract marriage; emancipation requirement; minimum age for marriage
+- Section 19-3-3 - Degrees of relationship within which intermarriage prohibited; penalty; effect of prohibited marriage
+- Section 19-3-3.1 - Marriages between persons of same sex prohibited; marriages not recognized
+- Section 19-3-4 - Nature of consent required
+- Section 19-3-5 - What marriages void; legitimacy of issue; effect of later ratification
+- Section 19-3-6 - Effect of restraints on marriage; when valid
+- Section 19-3-7 - Contracts attempting to force marriage void
+- Section 19-3-8 - Interspousal tort immunity continued
+- Section 19-3-9 - Each spouse's property separate
+- Section 19-3-10 - Right of married persons to contract; presumptions
+- Section 19-3-30 - Issuance, return, and recording of license
+- Section 19-3-30.1 - Premarital education; fees; special requirements if marriage applicant is 17 years old
+- Section 19-3-31 - Issuance of licenses at satellite courthouses in certain counties
+- Section 19-3-32 - Penalty for improper issuance of license
+- Section 19-3-33 - Application for marriage license; contents; supplement marriage report
+- Section 19-3-33.1 - Use of surname in application for marriage license
+- Section 19-3-34 - Marriage application to be filed; use as evidence; transmission to the state registrar
+- Section 19-3-35 - Issuance of license to applicants otherwise eligible
+- Section 19-3-35.1 - AIDS brochures; listing of HIV test sites; acknowledgment of receipt
+- Section 19-3-36 - Proof of age of applicants
+- Section 19-3-37 - [Repealed] [Reserved] Parental consent to marriage of underage applicants; when necessary; how obtained
+- Section 19-3-38 - [Repealed] [Reserved] Notification of parents of underage applicants; additional fee
+- Section 19-3-39 - Certification and recordation of marriage after publication of banns
+- Section 19-3-40 - Blood test for sickle cell disease; information to be provided
+- Section 19-3-41 - Department of Public Health marriage manual; distribution; rules and regulations
+- Section 19-3-41.1 - Fact sheet for distribution by premarital education providers; requirements
+- Section 19-3-42 - Effect on marriage due to the lack of authority in person officiating
+- Section 19-3-43 - Marriage in another state; effect in this state
+- Section 19-3-44 - Return of license to parties
+- Section 19-3-45 - Actions for improper issuance of marriage license; attorney's fee and court costs; disposition of balance of recovery
+- Section 19-3-46 - Forfeiture for officiating at marriage without license or banns
+- Section 19-3-47 - Penalty for filing false information in application for license
+- Section 19-3-48 - Penalty for officiating at illegal marriage ceremony
+- Section 19-3-49 - Acceptance by judges of tips, consideration, or gratuities
+- Section 19-3-60 - Definition; marriage as valuable consideration
+- Section 19-3-61 - Effect of minority of party
+- Section 19-3-62 - Requirements and construction of antenuptial agreements
+- Section 19-3-63 - Construction of marriage contract; attestation
+- Section 19-3-64 - Voluntary execution of antenuptial agreement; conveyance of property during marriage
+- Section 19-3-65 - Powers of superior court judge in appointing and removing trustees and protecting trust estate
+- Section 19-3-66 - Enforcement of marriage contracts, postnuptial settlements, and antenuptial agreements
+- Section 19-3-67 - [Repealed] Recordation of marriage contracts and voluntary settlements; effect of failure to record
+- Section 19-3-68 - [Repealed] Application for order compelling recordation; effect of application; liability of trustee refusing to record

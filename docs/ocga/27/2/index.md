@@ -1,0 +1,49 @@
+# Chapter 2 - LICENSES, PERMITS, AND STAMPS GENERALLY (§§ 27-2-1 — 27-2-42)
+
+- Section 27-2-1 - Hunting, trapping, or fishing without license or permit generally; nonresidents
+- Section 27-2-2 - Issuance and sale of hunting, fishing, and trapping licenses; withdrawal of agents' authority to sell licenses; optional participation in anatomical gift program
+- Section 27-2-3 - Effective periods of hunting, fishing, and trapping licenses generally; multiyear licenses
+- Section 27-2-3.1 - Hunting licenses; sportsman's license; license card carrier requirement; creation of lifetime sportsman's licenses
+- Section 27-2-4 - Honorary and discounted hunting and fishing licenses
+- Section 27-2-4.1 - Fishing license reciprocity for Florida residents over 65 years of age
+- Section 27-2-4.2 - Courtesy nonresident fishing licenses to certain paralyzed or disabled veterans
+- Section 27-2-4.3 - Special hunting privileges for young people with a terminal illness
+- Section 27-2-4.4 - Special turkey hunting season for young and mobility impaired hunters
+- Section 27-2-4.5 - Outdoor mentoring program
+- Section 27-2-5 - Required hunter education courses
+- Section 27-2-6 - Trout license, Georgia waterfowl and migratory bird stamp, big game license, and alligator harvest permit
+- Section 27-2-7 - Powers of department as to making and entering into agreements relating to hunting license reciprocity
+- Section 27-2-8 - Commercial fishing boat licenses
+- Section 27-2-9 - Taxidermist licenses; unlawful acts and omissions by taxidermists
+- Section 27-2-10 - Commercial alligator farming licenses
+- Section 27-2-11 - Game-holding permits
+- Section 27-2-12 - Scientific collecting permits
+- Section 27-2-13 - Wildlife exhibition permits
+- Section 27-2-13.1 - Film production wildlife permits; release
+- Section 27-2-14 - Liberation-of-wildlife and liberation-of-domestic fish permits
+- Section 27-2-15 - Wildlife storage permits
+- Section 27-2-16 - Commercial quail breeder permits; maintenance of records by holders; selling and transporting of pen raised quail generally
+- Section 27-2-17 - Falconry permits; duties, permitted acts, and prohibitions pertaining to permit holders
+- Section 27-2-18 - Permits to kill deer causing damage to crops
+- Section 27-2-19 - Wildlife importation permits
+- Section 27-2-20 - Federal migratory bird hunting and conservation stamp; participation in federal Migratory Bird Harvest Information Program
+- Section 27-2-20.1 - Required participation in Saltwater Information Program
+- Section 27-2-21 - Field and retriever trials; permits; hunting licenses
+- Section 27-2-22 - Wildlife rehabilitation permits
+- Section 27-2-22.1 - Fox trapping and selling
+- Section 27-2-23 - License, permit, tag, and stamp fees
+- Section 27-2-23.1 - Raccoon fur seller's license
+- Section 27-2-23.2 - Salt water fishing guide licenses; fees; reporting requirements
+- Section 27-2-24 - Service of process for licensees, permittees, and applicants
+- Section 27-2-25 - Revocation, suspension, denial, or nonrenewal of license or permits; administrative and judicial review
+- Section 27-2-25.1 - Suspension of hunting privileges for negligent hunting; procedures following hunting accidents
+- Section 27-2-25.2 - Power to suspend licenses
+- Section 27-2-26 - Rules and regulations regarding revocation or cancellation procedures; surrender of license, stamp, or permit after revocation or cancellation
+- Section 27-2-27 - Administrative penalties in lieu of revocation, suspension, denial, or nonrenewal
+- Section 27-2-28 - Refusing inspection of identification or license; making false statements in obtaining license or permit; counterfeiting or alteration; unlawful collection of funds
+- Section 27-2-29 - Free fishing days
+- Section 27-2-30 - Establishment of the Wildlife Endowment Trust Fund; investment, accounting, and expenditures
+- Section 27-2-31 - Wildlife control permits
+- Section 27-2-40 - Wildlife Violator Policy Compact
+- Section 27-2-41 - Rules and regulations authorized
+- Section 27-2-42 - Penalty for violating

@@ -1,0 +1,25 @@
+# Chapter 2 - DESCENT AND DISTRIBUTION (§§ 53-2-1 — 53-2-51)
+
+- Section 53-2-1 - Rules of inheritance when decedent dies without will; effect of abandonment of child
+- Section 53-2-3 - Inheritance by children born out of wedlock
+- Section 53-2-4 - Inheritance from children born out of wedlock
+- Section 53-2-5 - Children conceived by artificial insemination
+- Section 53-2-6 - Individual related to decedent through two or more lines of relationship
+- Section 53-2-7 - Vesting of title to property; right to possession
+- Section 53-2-8 - Death intestate, and without ascertainable heirs, of spouse of intestate decedent
+- Section 53-2-20 - Jurisdiction of probate or superior court
+- Section 53-2-21 - Filing of petition
+- Section 53-2-22 - Petition by person claiming to be heir or distributee
+- Section 53-2-23 - Superior court procedure
+- Section 53-2-24 - Probate court procedure
+- Section 53-2-25 - Intervention by person claiming to be heir or distributee
+- Section 53-2-26 - Effect of findings of court
+- Section 53-2-27 - DNA testing for kinship; procedure; costs
+- Section 53-2-30 - Authority of administrator; method of distribution provided for in will
+- Section 53-2-31 - Petition in probate court; distribution in kind not pro rata
+- Section 53-2-32 - Order of probate court
+- Section 53-2-40 - Petition
+- Section 53-2-41 - Issuance of citation and order; objections
+- Section 53-2-42 - Right of action by creditor
+- Section 53-2-50 - Definition
+- Section 53-2-51 - Procedure

@@ -1,0 +1,22 @@
+# Chapter 18 - STATE PRINTING AND DOCUMENTS (§§ 50-18-1 — 50-18-160)
+
+- Section 50-18-1 - State stationery to contain telephone numbers for responses or questions; exemptions
+- Section 50-18-2 - Definitions; publications in printed or electronic format; preference
+- Section 50-18-20 - Definitions
+- Section 50-18-21 - Preparation of contract for state reports publication; public inspection
+- Section 50-18-22 - Advertising for and accepting bids for state reports publication; contract with lowest bidder; right to reject bids
+- Section 50-18-23 - Contractor to give bond
+- Section 50-18-24 - State publisher of court reports; annual renewal of contract; publisher may succeed himself
+- Section 50-18-25 - Publisher to act only on direction of reporter
+- Section 50-18-26 - Content and appearance of reports; number of volumes per year
+- Section 50-18-27 - Responsibilities of reporter; subject to dismissal if reports not published within six months of delivery
+- Section 50-18-28 - Publisher to print and bind reports; liable for delay; opportunity to explain delay before panel
+- Section 50-18-29 - Method of printing and binding reports; notice of deficiencies and time for cure; advice of panel regarding quality of reports
+- Section 50-18-30 - Number of volumes ordered and produced
+- Section 50-18-31 - Procedure for distribution of reports; discontinuance or resumption of distribution
+- Section 50-18-32 - Production and sale of reports to citizens; liability for not having reports in stock; opportunity to explain failure to panel
+- Section 50-18-33 - Statement of charges to be paid or arbitrated; payment funds to come from particular appropriation; price of reports
+- Section 50-18-34 - Copyright belongs to state
+- Section 50-18-35 - Publisher to maintain means to reproduce volumes
+- Section 50-18-36 - Upon expiration of contract, publisher authorized to sell reports; price
+- Section 50-18-37 - Rules compilation

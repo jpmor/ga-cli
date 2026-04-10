@@ -1,0 +1,103 @@
+# Chapter 1 - IDENTIFICATION AND REGULATION (§§ 40-1-1 — 40-1-231)
+
+- Section 40-1-1 - Definitions
+- Section 40-1-2 - Horsepower standards
+- Section 40-1-3 - Requiring or permitting unlawful operation of vehicle
+- Section 40-1-4 - Stickers, decals, or emblems containing profane or lewd words describing sexual acts, excretory functions, or parts of the human body
+- Section 40-1-5 - Disclosure of damage to new motor vehicles
+- Section 40-1-6 - Uniforms of law enforcement officers
+- Section 40-1-7 - Blue light required for officers enforcing traffic; exception
+- Section 40-1-8 - Safe operations of motor carriers, commercial motor vehicles, and drivers; safe transportation of hazardous materials
+- Section 40-1-9 - Electronic notifications and communications by Department of Revenue
+- Section 40-1-20 - Short title
+- Section 40-1-21 - Legislative findings; construction
+- Section 40-1-22 - Definitions
+- Section 40-1-23 - Regulatory compliance inspections; notification; jurisdiction; permit required; escorts or inspections; exceptions; recovery for damage or discharge; civil monetary penalties; department authority
+- Section 40-1-24 - Enforcement; use of funds; regulatory compliance inspections by others; examination of facilities
+- Section 40-1-25 - Severability
+- Section 40-1-50 - Short title
+- Section 40-1-51 - Legislative findings; construction
+- Section 40-1-52 - Establishment of Motor Carrier Compliance Division
+- Section 40-1-53 - &quot;Department&quot; defined; methods of enforcement
+- Section 40-1-54 - Rules and regulations for implementation and administration
+- Section 40-1-55 - Penalty for violations
+- Section 40-1-56 - Financial penalty for violations; suspension of certificate or permit; notice; review
+- Section 40-1-56.1 - Unpaid assessments; liens on identifiable vehicles; perfection; suspension of registration
+- Section 40-1-57 - Applicability of prior action of Public Service Commission
+- Section 40-1-58 - Determining employment status based upon a motor carrier safety improvement
+- Section 40-1-100 - Definitions
+- Section 40-1-101 - Regulatory compliance inspections; regulation of business; requirements of motor carriers
+- Section 40-1-102 - Certificate or permit prerequisite to operation; minimum insurance requirement
+- Section 40-1-103 - Application form for certificate; issuance to qualified applicant
+- Section 40-1-104 - Revocation, alteration, or amendment of certificate or permit; suspension; out-of-service orders
+- Section 40-1-105 - Transfer of certificate
+- Section 40-1-106 - Fitness of applicant; protest of application by certificate holder
+- Section 40-1-107 - Information in application
+- Section 40-1-108 - Transportation of persons under age 21 drinking alcohol
+- Section 40-1-109 - Fees upon initial application
+- Section 40-1-110 - Hearing and notice of pending application
+- Section 40-1-111 - Limitation upon reapplication for denied applicants
+- Section 40-1-112 - Insurance requirements; joinder
+- Section 40-1-113 - Transportation contracts limiting liability
+- Section 40-1-114 - Temporary emergency motor carrier authority
+- Section 40-1-115 - Notice of discontinuance of route
+- Section 40-1-116 - Local taxation prohibited
+- Section 40-1-117 - Registered agents of nonresident motor carrier; service; venue and exclusions; covered farm vehicles
+- Section 40-1-118 - Establishment of rates, fares, and charges for transportation of household goods
+- Section 40-1-119 - Charges by motor carriers; unjust discrimination by carriers prohibited
+- Section 40-1-120 - Size and rates for passenger baggage
+- Section 40-1-121 - Inspection of books and records
+- Section 40-1-122 - Observing laws; schedule of operation
+- Section 40-1-123 - Enjoining operation of motor carriers
+- Section 40-1-124 - Perpetual franchise over public highways prohibited
+- Section 40-1-125 - Hearing upon suspension or revocation of motor carrier certificate; judicial review
+- Section 40-1-126 - Carriers engaged in interstate and intrastate commerce
+- Section 40-1-127 - Actions for recovery of overcharges; rates, charges, and claims for loss or damage
+- Section 40-1-128 - Accepting or receiving rebates or drawbacks; prima-facie evidence of intentional violation; burden of claiming exception
+- Section 40-1-129 - Fines for violating certificate requirement; advertising services without certificate prohibited
+- Section 40-1-130 - Inclusion of motor carrier authorization number in advertising
+- Section 40-1-150 - Short title
+- Section 40-1-151 - Definitions
+- Section 40-1-152 - Operation in accordance with article; certificate required
+- Section 40-1-153 - Application form and requirements; issuance standards for certificate
+- Section 40-1-154 - Compliance with Code Section 40-1-8
+- Section 40-1-155 - Transferring or encumbering certificates
+- Section 40-1-156 - Grounds for cancellation, revocation, or suspension of limousine carrier certificate
+- Section 40-1-157 - Validity of certificates
+- Section 40-1-158 - For-hire license endorsement or private background check certification required
+- Section 40-1-159 - Application fees
+- Section 40-1-160 - Transportation of persons under age 21 drinking alcohol
+- Section 40-1-161 - Revocation, alteration, or amendment of limousine certificate
+- Section 40-1-162 - State regulates limousine carriers; preemption; limousine carrier doing business at a county or municipal airport
+- Section 40-1-163 - Rates and charges
+- Section 40-1-164 - Notice and opportunity to be heard by carriers
+- Section 40-1-165 - Motor carrier authorization number of limousine carriers included in advertisement
+- Section 40-1-166 - Commercial indemnity and liability insurance
+- Section 40-1-167 - Required information on license plates of limousines
+- Section 40-1-168 - Local taxation prohibited
+- Section 40-1-169 - Enforcement
+- Section 40-1-170 - Application to every vehicle controlled by limousine carrier
+- Section 40-1-190 - Definitions
+- Section 40-1-191 - Legislative findings; preemption; ride share network service, transportation referral service, transportation referral service provider, and taxi service doing business at a county or municipal airport
+- Section 40-1-192 - Transportation referral service provider registration requirement; licensure; exemptions; additional requirements
+- Section 40-1-193 - Ride share network service registration requirement; licensure; list of ride share drivers; additional requirements; law enforcement access to smartphone of ride share driver
+- Section 40-1-193.1 - Registration of taxi services; list of drivers; additional requirements
+- Section 40-1-194 - Prohibited contracts and referrals
+- Section 40-1-195 - Inclusion of license number in advertising; display of signage or emblem
+- Section 40-1-196 - Rates charged
+- Section 40-1-197 - Promulgation of rules and regulations
+- Section 40-1-198 - Requirement to maintain current list of drivers
+- Section 40-1-199 - Waivers
+- Section 40-1-200 - Inapplicability to equine drawn or other nonmotorized vehicles
+- Section 40-1-220 - Definitions
+- Section 40-1-221 - Assumption of liability; insurance
+- Section 40-1-222 - Notification of lien on vehicle
+- Section 40-1-223 - Exclusion of insurance coverage for shared vehicle
+- Section 40-1-224 - Collection, verification, and retention of records
+- Section 40-1-225 - Exemption from vicarious liability
+- Section 40-1-226 - Right to seek contribution
+- Section 40-1-227 - Insurable interests
+- Section 40-1-228 - Required disclosures in car-sharing program agreements
+- Section 40-1-229 - Requirements for drivers in peer-to-peer car-sharing program; record keeping
+- Section 40-1-230 - Vehicle equipment
+- Section 40-1-231 - Prerequisites for sharing vehicles; impact of safety recalls

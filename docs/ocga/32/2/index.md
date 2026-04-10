@@ -1,0 +1,45 @@
+# Chapter 2 - DEPARTMENT OF TRANSPORTATION (§§ 32-2-1 — 32-2-82)
+
+- Section 32-2-1 - Composition of department
+- Section 32-2-2 - Powers and duties of department generally
+- Section 32-2-3 - Development of transportation plans; public hearings; approval of plans by board; promulgation of rules and regulations
+- Section 32-2-4 - Information for traveling public
+- Section 32-2-4.1 - Gateway Center safety rest area and information center
+- Section 32-2-5 - Actions by or against department
+- Section 32-2-6 - Liability of department for actions against counties; procedure to institute actions
+- Section 32-2-7 - Compensation for employees injured in line of duty
+- Section 32-2-8 - Department to fly POW-MIA flag at interstate rest areas
+- Section 32-2-20 - Composition of board; qualifications of members; terms of office; selection of members; filling of vacancies; officers; meetings; compensation
+- Section 32-2-21 - Powers and duties of board generally
+- Section 32-2-22 - Definitions; responsibilities of director and Planning Division; approval of program and plan
+- Section 32-2-40 - Selection of commissioner of transportation; term; vacancy; bond; other elective office
+- Section 32-2-41 - Powers, duties, and authority of commissioner; establishment of divisions
+- Section 32-2-41.1 - State-wide strategic transportation plan
+- Section 32-2-41.2 - Development of benchmarks; reports; value engineering studies
+- Section 32-2-41.3 - Georgia Freight Railroad Program
+- Section 32-2-41.4 - State-wide freight and logistics implementation plan
+- Section 32-2-42 - Deputy commissioner of transportation; chief engineer; treasurer and assistant treasurer
+- Section 32-2-43 - Director of planning; appointment; responsibilities
+- Section 32-2-60 - Authority to contract; form and content of construction contracts; bonds
+- Section 32-2-61 - Limitations on power to contract
+- Section 32-2-62 - Advertising of nonnegotiated construction contracts; approval of negotiated construction contracts; factors to be considered by board for priority of projects
+- Section 32-2-63 - Authority of commissioner to execute contracts and authority lease agreements
+- Section 32-2-64 - Required letting of contracts by public bid; posting bid on department website sufficient
+- Section 32-2-65 - Advertising for bids
+- Section 32-2-66 - Prequalifications of contractors and subcontractors
+- Section 32-2-67 - Payment by bidder to cover costs
+- Section 32-2-68 - Proposal guaranty by bidder
+- Section 32-2-69 - Bidding process and award of contract
+- Section 32-2-70 - Bonds of successful bidder
+- Section 32-2-71 - Failure of successful bidder to sign contract or furnish bonds
+- Section 32-2-72 - Oath by successful bidder
+- Section 32-2-73 - Supplemental and extension agreements
+- Section 32-2-74 - Effect of federal laws on Code Sections 32-2-60 through 32-2-73; power of department to secure benefits of federal-aid program
+- Section 32-2-75 - Contract clauses for retainage of amounts constituting a percentage of gross value of completed work; time of final payment of retained amounts to contractor
+- Section 32-2-76 - Contract clauses providing for escrow agreements; mandatory provisions of escrow agreements
+- Section 32-2-77 - Liability of treasurer of the department or other appropriate authority and state to contractor or surety
+- Section 32-2-78 - Definitions
+- Section 32-2-79 - Biennial reporting of potential undertakings best suited for public-private partnership
+- Section 32-2-80 - Public-private partnerships (P3s)
+- Section 32-2-81 - Design-build procedure
+- Section 32-2-82 - Alternative contracting method

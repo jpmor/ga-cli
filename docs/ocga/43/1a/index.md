@@ -1,0 +1,3 @@
+# Chapter 1A - [RESERVED] OCCUPATIONAL REGULATION LEGISLATION REVIEW (§ 43-1A-1)
+
+- Section 43-1A-1 - through 43-1A-9 - Reserved

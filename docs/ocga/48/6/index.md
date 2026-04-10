@@ -1,0 +1,40 @@
+# Chapter 6 - TAXATION OF INTANGIBLES (§§ 48-6-1 — 48-6-98)
+
+- Section 48-6-1 - Transfer tax rate
+- Section 48-6-2 - Exemption of certain instruments, deeds, or writings from real estate transfer tax; requirement that consideration be shown
+- Section 48-6-3 - Persons required to pay real estate transfer tax
+- Section 48-6-4 - Payment of tax prerequisite to filing deed, instrument, or other writing; certification of payment; recording certification with deed
+- Section 48-6-5 - Clerks of superior courts responsible for tax collecting; fees
+- Section 48-6-6 - Annual report of tax distribution
+- Section 48-6-7 - [Effective until 7/1/2026] Refund of erroneously or illegally collected tax; procedure for filing claim; action for refund in superior court upon denial of claim; manner of paying refund
+- Section 48-6-7 - [Effective 7/1/2026] Refund of erroneously or illegally collected tax; procedure for filing claim; action for refund in superior court upon denial of claim; manner of paying refund
+- Section 48-6-8 - Distribution of tax revenues among state and other tax jurisdictions and districts
+- Section 48-6-9 - Failure to collect, account for, and pay over tax imposed by article; penalty
+- Section 48-6-10 - Evasion of tax imposed by article; penalty
+- Section 48-6-60 - Definitions
+- Section 48-6-61 - Filing instruments securing long-term notes; procedure; intangible recording tax; rate; maximum tax
+- Section 48-6-62 - Certification of payment of tax; alternate procedure for filing new or modified note
+- Section 48-6-64 - Tax imposed on long-term and short-term notes secured by realty
+- Section 48-6-65 - Extension, transfer, assignment, modification, or renewal of instrument; exemption for amount of note refinanced
+- Section 48-6-66 - Showing correct amount and due date on instruments conveying, encumbering, or creating a lien upon real estate
+- Section 48-6-67 - Violation of Code Section 48-6-66; penalty
+- Section 48-6-68 - Bond for title in absence of security deed; recording and tax
+- Section 48-6-69 - Encumbered real property located in more than one county; encumbered real property located within and outside state and secured by instrument held by nonresident
+- Section 48-6-70 - Encumbered real property located outside state and secured by instrument held by resident
+- Section 48-6-71 - Determinations by commissioner of whether tax is payable; determinations to be public record; effect of nonpayment in reliance on determination
+- Section 48-6-72 - Collection and distribution of revenues
+- Section 48-6-73 - Reports and distributions by collecting officer; failure to distribute as breach of duty and bond; commissions; long-term notes not entered on property tax digest
+- Section 48-6-74 - Distribution of revenues from intangible recording tax; procedure when real property located in more than one county
+- Section 48-6-75 - Collection procedures in absence of collecting officer
+- Section 48-6-76 - [Effective until 7/1/2026] Procedure for protesting intangible recording tax; payment under protest; special escrow fund; filing claim; approval or denial by commissioner; action for refund
+- Section 48-6-76 - [Effective 7/1/2026] Procedure for protesting intangible recording tax; payment under protest; special escrow fund; filing claim; approval or denial by commissioner; action for refund
+- Section 48-6-77 - Failure to pay intangible recording tax bars action on indebtedness; removal of bar; penalty; conditions under which penalty waived; acquisition of instrument by holder exempt from tax
+- Section 48-6-90 - Definitions
+- Section 48-6-90.1 - Depository financial institutions subject to state and local taxation as business corporations
+- Section 48-6-91 - Exemption for domestic international banking facilities
+- Section 48-6-93 - Local business license tax on depository financial institutions; tax rate based on Georgia gross receipts; return required; credits
+- Section 48-6-94 - Rate of taxation of moneyed capital competing with national banks
+- Section 48-6-95 - Special state occupation tax on depository financial institutions; tax rate based on Georgia gross receipts; return required; annual report; credits
+- Section 48-6-96 - Exemptions, credits, and deductions from taxation of depository financial institutions filing consolidated returns with parent organization
+- Section 48-6-97 - Taxation of credit unions; legislative intent to tax state and federally chartered credit unions equally
+- Section 48-6-98 - Legislative intent to tax all depository financial institutions equally; interim special tax limitation for savings and loan associations

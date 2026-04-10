@@ -1,0 +1,63 @@
+# Chapter 37 - INSURERS REHABILITATION AND LIQUIDATION (§§ 33-37-1 — 33-37-58)
+
+- Section 33-37-1 - Construction and purpose of chapter
+- Section 33-37-2 - Applicability
+- Section 33-37-3 - Definitions
+- Section 33-37-4 - Jurisdiction; exclusiveness of remedy; venue; change of venue
+- Section 33-37-5 - Grounds for restraining orders and injunctions; rights regarding collateral pledged by insurer-member; process and timeline; options for renewal or restructuring of loan
+- Section 33-37-6 - Cooperation with Commissioner mandated; penalties for failure to cooperate
+- Section 33-37-7 - [Reserved] Effect of enactment of chapter on pending proceedings
+- Section 33-37-8 - Prohibition against release from proceedings or continuing business
+- Section 33-37-8.1 - Immunity of receivers and employees; indemnification; attorney's fees; approval of settlement
+- Section 33-37-9 - Commencing formal delinquency proceeding; ex parte seizure order; hearing and review of order; notice
+- Section 33-37-10 - Confidentiality of proceedings
+- Section 33-37-11 - Petition for rehabilitation; grounds
+- Section 33-37-12 - Order to rehabilitate; Commissioner to be appointed as rehabilitator; effect of order
+- Section 33-37-13 - Authority of rehabilitator; additional remedies; rehabilitation plan
+- Section 33-37-14 - Effect of rehabilitation order on pending litigation; standing of guaranty association to participate in rehabilitation
+- Section 33-37-15 - Petition for order of liquidation; defense; payment of costs and expenses; order terminating rehabilitation
+- Section 33-37-16 - Grounds for order of liquidation
+- Section 33-37-17 - Commissioner appointed as liquidator; seizure and administration of assets; effect of filing order; petition for declaration of insolvency; financial reports; plan for continued performance pending appeal
+- Section 33-37-18 - Termination of policy coverage
+- Section 33-37-19 - Petition for dissolution of corporate existence
+- Section 33-37-20 - Powers of liquidator
+- Section 33-37-21 - Notice of liquidation
+- Section 33-37-22 - Responsibility of agent to provide information; penalty for violation
+- Section 33-37-23 - Stay of collateral proceedings against insurer; authority of liquidator to intervene in, and defend, out-of-state action
+- Section 33-37-24 - Time for filing list of assets; reducing assets to liquidity
+- Section 33-37-25 - Fraudulent transfers or obligations incurred; avoidance
+- Section 33-37-26 - Transfer of property in good faith; recording copy of petition as notice of seizure of property
+- Section 33-37-26.1 - Limitations on ability of receiver to void transfer of certain property in connection with federal home loan bank security agreement; transfer avoidance under certain circumstances
+- Section 33-37-27 - Preferential transfers; liens; when transfer perfected; avoidance; transfer for new and contemporaneous consideration; payments to attorneys; personal liability of participants
+- Section 33-37-28 - Disallowing preferred creditor's claims
+- Section 33-37-29 - Mutual debts and credits
+- Section 33-37-30 - Liquidator's report to court; assessment against members of insurer; procedure when assessment not paid
+- Section 33-37-31 - Liability of reinsurers
+- Section 33-37-31.1 - &quot;Guaranty association&quot; defined; assumption of obligations; reinsurance; mandatory negotiations between reinsurer and receiver; construction with other statutory provisions
+- Section 33-37-32 - Premiums due during pendency of liquidation action; penalties for violation; notice; right to appeal
+- Section 33-37-33 - Application for approval of proposal to disburse assets; notice
+- Section 33-37-34 - Proof of claims; late filing
+- Section 33-37-35 - Contents of proof of claim; effect of judgment or order within four months of, or after, filing petition for liquidation
+- Section 33-37-36 - Third-party contingent claim; claims due in future; claims under employment contracts
+- Section 33-37-37 - Third-party claim against insured
+- Section 33-37-38 - Procedure when claim denied
+- Section 33-37-39 - When third person subrogated to rights of creditor
+- Section 33-37-40 - Determining value of security held by secured creditor
+- Section 33-37-41 - Priority of distribution of claims
+- Section 33-37-42 - Authority of liquidator to compound, compromise, or negotiate claims; report to court
+- Section 33-37-43 - Payment of distributions
+- Section 33-37-44 - Disposition of unclaimed funds subject to distribution
+- Section 33-37-45 - Liquidator's application for discharge
+- Section 33-37-46 - Reopening liquidation proceedings
+- Section 33-37-47 - Retention or destruction of records
+- Section 33-37-48 - Receivership audits
+- Section 33-37-49 - Commissioner appointed as conservator of alien or foreign insurer's property; grounds
+- Section 33-37-50 - Commissioner appointed as liquidator of foreign or alien insurer's assets; grounds
+- Section 33-37-51 - Title to property of insurer domiciled in another state; rights of resident claimants
+- Section 33-37-52 - Commissioner as ancillary receiver for insurer not domiciled in this state
+- Section 33-37-53 - Commissioner's cooperation with officials of domiciliary state of foreign or alien insurer
+- Section 33-37-54 - Rights of nonresident claimants in proceeding against domiciliary insurer
+- Section 33-37-55 - Rights of resident claimants in proceeding in another state against nondomiciliary insurer
+- Section 33-37-56 - Stay of proceedings during pendency of liquidation proceeding
+- Section 33-37-57 - Superiority of order of distribution issued by domiciliary state; priority of payment and claims; rights of secured creditors
+- Section 33-37-58 - Failure of ancillary receiver to transfer assets

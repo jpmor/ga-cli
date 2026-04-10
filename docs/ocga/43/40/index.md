@@ -1,0 +1,39 @@
+# Chapter 40 - REAL ESTATE BROKERS AND SALESPERSONS (§§ 43-40-1 — 43-40-32)
+
+- Section 43-40-1 - Definitions
+- Section 43-40-2 - Creation of commission; members; meetings; recusal for conflict of interest; removal; compensation; annual report; budget unit
+- Section 43-40-3 - Determination of fees by commission
+- Section 43-40-3.1 - Rules and regulations
+- Section 43-40-4 - Office of commissioner; qualifications; restrictions; staff; oath; duties and powers; reimbursement
+- Section 43-40-5 - Status of license of commissioner and commission employees
+- Section 43-40-6 - Seal; records
+- Section 43-40-7 - Application for licenses; confidentiality
+- Section 43-40-8 - Qualifications of licensees; course of study for licensed salespersons; lapse; reinstatement; renewal; continuing education; standards for courses
+- Section 43-40-9 - Nonresident licensees; service of process; reciprocity; contracts with licensed Georgia brokers
+- Section 43-40-10 - Requirements for firm to be granted broker's license
+- Section 43-40-11 - Form of license
+- Section 43-40-12 - Fees; inactive status; licensure of broker as salesperson; penalty fees; extension of renewal period
+- Section 43-40-13 - Disposition of fees collected under chapter
+- Section 43-40-14 - Power of commission to issue, revoke, or suspend licenses and censure licensees; power to enter contracts; retention of funds
+- Section 43-40-15 - Grant of licenses; grounds for suspension or revocation of license; other sanctions; surrender or lapse; conviction
+- Section 43-40-16 - Refusal to issue licenses; hearings; judicial review
+- Section 43-40-17 - [Repealed] [Reserved] Revocation or suspension of license issued to partnership, limited liability company, or corporation
+- Section 43-40-18 - Management of firm and licensed affiliates; compliance with local ordinances
+- Section 43-40-19 - Change of place of business; transfer of salesperson, associate broker, or community association manager
+- Section 43-40-20 - Trust or escrow checking account for real estate business; when entitled to commission
+- Section 43-40-21 - Violations involving real estate accounts; report to Attorney General; injunctions; appointment of receiver
+- Section 43-40-22 - Real estate education, research, and recovery fund; revocation of license upon court order for payment from fund; subrogation
+- Section 43-40-22.1 - Fidelity bond or insurance requirements for broker providing community management services
+- Section 43-40-23 - Applicability of county or municipal license, occupational, or professional taxes
+- Section 43-40-24 - Requisites for maintenance of action under chapter
+- Section 43-40-25 - Violations by licensees, schools, and instructors; sanctions; unfair trade practices
+- Section 43-40-25.1 - Completion of certain forms not practice of law; contents of certain forms
+- Section 43-40-25.2 - Alternative disciplinary procedures; citations
+- Section 43-40-26 - Hearings before commission; judicial review
+- Section 43-40-27 - Investigation of complaints; subpoenas; confidentiality; publication of licensee name upon revocation or suspension; closed meetings
+- Section 43-40-27.1 - Conviction data
+- Section 43-40-28 - Injunctive actions
+- Section 43-40-29 - Exceptions to operation of chapter
+- Section 43-40-30 - Acting without a license; cease and desist order; judicial review; effect of Code section on other remedies
+- Section 43-40-30.1 - Employer-employee or broker-independent contractor relationships between licensees
+- Section 43-40-31 - Penalty

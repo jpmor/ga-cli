@@ -1,0 +1,24 @@
+# Chapter 14 - ELECTRICAL CONTRACTORS, PLUMBERS, CONDITIONED AIR CONTRACTORS, LOW-VOLTAGE CONTRACTORS, AND UTILITY CONTRACTORS (§§ 43-14-1 — 43-14-18)
+
+- Section 43-14-1 - Declaration of purpose
+- Section 43-14-2 - Definitions
+- Section 43-14-3 - State Construction Industry Licensing Board; members
+- Section 43-14-4 - Chairperson; meetings; organization of divisions; meetings of divisions; quorums within divisions
+- Section 43-14-5 - General powers of board
+- Section 43-14-6 - Powers and duties of divisions
+- Section 43-14-7 - Powers and duties of division director
+- Section 43-14-8 - Licensing required for electrical, plumbing, or conditioned air contracting; businesses conducted by partnerships, limited liability companies, and corporations; applications; review courses
+- Section 43-14-8.1 - License requirement for low-voltage electrical contracting; businesses conducted by partnerships, limited liability companies, and corporations; applications
+- Section 43-14-8.2 - Utility contractor license; utility manager; business entities; severance of connection with utility manager; unlawful contracts
+- Section 43-14-8.3 - Utility manager certificate
+- Section 43-14-8.4 - Utility foreman certificate; presence of certified utility manager or certified utility foreman required
+- Section 43-14-9 - Display of license and registration number
+- Section 43-14-10 - Applicability of Chapter 13 of Title 50, the &quot;Georgia Administrative Procedure Act.&quot;
+- Section 43-14-11 - Injunction for violation of chapter
+- Section 43-14-12 - Suspension of, or refusal to restore, licenses and certificates by municipal or county inspection authority; appeals; adoption and enforcement of codes at local level; bonds; fees or taxes
+- Section 43-14-12.1 - Evidence of violation; cease and desist orders; fines; other penalties for violations
+- Section 43-14-12.2 - Proof of unlawful practice of utility contracting by unlicensed individual; cease and desist orders; penalty for violations
+- Section 43-14-13 - Applicability of chapter
+- Section 43-14-14 - Penalty
+- Section 43-14-15 - Certain military certifications entitle persons to obtain certain professional licenses
+- Section 43-14-16 - [Repealed]

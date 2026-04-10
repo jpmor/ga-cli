@@ -1,0 +1,133 @@
+# Chapter 4 - PUBLIC ASSISTANCE (§§ 49-4-1 — 49-4-193)
+
+- Section 49-4-1 - Short title
+- Section 49-4-2 - Definitions
+- Section 49-4-3 - Establishment of categories of public assistance; powers and duties in administration of article
+- Section 49-4-4 - Residency requirements for public assistance
+- Section 49-4-5 - Determining amount of public assistance
+- Section 49-4-6 - Reserves, income, and resources to be disregarded
+- Section 49-4-7 - Receipt of compensation for residence sold by government action not to affect eligibility
+- Section 49-4-8 - Application for public assistance
+- Section 49-4-9 - Investigation and record concerning applicant
+- Section 49-4-10 - Physical examination of applicant
+- Section 49-4-11 - Award and payment of public assistance
+- Section 49-4-12 - Periodic redetermination of award; reporting changes in recipient's circumstances; review by department
+- Section 49-4-13 - Hearings; appeal
+- Section 49-4-14 - Regulations as to records; use or disclosure of information; penalty
+- Section 49-4-15 - Fraud in obtaining public assistance, food stamps, or Medicaid; penalties; recovery of overpayments
+- Section 49-4-15.1 - Examination of financial records in instances of alleged fraud
+- Section 49-4-16 - Research, demonstration, and work experience programs; surplus food distribution
+- Section 49-4-17 - Funding costs of assistance and administration; county participation not required
+- Section 49-4-18 - Article construed with federal Social Security Act; adoption of rules to comply with federal act
+- Section 49-4-19 - Social assistance register
+- Section 49-4-20 - Drug testing requirements; penalties; reapplication; confidentiality
+- Section 49-4-21 - Photo requirement on electronic benefits transfer cards for food stamps
+- Section 49-4-22 - Eligibility for aid under federal Supplemental Nutrition Assistance Program
+- Section 49-4-30 - Short title
+- Section 49-4-31 - Definitions
+- Section 49-4-32 - Eligibility for assistance under this article
+- Section 49-4-33 - Duties of department under this article
+- Section 49-4-34 - Duties of county departments under this article
+- Section 49-4-35 - Assistance is neither assignable nor subject to legal process or bankruptcy law; payment of assistance check after death of recipient
+- Section 49-4-36 - Payment of assistance after recipient moves to another county
+- Section 49-4-37 - Claims to assistance subject to amendments or repeals
+- Section 49-4-38 - Roll book of employees
+- Section 49-4-50 - Short title
+- Section 49-4-51 - Definitions; when person considered blind
+- Section 49-4-52 - Eligibility for assistance under this article
+- Section 49-4-53 - Duties of department under this article
+- Section 49-4-54 - Duties of county departments under this article
+- Section 49-4-55 - Examination of applicant by ophthalmologist or optometrist
+- Section 49-4-56 - Reexamination of recipient's eyesight; furnishing information
+- Section 49-4-57 - Providing supplementary treatment services
+- Section 49-4-58 - Assistance is neither assignable nor subject to legal process or bankruptcy law; payment of assistance check after death of recipient
+- Section 49-4-59 - Recovery of assistance payments from recipient's estate; federal share of amounts recovered
+- Section 49-4-60 - Payment of assistance after recipient moves to another county
+- Section 49-4-61 - Claims to assistance subject to amendments or repeals
+- Section 49-4-80 - Definitions
+- Section 49-4-81 - Eligibility for assistance under this article
+- Section 49-4-82 - Duties of department under this article
+- Section 49-4-83 - Duties of county departments under this article
+- Section 49-4-84 - Assistance is neither assignable nor subject to legal process or bankruptcy law; payment of assistance check after death of recipient
+- Section 49-4-85 - Payment of assistance after recipient moves to another county
+- Section 49-4-86 - Claims to assistance subject to amendments or repeals
+- Section 49-4-100 - through 49-4-119 - Reserved
+- Section 49-4-120 - through 49-4-128 - Reserved
+- Section 49-4-140 - Short title
+- Section 49-4-141 - Definitions
+- Section 49-4-142 - Department of Community Health established; adoption, administration, and modification of state plan; drug application fees; personal needs allowance
+- Section 49-4-142.1 - Legislative notification of request for waiver
+- Section 49-4-142.2 - Expansion of Medicaid eligibility through an increase in the income threshold
+- Section 49-4-142.3 - Waiver request to federal government on income threshold for Medicare and Medicaid services
+- Section 49-4-142.4 - Comprehensive review of provider reimbursement rates; development of proposed rate models, documentation, and policy changes
+- Section 49-4-142.5 - Waiver request allowing Medicaid reimbursement
+- Section 49-4-143 - Power of Board of Community Health; Board of Medical Assistance abolished
+- Section 49-4-144 - Chief administrative officer; powers and duties
+- Section 49-4-145 - Time limitations on claims for assistance; form of claims
+- Section 49-4-146 - Time for action on claim
+- Section 49-4-146.1 - Violations; penalties; recovery of excess amounts; termination and reinstatement; investigations
+- Section 49-4-146.2 - Voluntary termination of provider agreements by nursing facilities; adjustment of medical assistance rate; decertification
+- Section 49-4-146.3 - Civil forfeiture of property and proceeds obtained through Medicaid fraud
+- Section 49-4-147 - Enforcement of liens, claims, or offsets against assistance
+- Section 49-4-147.1 - Claims by department against estate of Medicaid recipients
+- Section 49-4-147.2 - Department of Community Health not eligible to obtain nor liable for interest on orders, judgments, and liquidated or unliquidated amounts; exceptions
+- Section 49-4-148 - Recovery of assistance from third party liable for sickness, injury, disease, or disability
+- Section 49-4-149 - Lien of Department of Community Health against third parties; subrogation to recipients' insurance claims; assignment of recipients' claims
+- Section 49-4-149.1 - Plan for family supplementation of Medicaid payments upon federal removal of restrictions or waiver
+- Section 49-4-150 - Regulations as to maintenance and use of records; use of information
+- Section 49-4-151 - Obtaining information for investigations and audits
+- Section 49-4-151.1 - Errors or omissions in reporting; right to hearing; exclusion
+- Section 49-4-152 - Research and demonstration projects; pilot projects to provide health care coverage and essential health care services; pharmacy assistance programs
+- Section 49-4-152.1 - Medicaid Prescription Drug Bidding and Rebate Program
+- Section 49-4-152.2 - Rebates for sole-source and multiple-source drugs included in Controlled Medical Assistance Drug List
+- Section 49-4-152.3 - Reuse of unit dosage drugs
+- Section 49-4-152.4 - Department contracts to require refund of prescription drug rebates
+- Section 49-4-152.5 - Restocking fees
+- Section 49-4-152.6 - Medicaid coverage for mood disorders prescriptions
+- Section 49-4-153 - Hearings and appeals; judicial review
+- Section 49-4-154 - Powers and duties retained by Department of Human Resources (Department of Community Health)
+- Section 49-4-155 - Department of Community Health to succeed to existing rules, regulations, policies, procedures, and administrative orders
+- Section 49-4-156 - Comprehensive Health Coverage Commission; membership; purpose; termination
+- Section 49-4-156.1 - Reimbursement for services rendered under Article 5 of Chapter 6 of this title
+- Section 49-4-157 - Construction of this article with federal act
+- Section 49-4-158 - Certain dependents of military service members to maintain eligibility and priority for certain medical assistance and services
+- Section 49-4-159 - Medicaid coverage for lactation and postpartum care
+- Section 49-4-159.1 - State plan amendment to implement express lane eligibility in Medicaid and the PeachCare for Kids Program; enrollment and renewal
+- Section 49-4-159.2 - [Repealed Effective 12/31/2025] Remote maternal health clinical services; reporting; termination
+- Section 49-4-159.3 - Biomarker testing for Medicaid recipients
+- Section 49-4-159.4 - Coverage for continuous glucose monitors
+- Section 49-4-160 - Short title
+- Section 49-4-161 - Definitions
+- Section 49-4-162 - Program established; purposes; assets to be disregarded with respect to Medicaid eligibility or payment or recovery by the state of payments for medical services
+- Section 49-4-163 - Eligibility for asset disregard; reciprocal agreements with other states to extend asset disregard mutually
+- Section 49-4-164 - Requirements for selling qualified long-term care insurance partnership policies; rules and regulations; reports
+- Section 49-4-165 - Notice to consumers
+- Section 49-4-166 - [Repealed] Effective date
+- Section 49-4-168 - Definitions
+- Section 49-4-168.1 - Civil penalties for false or fraudulent Medicaid claims
+- Section 49-4-168.2 - Role of Attorney General in pursuing cases; civil actions by private persons; procedures
+- Section 49-4-168.3 - Standard of proof; procedure; intervention by Attorney General
+- Section 49-4-168.4 - Protection of employees from discrimination; relief; statute of limitations
+- Section 49-4-168.5 - Statute of limitations
+- Section 49-4-168.6 - Venue
+- Section 49-4-169 - Legislative findings and intent
+- Section 49-4-169.1 - Definitions
+- Section 49-4-169.2 - Services and treatment for categorically needy and medically fragile children
+- Section 49-4-169.3 - Requirements relating to administrative prior approval for services and appeals; statutory construction
+- Section 49-4-170 - Grounds for appointing personal representative; petition by county or district director
+- Section 49-4-171 - Hearing on petition; appointment, duties, and removal of representative; court costs waived
+- Section 49-4-172 - Appeal from order of appointment or removal
+- Section 49-4-173 - Maintenance of records by county or district director; use of facts and findings in other proceedings
+- Section 49-4-180 - Short title
+- Section 49-4-181 - Definitions
+- Section 49-4-182 - Temporary Assistance for Needy Families Program created
+- Section 49-4-183 - Administration of article by department; promulgation of rules and regulations by board; duties of department
+- Section 49-4-184 - Ineligibility for assistance
+- Section 49-4-185 - Sanctions against recipient for failure to comply
+- Section 49-4-186 - [Reserved] Schedule of assistance to eliminate increment in benefits under TANF program as result of child birth during eligibility period
+- Section 49-4-187 - Assistance for applicants moving into state after receiving assistance from another state
+- Section 49-4-188 - Assistance for qualified aliens
+- Section 49-4-190 - Construction of article
+- Section 49-4-191 - Establishment and enforcement of standards and procedures by department
+- Section 49-4-192 - Establishment of pilot LEARNFARE program
+- Section 49-4-193 - Drug testing requirements; penalties; reapplication; confidentiality; exceptions

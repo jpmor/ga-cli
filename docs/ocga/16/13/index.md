@@ -1,0 +1,102 @@
+# Chapter 13 - CONTROLLED SUBSTANCES (§§ 16-13-1 — 16-13-122)
+
+- Section 16-13-1 - Drug related objects
+- Section 16-13-2 - Conditional discharge for possession of controlled substances as first offense and certain nonviolent property crimes; dismissal of charges; restitution to victims
+- Section 16-13-3 - Penalty for abandonment of dangerous drugs, poisons, or controlled substances
+- Section 16-13-4 - Approval by Food and Drug Administration as prerequisite to sale of controlled substances and dangerous drugs
+- Section 16-13-5 - Immunity from arrest or prosecution for persons seeking medical assistance for drug overdose
+- Section 16-13-20 - Short title
+- Section 16-13-21 - Definitions
+- Section 16-13-22 - Administration of article; standards and schedules
+- Section 16-13-23 - Nomenclature for controlled substances
+- Section 16-13-24 - Establishment of schedules of controlled substances
+- Section 16-13-25 - Schedule I
+- Section 16-13-26 - Schedule II
+- Section 16-13-27 - Schedule III
+- Section 16-13-27.1 - Exempt anabolic steroids
+- Section 16-13-28 - Schedule IV
+- Section 16-13-29 - Schedule V
+- Section 16-13-29.1 - Nonnarcotic substances excluded from schedules of controlled substances
+- Section 16-13-29.2 - Authority for exemption of over-the-counter Schedule V controlled substances
+- Section 16-13-30 - Purchase, possession, manufacture, distribution, or sale of controlled substances or marijuana; penalties
+- Section 16-13-30.1 - Manufacture, delivery, distribution, possession, or sale of noncontrolled substances; civil forfeiture
+- Section 16-13-30.2 - Manufacture, distribution, or possession with intent to distribute of imitation controlled substances; civil forfeiture
+- Section 16-13-30.3 - Possession of substances containing ephedrine or pseudoephedrine; restrictions on sales of products containing those ingredients
+- Section 16-13-30.4 - Products containing pseudoephedrine
+- Section 16-13-30.5 - Possession of substances with intent to use or convey such substances for the manufacture of Schedule I or Schedule II controlled substances
+- Section 16-13-30.6 - Prohibition on purchase and sale of marijuana flavored products
+- Section 16-13-30.7 - Possession of a pill press, tableting machine, encapsulating machine, or other controlled substance counterfeiting materials
+- Section 16-13-31 - Trafficking in cocaine, illegal drugs, marijuana, or methamphetamine; penalties
+- Section 16-13-31.1 - Trafficking in ecstasy; sentencing; variation
+- Section 16-13-32 - Transactions in drug related objects; civil forfeiture; penalties
+- Section 16-13-32.1 - Transactions in drug related objects; evidence as to whether object is drug related; civil forfeiture; penalties
+- Section 16-13-32.2 - Possession and use of drug related objects
+- Section 16-13-32.3 - Use of communication facility in committing or facilitating commission of act which constitutes felony under chapter; penalty
+- Section 16-13-32.4 - Manufacturing, distributing, dispensing, or possessing controlled substances in, on, or near public or private schools
+- Section 16-13-32.5 - Manufacturing, distributing, dispensing, or possessing with intent to distribute controlled substance, marijuana, or counterfeit substance near park or housing project; establishment of drug-free zones
+- Section 16-13-32.6 - Manufacturing, distributing, dispensing, or possessing with intent to distribute controlled substance or marijuana in, on, or within drug-free commercial zone
+- Section 16-13-33 - Attempt or conspiracy to commit offense under this article
+- Section 16-13-34 - Promulgation of rules relating to registration and control of controlled substances; registration fees
+- Section 16-13-35 - General registration requirements
+- Section 16-13-36 - Factors considered in determining whether to register manufacturer or distributor
+- Section 16-13-37 - Grounds for suspending or revoking registration; disposition of controlled substances; notification to bureau
+- Section 16-13-38 - Procedure for denying, suspending, revoking, or limiting registration; automatic suspension
+- Section 16-13-39 - Manufacturers, distributors, and dispensers to maintain records of controlled substances
+- Section 16-13-40 - Distribution of Schedule I and II substances
+- Section 16-13-41 - Prescriptions
+- Section 16-13-42 - Unauthorized distribution and dispensation; refusal or failure to keep records; refusal to permit inspection; unlawfully maintaining structure or place; penalty
+- Section 16-13-43 - Unauthorized distribution; penalties
+- Section 16-13-44 - Penalties under other laws
+- Section 16-13-45 - Powers of enforcement personnel
+- Section 16-13-46 - Administrative inspections and warrants
+- Section 16-13-47 - Injunctions
+- Section 16-13-48 - Cooperative arrangements with federal and other state agencies
+- Section 16-13-48.1 - [Repealed] Funds or property transferred to state or local agencies under federal drug laws
+- Section 16-13-49 - Declared items of contraband; forfeiture
+- Section 16-13-50 - Burden of proof; liability of enforcement officers in lawful performance of duties
+- Section 16-13-51 - Judicial review of administrative determinations, findings, and conclusions
+- Section 16-13-52 - Programs and research on prevention of abuse of controlled substances; confidentiality of research; exemption from penalties
+- Section 16-13-53 - [Repealed] [Reserved] Pending proceedings
+- Section 16-13-54 - Orders and rules promulgated prior to July 1, 1974
+- Section 16-13-54.1 - Weight or quantity of controlled substance or marijuana not essential element of offense
+- Section 16-13-55 - Construction of article
+- Section 16-13-56 - Penalty for violation of article; restitution to the state for cleanup of environmental hazards; other remedies
+- Section 16-13-56.1 - Opioids; notification of addictive risks
+- Section 16-13-57 - Program to record prescription information into electronic data base; administration and oversight
+- Section 16-13-58 - Funds for development and maintenance of program; granting of funds to dispensers
+- Section 16-13-59 - Information to include for each Schedule II, III, IV, or V controlled substance prescription; compliance
+- Section 16-13-60 - Privacy and confidentiality; use of data; security program
+- Section 16-13-61 - Electronic Database Review Advisory Committee; members; terms; officers; procedure; compensation
+- Section 16-13-62 - Rules and regulations
+- Section 16-13-63 - Liability; review of PDMP data when filling certain prescriptions; cause of action for civil damages
+- Section 16-13-64 - Violations; criminal penalties
+- Section 16-13-65 - Exceptions
+- Section 16-13-70 - Short title
+- Section 16-13-70.1 - Definition of terms
+- Section 16-13-71 - Dangerous drug
+- Section 16-13-72 - Sale, distribution, or possession of dangerous drugs
+- Section 16-13-72.1 - Revocation of dangerous drug permit; forfeiture
+- Section 16-13-73 - Labeling prescription containers of dangerous drugs
+- Section 16-13-74 - Written prescriptions for dangerous drugs; content; signature
+- Section 16-13-75 - Drugs to be kept in original container; exception
+- Section 16-13-76 - Use of fictitious name or false address when obtaining drugs
+- Section 16-13-77 - Applicability of article to practitioner of the healing arts
+- Section 16-13-78 - Obtaining or attempting to obtain dangerous drugs by fraud, forgery, or concealment of material fact
+- Section 16-13-78.1 - Prescribing or ordering dangerous drugs
+- Section 16-13-78.2 - Possession, manufacture, delivery, distribution, or sale of counterfeit substances
+- Section 16-13-79 - Violations
+- Section 16-13-90 - &quot;Model glue&quot; defined
+- Section 16-13-91 - Intentional inhalation of model glue; application of article to anesthesia
+- Section 16-13-92 - Possession, sale, or transfer of model glue
+- Section 16-13-93 - Sale or transfer of model glue to minors
+- Section 16-13-94 - Maintenance of records of sales to minors
+- Section 16-13-95 - Effect of article on laws or ordinances of counties and municipalities
+- Section 16-13-96 - Penalty for violation of article; separate offenses
+- Section 16-13-110 - Definitions
+- Section 16-13-111 - Notification of conviction of licensed individual to licensing authority; reinstatement of license; imposition of more stringent sanctions
+- Section 16-13-112 - Applicability of administrative procedures
+- Section 16-13-113 - Article as supplement to power of licensing authority
+- Section 16-13-114 - Period of applicability of article
+- Section 16-13-120 - Definitions
+- Section 16-13-121 - Possession by individual under age 21; sale; penalty
+- Section 16-13-122 - Content of kratom; required labeling

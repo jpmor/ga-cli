@@ -1,0 +1,49 @@
+# Chapter 5 - DRUG ABUSE TREATMENT AND EDUCATION PROGRAMS (§§ 26-5-1 — 26-5-80)
+
+- Section 26-5-1 - Short title
+- Section 26-5-2 - Legislative intent
+- Section 26-5-3 - Definitions
+- Section 26-5-4 - Classification of programs
+- Section 26-5-5 - Promulgation of minimum standards of quality and services for each class of programs
+- Section 26-5-6 - Promulgation of rules and regulations
+- Section 26-5-7 - License required
+- Section 26-5-8 - Application for license
+- Section 26-5-9 - Provisional licenses
+- Section 26-5-10 - Issuance of license; revocation or suspension
+- Section 26-5-11 - Conditions for issuance of license; nontransferability
+- Section 26-5-12 - Records of drug dependent persons treated or advised
+- Section 26-5-13 - Inspection of programs
+- Section 26-5-14 - Denial, suspension, or revocation of licenses
+- Section 26-5-15 - Notice of proposed denial, suspension, or revocation; hearing
+- Section 26-5-16 - Applicability of &quot;Georgia Administrative Procedure Act.&quot;
+- Section 26-5-17 - Confidentiality of records, names, and communications
+- Section 26-5-18 - Injunctions; nuisances per se
+- Section 26-5-19 - Penalty
+- Section 26-5-20 - Priority admissions policy for drug dependent pregnant females
+- Section 26-5-21 - [Reserved] State Commission on Narcotic Treatment Programs; abolishment
+- Section 26-5-22 - Annual on-site inspections of narcotic treatment programs
+- Section 26-5-23 - Publication of annual report
+- Section 26-5-40 - Short title
+- Section 26-5-41 - Definitions
+- Section 26-5-42 - Minimum standards of quality and services
+- Section 26-5-43 - Rules and regulations
+- Section 26-5-44 - License required
+- Section 26-5-45 - Application; proof of compliance
+- Section 26-5-46 - Application enrollment period; required letter of intent
+- Section 26-5-47 - Application review and requirements; nontransferability
+- Section 26-5-48 - Prerequisites to licensing; limits on licenses; waivers; creation of regions
+- Section 26-5-49 - Rewards and financial incentives prohibited
+- Section 26-5-50 - Compliance with zoning requirements
+- Section 26-5-51 - Providing of records
+- Section 26-5-52 - Inspections
+- Section 26-5-53 - Denial, suspension, or revocation of license
+- Section 26-5-54 - Notice
+- Section 26-5-55 - Actions subject to Administrative Procedures Act
+- Section 26-5-56 - Confidentiality of patient information
+- Section 26-5-57 - Enforcement
+- Section 26-5-58 - Penalty
+- Section 26-5-59 - Priority admissions policy for drug dependent pregnant females
+- Section 26-5-60 - Central registry
+- Section 26-5-61 - Records check application
+- Section 26-5-62 - Effectiveness of existing regulations
+- Section 26-5-80 - Prohibited remunerations and acts; exemptions; penalties

@@ -1,0 +1,70 @@
+# Chapter 11 - EMERGENCY MEDICAL SERVICES (§§ 31-11-1 — 31-11-139)
+
+- Section 31-11-1 - Findings; declaration of policy
+- Section 31-11-2 - Definitions
+- Section 31-11-3 - Recommendations by local coordinating entity as to administration of EMSC Program; hearing and appeal
+- Section 31-11-4 - Supervision and modifications of EMSC Program
+- Section 31-11-5 - Rules and regulations
+- Section 31-11-6 - Records
+- Section 31-11-7 - Exercise of emergency vehicle privileges by ambulance drivers
+- Section 31-11-8 - Liability of persons rendering emergency care; liability of physicians advising ambulance service pursuant to Code Section 31-11-50; limitation to gratuitous services
+- Section 31-11-9 - Enforcement; inspections
+- Section 31-11-10 - Establishment of fees and regulations by municipalities
+- Section 31-11-11 - Applicability of chapter
+- Section 31-11-12 - Contracts between emergency service providers and pharmacies for furnishing dangerous drugs and controlled substances
+- Section 31-11-30 - License requirement
+- Section 31-11-31 - Application for license
+- Section 31-11-31.1 - [Repealed] [Reserved] License fee
+- Section 31-11-31.2 - Ambulance service provider matching payment; segregated account; appropriations from segregated account; audits; rules and regulations
+- Section 31-11-32 - Duties of license officer
+- Section 31-11-33 - Insurance coverage as condition of licensing
+- Section 31-11-34 - Standards for ambulances
+- Section 31-11-35 - Renewal of license; change of ownership of ambulance service
+- Section 31-11-36 - Suspension or revocation of license; appeal to superior court
+- Section 31-11-49 - Definitions
+- Section 31-11-50 - Medical adviser
+- Section 31-11-51 - Licensing of emergency medical services personnel; rules and regulations; use of conviction data in licensing decisions; retention of fingerprints
+- Section 31-11-52 - Certification and recertification of, and training for, paramedics and cardiac technicians; qualifications by felons; provisional practice by military medical personnel
+- Section 31-11-53 - Services which may be rendered by certified emergency medical technicians and trainees; provisional practice by military medical personnel
+- Section 31-11-53.1 - Automated external defibrillator program; establishment; regulations; liability
+- Section 31-11-53.2 - &quot;Lay rescuer&quot; defined; use of automated external defibrillators
+- Section 31-11-54 - Services which may be rendered by paramedics and paramedic trainees
+- Section 31-11-55 - Services which may be rendered by certified cardiac technicians and trainees
+- Section 31-11-55.1 - Opioid antagonists administered by first responder to save life of person experiencing opioid related overdose
+- Section 31-11-55.2 - Administration of hydrocortisone sodium succinate intramuscularly by emergency medical services personnel; training; reporting; immunity
+- Section 31-11-56 - Revocation of certificates issued to emergency medical technicians
+- Section 31-11-57 - Revocation of certificates issued to paramedics and cardiac technicians
+- Section 31-11-58 - Recertification of emergency medical technicians; continuing education requirements
+- Section 31-11-58.1 - Recertification of paramedics and cardiac technicians; continuing education requirements
+- Section 31-11-59 - Services of emergency medical technicians, paramedics, and cardiac technicians in hospitals
+- Section 31-11-60 - Obtaining and administering drugs by certified employees of counties or municipalities
+- Section 31-11-60.1 - Program for physician control over emergency medical services to nonhospital patients
+- Section 31-11-60.2 - Testing for illegal drug usage by emergency medical technicians; requirements
+- Section 31-11-61 - Penalty
+- Section 31-11-80 - Short title
+- Section 31-11-81 - Definitions
+- Section 31-11-82 - Evaluation of person with emergency condition; initiation of intervention without prospective authorization; insurer may not deny payment after prospective authorization given
+- Section 31-11-100 - Definitions
+- Section 31-11-101 - Creation of Georgia Trauma Care Network Commission; composition; membership; meetings; vacancies; compensation
+- Section 31-11-102 - Duties and responsibilities
+- Section 31-11-103 - Trauma Care Network Trust Fund
+- Section 31-11-110 - Legislative findings
+- Section 31-11-111 - &quot;Department&quot; defined
+- Section 31-11-112 - Identification of stroke centers
+- Section 31-11-113 - Certification; application process; inspections
+- Section 31-11-114 - Grants; report
+- Section 31-11-115 - Distribution of list of state identified stroke centers to emergency medical services providers; development of a model stroke triage assessment tool; assessment, treatment, and transport of stroke patients
+- Section 31-11-116 - Annual reports
+- Section 31-11-117 - Statutory construction
+- Section 31-11-118 - Advertising
+- Section 31-11-119 - Rules and regulations
+- Section 31-11-130 - Legislative findings
+- Section 31-11-131 - Definitions
+- Section 31-11-132 - Office of Cardiac Care; level designations and requirements
+- Section 31-11-133 - Designation as emergency cardiac care center; suspension or revocation
+- Section 31-11-134 - Data reporting system
+- Section 31-11-135 - Grants to hospitals; reporting
+- Section 31-11-136 - Listing of emergency cardiac care centers; emergency cardiac care triage assessment tool; protocols
+- Section 31-11-137 - Statutory construction
+- Section 31-11-138 - Advertisement as emergency cardiac care center
+- Section 31-11-139 - Rules and regulations

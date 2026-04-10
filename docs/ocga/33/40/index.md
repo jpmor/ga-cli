@@ -1,0 +1,22 @@
+# Chapter 40 - RISK RETENTION GROUPS (§§ 33-40-1 — 33-40-21)
+
+- Section 33-40-1 - Purpose
+- Section 33-40-2 - Definitions
+- Section 33-40-3 - Risk retention groups chartered in this state
+- Section 33-40-4 - Risk retention groups not chartered in this state
+- Section 33-40-5 - Tax on premiums
+- Section 33-40-6 - Unfair trade practices
+- Section 33-40-7 - Financial examination
+- Section 33-40-8 - Notice required in policy
+- Section 33-40-9 - Prohibited acts
+- Section 33-40-10 - Insurance companies as members
+- Section 33-40-11 - Financially impaired nonresident groups
+- Section 33-40-12 - Georgia Insurers Insolvency Pool
+- Section 33-40-14 - Federal purchasing groups
+- Section 33-40-15 - Purchasing group requirements
+- Section 33-40-16 - Purchases by purchasing group
+- Section 33-40-17 - Enforcement
+- Section 33-40-18 - Penalties
+- Section 33-40-19 - License requirement
+- Section 33-40-20 - Enforcement of federal order
+- Section 33-40-21 - [Reserved] Rules

@@ -1,0 +1,22 @@
+# Chapter 3 - COUNTY BOARDS OF HEALTH (§§ 31-3-1 — 31-3-16)
+
+- Section 31-3-1 - Creation
+- Section 31-3-2 - Composition; terms of members
+- Section 31-3-2.1 - [Repealed] Option for certain counties to create board of health and wellness by ordinance
+- Section 31-3-3 - Duty to inform department of membership
+- Section 31-3-4 - Powers
+- Section 31-3-5 - Functions
+- Section 31-3-5.1 - Conformity prerequisite to building permit
+- Section 31-3-5.2 - Definition of &quot;gray water&quot;; lawful use
+- Section 31-3-6 - Rules and regulations of local application
+- Section 31-3-7 - Compensation for members' attendance at meetings
+- Section 31-3-8 - Records
+- Section 31-3-9 - Office quarters and equipment
+- Section 31-3-10 - Legal representation
+- Section 31-3-11 - Direction and supervision of staff
+- Section 31-3-12 - Appointments of district health director; qualifications; vacancy; duties
+- Section 31-3-12.1 - Contracts between county boards; authorization for and provisions applicable to county board of health serving as community service board
+- Section 31-3-13 - Declaration of public policy; contracts for assistance to boards
+- Section 31-3-14 - Financing of expenses
+- Section 31-3-15 - Establishment of health districts
+- Section 31-3-16 - Enforcement under local ordinances

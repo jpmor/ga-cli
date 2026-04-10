@@ -1,0 +1,21 @@
+# Chapter 3 - OFFICIAL OATHS AND COMMISSIONS (§§ 45-3-1 — 45-3-31)
+
+- Section 45-3-1 - Oaths required in addition to oath of office and constitutional oath
+- Section 45-3-2 - Form and subscription of oath
+- Section 45-3-3 - Officer authorized to administer oaths; oaths to be written, subscribed, and dated
+- Section 45-3-4 - Filing of oaths - Generally
+- Section 45-3-5 - Filing of oaths - County officers
+- Section 45-3-6 - Filing of oaths - Endorsement of filing time
+- Section 45-3-7 - Oaths of deputies
+- Section 45-3-8 - Effect of failure to take and file oath generally
+- Section 45-3-9 - Entry into duties of office without oath
+- Section 45-3-10 - Effect of failure to take and file oath upon validity of official acts
+- Section 45-3-10.1 - Applicability of Code Sections 45-3-1 through 45-3-10
+- Section 45-3-11 - Loyalty oath - Persons required to take oath generally
+- Section 45-3-12 - Loyalty oath - Elected officers
+- Section 45-3-13 - Loyalty oath - Form
+- Section 45-3-14 - Effect of failure to sign loyalty oath
+- Section 45-3-15 - Proceeding for false swearing when loyalty oath violated
+- Section 45-3-16 - Applicability of article
+- Section 45-3-30 - Officers commissioned under great seal of state
+- Section 45-3-31 - Officers commissioned under executive seal

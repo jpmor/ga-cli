@@ -1,0 +1,308 @@
+# Chapter 1 - SELLING AND OTHER TRADE PRACTICES (§§ 10-1-1 — 10-1-945)
+
+- Section 10-1-1 - Short title
+- Section 10-1-2 - Definitions; construction
+- Section 10-1-3 - Requirements for retail installment contracts; limitations on time price differential; prepayment; inclusion of construction permit costs
+- Section 10-1-4 - Requirements for revolving accounts; limitations on time price differential
+- Section 10-1-5 - Retail installment contracts entered into by mail or telephone
+- Section 10-1-6 - Buyer's right to cancel home solicitation sale
+- Section 10-1-7 - Providing for payment of delinquency charges, attorneys' fees, court costs, and bad instrument fees
+- Section 10-1-8 - Limitations on security interest; application of payments to revolving accounts
+- Section 10-1-9 - Transfer of retail installment contracts or revolving accounts
+- Section 10-1-10 - Disposition of goods repossessed after default; right to recover deficiency
+- Section 10-1-11 - Second mortgage statutes not affected; exemption from loan and interest statutes
+- Section 10-1-12 - Prior contracts or accounts not affected
+- Section 10-1-13 - Waiver of this article void
+- Section 10-1-14 - Limitation of actions
+- Section 10-1-15 - Criminal and civil penalties
+- Section 10-1-16 - Inapplicability of this article to educational entities and student loan transactions
+- Section 10-1-20 - Short title
+- Section 10-1-21 - Definitions
+- Section 10-1-22 - Seller's obligation to provide sales receipt or contract; obligation of buyer upon cancellation
+- Section 10-1-23 - Notice of cancellation; form
+- Section 10-1-24 - Timing of assignments of note or other evidence of indebtedness
+- Section 10-1-25 - Utilization of federal forms and notices
+- Section 10-1-26 - Buyers' continuing rights under other statutory provisions
+- Section 10-1-27 - Exemptions
+- Section 10-1-30 - Short title
+- Section 10-1-31 - Definitions; construction
+- Section 10-1-32 - Requirements for retail installment contracts; insurance; providing for payment of delinquency charges, attorney's fees, and court costs
+- Section 10-1-33 - Finance charge limitations; assignment of contract
+- Section 10-1-33.1 - Advancement of money for satisfaction of lease, lien, or security interest in motor vehicle
+- Section 10-1-34 - Right to prepay debt; credit upon anticipation of payments
+- Section 10-1-35 - Refinancing retail installment contract
+- Section 10-1-36 - Disposition of motor vehicle repossessed after default; right to recover deficiency
+- Section 10-1-36.1 - Prohibition on class actions
+- Section 10-1-37 - Waiver of this article void
+- Section 10-1-38 - Criminal and civil penalties
+- Section 10-1-39 - Additional definitions
+- Section 10-1-40 - Unlawful inducement of motor vehicle buyer or lessee under contract to sublease vehicle; unlawful offering of vehicle for hire by sublessee
+- Section 10-1-41 - Civil action for unlawful inducement for sublease of motor vehicle; remedies
+- Section 10-1-42 - Advancement of money to satisfy lease, lien, or security interest in motor vehicle; inclusion in gross capitalized cost
+- Section 10-1-50 - Sale of unsolicited merchandise prohibited; payment after expiration of trial period; available remedy
+- Section 10-1-51 - Unordered merchandise sent after membership terminated deemed gift; enjoining payment requests
+- Section 10-1-70 - Disclosure of consideration required in contract; penalty
+- Section 10-1-80 - Definitions
+- Section 10-1-81 - Label required for remanufactured item sold at retail
+- Section 10-1-82 - Label required for rebuilt item sold at retail
+- Section 10-1-83 - Penalty for violation of this article
+- Section 10-1-100 - Out-of-state purchase of rifles and shotguns by residents
+- Section 10-1-101 - Purchase of rifles and shotguns by nonresidents
+- Section 10-1-120 - &quot;Paint&quot; defined
+- Section 10-1-121 - Enforcement of article; rules and regulations
+- Section 10-1-122 - Labels on paint containers
+- Section 10-1-123 - Purity of flaxseed or linseed oil; requirement for boiled linseed oil
+- Section 10-1-124 - Flaxseed or linseed oil to be sold under true name; labeling tank cars, tanks, barrels, or vessels of such oil
+- Section 10-1-125 - Possession of improperly labeled article prima-facie evidence of violation
+- Section 10-1-126 - Requirements for timber-marking paint; penalty for violation; enjoining violation
+- Section 10-1-127 - Penalty for sale of deceptively labeled paint
+- Section 10-1-220 - [Effective 1/1/2026] Definitions
+- Section 10-1-221 - [Effective 1/1/2026] Administration; electric vehicle charging station inspectors; cooperation with other agencies
+- Section 10-1-222 - [Effective 1/1/2026] Charging stations to be capable of measuring and displaying amount of electricity delivered; annual registration
+- Section 10-1-223 - [Effective 1/1/2026] Injunctions for violations
+- Section 10-1-224 - [Effective 1/1/2026] Inspection of stations; seal of accurate stations; condemnation of inaccurate stations; secrete manipulation prohibited; regulatory authority
+- Section 10-1-225 - [Effective 1/1/2026] Advertising requirements for electric vehicle charging stations; advertisements offering free gifts or services; enforcement; penalties
+- Section 10-1-226 - [Effective 1/1/2026] Civil penalty for violations
+- Section 10-1-227 - [Effective 1/1/2026] Prohibited activities of electric vehicle charging station inspectors
+- Section 10-1-228 - [Effective 1/1/2026] Penalty for violations
+- Section 10-1-230 - Short title
+- Section 10-1-231 - Legislative findings
+- Section 10-1-232 - Definitions
+- Section 10-1-233 - Acts of distributor violating article
+- Section 10-1-234 - Selling controlled product to another distributor for retail sale when selling to dealers at distress prices
+- Section 10-1-234.1 - Suppliers may not inhibit gasoline distributors from being blenders
+- Section 10-1-235 - Action by dealer against distributor for violation of article authorized; nature of relief; attorneys' fees
+- Section 10-1-236 - [Repealed and Reserved] [Reserved] Action by dealer against distributor for violation of article - Defense of termination of agreement
+- Section 10-1-237 - Early termination of lease; hold over; hearing; vacating premises
+- Section 10-1-238 - Action by distributor against dealer for breach of agreement; attorneys' fees
+- Section 10-1-239 - Limitation of actions
+- Section 10-1-240 - Marketing agreements subject to article
+- Section 10-1-241 - Sale of real property not affected
+- Section 10-1-250 - Short title
+- Section 10-1-251 - Definitions
+- Section 10-1-252 - Reasonable transfer price
+- Section 10-1-253 - Computation of cost
+- Section 10-1-254 - Prohibited acts in sale of octane or cetane fuels; burden of rebutting prima-facie case
+- Section 10-1-255 - Civil actions; effect of written tender of settlement; limitation of actions
+- Section 10-1-256 - Legislative intent in construction of Code Section 10-1-254
+- Section 10-1-260 - Short title
+- Section 10-1-261 - Legislative finding
+- Section 10-1-262 - &quot;Liquefied petroleum gas&quot; defined
+- Section 10-1-263 - State fire marshal to enforce article
+- Section 10-1-264 - Assistants and employees of state fire marshal
+- Section 10-1-265 - Rules and regulations setting standards for liquefied petroleum gas equipment
+- Section 10-1-266 - Issuance of licenses or permits; annual fees
+- Section 10-1-267 - Insurance or bond requirements for license or permit holders
+- Section 10-1-268 - Minimum storage facilities required
+- Section 10-1-269 - Suspension or revocation of license or imposition of penalty by state fire marshal
+- Section 10-1-270 - Conflicting local ordinances or regulations prohibited
+- Section 10-1-271 - Reciprocal agreements with other states
+- Section 10-1-272 - Penalty for violating article or rules and regulations
+- Section 10-1-290 - Short title
+- Section 10-1-291 - Legislative intent
+- Section 10-1-292 - Definitions
+- Section 10-1-293 - Blind bidding prohibited; trade screening required; notice of screening; waivers void
+- Section 10-1-294 - Enforcement by civil action; damages; attorneys' fees; injunctions
+- Section 10-1-310 - Definitions; record keeping; offenses; cooperation with law enforcement
+- Section 10-1-330 - Refusal to sell books, periodicals, or magazines to dealers refusing others not ordered
+- Section 10-1-331 - Penalty
+- Section 10-1-350 - Definitions
+- Section 10-1-351 - Verifiable documentation required; unlawful activities pertaining to used, detached catalytic converters
+- Section 10-1-352 - Requirements for purchase of burial objects
+- Section 10-1-353 - Record of transaction; false statements; penalty for making false statement
+- Section 10-1-354 - Inspections by law enforcement officers
+- Section 10-1-355 - [Effective Until 1/1/2026] Conditions and limitations on payments for regulated metal property; exception for transaction between business entities
+- Section 10-1-355 - [Effective 1/1/2026] Conditions and limitations on payments for regulated metal property; exception for transaction between business entities
+- Section 10-1-356 - Hold on regulated metal property believed to be stolen; notice; release of hold
+- Section 10-1-357 - Contesting identification or ownership of regulated metal property; action to recover property
+- Section 10-1-358 - Purchases of regulated metal property exempted from application of article
+- Section 10-1-358.1 - Exclusions from article's applicability
+- Section 10-1-359 - Prohibited acts
+- Section 10-1-359.1 - Registration of secondary metals recycler; electronic data base; authority of sheriff; penalty for violation
+- Section 10-1-359.2 - Penalties for violations
+- Section 10-1-359.3 - Forfeiture; items declared contraband
+- Section 10-1-359.4 - Authority of localities
+- Section 10-1-359.5 - Required information from secondary metals recyclers; role of Georgia Bureau of Investigation
+- Section 10-1-360 - Records of purchase transactions; penalties; applicability
+- Section 10-1-361 - Exemptions from article
+- Section 10-1-362 - Local ordinances or regulations
+- Section 10-1-510 - Conveyance of rights in works of fine art; statement of customer's right or license authorizing duplication; liability
+- Section 10-1-520 - Short title
+- Section 10-1-521 - Definitions
+- Section 10-1-522 - Delivery of artwork to dealer for exhibition or sale in exchange for compensation constituting consignment
+- Section 10-1-523 - Written contract required for consignment of work of art; violation by art dealer rendering artist's obligation voidable
+- Section 10-1-524 - Effects of consignment
+- Section 10-1-525 - Art received as consignment to remain trust property; not subject or subordinate to claims, liens, or security interests
+- Section 10-1-526 - Contractual waiver of liability for works of art consigned to cooperative
+- Section 10-1-527 - Use or display of work of art or photograph thereof
+- Section 10-1-528 - Applicability to contracts executed prior to July 1, 1995
+- Section 10-1-529 - Liability for violations by art dealers
+- Section 10-1-529.1 - Short title
+- Section 10-1-529.2 - Definitions
+- Section 10-1-529.3 - Duty of museums and archives repositories to keep accurate records of property held on loan; notice of change in ownership of loaned property
+- Section 10-1-529.4 - Abandonment of property loaned to a museum or archives repository; museum acquisition of abandoned property
+- Section 10-1-529.5 - Acquisition of undocumented property
+- Section 10-1-529.6 - Application of conservation measures to property on loan to museum or archives
+- Section 10-1-529.7 - American Indian human remains and burial objects excluded
+- Section 10-1-530 - Liability for sale of stolen horse or mule
+- Section 10-1-550 - through 10-1-555 - [Repealed]
+- Section 10-1-570 - Short title
+- Section 10-1-571 - Definitions
+- Section 10-1-572 - Legislative intent
+- Section 10-1-573 - Employees to be given benefit of day of rest
+- Section 10-1-574 - General exemptions from article
+- Section 10-1-575 - Charitable or religious activities exempt
+- Section 10-1-576 - Governmental departments, agencies, and employees exempt
+- Section 10-1-590 - Short title
+- Section 10-1-591 - Definitions
+- Section 10-1-592 - Buying services and clubs to obtain licenses
+- Section 10-1-593 - Conditions of licensure; bonds
+- Section 10-1-594 - Application for license; renewal; fee
+- Section 10-1-595 - Revocation, suspension, and nonrenewal of licenses; grounds; notice and hearing
+- Section 10-1-596 - Approval of Attorney General as to form of contract of membership required; effect of noncompliance
+- Section 10-1-597 - Right to cancel membership; how exercised; entitlement to refund; right not waivable
+- Section 10-1-598 - Requirements of contracts of membership; effect of noncompliance
+- Section 10-1-599 - Authorized duration of contract of membership; disclosure requirement
+- Section 10-1-600 - Maintenance of records; inspection
+- Section 10-1-601 - Rules, regulations, and orders
+- Section 10-1-602 - Application of &quot;Georgia Administrative Procedure Act&quot; and &quot;Fair Business Practices Act of 1975.&quot;
+- Section 10-1-603 - Injunctions
+- Section 10-1-604 - Civil penalty for violation; administrative hearing and review; judicial review; judgment on final order; remedy concurrent, alternative, and cumulative
+- Section 10-1-605 - Penalty
+- Section 10-1-606 - Continuing validity of previously adopted rules, orders, actions, and regulations
+- Section 10-1-675 - Legislative findings
+- Section 10-1-676 - Definitions
+- Section 10-1-677 - Termination of contractual relationship between dealer and manufacturer
+- Section 10-1-678 - Application
+- Section 10-1-679 - Definitions; considerations in determining &quot;good cause&quot;
+- Section 10-1-679.1 - Legislative intent; variation by contract of article's effect prohibited
+- Section 10-1-679.2 - Designated sales area for recreational vehicle dealer
+- Section 10-1-679.3 - Published prices, charges, and terms of sale
+- Section 10-1-679.4 - Termination or change of dealership agreements; burden of proving good cause
+- Section 10-1-679.5 - Notice required for termination of or substantial change to dealership agreements
+- Section 10-1-679.6 - Repurchase of inventory, equipment, tools, accessories, and signage on termination of the dealership contract; reimbursement for returned items
+- Section 10-1-679.7 - Unlawful coercive practices
+- Section 10-1-679.8 - Sale or transfer of ownership or change in management of dealerships; unlawful practices; required notices
+- Section 10-1-679.9 - Designated successor due to death, incapacity, or retirement; objection
+- Section 10-1-679.10 - Requirements for warranty work and service
+- Section 10-1-679.11 - Remedy for violations
+- Section 10-1-679.12 - Determining issuance of temporary injunction
+- Section 10-1-679.13 - Requirements for new dealerships
+- Section 10-1-679.14 - Franchise agreement required for the sale or distribution of new recreational vehicles; exceptions; enforcement
+- Section 10-1-679.15 - Penalty for violations
+- Section 10-1-680 - Short title
+- Section 10-1-681 - Definitions
+- Section 10-1-682 - Requirements for lease-purchase agreement
+- Section 10-1-683 - Advertisements
+- Section 10-1-684 - Prohibited agreement provisions
+- Section 10-1-685 - Purchase of insurance; early termination or return of items; late fees
+- Section 10-1-686 - Right to reinstatement of agreement by lessee failing to make timely payments; fees; substitute items
+- Section 10-1-687 - Penalties; grace period for compliance
+- Section 10-1-688 - Limitation of actions
+- Section 10-1-689 - Example of form
+- Section 10-1-700 - Definitions
+- Section 10-1-702 - Payment of commission owed after contract termination; civil action authorized
+- Section 10-1-703 - Waiver of law prohibited
+- Section 10-1-704 - Jurisdiction of court
+- Section 10-1-720 - Definitions
+- Section 10-1-721 - Right to have trial franchise offered to designated family member; change of designation
+- Section 10-1-730 - Short title
+- Section 10-1-731 - Definitions
+- Section 10-1-732 - Unilateral amendment, cancellation, termination, refusal to renew, or causing resignation from agreement for good cause
+- Section 10-1-733 - Amendment, termination, cancellation, or nonrenewal of agreement
+- Section 10-1-734 - Transfer of business, stock, or other interest in dealership
+- Section 10-1-735 - Mailing of notice
+- Section 10-1-736 - Change in dealer's management or personnel
+- Section 10-1-737 - Incorporation of article into agreements; waiver prohibited; good faith settlements
+- Section 10-1-738 - Good faith, fair dealing, and reasonableness requirements
+- Section 10-1-739 - Venue; equitable relief; recovery of losses and damages for violation of Code Sections 10-1-732 and 10-1-734; when supplier may not cancel, terminate, or refuse to renew agreement
+- Section 10-1-740 - Applicability of article
+- Section 10-1-760 - Short title
+- Section 10-1-761 - Definitions
+- Section 10-1-762 - Injunctive relief
+- Section 10-1-763 - Recovery of damages
+- Section 10-1-764 - Award of attorneys' fees
+- Section 10-1-765 - Protection of trade secret during action
+- Section 10-1-766 - Limitation of action
+- Section 10-1-767 - Applicability of article
+- Section 10-1-770 - Definitions
+- Section 10-1-771 - Bad faith assertion of patent infringement prohibited; factors for determining bad faith
+- Section 10-1-772 - Protective order; posting of bond
+- Section 10-1-773 - Enforcement; relief from damages
+- Section 10-1-774 - Federal actions excluded
+- Section 10-1-780 - Short title
+- Section 10-1-781 - Legislative intent
+- Section 10-1-782 - Definitions
+- Section 10-1-783 - Provision of owner's manual and notice of rights; fully itemized and legible repair order; copies of reports
+- Section 10-1-784 - Opportunity to repair; repurchase or replacement of vehicle
+- Section 10-1-785 - Compelled replacement or repurchase through arbitration; manufacturer's informal dispute settlement mechanism; revocation of mechanism
+- Section 10-1-786 - Request for arbitration; determination of eligibility; notifications; timing; requirements for decision
+- Section 10-1-787 - Finality of arbitrator's decision; appeals by manufacturers; time for compliance with arbitrator's decision
+- Section 10-1-788 - Exhaustion of remedies under article required
+- Section 10-1-789 - Establishment of motor vehicle arbitration panel; compensation; conduct; liability
+- Section 10-1-790 - Requirements for transfer of reacquired vehicle
+- Section 10-1-791 - Consumer fees to implement provisions of article; enforcement
+- Section 10-1-792 - Limitation of liability for new motor vehicle dealers
+- Section 10-1-793 - Violations constitute unfair and deceptive act or practice; cumulative effect
+- Section 10-1-794 - [Repealed] [Reserved] Staff for administration
+- Section 10-1-795 - Rules and regulations
+- Section 10-1-796 - Severability
+- Section 10-1-797 - Consumer cannot waive rights
+- Section 10-1-798 - Continuing validity of previously adopted rules, orders, actions, and regulations
+- Section 10-1-810 - Short title
+- Section 10-1-811 - Definitions
+- Section 10-1-812 - Written notice of warranty supplied by manufacturer and presented by dealer to consumer at time of purchase
+- Section 10-1-813 - Opportunity to repair
+- Section 10-1-814 - Refund or replacement
+- Section 10-1-815 - Extension of reporting and repair periods
+- Section 10-1-816 - Informal dispute settlement procedures; remedy for violation
+- Section 10-1-817 - Affirmative defenses against claims
+- Section 10-1-818 - Limitations of actions
+- Section 10-1-819 - Other remedies and rights not limited by article
+- Section 10-1-830 - Definitions
+- Section 10-1-831 - Required information from operators
+- Section 10-1-832 - Bond requirements
+- Section 10-1-833 - Exemptions from bond requirements
+- Section 10-1-834 - Refund of entrants' fees upon cancellation or default
+- Section 10-1-835 - Civil penalties for violation
+- Section 10-1-836 - Criminal penalty for violation
+- Section 10-1-837 - Escrow account
+- Section 10-1-838 - Liability for failure to post bond or establish escrow account
+- Section 10-1-850 - Definitions
+- Section 10-1-851 - Enhanced penalty for violations against elder or disabled person
+- Section 10-1-852 - Factors for determining imposition and amount of civil penalty
+- Section 10-1-853 - Civil action authorized
+- Section 10-1-854 - Educational initiatives on consumer crimes against elder and disable person
+- Section 10-1-855 - Victim intervention and assistance referral procedure
+- Section 10-1-856 - Construction with Part 2 of Article 15 of this chapter; confidentiality
+- Section 10-1-857 - Complaints, inquiries, investigations, and corrective action
+- Section 10-1-870 - Short title
+- Section 10-1-871 - Definitions
+- Section 10-1-872 - Express written warranties; failure to furnish
+- Section 10-1-873 - Repair of nonconforming assistive technology devices; refund or replacement of devices; sale or lease of returned device
+- Section 10-1-874 - Thirty-day return privilege
+- Section 10-1-875 - Rights and remedies under other laws or contracts; waivers void; actions for damages
+- Section 10-1-890 - Short title
+- Section 10-1-891 - Definitions
+- Section 10-1-892 - Express written warranties; failure to furnish
+- Section 10-1-893 - Repair of nonconforming assistive motorized wheelchairs; refund or replacement; sale or lease of returned wheelchair
+- Section 10-1-894 - Other rights or remedies under other law or contract; waiver void; action for damages
+- Section 10-1-910 - Legislative findings
+- Section 10-1-911 - Definitions
+- Section 10-1-912 - Notification required upon breach of security regarding personal information
+- Section 10-1-913 - Additional definitions
+- Section 10-1-914 - Consumer requested security freeze on credit report; timing; notifications; temporary lifting of freeze; application; penalty
+- Section 10-1-914.1 - Security freezes for protected consumers
+- Section 10-1-915 - Notice of right to security freeze
+- Section 10-1-930 - Short title
+- Section 10-1-931 - Definitions
+- Section 10-1-932 - Required disclosure to consumers
+- Section 10-1-933 - Civil actions authorized; compliance; recovery of expenses
+- Section 10-1-934 - Limitation on application and applicability
+- Section 10-1-935 - Violations and enforcement
+- Section 10-1-940 - Definitions
+- Section 10-1-941 - Required information from high-volume third-party sellers; suspension for noncompliance; verification by online marketplace
+- Section 10-1-942 - Disclosure of identifying information; failure to comply; notice
+- Section 10-1-943 - Reporting suspicious marketplace activity
+- Section 10-1-944 - Use of information or documents; security
+- Section 10-1-945 - Civil actions by Attorney General; other remedies

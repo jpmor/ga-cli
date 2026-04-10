@@ -1,0 +1,68 @@
+# Chapter 3 - STATE FLAG, SEAL, AND OTHER SYMBOLS (§§ 50-3-1 — 50-3-120)
+
+- Section 50-3-1 - Description of state flag; militia to carry flag; monument offenses; penalties; causes of action
+- Section 50-3-2 - Pledge of allegiance to state flag
+- Section 50-3-3 - Display of state flag
+- Section 50-3-4 - Designation of Secretary of State as custodian of state flag; procurement and furnishing of flags
+- Section 50-3-4.1 - Schools, institutions, and agencies authorized to display national motto and American and Georgia flags; means of acquisition
+- Section 50-3-5 - Preservation of Confederate flags
+- Section 50-3-6 - Display of Spanish-American War flags
+- Section 50-3-7 - Duty of Governor to accept flags
+- Section 50-3-8 - Use of certain flags and symbols for advertising, selling, or promoting the sale of merchandise unlawful; exception
+- Section 50-3-9 - Abuse of certain flags and symbols unlawful
+- Section 50-3-10 - Use of flag for decorative or patriotic purposes
+- Section 50-3-11 - Penalty
+- Section 50-3-12 - State flags to honor service of deceased qualifying elected state officials
+- Section 50-3-13 - State flags to honor service of deceased qualifying public safety officers
+- Section 50-3-14 - Display of Honor and Remember flag; symbolism; manufacturing; guidelines; procurement and distribution
+- Section 50-3-30 - Description; custody
+- Section 50-3-31 - Authority to use and display
+- Section 50-3-32 - Authorized and unauthorized use or display
+- Section 50-3-50 - State bird
+- Section 50-3-51 - State game bird
+- Section 50-3-52 - State fish
+- Section 50-3-53 - State floral emblem
+- Section 50-3-54 - State wild flower
+- Section 50-3-55 - State tree
+- Section 50-3-56 - State fossil
+- Section 50-3-57 - State gem
+- Section 50-3-58 - State insect
+- Section 50-3-59 - State mineral
+- Section 50-3-60 - State song
+- Section 50-3-61 - State waltz
+- Section 50-3-62 - State butterfly
+- Section 50-3-63 - State reptile
+- Section 50-3-64 - State historic drama
+- Section 50-3-65 - State vegetable
+- Section 50-3-66 - State theater
+- Section 50-3-67 - State folk festival
+- Section 50-3-68 - State 'Possum
+- Section 50-3-69 - State musical theatre
+- Section 50-3-70 - State fruit
+- Section 50-3-71 - Poultry Capital of the World
+- Section 50-3-72 - State crop; state peanut monument
+- Section 50-3-73 - State folk dance
+- Section 50-3-74 - State railroad museum
+- Section 50-3-75 - State barbecue championship cookoffs
+- Section 50-3-76 - State tartan
+- Section 50-3-77 - State transportation history museum
+- Section 50-3-78 - State prepared food
+- Section 50-3-79 - State center for character education
+- Section 50-3-80 - State Frontier and Southeastern Indian Interpretive Center
+- Section 50-3-81 - State amphibian
+- Section 50-3-82 - State cold water game fish
+- Section 50-3-83 - State salt-water fish
+- Section 50-3-84 - State First Mural City
+- Section 50-3-85 - State civil rights museum
+- Section 50-3-86 - Purple Heart state
+- Section 50-3-87 - State mammal
+- Section 50-3-88 - State dog
+- Section 50-3-89 - State grape
+- Section 50-3-90 - State riverine sport fish
+- Section 50-3-91 - State nut
+- Section 50-3-92 - State soap box derby
+- Section 50-3-93 - State crustacean
+- Section 50-3-100 - English as official language; constitutional rights; documents in other languages; exceptions
+- Section 50-3-105 - Procurement and placement
+- Section 50-3-110 - Placement; committee; funding
+- Section 50-3-120 - Placement; committee; funding

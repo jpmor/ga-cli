@@ -1,0 +1,26 @@
+# Chapter 2 - STATE ADMINISTRATION AND ENFORCEMENT (§§ 3-2-1 — 3-2-36)
+
+- Section 3-2-1 - Powers and duties of commissioner generally; delegation of administrative duties
+- Section 3-2-2 - Promulgation of rules and regulations generally; forms
+- Section 3-2-3 - Powers and duties of commissioner as to denial, suspension, or cancellation of licenses or permits generally; promulgation of rules and regulations as to conversion of standards of measurement and labeling of distilled spirits
+- Section 3-2-3.1 - Power of commissioner to permit importation of alcohol into counties and municipalities; taxation of such alcohol
+- Section 3-2-4 - Sale, distribution, or other dealing in alcoholic beverages by employees, agents, or officers of department prohibited; exemption
+- Section 3-2-5 - Collection of taxes under title; issuance of licenses
+- Section 3-2-6 - Establishment and operation of reporting system for collection of taxes on malt beverages, distilled spirits, and wines; applicability to reporting system of provisions of law relating to revenue stamps
+- Section 3-2-7 - Expiration and renewal of licenses generally; continuation of operations by licensee pending final approval or disapproval of application for renewal; penalty for late application for renewal; temporary permits
+- Section 3-2-7.1 - State-wide centralized application process; uniformity; procedures; regulation
+- Section 3-2-8 - Availability of records for public inspection; collection of fee for special requests for preparation of information
+- Section 3-2-9 - Requirements as to reports to be made to commissioner
+- Section 3-2-10 - Disposition of taxes, penalties, interest, and fees
+- Section 3-2-11 - Penalties for failure to file reports or returns or to pay tax or fee; procedure for assessment of taxes due, penalties, and interest
+- Section 3-2-12 - Waiver of penalties by commissioner
+- Section 3-2-13 - Issuance of refunds or credits for taxes paid
+- Section 3-2-14 - Limitations on credit; application; action for recovery of credit; setoff of unpaid taxes against credit
+- Section 3-2-15 - Promulgation of rules and regulations governing advertising of distilled spirits
+- Section 3-2-30 - Powers and duties of special agents and enforcement officers of department generally; bond requirement; retention of weapon and badge upon retirement or disability
+- Section 3-2-31 - Assistance to other authorities by special agents and enforcement officers of department
+- Section 3-2-32 - Inspection of premises by commissioner and agents generally; access to books, records, and supplies
+- Section 3-2-33 - Sale, possession, concealment, storage, or conveyance of untaxed alcoholic beverages; declaration of untaxed or otherwise unlawful alcoholic beverages as contraband; seizure and disposition of contraband alcoholic beverages
+- Section 3-2-34 - Disposition of contraband alcoholic beverages; seizure; destruction; sale; retention of small quantity for evidence
+- Section 3-2-35 - Seizure of contraband by commissioner and agents; proceedings upon seizure; hearing on entitlement to seized items; appeals; disposition of items upon which taxes have been paid
+- Section 3-2-36 - Arrest and prosecution of violators of title

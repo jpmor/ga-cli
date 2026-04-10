@@ -1,0 +1,22 @@
+# Chapter 17 - CRIME VICTIMS' BILL OF RIGHTS (§§ 17-17-1 — 17-17-16)
+
+- Section 17-17-1 - Declaration of policy
+- Section 17-17-2 - Short title
+- Section 17-17-3 - Definitions
+- Section 17-17-4 - Designation of family member to act in place of physically disabled victim
+- Section 17-17-5 - Notification to victim of accused's arrest, release, judicial proceedings, escape, and violations of electronic release and monitoring program
+- Section 17-17-5.1 - Victim notification from Department of Behavioral Health and Developmental Disabilities
+- Section 17-17-6 - Notification to victim of accused's pretrial release and of victims' rights and the availability of victims' compensation and services
+- Section 17-17-7 - Notification to victim of accused's arrest and proceedings where accused's release is considered; victim's right to express opinion in pending proceedings and to file written complaint in event of release
+- Section 17-17-8 - Notification by prosecuting attorney of legal procedures and of victim's rights in relation thereto; victims seeking restitution
+- Section 17-17-8.1 - Procedures for a victim to be interviewed by an accused or accused's attorney or agent; duties and conditions
+- Section 17-17-9 - Exclusion of testifying victim from criminal proceedings; separate victims' waiting areas
+- Section 17-17-9.1 - Communications between victim assistance personnel and victims privileged
+- Section 17-17-10 - Requirement by court that defense counsel not disclose victim information to accused
+- Section 17-17-11 - Right of victim to express opinion on disposition of accused's case
+- Section 17-17-12 - Notification to victim of accused's motion for new trial or appeal, release on bail or recognizance, appellate proceedings, and outcome of appeal; notifications regarding death penalty cases; victim's rights retained at new trial or on appeal
+- Section 17-17-12.1 - Requests to prevent an accused from sending any form of written, text, or electronic communication to the victim's family, or the victim
+- Section 17-17-13 - Notification to victim of impending parole, release for period exceeding 60 days, or pardon; notice of hearing on request to commute death sentence
+- Section 17-17-14 - Victim required to provide current address and phone number to notifying parties
+- Section 17-17-15 - Failure to provide notice not rendering responsible person liable or comprising basis for error; chapter not conferring standing upon victim to participate as party in criminal proceeding; existing rights not affected; waiver of rights by victim
+- Section 17-17-16 - Temporary restraining and protective orders

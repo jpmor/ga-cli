@@ -1,0 +1,164 @@
+# Chapter 12 - REVISED GEORGIA TRUST CODE OF 2010 (§§ 53-12-1 — 53-12-506)
+
+- Section 53-12-1 - Short title; effect on existing trusts
+- Section 53-12-2 - Definitions
+- Section 53-12-3 - Survival of common law and equity
+- Section 53-12-4 - Law governing the validity of the trust
+- Section 53-12-5 - Law governing the meaning and effect of trust provisions
+- Section 53-12-6 - Jurisdiction
+- Section 53-12-7 - When trust and chapter conflict
+- Section 53-12-8 - Notice to person permitted to bind another person; consent on behalf of another person; representation of others
+- Section 53-12-9 - Binding nonjudicial settlement agreement
+- Section 53-12-20 - Express trusts
+- Section 53-12-21 - Formal and precatory words
+- Section 53-12-22 - Trust purposes and conditions in terrorem
+- Section 53-12-23 - Capacity of settlor
+- Section 53-12-24 - Non-merger
+- Section 53-12-25 - Transfer of property in trust
+- Section 53-12-26 - Additions to trust property
+- Section 53-12-27 - Construction; parol evidence
+- Section 53-12-28 - Trusts for animals
+- Section 53-12-40 - Revocation and modification generally
+- Section 53-12-41 - Trustee's consent necessary to enlarge duties
+- Section 53-12-42 - Notice to trustee
+- Section 53-12-43 - Power of agent or conservator to revoke trust
+- Section 53-12-44 - Trust not revocable because life estate holder has reversion
+- Section 53-12-45 - Limitation on action contesting validity of revocable trust
+- Section 53-12-60 - Reformation to correct mistakes
+- Section 53-12-61 - Power to direct modification or termination; petition to modify or terminate irrevocable trust; proceeding to approve proposed modification or termination; distribution of trust property under order for termination; waiver of notice
+- Section 53-12-62 - Power of trustee to invade principal of original trust
+- Section 53-12-63 - [Repealed] [Reserved] Division and consolidation of trusts
+- Section 53-12-64 - [Repealed] [Reserved] Termination of trusts
+- Section 53-12-65 - Modification or termination of uneconomic trust
+- Section 53-12-80 - Spendthrift provisions
+- Section 53-12-81 - Limitations on creditors' rights to discretionary distributions
+- Section 53-12-82 - Rules for trusts; consideration of assets of an inter vivos marital trust following death
+- Section 53-12-83 - Creditors' claims against property that is subject to withdrawal right
+- Section 53-12-100 - Short title
+- Section 53-12-101 - Making of testamentary additions to trusts
+- Section 53-12-102 - Limitations of duties and responsibilities of trustee
+- Section 53-12-103 - Effect on prior and subsequent wills
+- Section 53-12-120 - Trusts as beneficiaries
+- Section 53-12-130 - Resulting trusts
+- Section 53-12-131 - Purchase money resulting trusts
+- Section 53-12-132 - Constructive trusts
+- Section 53-12-133 - Parol evidence and implied trusts
+- Section 53-12-150 - Definitions
+- Section 53-12-151 - Deeds to interests in property
+- Section 53-12-152 - Filing of deeds and amendments thereto; filing of copies with Secretary of State
+- Section 53-12-153 - Name of trust
+- Section 53-12-154 - Certificates of beneficial interest by trustees
+- Section 53-12-155 - Duties and powers of trustees; resignation or removal; successor trustees
+- Section 53-12-156 - Investments by trustees
+- Section 53-12-157 - Initial and annual returns
+- Section 53-12-158 - How title vests on termination of estate
+- Section 53-12-159 - Merger of trust into a domestic corporation
+- Section 53-12-170 - Definition; charitable purposes
+- Section 53-12-171 - Power to select purposes or beneficiaries
+- Section 53-12-172 - Cy pres
+- Section 53-12-173 - Duration of charitable trusts
+- Section 53-12-174 - Attorney general or district attorney as representative of charitable beneficiaries
+- Section 53-12-175 - Enforcement by settlor
+- Section 53-12-180 - Automatic amendment of articles of incorporation of corporate private foundation
+- Section 53-12-181 - Amendment of articles of incorporation to exclude application of Code Section 53-12-180
+- Section 53-12-182 - Effect of Code Sections 53-12-180 and 53-12-181 as to forfeiture or reversion of trust property
+- Section 53-12-183 - Election of private foundation to distribute such property as will enable corporation to avoid tax liability
+- Section 53-12-184 - Effect of Code Sections 53-12-180 through 53-12-183 on powers of the courts or the Attorney General
+- Section 53-12-190 - Automatic amendment of governing instrument of private foundation trust, charitable trust, or split-interest trust
+- Section 53-12-191 - Automatic amendment of governing instrument of private foundation trust or charitable trust as to distribution of trust funds
+- Section 53-12-192 - Amendment of governing instrument of private foundation trust, charitable trust, or split-interest trust to exclude application of Code Section 53-12-190 or 53-12-191
+- Section 53-12-193 - Election of trustees of private foundation or charitable trust to distribute such trust principal as will enable trust to avoid tax liability; filing of written election with Attorney General; form of distribution; revocation of election
+- Section 53-12-194 - Effect of Code Sections 53-12-190 through 53-12-193 as to forfeiture or reversion of trust property or failure of trust
+- Section 53-12-195 - Effect of Code Sections 53-12-190 through 53-12-193 on powers of courts and Attorney General
+- Section 53-12-200 - Capacity of trustee
+- Section 53-12-201 - Appointment and vacancies
+- Section 53-12-202 - Acceptance
+- Section 53-12-203 - Trustee's bond
+- Section 53-12-204 - Cotrustees generally
+- Section 53-12-210 - Compensation of trustee
+- Section 53-12-211 - Compensation of cotrustees and successor trustees
+- Section 53-12-212 - Extra compensation
+- Section 53-12-213 - Reimbursement of expenses
+- Section 53-12-214 - Compensation from business enterprise
+- Section 53-12-220 - Resignation of trustee
+- Section 53-12-221 - Removal of trustee
+- Section 53-12-230 - Interim accounting
+- Section 53-12-231 - Final accounting
+- Section 53-12-232 - Equitable accounting
+- Section 53-12-240 - Duties generally
+- Section 53-12-241 - Duty of prudent administration
+- Section 53-12-242 - Duty to inform as to existence of trust
+- Section 53-12-243 - Duty to provide reports and accounts
+- Section 53-12-244 - Duty to distribute income
+- Section 53-12-245 - No duty to investigate resources
+- Section 53-12-246 - Duty to avoid conflict of interest
+- Section 53-12-247 - Duty of impartiality
+- Section 53-12-260 - Discretionary powers
+- Section 53-12-261 - Powers of trustee; limitation based on fiduciary duties
+- Section 53-12-262 - Powers of corporate fiduciaries
+- Section 53-12-263 - Incorporation of powers by reference
+- Section 53-12-264 - Granting of powers by qualified beneficiaries
+- Section 53-12-270 - Exercise of power by trustee who is also a beneficiary
+- Section 53-12-280 - Certification of trust by trustee
+- Section 53-12-290 - How securities to be registered by corporate trustee
+- Section 53-12-291 - Registration where two or more fiduciaries are acting jointly
+- Section 53-12-292 - Deposit of securities in clearing corporation
+- Section 53-12-300 - Accountable to beneficiary; breach of trust
+- Section 53-12-301 - Actions for breach of trust
+- Section 53-12-302 - Damages for breach of trust; interest
+- Section 53-12-303 - Relief of liability
+- Section 53-12-304 - Liability of successor trustee
+- Section 53-12-305 - Liability of cotrustee
+- Section 53-12-306 - Action against cotrustee
+- Section 53-12-307 - Limitation of actions
+- Section 53-12-308 - Personal liability of trustee
+- Section 53-12-320 - Nonresidents acting as trustees
+- Section 53-12-321 - Foreign entities acting as trustees
+- Section 53-12-322 - Acting as fiduciary; establishment of place of business prohibited; certificate of authority required
+- Section 53-12-323 - Filing statement with Secretary of State; appointment of agent for service
+- Section 53-12-340 - Investment standard
+- Section 53-12-341 - Concentrated holdings and diversification
+- Section 53-12-342 - Duties at inception of trusteeship
+- Section 53-12-343 - Reviewing compliance
+- Section 53-12-344 - Language invoking application of article
+- Section 53-12-345 - Delegation
+- Section 53-12-360 - Duty of trustee as to receipts and disbursements within scope of Article 17
+- Section 53-12-361 - Power of adjustment
+- Section 53-12-362 - Conversion to unitrust
+- Section 53-12-363 - Abuse of trustee's discretion
+- Section 53-12-364 - Express total return unitrusts
+- Section 53-12-380 - Short title
+- Section 53-12-381 - Definitions
+- Section 53-12-390 - Payment of interest on pecuniary amount
+- Section 53-12-391 - Payment of expenses
+- Section 53-12-400 - When the right to income begins and ends
+- Section 53-12-401 - Apportionment of receipts and disbursements when decedent dies or income interest begins
+- Section 53-12-402 - Apportionment when income interest ends
+- Section 53-12-410 - Character of receipts
+- Section 53-12-411 - Distribution from trust or estate
+- Section 53-12-412 - Business and other activities conducted by trustee
+- Section 53-12-420 - Principal receipts
+- Section 53-12-421 - Rental property
+- Section 53-12-422 - Obligation to pay money
+- Section 53-12-423 - Insurance policies and similar contracts
+- Section 53-12-424 - Insubstantial allocations not required
+- Section 53-12-425 - Deferred compensation, annuities, and similar payments
+- Section 53-12-426 - Liquidating asset
+- Section 53-12-427 - Minerals, water, and other natural resources
+- Section 53-12-428 - Timber
+- Section 53-12-429 - Property not productive of income
+- Section 53-12-430 - Derivatives and options
+- Section 53-12-431 - Asset-backed securities
+- Section 53-12-450 - Disbursements from income
+- Section 53-12-451 - Disbursements from principal
+- Section 53-12-452 - Transfers from income to principal for depreciation
+- Section 53-12-453 - Transfers from income to reimburse principal
+- Section 53-12-454 - Income taxes
+- Section 53-12-455 - Adjustments between principal and income because of taxes
+- Section 53-12-500 - Definitions
+- Section 53-12-501 - Application of article; construction of trust instrument
+- Section 53-12-502 - Authority, procedures, and powers of trust directors
+- Section 53-12-503 - Role of directors; petitioning court for instructions
+- Section 53-12-504 - Directed trustees; role; trustee's duty as to directed trustee; petitioning court for instructions
+- Section 53-12-505 - Relief from duty and liability
+- Section 53-12-506 - Statutory provisions applicable to trust directors; defenses available to trust directors; personal jurisdiction; term &quot;trustee&quot; includes trust director where required or permitted

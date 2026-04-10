@@ -1,0 +1,44 @@
+# Chapter 18 - FUNERAL DIRECTORS AND EMBALMERS (§§ 43-18-1 — 43-18-90)
+
+- Section 43-18-1 - Definitions
+- Section 43-18-2 - Declaration of policy
+- Section 43-18-3 - Practicing without complying with article
+- Section 43-18-4 - Unlicensed practice as constituting public nuisance; injunctions
+- Section 43-18-5 - Unlawful acts; exemption
+- Section 43-18-6 - Penalty
+- Section 43-18-8 - Identification of body or remains of deceased; affidavit required for cremated remains
+- Section 43-18-9 - Disposition of veterans' cremated remains
+- Section 43-18-10 - Investigation of complaints; notice of potential illegalities to Attorney General and local sheriff; review by Attorney General
+- Section 43-18-20 - Continuation of board
+- Section 43-18-21 - Composition of board; qualifications of members; vacancies; removal of members
+- Section 43-18-22 - Election of president; meetings; reimbursement of members; conflict of interest
+- Section 43-18-23 - Powers and duties; rules and regulations; seal
+- Section 43-18-40 - Application for license; examination
+- Section 43-18-41 - Qualifications of embalmer or funeral director applicants
+- Section 43-18-42 - Reciprocity; examination upon meeting qualifications
+- Section 43-18-43 - Biennial renewal of licenses
+- Section 43-18-43.1 - Application for reinstatement of licensure
+- Section 43-18-44 - Display of renewal license, wall certificate, or apprentice registration in office or place of business
+- Section 43-18-45 - Transferability of licenses
+- Section 43-18-46 - Grounds for denial or revocation of license or registration; other discipline
+- Section 43-18-47 - Revocation hearing; service on licensee or applicant; revocation or restriction of license or registration
+- Section 43-18-48 - Refusal to grant license or registration
+- Section 43-18-49 - Reinstatement of revoked license
+- Section 43-18-50 - Application for funeral service apprenticeship; period of apprenticeship
+- Section 43-18-51 - Renewal of registration of apprenticeship
+- Section 43-18-52 - Supervision and control of apprentices; reporting hours served
+- Section 43-18-53 - Leaves of absence during apprenticeship
+- Section 43-18-54 - Refusal to grant apprenticeship registration; grounds for suspension, revocation, limitation of, or refusal to renew registration; reregistration
+- Section 43-18-55 - Continuing education requirements for embalmers
+- Section 43-18-56 - Continuing education requirements for funeral directors
+- Section 43-18-70 - Practice at licensed funeral establishment or crematory; facilities; living quarters
+- Section 43-18-71 - Funeral establishments and crematories to be licensed and to employ licensed funeral director; display of name and license of funeral director
+- Section 43-18-72 - Crematories to be licensed; equipment, facilities, and personnel; application; reports; limitation of single body in cremation device
+- Section 43-18-73 - Renewal of licenses for the operation of funeral establishments and crematories; changes in ownership
+- Section 43-18-74 - Transferability of licenses
+- Section 43-18-75 - Inspections; suspension or revocation of license; other disciplinary actions
+- Section 43-18-76 - Fine schedule for violation of minimum standards
+- Section 43-18-77 - Funeral establishment or crematory temporarily without services of funeral director
+- Section 43-18-78 - Temporary destruction of licensed funeral establishment or crematory; use of temporary location during grace period
+- Section 43-18-79 - Death of license holder
+- Section 43-18-80 - Authorizing agent; statement specifying disposition of cremated remains; shipment of remains

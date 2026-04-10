@@ -1,0 +1,116 @@
+# Chapter 12 - GOVERNOR (§§ 45-12-1 — 45-12-216)
+
+- Section 45-12-1 - Election
+- Section 45-12-2 - Inauguration
+- Section 45-12-3 - Entry of inauguration upon House journal; evidence of Governor's right, title, eligibility, and qualification
+- Section 45-12-4 - Oath of office
+- Section 45-12-5 - Seal
+- Section 45-12-6 - Executive office; Governor's residence
+- Section 45-12-7 - Resignation; vacancy due to other causes; Lieutenant Governor to take oath; procedure
+- Section 45-12-20 - Grant of commissions
+- Section 45-12-21 - Issuance of warrants for payments from treasury
+- Section 45-12-22 - Suspension of collection of taxes
+- Section 45-12-23 - Incapacity of Commissioner of Insurance
+- Section 45-12-24 - Proceedings upon cessation of incapacity; payment of salary of officer during period of incapacity
+- Section 45-12-25 - Books of record to be maintained by Governor
+- Section 45-12-26 - Defense of action in which state has interest
+- Section 45-12-27 - Calling out militia to execute laws
+- Section 45-12-28 - Calling out militia for defense of state in case of invasion or insurrection
+- Section 45-12-29 - Powers to prevent violence and maintain order - General authority
+- Section 45-12-30 - Powers to prevent violence and maintain order - Proclamation of emergency; issuance and enforcement of orders
+- Section 45-12-31 - Powers to prevent violence and maintain order - Filing of proclamation; powers of Governor over civil and military officials generally
+- Section 45-12-32 - Powers to prevent violence and maintain order - Promulgation and enforcement of emergency rules and regulations
+- Section 45-12-33 - Powers to prevent violence and maintain order - Publishing and posting of emergency rules and regulations
+- Section 45-12-34 - Powers to prevent violence and maintain order - Enforcement of rules and regulations
+- Section 45-12-35 - Reward for detection or apprehension of perpetrators of felonies or cattle, horse, or swine thieves
+- Section 45-12-36 - Reward for information leading to identification, apprehension, and conviction of persons who cause the death of a law enforcement officer
+- Section 45-12-37 - Reward for information leading to arrest and conviction of person selling dangerous or narcotic drugs generally; rewards by counties and municipalities
+- Section 45-12-38 - Temporary transfer of institution between departments or agencies authorized; special report to General Assembly
+- Section 45-12-39 - Annual report to General Assembly on administration's policies and goals
+- Section 45-12-40 - Cooperation with other states on federal grants
+- Section 45-12-41 - Governor's delegation of powers under applicable federal transportation planning and air quality laws and regulations
+- Section 45-12-50 - Duty to appoint officers and fill vacancies
+- Section 45-12-51 - General power to engage services of any person
+- Section 45-12-52 - Filling of vacancies when advice and consent of Senate required; interim appointment
+- Section 45-12-53 - Appointments not subject to Senate confirmation
+- Section 45-12-54 - Appointments to boards, commissions, and bureaus subject to Senate confirmation
+- Section 45-12-55 - Governor authorized to appoint attorneys as executive counsel; compensation
+- Section 45-12-56 - Appointment of secretaries and clerical personnel; compensation
+- Section 45-12-57 - Governor's messenger - Authority to appoint; compensation
+- Section 45-12-58 - Governor's messenger - Duties
+- Section 45-12-59 - Governor's messenger - Special messenger
+- Section 45-12-60 - Payment of compensation of persons whose compensation not prescribed
+- Section 45-12-61 - Campaign contributions and judicial appointments
+- Section 45-12-70 - Short title
+- Section 45-12-71 - Definitions
+- Section 45-12-72 - Establishment of Office of Planning and Budget; general provisions
+- Section 45-12-73 - Powers and duties generally
+- Section 45-12-74 - Budget report - Preparation and submission to General Assembly
+- Section 45-12-75 - Budget report - Contents and form
+- Section 45-12-75.1 - [Repealed] Zero-base budgeting; intent; departmental priority lists
+- Section 45-12-76 - Limitations on appropriations by General Assembly; supplementary appropriations
+- Section 45-12-77 - Requirement of emergency appropriation; manner of allocation
+- Section 45-12-78 - Heads of budget units to submit annual estimates; preparation and submission of budget estimates of legislative and judicial agencies; review of budget estimates by Office of Planning and Budget
+- Section 45-12-79 - Governor to examine estimates and make revisions; budget report printing and transmission to General Assembly; examination of report by Governor-elect and his designated budget representatives
+- Section 45-12-80 - Appropriations Act to adopt financial plans; effect of annual appropriation Acts; supplementary appropriations Acts; submission of budget to Office of Planning and Budget
+- Section 45-12-81 - Procedure and restriction for expenditures by state and budget units thereof
+- Section 45-12-82 - Periodic work programs to be filed; funds not to be allotted until program approved; content and form of program; amendment of program; filing of copies of program
+- Section 45-12-83 - Requirement of filing of requests by budget units for allotment of funds; time and form of requests
+- Section 45-12-83.1 - Display of state flag by agencies
+- Section 45-12-84 - Review of periodic work programs and requests for allotment of funds generally
+- Section 45-12-85 - Examination and investigation of periodic work programs and requests for allotment of funds
+- Section 45-12-86 - Governor authorized to require state agencies to reserve specified appropriations for budget reductions and withhold a percentage of agency allotments to maintain spending within actual revenues
+- Section 45-12-87 - Requirement of authorization of payments and obligation; liability of persons authorizing payments or receiving payments
+- Section 45-12-88 - [Repealed] Budget units to furnish information to Budgetary Responsibility Oversight Committee before instituting new programs
+- Section 45-12-89 - Appropriations not expended or obligated at end of fiscal year to lapse
+- Section 45-12-90 - Disposition of appropriation for duties, purposes, and objects which have been transferred
+- Section 45-12-91 - Federal funds received by state continually appropriated
+- Section 45-12-92 - Revenue collections to be paid to state treasury on monthly basis; effect of failure of budget unit to comply with Code section; user fee defined; reporting
+- Section 45-12-92.1 - Fees which are not revenue measures; utilization of proceeds
+- Section 45-12-92.2 - [Repealed] Definitions; procedures involving solid waste disposal surcharge and tire disposal fees; conditions; appropriation
+- Section 45-12-93 - Revenue shortfall reserve; reservation of surplus state funds; appropriation and release of funds; limitations
+- Section 45-12-94 - Striking of name of employee from requisition for allotment of funds
+- Section 45-12-95 - Duty of Office of Planning and Budget to encourage state agencies to identify and implement cost-saving measures and to decentralize state government
+- Section 45-12-110 - Notification of intention to apply for federal assistance; adoption and promulgation of rules and regulations and forms
+- Section 45-12-111 - Legislative budget analyst to analyze impact of proposed federal assistance project; forwarding of copy of analysis to General Assembly members
+- Section 45-12-112 - Duties of director of Office of Planning and Budget
+- Section 45-12-130 - State contracts over $5,000.00 voidable without certain approval
+- Section 45-12-131 - Office of Planning and Budget to review and approve contracts; exempting of contracts
+- Section 45-12-132 - Contracts exempt from subpart
+- Section 45-12-150 - Definitions
+- Section 45-12-151 - Capabilities and operation of Georgia Data Analytic Center; procurement of technology and services; disclosure of individual identifiable data
+- Section 45-12-152 - Oversight
+- Section 45-12-153 - Access to data
+- Section 45-12-154 - Reporting to General Assembly
+- Section 45-12-154.1 - Annual unified reports on violations of mental health parity laws
+- Section 45-12-155 - Funding sources
+- Section 45-12-170 - [Repealed] Office of Planning and Budget to perform planning and development function; powers and duties generally; recommendations of planned communities for state development assistance
+- Section 45-12-171 - Office to be principal state agency for coordinating development, demographic data, statistical coordination, and federal programs; applications for and receipt of financial assistance
+- Section 45-12-172 - Office to review and comment on proposed development programs and serve as liaison with levels of government
+- Section 45-12-173 - Office to promote state development; duties of Governor; employment of personnel; furnishing of advice and assistance by other state officials
+- Section 45-12-174 - Development functions of office generally
+- Section 45-12-175 - Preparation of long-range development plans by office; designation of planning officer or representative by departments, agencies, or institutions
+- Section 45-12-176 - Preparation and maintenance of inventory of federal programs and projects; filing of plans with office
+- Section 45-12-177 - Office to review and establish state goals and policies; Governor to prepare annual policy document reflecting state strategic plan
+- Section 45-12-178 - [Repealed] Ongoing review by Governor of all programs and functions in state government
+- Section 45-12-190 - Short title
+- Section 45-12-191 - Legislative intent and purpose of article
+- Section 45-12-192 - &quot;Governor-elect&quot; defined
+- Section 45-12-193 - Services and facilities to be provided to Governor-elect; compensation of staff members; limitation on expenditure of funds; designation of assistant to make designation or findings of necessity
+- Section 45-12-194 - Services and facilities to be provided to former Governor
+- Section 45-12-195 - Appropriation of funds for gubernatorial transition
+- Section 45-12-200 - Legislative findings and purpose
+- Section 45-12-201 - Definitions
+- Section 45-12-202 - Governor's Development Council created
+- Section 45-12-203 - Council membership; chair; meetings
+- Section 45-12-204 - Powers and duties of council
+- Section 45-12-205 - Attachment to Department of Community Affairs; technical support
+- Section 45-12-206 - Cooperation of state agencies, counties, municipalities, and other political subdivisions with council
+- Section 45-12-207 - Construction of article
+- Section 45-12-210 - Definitions
+- Section 45-12-211 - Creation; appointment; jurisdiction; structure
+- Section 45-12-212 - Duties
+- Section 45-12-213 - Agency cooperation; remedial steps by agency; access to records
+- Section 45-12-214 - Knowing failure of cooperation; protection for individuals making disclosures
+- Section 45-12-215 - Conduct of investigations; subpoenas
+- Section 45-12-216 - Employment of peace officers

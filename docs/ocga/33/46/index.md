@@ -1,0 +1,32 @@
+# Chapter 46 - CERTIFICATION OF PRIVATE REVIEW AGENTS (§§ 33-46-1 — 33-46-32)
+
+- Section 33-46-1 - Construction
+- Section 33-46-2 - Application
+- Section 33-46-3 - Legislative purposes and intent
+- Section 33-46-4 - Definitions
+- Section 33-46-5 - Certification of private review agents; exemption
+- Section 33-46-6 - Requirements for certification; utilization of nationally recognized accreditation standards; website identifying nationally recognized accreditation entities
+- Section 33-46-7 - Certificate application fees; information to be submitted with application
+- Section 33-46-8 - Expiration and renewal of certificate
+- Section 33-46-9 - Jurisdiction of Commissioner over private review agents and utilization review entities
+- Section 33-46-10 - Applicability of Chapter 39 of Title 33
+- Section 33-46-11 - Listings of certificate holders
+- Section 33-46-12 - Reporting requirements
+- Section 33-46-13 - Adoption of rules and regulations
+- Section 33-46-14 - Exemptions from certificate requirements
+- Section 33-46-15 - Exemptions from applicability of chapter
+- Section 33-46-16 - Commissioner to issue annual report
+- Section 33-46-20 - Prior authorization requirements posted on website; statistical reporting
+- Section 33-46-21 - Insurer responsibility for compliance; periodic reviews; evaluation of adverse determinations
+- Section 33-46-22 - Review of appeals by appropriate healthcare provider
+- Section 33-46-23 - Restrictions on authorizations when service timely rendered
+- Section 33-46-23.1 - Prior authorization of prescription medications for chronic conditions
+- Section 33-46-24 - Medically necessary unanticipated emergency or urgent healthcare services
+- Section 33-46-25 - Prior authorization for ambulance transportation or emergency healthcare services prohibited
+- Section 33-46-26 - Timely notification of prior authorization or adverse determination
+- Section 33-46-27 - Notification time for prior authorization or adverse determination
+- Section 33-46-28 - Honoring of prior authorizations
+- Section 33-46-29 - Noncompliance resulting in automatic authorization
+- Section 33-46-30 - Mandatory compliance
+- Section 33-46-31 - Role of Commissioner; compliance enforced by Department of Community Health
+- Section 33-46-32 - Commissioner's authority not reduced

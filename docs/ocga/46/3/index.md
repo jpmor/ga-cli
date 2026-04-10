@@ -1,0 +1,229 @@
+# Chapter 3 - ELECTRICAL SERVICE (§§ 46-3-1 — 46-3-541)
+
+- Section 46-3-1 - Short title
+- Section 46-3-2 - Legislative findings and declaration of policy
+- Section 46-3-3 - Definitions
+- Section 46-3-4 - Assignment or declaration as unassigned areas-B of geographic areas outside municipal limits as of March 29, 1973
+- Section 46-3-5 - Assignment of geographic areas within municipal limits as of March 29, 1973
+- Section 46-3-6 - Assignment and unassignment of geographic areas included within wholly new municipalities after March 29, 1973
+- Section 46-3-7 - Assignment and unassignment of geographic areas annexed to municipalities after March 29, 1973
+- Section 46-3-8 - Exceptions, grandfather rights, and other rights
+- Section 46-3-9 - Limitation on power of electric membership corporations to furnish service within municipalities
+- Section 46-3-10 - Limitation on power of electric suppliers to condemn property of other electric suppliers
+- Section 46-3-11 - Application by electric supplier of discriminatory rates, charges, or service rules or regulations; prohibited acts by electric suppliers generally
+- Section 46-3-12 - Jurisdiction of commission over electric membership corporations
+- Section 46-3-13 - Enforcement of part by commission
+- Section 46-3-14 - Effect of part on municipal police powers over erection and maintenance of electric wires, poles, and other facilities of electric suppliers in streets, alleys, and public ways
+- Section 46-3-15 - Effect of part on charges of public utilities owned or operated by counties or municipalities
+- Section 46-3-30 - Short title
+- Section 46-3-31 - Purpose of part
+- Section 46-3-32 - Definitions
+- Section 46-3-33 - Required conditions for commencing work within ten feet of high-voltage line
+- Section 46-3-34 - Utilities protection center; funding of activities; notice of work; delay; responsibility for completing safety requirements
+- Section 46-3-35 - Allocation of expense of precautionary measures taken pursuant to public highway construction
+- Section 46-3-37 - Applicability of part to railway systems, electrical engineering system or other entities
+- Section 46-3-38 - Applicability of part to moving or transportation of houses or buildings
+- Section 46-3-39 - Restriction on liability of owners and operators of high-voltage lines; effect of part on duty or degree of care
+- Section 46-3-40 - Criminal penalty; strict liability for injury or damage; indemnification; liability for cost of delay
+- Section 46-3-50 - Short title
+- Section 46-3-51 - Legislative determinations and declarations
+- Section 46-3-52 - Jurisdiction of commission over cogeneration facility the energy from which is used solely by operator
+- Section 46-3-53 - Jurisdiction of commission over cogeneration facilities
+- Section 46-3-54 - Electric service providers; rates and fees
+- Section 46-3-55 - Measurement and payment of energy flow
+- Section 46-3-56 - Requirement to purchase energy from customer generator; safety standards and regulations
+- Section 46-3-60 - Short title
+- Section 46-3-61 - Findings
+- Section 46-3-62 - Definitions
+- Section 46-3-63 - Financing of solar technology; electric service provider prohibited from interfering with use of solar technology; electric service provider not liable for certain acts
+- Section 46-3-64 - Requirements upon a retail electric customer utilizing solar technology connected to an electric system of an electric service provider
+- Section 46-3-65 - Clarification of who shall be considered an electric supplier and an electric service provider
+- Section 46-3-66 - Construction and applicability
+- Section 46-3-67 - Definitions
+- Section 46-3-68 - Applicability
+- Section 46-3-69 - Decommissioning requirements
+- Section 46-3-69.1 - Financial assurance requirements
+- Section 46-3-70 - [Repealed and Reserved]
+- Section 46-3-71 - through 46-3-97 - [Repealed]
+- Section 46-3-110 - Declaration of necessity
+- Section 46-3-111 - Definitions
+- Section 46-3-112 - Creation of authority; status of authority as instrumentality of state; location of principal office and legal situs or residence of authority
+- Section 46-3-113 - Number of members of authority; creation of Municipal Electric Committee of Georgia Membership Election Committee; designation of members; selection of officers; receiving of nominations, election and terms of first members of authority
+- Section 46-3-114 - Residency requirements for authority members; ineligibility of election committee representatives for membership; eligibility of members to succeed themselves
+- Section 46-3-115 - Terms of authority members generally; time of meeting of election committee prior to annual meeting of authority
+- Section 46-3-116 - Selection of additional representatives to election committee by political subdivisions subsequently contracting with authority
+- Section 46-3-117 - Manner of distribution of votes among representatives to election committee; quorum of election committee
+- Section 46-3-118 - Vacancies on authority
+- Section 46-3-119 - Officers of authority
+- Section 46-3-120 - Quorum of authority; action by majority vote; adjournment of meetings at which less than a majority is present
+- Section 46-3-121 - Annual meeting of authority; special meetings; notice of meetings; waiver of notice; regular meetings other than annual meeting
+- Section 46-3-122 - Reimbursement of members for expenses; making of rules and regulations by authority; employment of staff and personnel; designation of assistant secretary-treasurer
+- Section 46-3-123 - Removal of authority members from office
+- Section 46-3-124 - Books and records generally
+- Section 46-3-125 - Purpose of authority
+- Section 46-3-126 - Powers of authority generally
+- Section 46-3-127 - Policy as to nonprofit operation of projects by authority; fixing of rates, fees, and charges by authority
+- Section 46-3-128 - Declaration of authority property as public property; payments by authority in lieu of taxes; tax exemption for authority property, income, obligations, and debt interest
+- Section 46-3-129 - Contracts between authority and political subdivisions for use of projects and facilities of authority
+- Section 46-3-130 - Eligibility of political subdivisions to contract with authority
+- Section 46-3-131 - Issuance of revenue bonds and bond anticipation notes in general
+- Section 46-3-132 - Validation of contracts for payments pledged as security for bonds
+- Section 46-3-133 - Failure of district attorney to pursue judicial validation of bonds
+- Section 46-3-134 - Bonds as legal investments; depositing bonds with public officers and bodies of state
+- Section 46-3-135 - Pledge of authority's revenues and earnings to payment of principal of and interest on bonds; setting aside of pledged revenues and earnings into sinking funds
+- Section 46-3-136 - Securing of bonds by trust agreement or indenture
+- Section 46-3-137 - Application of bond proceeds to cost of projects; issuance of additional bonds to remedy deficit in proceeds from bond issue; application of surplus proceeds
+- Section 46-3-138 - Mutilated, lost, stolen, or destroyed bonds and coupons
+- Section 46-3-139 - Interest on bonds
+- Section 46-3-140 - Cancellation of evidences of indebtedness and interest coupons
+- Section 46-3-141 - Records of evidences of indebtedness issued
+- Section 46-3-142 - Paying agents for bonds
+- Section 46-3-143 - Bond anticipation notes
+- Section 46-3-144 - Negotiability of bonds, notes, and other evidences of debt
+- Section 46-3-145 - Liability of members of authority on bonds and notes; obligations of state and political subdivisions in regard to issued bonds or notes; requirement as to recital on face of bonds and notes
+- Section 46-3-146 - Preservation of interests and rights of owners of bonds and notes
+- Section 46-3-147 - Appointment of receiver for authority for default on bonds; duties of receiver; termination of receivership; jurisdiction of court over receiver
+- Section 46-3-148 - Fixing, revising, and collecting fees, tolls, and charges for use of projects; application of revenues; time of payment; indemnity by political subdivisions; enforcement; assignment of payments; issuing resolutions governing disposition of revenues
+- Section 46-3-149 - Status of authority's funds received from revenue bonds, fees, tolls, charges, gifts, grants, or other contributions as trust funds; lien of bond owners on funds
+- Section 46-3-150 - Audits of authority and of funds established in connection with its debt
+- Section 46-3-151 - Venue of actions
+- Section 46-3-152 - Jurisdiction of commission over rates, services, and practices of authority
+- Section 46-3-153 - Applicability of other laws to meetings and records of authority
+- Section 46-3-154 - Supplemental nature of powers conferred by article
+- Section 46-3-155 - Construction of article
+- Section 46-3-170 - Short title
+- Section 46-3-171 - Definitions
+- Section 46-3-172 - Applicability of article
+- Section 46-3-173 - Effect of affixing corporate seal; signing of documents; affixing of seal as optional; signing of deeds after dissolution of an electric membership corporation
+- Section 46-3-174 - Filing of documents with Secretary of State; filing of articles of correction
+- Section 46-3-175 - Certification of documents by Secretary of State
+- Section 46-3-176 - Obligations issued to secure payment of federal loans as constituting securities; exemption of obligations and membership certificates from Georgia securities laws
+- Section 46-3-177 - Jurisdiction of commission
+- Section 46-3-178 - Intent of article as regards authority of electric membership corporations to own or operate cable television systems
+- Section 46-3-179 - Validity of transactions entered into before July 1, 1981; preservation of rights, duties, and interests arising from such transactions
+- Section 46-3-180 - Effect of article on cause of action, liability, penalty, or special proceeding accrued, existing, incurred, or pending as of July 1, 1981
+- Section 46-3-181 - Reservation of power by General Assembly
+- Section 46-3-182 - Construction of article as against Part 1 of Article 1 of this chapter, the &quot;Georgia Territorial Electric Service Act.&quot;
+- Section 46-3-200 - Purposes of electric membership corporations
+- Section 46-3-200.1 - Authorized acts of electric membership corporation or broadband affiliate
+- Section 46-3-200.2 - Cross-subsidization; jurisdiction over compliance with the cross-subsidization prohibitions; expedited adjudication
+- Section 46-3-200.3 - Rights, powers, and benefits to broadband affiliates of electric membership corporations
+- Section 46-3-200.4 - Rates, terms, and conditions for pole attachments between communications service providers and electric membership corporations and their broadband affiliates
+- Section 46-3-201 - Existence of electric membership corporations under articles of incorporation; duration of corporations; powers of corporations generally
+- Section 46-3-202 - Defense of ultra vires
+- Section 46-3-203 - Unauthorized assumption of corporate powers
+- Section 46-3-204 - Limitations as to actions growing out of acquisition of rights of way, easements, or occupation of lands of others; damages recoverable
+- Section 46-3-205 - Use of easements
+- Section 46-3-220 - Requirements as to corporate name generally
+- Section 46-3-221 - Reservation of names
+- Section 46-3-240 - Registered office and registered agent
+- Section 46-3-241 - Change of registered office or registered agent
+- Section 46-3-242 - Service of process on electric membership corporations
+- Section 46-3-243 - Venue in proceedings against electric membership corporations and foreign electric cooperatives generally
+- Section 46-3-260 - Qualifications of members; provision by articles of incorporation or bylaws for transfer, classification, and termination of memberships
+- Section 46-3-261 - Liability of members
+- Section 46-3-262 - Meetings of members generally
+- Section 46-3-263 - Notice of members' meetings
+- Section 46-3-264 - Closing of record books and fixing of record date
+- Section 46-3-265 - Quorum of members; adjournment of meeting by majority of members represented at meeting
+- Section 46-3-266 - Voting by members generally
+- Section 46-3-267 - Effect of voting requirements provided for in articles of incorporation or bylaws
+- Section 46-3-268 - Voting by proxy generally
+- Section 46-3-269 - Dissenters' rights
+- Section 46-3-270 - Credentials and elections committee
+- Section 46-3-271 - Maintenance of books and records of account; inspection of books and records by members; preparation of annual financial statements
+- Section 46-3-272 - Derivative actions by members
+- Section 46-3-290 - Management of business and affairs of electric membership corporation by board of directors; knowledge of limitations on directors' authority required; qualifications; compensation and reimbursement for expenses
+- Section 46-3-291 - Number of directors; statement of names and addresses of initial directors in articles of incorporation; duration of director's service in office
+- Section 46-3-292 - Provisional director
+- Section 46-3-293 - Classification of directors; division of service territory into districts
+- Section 46-3-294 - Vacancies on board of directors generally
+- Section 46-3-295 - Removal of directors
+- Section 46-3-296 - Quorum of directors; action by majority vote; conducting of meetings of board or committees by conference calls
+- Section 46-3-297 - Executive committee and other committees
+- Section 46-3-298 - Place, time, and notice of directors' meetings; waiver of notice; adjournment of meetings; notice of adjournment; manner of calling meetings
+- Section 46-3-299 - Action by directors without a meeting
+- Section 46-3-300 - Dissent by a director
+- Section 46-3-301 - Election or appointment of officers generally
+- Section 46-3-302 - Removal of officers; filling of vacancies
+- Section 46-3-303 - Duty of directors and officers to act in good faith; reliance on financial information prepared by others; presumption of good faith
+- Section 46-3-303.1 - Standard of care for officers in discharge of duties; reasonable reliances
+- Section 46-3-304 - Actions against directors and officers
+- Section 46-3-305 - Interested directors and officers
+- Section 46-3-306 - Indemnification of officers, directors, employees, and agents; purchase and maintenance of liability insurance; notice to members of payment of indemnification
+- Section 46-3-320 - Number of incorporators; age requirement
+- Section 46-3-321 - Signing of articles of incorporation; contents of articles of incorporation
+- Section 46-3-322 - Filing articles of incorporation; issuance of certificate of incorporation; forwarding of copy of certificate to clerk of superior court; rejection of articles of incorporation; publication of notice; commencement of corporate existence
+- Section 46-3-323 - Effect of issuance of certificate of incorporation
+- Section 46-3-324 - Organization meeting of directors
+- Section 46-3-325 - Adoption of initial bylaws; authority to alter, amend, repeal, or adopt new bylaws; contents of bylaws generally
+- Section 46-3-326 - Adoption of bylaws for emergency conditions; emergency powers of board of directors generally
+- Section 46-3-340 - Nonprofit operation of electric membership corporations required; rates and fees to cover costs of operation and interest payments and for maintaining reserves; bylaw provisions concerning revenues, assets, and member classification
+- Section 46-3-341 - Return of revenues upon death of member
+- Section 46-3-360 - Right of electric membership corporation to amend articles of incorporation
+- Section 46-3-361 - Procedure to amend articles of incorporation generally
+- Section 46-3-362 - Manner of execution of articles of amendment; contents of articles of amendment
+- Section 46-3-363 - Obtaining of certificate from Secretary of State upon amendment of name of electric membership corporation; filing articles of amendment; issuance of certificate of amendment; forwarding of copy of certificate to superior court; rejection of articles of amendment; publication of notice
+- Section 46-3-364 - Time of effectiveness of amendment; effect of amendment on pending causes of action
+- Section 46-3-365 - Restated articles of incorporation
+- Section 46-3-380 - Procedure for merger generally
+- Section 46-3-381 - Procedure for consolidation generally
+- Section 46-3-382 - Approval of merger or consolidation plan by members
+- Section 46-3-383 - Contents of articles of merger or articles of consolidation; obtaining of certificate from Secretary of State upon use of new name; procedures involving filing, issuance, rejection, and publication of articles of merger or articles of consolidation
+- Section 46-3-384 - Effect of merger or consolidation
+- Section 46-3-385 - Merger or consolidation of electric membership corporations and foreign electric cooperatives
+- Section 46-3-400 - Secured transactions and other dispositions of assets not requiring member approval
+- Section 46-3-401 - Sale, lease, exchange, or other disposition of corporate assets requiring member approval
+- Section 46-3-420 - Commencement of proceedings for voluntary dissolution of an electric membership corporation generally
+- Section 46-3-421 - Filing of statement of intent to dissolve with Secretary of State and state revenue commissioner
+- Section 46-3-422 - Effect of filing of statement of intent to dissolve
+- Section 46-3-423 - Procedure after filing statement of intent to dissolve
+- Section 46-3-424 - Revocation of voluntary dissolution proceedings by electric membership corporation
+- Section 46-3-425 - Filing of statement of revocation of voluntary dissolution proceedings with Secretary of State
+- Section 46-3-426 - Effect of filing of statement of revocation of voluntary dissolution proceedings
+- Section 46-3-427 - Execution of articles of dissolution; contents of articles of dissolution
+- Section 46-3-428 - Filing of articles of dissolution with Secretary of State; procedure involving filing, issuance, and rejection of certificate of dissolution; time of cessation of existence of electric membership corporation
+- Section 46-3-429 - Commencement of actions for involuntary dissolution of electric membership corporations by superior courts
+- Section 46-3-430 - Venue and service of process in action for involuntary dissolution
+- Section 46-3-431 - Jurisdiction of court to liquidate assets and business of electric membership corporation
+- Section 46-3-432 - Procedure in liquidation of electric membership corporation by court
+- Section 46-3-433 - Qualification of receivers; giving of bond
+- Section 46-3-434 - Filing of claims in liquidation proceedings; effect of failure to file claims
+- Section 46-3-435 - Discontinuance of liquidation proceedings
+- Section 46-3-436 - Entry of decree of involuntary dissolution; time of cessation of existence of electric membership corporation
+- Section 46-3-437 - Filing of decree of involuntary dissolution; giving of notice of entry of decree
+- Section 46-3-438 - Deposit with Office of the State Treasurer of amount due unknown, disabled, or unlocatable creditors or members; disposition of unclaimed amounts; time limitation
+- Section 46-3-439 - Survival of remedy after dissolution
+- Section 46-3-440 - Revival of electric membership corporation after dissolution by expiration of period of duration
+- Section 46-3-450 - Requirement of obtaining certificate of authority by foreign electric cooperative; applicability of state laws generally; acts not constituting transaction of business in this state
+- Section 46-3-451 - Powers of foreign electric cooperatives under certificate of authority generally
+- Section 46-3-452 - Name of foreign electric cooperative
+- Section 46-3-453 - Change of name by foreign electric cooperative
+- Section 46-3-454 - Contents of application for certificate of authority; submission of consent to appointment as registered agent; execution of application by officers of foreign electric cooperative
+- Section 46-3-455 - Filing of application for certificate of authority; issuance of certificate of authority by Secretary of State
+- Section 46-3-456 - Effect of certificate of authority
+- Section 46-3-457 - Designation of registered office and registered agent of foreign electric cooperative; maintenance by Secretary of State of offices and agents; consent to appointment as agent
+- Section 46-3-458 - Change of registered office or registered agent of foreign electric cooperative
+- Section 46-3-459 - Service of process on foreign electric cooperative authorized to transact business in this state
+- Section 46-3-460 - Filing of amendment to articles of incorporation of foreign electric cooperative
+- Section 46-3-461 - Effect of merger whereby foreign electric cooperative is surviving entity
+- Section 46-3-462 - Amending of certificate of authority
+- Section 46-3-463 - Contents of application for withdrawal; execution of application and attestation by officers; obtaining of certificate from state revenue commissioner
+- Section 46-3-464 - Filing of application for withdrawal; issuance of certificate of withdrawal; time of cessation of authority to transact business
+- Section 46-3-465 - Effect of termination of existence of foreign electric cooperative
+- Section 46-3-466 - Grounds for revocation of certificate of authority; giving notice of revocation
+- Section 46-3-467 - Issuance of certificate of revocation; time of cessation of authority to transact business
+- Section 46-3-468 - Application for reinstatement of certificate of authority
+- Section 46-3-469 - Transacting business without certificate of authority
+- Section 46-3-480 - Requirement of annual reports by electric membership corporation and foreign electric cooperative
+- Section 46-3-481 - Filing of annual reports; correction of reports
+- Section 46-3-500 - Authority of Secretary of State to charge and collect fees generally
+- Section 46-3-501 - Fees for filing documents and issuing certificates
+- Section 46-3-502 - Fees for furnishing certified copies of documents, instruments, and papers and for furnishing a certificate of search or a certificate of good standing
+- Section 46-3-503 - Fees for advertising
+- Section 46-3-520 - Powers of Secretary of State generally
+- Section 46-3-521 - Propounding of interrogatories by Secretary of State
+- Section 46-3-522 - Disclosure of facts and information obtained from interrogatories
+- Section 46-3-523 - Notification of actions taken by Secretary of State; appeal of Secretary of State's decision to superior court; appeal by foreign electric cooperative whose certificate is revoked; appeal of decision of superior court
+- Section 46-3-540 - Civil penalties for actions or omissions by electric membership corporations and foreign electric cooperatives
+- Section 46-3-541 - Civil and criminal penalties for actions or omissions by officers and directors of electric membership corporations and foreign electric cooperatives

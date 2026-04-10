@@ -1,0 +1,26 @@
+# Article 1 - GENERAL PROVISIONS (§§ 11-1-101 — 11-1-310)
+
+- Section 11-1-101 - Short titles
+- Section 11-1-102 - Scope of article
+- Section 11-1-103 - Rules of construction to promote purposes and policies; applicability of supplemental principles of law
+- Section 11-1-104 - Construction against implicit repeal
+- Section 11-1-105 - Severability
+- Section 11-1-106 - Use of singular and plural; gender
+- Section 11-1-107 - Section captions
+- Section 11-1-108 - Relation to Electronic Signatures in Global and National Commerce Act
+- Section 11-1-201 - General definitions
+- Section 11-1-202 - Notice; knowledge
+- Section 11-1-203 - Lease distinguished from security interest
+- Section 11-1-204 - Value
+- Section 11-1-205 - Reasonable time; seasonableness
+- Section 11-1-206 - Presumptions
+- Section 11-1-301 - Territorial applicability; parties' power to choose applicable law
+- Section 11-1-302 - Variation by agreement
+- Section 11-1-303 - Course of performance, course of dealing, and usage of trade
+- Section 11-1-304 - Obligation of good faith
+- Section 11-1-305 - Remedies to be liberally administered
+- Section 11-1-306 - Waiver or renunciation of claim or right after breach
+- Section 11-1-307 - Prima-facie evidence by third party documents
+- Section 11-1-308 - Performance or acceptance under reservation of rights
+- Section 11-1-309 - Option to accelerate at will
+- Section 11-1-310 - Subordinated obligations

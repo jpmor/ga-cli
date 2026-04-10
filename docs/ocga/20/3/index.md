@@ -1,0 +1,413 @@
+# Chapter 3 - POSTSECONDARY EDUCATION (§§ 20-3-1 — 20-3-683)
+
+- Section 20-3-1 - Definitions
+- Section 20-3-10 - Sanctuary policies prohibited; penalty for violation
+- Section 20-3-20 - Creation; change of name of &quot;Trustees of the University of Georgia.&quot;
+- Section 20-3-21 - Composition; powers and duties generally
+- Section 20-3-22 - Terms of office
+- Section 20-3-23 - Vacancies
+- Section 20-3-24 - Chairman
+- Section 20-3-25 - Appointment of secretary; duties; bond
+- Section 20-3-26 - Duty of members to attend meetings; vacation of office for unexcused absences
+- Section 20-3-27 - Inspections of institutions by committees; reports
+- Section 20-3-28 - Per diem allowances and travel expenses of members
+- Section 20-3-29 - Separate appropriation for expense
+- Section 20-3-30 - Procedural rules and regulations; terms of officers; powers and duties of former boards transferred
+- Section 20-3-31 - General powers
+- Section 20-3-31.1 - Powers as to program for senior citizens to attend classes in University System of Georgia; continuation
+- Section 20-3-32 - Powers as to institutions, departments, courses, and degrees of university system
+- Section 20-3-33 - Investment of trust funds in real estate or improvements
+- Section 20-3-34 - Fiscal year
+- Section 20-3-35 - Annual reports to Governor
+- Section 20-3-36 - Applicability of sovereign immunity doctrine
+- Section 20-3-37 - Contracts with hospitals for clinics and training medical students
+- Section 20-3-38 - Agricultural extension work
+- Section 20-3-39 - Reassignment of responsibilities for operation and management of public libraries; employees; transfer of funding; rules and regulations
+- Section 20-3-40 - Georgia Capitol Museum
+- Section 20-3-41 - Division of Archives and History transferred to University System
+- Section 20-3-41.1 - Objectives and purposes generally
+- Section 20-3-41.2 - Surrender of materials to division for preservation; preparation of certified copies; ownership, operation, and management of electronic archival records; exemption for certain records under certain conditions; &quot;constitutional officer&quot; defined
+- Section 20-3-41.3 - Study of historical documents; public displays of the Foundations of American Law and Government
+- Section 20-3-45 - Georgia Historical Records Advisory Council created; purpose; members; expenses; coordinator; officers; meetings; administrative assignment; staff
+- Section 20-3-45.1 - Powers and duties of council
+- Section 20-3-47 - Definitions
+- Section 20-3-47.1 - Division to administer part
+- Section 20-3-47.2 - Declaration of printed material as surplus; preparation of inventory of material; transmission of inventory to division; filing of duplicate copy
+- Section 20-3-47.3 - Determination of archival value of surplus printed material; release of material to division; notation of release on inventory; transmission of copy of inventory to originating state agency
+- Section 20-3-47.4 - Authorization for donation to nonprofit organizations of surplus printed material not having archival value; rules and regulations
+- Section 20-3-47.5 - Applicability of part
+- Section 20-3-48 - Short title; public forums designated; &quot;free speech zones&quot; prohibited; allowed restrictions; protected expressive activity; construction; required materials; annual reporting
+- Section 20-3-48.1 - Annual report by Board of Regents
+- Section 20-3-48.2 - [Repealed] Reasonable time, place, and manner restrictions on speech
+- Section 20-3-50 - Institutions in system
+- Section 20-3-51 - Regents to govern system
+- Section 20-3-52 - Continuation of Acts as to University of Georgia
+- Section 20-3-53 - Authority to allocate appropriations among institutions
+- Section 20-3-54 - Use of funds donated for particular institution
+- Section 20-3-55 - Payment of appropriations; bond of official receiving funds; use of fees by institutions
+- Section 20-3-56 - Trust funds or property vested in regents on behalf of particular institution
+- Section 20-3-57 - Property of institutions vested in regents separately
+- Section 20-3-58 - Condemnation of private or public property for system
+- Section 20-3-59 - Power of local school boards to add facilities to university system; bond issues
+- Section 20-3-60 - When properties of system may be sold, leased, or otherwise disposed of; effect of restrictions on use; works of art
+- Section 20-3-61 - How conveyances executed
+- Section 20-3-62 - Use of proceeds from conveyances
+- Section 20-3-63 - Refunding state obligations held by regents - Authority to issue bonds
+- Section 20-3-64 - Issuing state bonds to redeem obligations of university system - Option of regents; compliance with constitutional sinking fund provisions
+- Section 20-3-65 - No exclusion from University of Georgia for religious beliefs
+- Section 20-3-66 - Determination of in-state resident status of students for tuition or fees
+- Section 20-3-67 - Powers of regents over system and institutions over students not limited by lowering age of majority
+- Section 20-3-68 - Instruction in essentials of United States and Georgia history and Constitutions
+- Section 20-3-70 - [Repealed] [Reserved] Power of Governor to close schools and institutions under control of regents
+- Section 20-3-71 - Nuclear facility liability insurance for schools under regents
+- Section 20-3-72 - Arrest powers of campus policemen and security personnel
+- Section 20-3-73 - Director of agricultural matters
+- Section 20-3-73.1 - Georgia Agrirama designated as State Museum of Agriculture
+- Section 20-3-73.2 - Continuation of authority; governance of museum; transfer of assets
+- Section 20-3-73.3 - Georgia Southern University Herty Advanced Materials Development Center
+- Section 20-3-74 - Advisory board of College of Veterinary Medicine - Creation; officers; meetings
+- Section 20-3-75 - Advisory board of the College of Veterinary Medicine - Duties; cooperation of college personnel
+- Section 20-3-76 - Advisory board of the College of Veterinary Medicine - Reports to General Assembly
+- Section 20-3-77 - Coordination of education encouraging development of small business
+- Section 20-3-77.1 - Training programs for professors and instructors in computers and advanced electronic instructional technology; implementation; funding
+- Section 20-3-78 - Athletic associations - Corporate nature
+- Section 20-3-79 - Athletic associations - Not subject to limitations on state agencies; financial operation regulations; state audits not required; exception of appropriations
+- Section 20-3-80 - Athletic associations - Agreements as to use of state property
+- Section 20-3-82 - Georgia Eminent Scholars Endowment Trust Fund
+- Section 20-3-83 - Deductions for contributions or dues to interdisciplinary charitable associations
+- Section 20-3-84 - [Repealed and Reserved] [Reserved] Center for Trade and Technology Transfer; board of directors; appointment of members; qualifications; officers; duties; reporting; affiliation
+- Section 20-3-85 - Study examining postsecondary text availability in alternative formats
+- Section 20-3-86 - [Repealed effective 6/30/2026] Nonlapsing revenue of institutions in university system
+- Section 20-3-87 - Requirement to join professional association as a condition of enrollment prohibited
+- Section 20-3-90 - Short title
+- Section 20-3-91 - Legislative findings and intent
+- Section 20-3-92 - Definitions
+- Section 20-3-93 - Circumstances requiring withdrawal of student organization recognition
+- Section 20-3-94 - Implementation of administrative procedures
+- Section 20-3-95 - Appeal to Board of Regents of University System of Georgia
+- Section 20-3-96 - Final appeal to superior court
+- Section 20-3-130 - Short title; name of junior college system
+- Section 20-3-131 - Definitions
+- Section 20-3-132 - Authority to establish and maintain junior colleges
+- Section 20-3-133 - Payments from regents to local operating authorities; local support from fees and taxes; audits
+- Section 20-3-134 - Regents to fix policies and standards; inspections and supervision; withholding state funds from substandard junior colleges
+- Section 20-3-135 - State funds limited to payments by regents
+- Section 20-3-136 - Power to condemn private property for school and educational purposes unaffected
+- Section 20-3-150 - Short title
+- Section 20-3-151 - Definitions
+- Section 20-3-152 - Creation; members, officers, and staff; quorum; procedural rules and regulations; assignment to Department of Administrative Services
+- Section 20-3-153 - Powers of the authority
+- Section 20-3-154 - Authority to issue revenue bonds; terms
+- Section 20-3-155 - Form of bonds; denominations; place of payment; registration
+- Section 20-3-156 - Signing, sealing, and attesting bonds
+- Section 20-3-157 - Bonds negotiable; exemption of bonds from taxation
+- Section 20-3-158 - Manner of sale and price of bonds; assistance by Georgia Building Authority
+- Section 20-3-159 - Use of bond proceeds; additional bonds
+- Section 20-3-160 - Issuance of interim receipts or certificates or temporary bonds
+- Section 20-3-161 - Replacement of mutilated, destroyed, or lost bonds
+- Section 20-3-162 - Compliance with article sufficient for issuance of bonds; single issue for one or more projects; adoption of bond resolution
+- Section 20-3-163 - Credit of state not pledged
+- Section 20-3-164 - Trust indentures to secure bonds; contents of indentures or bond resolutions; expenses of carrying out indentures
+- Section 20-3-165 - Trustee for bond proceeds
+- Section 20-3-166 - Sinking fund
+- Section 20-3-167 - Remedies of bondholders, receivers, or indenture trustees
+- Section 20-3-168 - Refunding bonds
+- Section 20-3-169 - Bonds legal investments or security deposits
+- Section 20-3-170 - Tax exemption of authority's property, activities, charges, and bonds
+- Section 20-3-171 - Procedure for validating bonds
+- Section 20-3-172 - Venue and jurisdiction of actions to enforce rights or validate bonds
+- Section 20-3-173 - Interests of bondholders protected
+- Section 20-3-174 - Acceptance of grants and contributions from federal and other sources
+- Section 20-3-175 - Moneys received deemed trust funds
+- Section 20-3-176 - Fixing, collecting, and assigning rentals and charges for use of projects
+- Section 20-3-177 - Rules and regulations for operation of projects
+- Section 20-3-178 - Accounts; audits
+- Section 20-3-179 - Power of regents to issue revenue bonds not affected
+- Section 20-3-180 - Article provides additional method and powers
+- Section 20-3-181 - Article to be liberally construed
+- Section 20-3-200 - Short title
+- Section 20-3-201 - Definitions
+- Section 20-3-202 - Creation; membership; officers; compensation of members; expenses of members; organization; duration; quorum
+- Section 20-3-203 - Purpose; powers and duties
+- Section 20-3-204 - Issuance of revenue bonds; source of payment; negotiability; terms; validation; sale; interim and replacement bonds; execution; duration of liability
+- Section 20-3-205 - Immunity from liability of members and persons executing bonds or notes
+- Section 20-3-206 - Credit of state or subdivisions not pledged; no taxation or appropriation for authority
+- Section 20-3-207 - Remedies of bondholders
+- Section 20-3-208 - Pledge of and lien on revenues to secure bonds
+- Section 20-3-209 - Exemption of authority and bonds from taxation
+- Section 20-3-210 - Interest of bondholders protected
+- Section 20-3-211 - Disposition of moneys received by authority
+- Section 20-3-212 - Title to projects
+- Section 20-3-213 - Venue and jurisdiction of actions under this article
+- Section 20-3-214 - Liberal construction of article
+- Section 20-3-230 - Short title
+- Section 20-3-231 - Legislative findings; purpose of commission
+- Section 20-3-232 - Definitions
+- Section 20-3-233 - Creation of commission as successor to State Scholarship Commission; transfer of assets
+- Section 20-3-234 - Functions and composition of board of commissioners; appointment, qualifications, and terms of commissioners; board officers; meetings; committees; compensation; advisory councils
+- Section 20-3-235 - Commission officers, employees, and support services; bonds; legal services
+- Section 20-3-236 - Powers and duties of commission, board of commissioners, and officers; confidentiality; repayments and refunds
+- Section 20-3-237 - [Repealed] [Reserved] Division of board of commissioners to serve as directors of corporation and authority
+- Section 20-3-238 - Accounting system
+- Section 20-3-239 - Annual audits; distribution of audit reports
+- Section 20-3-240 - Budget requests
+- Section 20-3-241 - Operations reports
+- Section 20-3-242 - Web based counseling and resources for students
+- Section 20-3-250.1 - Short title
+- Section 20-3-250.2 - Definitions
+- Section 20-3-250.3 - Educational institutions exempted from application of part
+- Section 20-3-250.4 - Nonpublic Postsecondary Education Commission; membership
+- Section 20-3-250.5 - Administration; general powers and duties
+- Section 20-3-250.6 - Minimum standards for educational institutions
+- Section 20-3-250.7 - Prohibited activities
+- Section 20-3-250.8 - Application to operate or conduct postsecondary activities
+- Section 20-3-250.9 - [Repealed] [Reserved] Application by persons to solicit or perform services of agent
+- Section 20-3-250.10 - Surety bonds; filing; release of surety; suspension upon release of surety
+- Section 20-3-250.11 - Collection of fees established by commission
+- Section 20-3-250.12 - Denial of application
+- Section 20-3-250.13 - Revocation of authorization to operate; conditional authorization; hearing
+- Section 20-3-250.14 - Filing complaint against institution
+- Section 20-3-250.15 - Hearing and review by commission of denial of authorization to operate
+- Section 20-3-250.16 - Judicial review of final commission action
+- Section 20-3-250.17 - Discontinuation of operations of nonpublic postsecondary educational institution
+- Section 20-3-250.18 - Initiation of court proceedings by executive director
+- Section 20-3-250.19 - Jurisdiction
+- Section 20-3-250.20 - Funding for administration of part
+- Section 20-3-250.21 - Fines for violations
+- Section 20-3-250.23 - Validity of certificates of authorization previously issued
+- Section 20-3-250.24 - Compensation and benefits of commission employees
+- Section 20-3-250.25 - Transfer of records, files, and accounts from State Board of Education to commission
+- Section 20-3-250.26 - No limitation by this part on professional licensing board's authority
+- Section 20-3-250.27 - Tuition Guaranty Trust Fund
+- Section 20-3-260 - through 20-3-295 - Reserved
+- Section 20-3-310 - Short title
+- Section 20-3-311 - Legislative findings; purposes of authority
+- Section 20-3-312 - [Repealed] [Reserved] Definitions
+- Section 20-3-313 - Authority created as successor to Georgia Higher Education Assistance Authority; abolishment of Georgia Higher Education Assistance Corporation
+- Section 20-3-314 - Functions, composition, organization, and conduct of affairs of board of directors
+- Section 20-3-315 - Authority officers and employees; bonds
+- Section 20-3-316 - Powers and duties of authority; employees' functions; servicing of educational loans; registration with Selective Service System; confidentiality
+- Section 20-3-316.1 - Selection on tax form of nonprofit corporations established by the Georgia Student Finance Authority for contribution
+- Section 20-3-316.2 - Voluntary donations through state income tax returns and drivers' licenses fees benefiting children of certain public servants seeking postsecondary education
+- Section 20-3-317 - Accounting system; use of funds; payments to commission
+- Section 20-3-318 - Authority administration fund
+- Section 20-3-319 - [Repealed] [Reserved] Temporary transfer of authority state funds to corporation to accelerate federal payments
+- Section 20-3-320 - Audits of authority; distribution of audit reports
+- Section 20-3-321 - School audits; program reviews; corrective actions
+- Section 20-3-322 - Contributions deductible for tax purposes
+- Section 20-3-323 - Conflicts of interest involving directors, officers, or employees of authority
+- Section 20-3-324 - Authority assigned to commission
+- Section 20-3-325 - Dissolution of authority
+- Section 20-3-326 - Venue of proceedings against authority
+- Section 20-3-327 - General banking business by authority prohibited
+- Section 20-3-328 - Operations reports by authority
+- Section 20-3-329 - Employees of commission transferred to authority; status of authority employees hired after July 1, 1996; status of transferred employees; benefits of transferred employees not impaired
+- Section 20-3-340 - Legislative findings; purpose of subpart
+- Section 20-3-341 - [Repealed] [Reserved] Definitions
+- Section 20-3-342 - Powers and duties of authority
+- Section 20-3-343 - Credit of state not pledged for payment of authority obligations; revenues and assets available for payment
+- Section 20-3-344 - Issuance of bonds and notes of authority; amount; interest; form; execution; use of proceeds; validation
+- Section 20-3-345 - Trust agreements authorized; provisions of trust agreements and bond resolutions
+- Section 20-3-346 - Lien of pledge of revenues or assets of authority
+- Section 20-3-347 - Moneys received by authority deemed trust funds; investment
+- Section 20-3-348 - Rights of holders of obligations of authority
+- Section 20-3-349 - Obligations of authority are negotiable instruments
+- Section 20-3-350 - Obligations of authority are legal investments and deposits
+- Section 20-3-351 - Issuance of refunding obligations by authority
+- Section 20-3-352 - Reserve or replacement funds of authority
+- Section 20-3-353 - Exemption of directors and officers of authority from personal liability
+- Section 20-3-354 - Payment of expenses from appropriations and income
+- Section 20-3-355 - Tax exemptions of authority and its bonds and notes; exceptions
+- Section 20-3-356 - Interests of bondholders protected
+- Section 20-3-357 - Termination or dissolution of authority
+- Section 20-3-358 - Subpart and part deemed supplemental to other laws
+- Section 20-3-360 - [Repealed effective 6/30/2025] Definitions
+- Section 20-3-361 - [Repealed effective 6/30/2025] Grants; individualized eligibility criteria; criteria for retention
+- Section 20-3-362 - [Repealed effective 6/30/2025] Application; regulations; refunds
+- Section 20-3-363 - [Repealed effective 6/30/2025] Examination of qualified institutions; constructions; refunds; suspension
+- Section 20-3-364 - [Repealed effective 6/30/2025] Penalty for false statement or misrepresentation
+- Section 20-3-365 - [Repealed effective 6/30/2025] Collecting and monitoring enrollment and student record data; program evaluations
+- Section 20-3-366 - [Repealed effective 6/30/2025] Repealer
+- Section 20-3-370 - Legislative findings; purpose of subpart
+- Section 20-3-371 - [Repealed] [Reserved] Definitions
+- Section 20-3-372 - State funded educational loan program authorized; powers of authority
+- Section 20-3-373 - General loan fund
+- Section 20-3-374 - Service cancelable loan fund; authorized types of service cancelable educational loans
+- Section 20-3-375 - Income credited to authority administration fund; transfer of surplus to general loan fund
+- Section 20-3-380 - Legislative findings; purpose of subpart
+- Section 20-3-381 - Definitions
+- Section 20-3-382 - Establishing and administration of loan forgiveness programs
+- Section 20-3-383 - Creation of Public Interest Lawyers' Fund
+- Section 20-3-384 - Corporation established; contracts with civil legal aid organizations
+- Section 20-3-385 - Utilization of fund in repayment of education loans; funding of four separate programs
+- Section 20-3-386 - Distribution of education loan repayment assistance; conditions
+- Section 20-3-387 - Eligibility for education loan forgiveness; availability of funds
+- Section 20-3-390 - Legislative findings; purpose of subpart
+- Section 20-3-391 - State student incentive grant program authorized; eligible students and schools
+- Section 20-3-395 - Definitions
+- Section 20-3-395.1 - Eligibility; interest rate; repayment; maximum amount
+- Section 20-3-395.2 - Separate fund for loans; fees
+- Section 20-3-395.3 - Repayment schedule; default; service cancelable
+- Section 20-3-395.4 - Ineligibility
+- Section 20-3-400 - Short title
+- Section 20-3-400.1 - Definitions
+- Section 20-3-400.2 - Eligibility; repayment period; maximum amount; interest rate; requirements
+- Section 20-3-400.3 - Recalculation of interest rate
+- Section 20-3-400.4 - Separate fund for loans; fees
+- Section 20-3-400.5 - Repayment schedule; default
+- Section 20-3-400.6 - Ineligibility
+- Section 20-3-405 - Short title
+- Section 20-3-405.1 - Definitions
+- Section 20-3-405.2 - Eligibility; repayment period; maximum amount; application; statement of requirements
+- Section 20-3-405.3 - Interest rate; recalculation
+- Section 20-3-405.4 - Conversion to interest free loans
+- Section 20-3-405.5 - Separate fund for loans; fees
+- Section 20-3-405.6 - Repayment schedule; default
+- Section 20-3-405.7 - Ineligibility
+- Section 20-3-409 - [Repealed] Taxpayer opportunity to contribute to student loan funds; contribution amounts
+- Section 20-3-410 - Legislative findings; purpose of subpart
+- Section 20-3-411 - Definitions
+- Section 20-3-412 - Entitlement to grants as specified in the appropriations Acts; restrictions
+- Section 20-3-413 - Application for and payment of grants; certification of eligibility; refunds if students fail to enroll
+- Section 20-3-414 - Pro rata reduction of grants when funds are insufficient
+- Section 20-3-415 - Audits of schools; refund of grants for ineligible students
+- Section 20-3-416 - Penalty for furnishing or accepting false statement as to eligibility
+- Section 20-3-420 - Legislative purpose; designation of University of North Georgia as premier senior military college of Georgia
+- Section 20-3-421 - Eligibility for scholarship
+- Section 20-3-422 - Nomination of candidates for scholarships
+- Section 20-3-423 - Creation and composition of selection committee; duties of selection committee
+- Section 20-3-424 - Amount of scholarship awards; duration of awards
+- Section 20-3-425 - Failure of scholarship recipient to meet service obligations
+- Section 20-3-426 - Effect of failure to meet standards and requirements for continued eligibility for scholarship; filling of vacancies
+- Section 20-3-427 - Promulgation of rules and regulations by authority; funding of scholarship program
+- Section 20-3-430 - Legislative findings; purpose of subpart
+- Section 20-3-431 - &quot;Eligible student&quot; defined
+- Section 20-3-432 - Amount for each eligible student
+- Section 20-3-433 - Application for and payment of grants; certification of eligibility; refunds if students fail to enroll
+- Section 20-3-434 - Pro rata reduction of grants when funds are insufficient
+- Section 20-3-435 - Audits of university; refund of grants for ineligible students
+- Section 20-3-436 - Penalty for furnishing or accepting false statement as to eligibility
+- Section 20-3-440 - Legislative findings
+- Section 20-3-441 - &quot;Eligible student&quot; defined
+- Section 20-3-442 - Amount of grant
+- Section 20-3-443 - Application for grants; certification of eligibility; refunds
+- Section 20-3-444 - Pro rata reduction when funds are insufficient
+- Section 20-3-445 - Audits of the university
+- Section 20-3-446 - Penalty for false statements
+- Section 20-3-450 - Legislative findings; purpose of subpart
+- Section 20-3-451 - Definitions
+- Section 20-3-452 - Amount of grants to each eligible student
+- Section 20-3-453 - Eligibility of students
+- Section 20-3-454 - Application for and approval of grants and renewals thereof
+- Section 20-3-455 - Administration of program; physical examinations
+- Section 20-3-460 - Repayment options for full-time medical examiner employed by the Division of Forensic Sciences of the Georgia Bureau of Investigation
+- Section 20-3-465 - Student loan repayment agreements for peace officers; regulations; funding
+- Section 20-3-470 - Regents' opportunity assistance program for graduate and professional degree students authorized
+- Section 20-3-475 - Legislative intent
+- Section 20-3-476 - Authorization and administration of loan program for attendance at colleges of osteopathic medicine
+- Section 20-3-480 - Definitions
+- Section 20-3-481 - Grants to eligible students
+- Section 20-3-482 - Applying for grants; administration of program
+- Section 20-3-485 - Definitions
+- Section 20-3-486 - Grants to eligible students
+- Section 20-3-487 - Applying for grants; administration of program
+- Section 20-3-490 - Eligibility
+- Section 20-3-491 - Applications for scholarship grants; administration of program
+- Section 20-3-492 - Appropriation of funds
+- Section 20-3-493 - Grant program shall be in addition to and not in lieu of Subpart 5A
+- Section 20-3-494 - Definitions; eligibility; implementation
+- Section 20-3-495 - Short title
+- Section 20-3-496 - Definitions
+- Section 20-3-497 - Establishment of REACH scholarship; student requirements
+- Section 20-3-498 - Application from local school districts for participation
+- Section 20-3-499 - Selection of REACH scholars
+- Section 20-3-499.1 - Requirements of REACH scholar
+- Section 20-3-499.2 - Funding procedures for scholarships
+- Section 20-3-499.3 - Establishment, operation, and purpose of nonprofit REACH Georgia Foundation
+- Section 20-3-499.4 - Development of rules, guidelines, forms, and procedures
+- Section 20-3-500 - Board of regents authorized to grant scholarships
+- Section 20-3-501 - Duties of board of regents regarding scholarship program
+- Section 20-3-502 - Funds for scholarships
+- Section 20-3-510 - &quot;Board&quot; defined
+- Section 20-3-511 - Transfer of powers, rights, and duties to the Georgia Board of Health Care Workforce
+- Section 20-3-512 - Powers as to medical student loans and scholarships
+- Section 20-3-513 - Determination of amount by board; terms and conditions; repayment in services
+- Section 20-3-514 - Contract provisions for loan or scholarship
+- Section 20-3-515 - Power of board as to arranging payment of tuition and fees for students granted loans or scholarships
+- Section 20-3-516 - Funds for loans or scholarships
+- Section 20-3-517 - Biennial report of board to General Assembly
+- Section 20-3-518 - Legislative purpose
+- Section 20-3-518.1 - Definitions
+- Section 20-3-518.2 - State Veterinary Education Board
+- Section 20-3-518.3 - Purchases of loans made for educational purposes to students who have completed a veterinary medical degree program
+- Section 20-3-518.4 - Loan purchases granted to applicants based upon services rendered; limitations
+- Section 20-3-518.5 - Contract; cancellation
+- Section 20-3-518.6 - Funding
+- Section 20-3-518.7 - Adoption of rules and regulations
+- Section 20-3-519 - Definitions
+- Section 20-3-519.1 - Eligibility for scholarships or grants
+- Section 20-3-519.2 - Eligibility requirements for a HOPE scholarship; award amount
+- Section 20-3-519.3 - [Repealed] [Reserved] Eligibility requirements for a HOPE scholarship at a private postsecondary institution; scholarship amount
+- Section 20-3-519.4 - [Repealed] [Reserved] Terms and conditions for receiving a HOPE grant at a private postsecondary institution
+- Section 20-3-519.5 - Eligibility requirements for a HOPE grant; award amount
+- Section 20-3-519.6 - HOPE HSE vouchers
+- Section 20-3-519.7 - through 20-3-519.9 - Reserved
+- Section 20-3-519.10 - Application of HOPE scholarship and HOPE grant
+- Section 20-3-519.11 - Georgia Student Finance Commission; examination of institutions; rules and regulations; appropriation of funds
+- Section 20-3-519.12 - and 20-3-519.13 - Reserved
+- Section 20-3-519.14 - Classification of employees of Free Trade Area of the Americas Georgia residents
+- Section 20-3-520 - Construction and operation authorized; separate appropriations
+- Section 20-3-521 - Funds for construction and equipping
+- Section 20-3-540 - Definitions
+- Section 20-3-541 - Creation of board of trustees
+- Section 20-3-542 - Composition of board
+- Section 20-3-543 - Terms of board members
+- Section 20-3-544 - Board chairman
+- Section 20-3-545 - Compensation of board members
+- Section 20-3-546 - Powers of board
+- Section 20-3-547 - Fiscal year
+- Section 20-3-548 - Annual report
+- Section 20-3-560 - Legislative intent
+- Section 20-3-561 - Management vested in the board of trustees
+- Section 20-3-562 - Validity of prior trust provisions; substitution of trustee
+- Section 20-3-563 - Title to property vested in board of trustees
+- Section 20-3-564 - Authorization to dispose of property
+- Section 20-3-565 - Execution and delivery of evidence of title upon disposition of property
+- Section 20-3-566 - Use of proceeds from sale or lease of property
+- Section 20-3-567 - Scholarships
+- Section 20-3-600 - Short title
+- Section 20-3-601 - Legislative findings
+- Section 20-3-602 - Purposes of article
+- Section 20-3-603 - Definitions
+- Section 20-3-604 - Creation of Georgia Education Trust
+- Section 20-3-605 - Advance tuition payment contract authorized; form and contents of contract
+- Section 20-3-606 - Types of advance tuition payment contracts; alternative provisions
+- Section 20-3-607 - Termination of advance tuition payment contracts; refunds
+- Section 20-3-608 - Advance tuition payment fund; expenditure of trust assets
+- Section 20-3-609 - Public meetings; writings and performance of official duties
+- Section 20-3-610 - Powers of board
+- Section 20-3-611 - Accounts; audits
+- Section 20-3-612 - Requirements for administration of trust; evaluation of actuarial soundness; applicability of federal securities laws
+- Section 20-3-613 - Contracts for provision of services; programs to ensure full tuition payment; exclusive plans for community and junior colleges; report to legislature
+- Section 20-3-614 - Preservation of assets of trust fund; investment in obligations of state
+- Section 20-3-615 - Admission to or graduation from institutions not guaranteed
+- Section 20-3-616 - Exemption from securities law; approval required for transfer of advance tuition payment contracts
+- Section 20-3-617 - Costs of trust operations
+- Section 20-3-630 - Short title
+- Section 20-3-631 - Purpose
+- Section 20-3-632 - Definitions
+- Section 20-3-633 - Creation; board of directors; assignment to Department of Administrative Services
+- Section 20-3-634 - Savings trust accounts; availability; terms and provisions
+- Section 20-3-635 - Administration of fund; types of accounts; office location; record maintenance; form of contribution; earnings; preservation
+- Section 20-3-636 - Taxation of fund property and income
+- Section 20-3-637 - Investment of plan funds; competitive solicitation of service providers; sale, assignment or transfer of investments
+- Section 20-3-638 - Annual statement and report requirements; audits
+- Section 20-3-639 - Plan not designed as promise or guarantee of educational benefits
+- Section 20-3-640 - No guarantee of full coverage of educational expenses
+- Section 20-3-641 - Effect of account in determining eligibility for state aid
+- Section 20-3-642 - Records not open to public inspection; duration
+- Section 20-3-660 - Tuition waiver program for qualifying foster and adopted individuals
+- Section 20-3-680 - Legislative findings; definitions
+- Section 20-3-681 - Compensation of athlete for use of name, image, or likeness; scholarships are not compensation; requirements for schools and athletes
+- Section 20-3-682 - Professional representation of athletes; compliance with federal law
+- Section 20-3-683 - Effectiveness and termination

@@ -1,0 +1,70 @@
+# Chapter 4 - VOCATIONAL, TECHNICAL, AND ADULT EDUCATION (§§ 20-4-1 — 20-4-165)
+
+- Section 20-4-1 - Acceptance of federal act
+- Section 20-4-2 - Duties of State Board of Education in obtaining matching state and local funds
+- Section 20-4-3 - Custodian for federal funds; payment upon order of State Board of Education
+- Section 20-4-4 - Employing teachers under federal act
+- Section 20-4-10 - State Board of the Technical College System of Georgia established; members; officers
+- Section 20-4-11 - Powers of board
+- Section 20-4-11.1 - Public forums designated; &quot;free speech zones&quot; prohibited; allowed restrictions; protected expressive activity; construction; required materials; annual reporting
+- Section 20-4-12 - Expenses and mileage allowance
+- Section 20-4-13 - Meetings
+- Section 20-4-14 - Technical College System of Georgia established; powers and duties
+- Section 20-4-15 - Establishment of adult literacy programs; eligibility; office of adult literacy
+- Section 20-4-16 - Funding
+- Section 20-4-17 - Agencies to receive federal funds; transfer of personnel to Department of Technical and Adult Education, now known as Technical College System of Georgia
+- Section 20-4-18 - Management and control of adult literacy and postsecondary technical education programs and schools
+- Section 20-4-19 - Conformity to board standards, policies, and procedures
+- Section 20-4-20 - Authority of Board of Regents of University System of Georgia unabridged; agreements with the State Board of the Technical College System of Georgia; awarding transferable postsecondary course credits
+- Section 20-4-21 - Tuition fees
+- Section 20-4-21.1 - [Repealed effective 7/1/2026] Nonlapsing revenue of institutions under the Technical College System of Georgia
+- Section 20-4-22 - Management and control of quick start program
+- Section 20-4-23 - Retention of nonstate funds by postsecondary technical school converted to state management
+- Section 20-4-24 - Use of personnel by local units of administration
+- Section 20-4-25 - Membership in retirement system - Professional personnel employed on or after July 1, 1985, and nonprofessional personnel employed after July 1, 1987
+- Section 20-4-26 - Membership in retirement system - Employees of schools formerly operated by local board of education or area postsecondary technical education board
+- Section 20-4-27 - Service classification
+- Section 20-4-28 - Compensation of employees of schools appointed after July 1, 1987, or when system assumes governance
+- Section 20-4-29 - Salary and benefit plan of employees of schools formerly operated by local board of education or area postsecondary technical education board
+- Section 20-4-30 - Compensation of classified employees electing to become unclassified
+- Section 20-4-31 - Initial sick and annual leave
+- Section 20-4-32 - Accrual of sick leave
+- Section 20-4-33 - Days off with pay; accrual of annual leave
+- Section 20-4-34 - Rights and benefits of former employees of State Board of Postsecondary Vocational Education
+- Section 20-4-35 - Reduction in force policy
+- Section 20-4-36 - Cooperation with study to identify problems in obtaining alternative formats for textbooks used by students with disabilities
+- Section 20-4-37 - Office of College and Career Transitions; powers and duties
+- Section 20-4-38 - Academic credit for military training and experience
+- Section 20-4-39 - Power of campus police and security personnel employed by Technical College System of Georgia to make arrests
+- Section 20-4-40 - Program for quick start training established
+- Section 20-4-41 - Extent and nature of training to be offered
+- Section 20-4-42 - Administration of program
+- Section 20-4-43 - Agreements for local facilities and employees; contracts or agreements with private firms
+- Section 20-4-44 - Qualifications of employees
+- Section 20-4-45 - Equipment procurement and use
+- Section 20-4-46 - Standards, rules, and regulations
+- Section 20-4-47 - Acceptance of federal and private grants
+- Section 20-4-120 - Creation of Commission; membership
+- Section 20-4-121 - Duties
+- Section 20-4-122 - Administrative support
+- Section 20-4-130 - Definitions
+- Section 20-4-131 - Administration of grant program; purpose
+- Section 20-4-132 - Awarding of grants
+- Section 20-4-133 - Grant application requirements
+- Section 20-4-134 - Rules and regulations
+- Section 20-4-140 - [Repealed effective 7/1/2026] Definitions
+- Section 20-4-141 - [Repealed effective 7/1/2026] Establishment of pilot program; awarding of high school diploma to successful participants; skills and knowledge; eligibility for participation; regulation
+- Section 20-4-142 - [Repealed effective 7/1/2026] Automatic repeal
+- Section 20-4-150 - [Repealed effective 7/1/2027] Definitions
+- Section 20-4-151 - [Repealed effective 7/1/2027] Purpose; employer partnerships; required information; contracts; awards; limitations
+- Section 20-4-152 - [Repealed effective 7/1/2027] Utilization of the High-demand Career List
+- Section 20-4-153 - [Repealed effective 7/1/2027] Annual reporting; cooperation from apprenticeship sponsor
+- Section 20-4-154 - [Repealed effective 7/1/2027] Rules and regulations
+- Section 20-4-155 - [Repealed effective 7/1/2027] Acceptance of grants or other resources
+- Section 20-4-156 - [Repealed effective 7/1/2027] Repealer
+- Section 20-4-160 - [Repealed effective 7/1/2027] Definitions
+- Section 20-4-161 - [Repealed effective 7/1/2027] Purpose; public service sponsorships; required information; contracts; awards; limitations
+- Section 20-4-162 - [Repealed effective 7/1/2027] Annual report
+- Section 20-4-163 - [Repealed effective 7/1/2027] Rules and regulations
+- Section 20-4-164 - [Repealed effective 7/1/2027] Acceptance of grants or other resources
+- Section 20-4-165 - [Repealed effective 7/1/2027] Repealer

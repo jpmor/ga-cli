@@ -1,0 +1,31 @@
+# Chapter 1 - GENERAL PROVISIONS (§§ 33-1-1 — 33-1-27)
+
+- Section 33-1-1 - Short title
+- Section 33-1-2 - Definitions
+- Section 33-1-3 - [Repealed] [Reserved] Application of title to fraternal benefit societies and farmers' mutual fire insurance companies
+- Section 33-1-4 - Use of existing forms and filings
+- Section 33-1-5 - Provisions of title relating to particular matters to prevail over general provisions
+- Section 33-1-6 - Requirements for action as insurer generally
+- Section 33-1-7 - Issuance or delivery of policy in violation of title
+- Section 33-1-8 - Making of false statements; reporting of such statements
+- Section 33-1-9 - Insurance fraud; venue; penalty; exemption
+- Section 33-1-9.1 - Crimes of staging a collision or filing a fraudulent claim; penalty
+- Section 33-1-10 - Limitations upon right to choose funeral services for insured
+- Section 33-1-11 - Entry into contracts by life insurers with funeral directors or undertakers for conduct of funerals of persons insured
+- Section 33-1-12 - Entry into contracts by life insurers for provision of funeral merchandise or services to persons insured
+- Section 33-1-13 - Receiving of compensation from undertakers on account of employment; giving of compensation by undertakers
+- Section 33-1-14 - Regulation of certain persons providing coverage for medical or dental services
+- Section 33-1-15 - Affidavit that insured's motor vehicle stolen
+- Section 33-1-16 - Investigation of fraudulent insurance act; collection of evidence; immunity from liability; public inspection; enforcement
+- Section 33-1-16.1 - Excessive, fraudulent, or high-tech drug testing of certain individuals as fraudulent insurance act
+- Section 33-1-17 - Special Insurance Fraud Fund
+- Section 33-1-18 - Housing tax credit for qualified projects; rules and regulations
+- Section 33-1-19 - [Reserved] Special Advisory Commission on Mandated Health Insurance Benefits
+- Section 33-1-20 - Health care sharing ministry
+- Section 33-1-21 - Certain subscription agreements for prepaid air ambulance service not contract of insurance; definitions
+- Section 33-1-22 - English language version of policy controls
+- Section 33-1-23 - Establishment of exchange
+- Section 33-1-24 - Insurance requirements for transportation network companies and their drivers
+- Section 33-1-25 - Georgia Agribusiness and Rural Jobs Act
+- Section 33-1-26 - Governor's request for waiver from federal Patient Protection and Affordable Care Act; expiration of authority
+- Section 33-1-27 - Insurance coverage for mental health and substance abuse disorders; compliance with mental health parity requirements; complaints and violations; appointment of mental health parity officer

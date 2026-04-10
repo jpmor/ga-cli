@@ -1,0 +1,27 @@
+# Chapter 14 - COURT REPORTERS (§§ 15-14-1 — 15-14-37)
+
+- Section 15-14-1 - Power of superior court judges to appoint and remove; oath; duties
+- Section 15-14-2 - Power of city court judges to appoint; compensation
+- Section 15-14-3 - Power of division judges to appoint and remove; oath; duties
+- Section 15-14-4 - Additional court reporters; typists; equipment
+- Section 15-14-5 - Duty to transcribe; certificate
+- Section 15-14-6 - Contingent expense and travel allowance; notification of appointments and removals
+- Section 15-14-7 - Destruction of notes; how authorized; petition; grounds; notice; order
+- Section 15-14-20 - Short title
+- Section 15-14-21 - Purpose
+- Section 15-14-22 - Definitions
+- Section 15-14-23 - Judicial Council of Georgia as agency of judiciary for purposes of article
+- Section 15-14-24 - Board of Court Reporting of Judicial Council; creation; composition; term; vacancies; removal
+- Section 15-14-25 - Oath of office; filing; certificate of appointment
+- Section 15-14-26 - Chairperson; election; term; rules and regulations
+- Section 15-14-27 - Administrative work as duty of Administrative Office of the Courts; director to serve as secretary of board
+- Section 15-14-28 - Certificate required
+- Section 15-14-29 - Qualifications for certification; individuals with disabilities
+- Section 15-14-30 - Application for testing; fee; time of examinations; conduct and grading
+- Section 15-14-31 - Renewal of certificate; fee; automatic revocation of suspended certificate
+- Section 15-14-32 - Use of title or abbreviation
+- Section 15-14-33 - Refusing or revoking certificate or temporary permit or discipline of person; disciplinary actions; appeal; reinstatement; immunity for reporting; voluntary surrender or failure to renew; regulation
+- Section 15-14-34 - Temporary permits
+- Section 15-14-35 - Injunction against violations; remedy cumulative
+- Section 15-14-36 - Penalties for violations
+- Section 15-14-37 - Prohibition against certain contracts for court reporting services; applicability; registration; rules and regulations; fines

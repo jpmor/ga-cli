@@ -1,0 +1,22 @@
+# Chapter 2B - PROMISE SCHOLARSHIP ACCOUNTS (§§ 20-2B-1 — 20-2B-31)
+
+- Section 20-2B-1 - Definitions
+- Section 20-2B-2 - Authority created
+- Section 20-2B-3 - Creation of board of directors; organization; conduct
+- Section 20-2B-4 - Officers and duties
+- Section 20-2B-5 - Powers of the authority
+- Section 20-2B-6 - Accounts
+- Section 20-2B-7 - Conflicts of interest; disclosure
+- Section 20-2B-8 - Assignment to Georgia Student Finance Commission
+- Section 20-2B-20 - [See Note] Short title
+- Section 20-2B-21 - [See Note] Definitions
+- Section 20-2B-22 - [See Note] Participating student qualifications; continued eligibility of participating students to receive funds subject to conditions; requirements for parents of participating students; forfeiture of account funds
+- Section 20-2B-23 - [See Note] Requirements for participating schools; responsibilities of education savings authority; prohibited requirements; agency not established
+- Section 20-2B-24 - [See Note] Funding; use of funds
+- Section 20-2B-25 - [See Note] Parent review committee
+- Section 20-2B-26 - [See Note] Education savings authority; powers and duties; rules and regulations; limitation of liability
+- Section 20-2B-27 - [See Note] Student achievement; tests and assessments; graduation rates
+- Section 20-2B-28 - [See Note] Annual reports; audits
+- Section 20-2B-29 - [See Note] Publication of public school performance
+- Section 20-2B-30 - [See Note] Limited application to students in a home study program
+- Section 20-2B-31 - [See Note] Construction with other statutes

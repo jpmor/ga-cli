@@ -1,0 +1,194 @@
+# Chapter 7 - REGULATION AND CONSTRUCTION OF HOSPITALS AND OTHER HEALTH CARE FACILITIES (§§ 31-7-1 — 31-7-435)
+
+- Section 31-7-1 - Definitions
+- Section 31-7-2 - Classification of institutions
+- Section 31-7-2.1 - Rules and regulations; availability of reports of cited deficiencies; disclosure of survey worksheets and documents
+- Section 31-7-2.2 - Determination that patients or residents in an institution, community living arrangement, or treatment program are in danger; relocation of patients or residents; suspension of admissions
+- Section 31-7-3 - Requirements for permits to operate institutions
+- Section 31-7-3.1 - Posting sign by hospital operating emergency room notifying individuals of legal rights in emergencies
+- Section 31-7-3.2 - Notice of cited deficiency and imposition of sanction
+- Section 31-7-3.3 - &quot;Excluded party&quot; defined; liability; notice; dismissal; other procedural factors
+- Section 31-7-3.4 - Carrying of liability insurance or establishment of self-insurance trust as condition precedent to obtaining or maintaining permit
+- Section 31-7-3.5 - Treatment of minors for gender dysphoria; penalty for violations
+- Section 31-7-4 - Denial or revocation of permits
+- Section 31-7-5 - Exemptions from permit requirements; application of this chapter to federally operated institutions
+- Section 31-7-6 - Provision of data for research purposes by organizations rendering patient care; liability of providers of data; use of data; confidentiality
+- Section 31-7-7 - Refusal or revocation by public hospital of staff privileges
+- Section 31-7-7.1 - Denial of staff privileges based upon license, board certification, or membership in professional association
+- Section 31-7-8 - Reports of disciplinary actions against persons authorized to practice professions under Chapter 11, 34, or 35 of Title 43
+- Section 31-7-9 - Reports by physicians and other personnel of nonaccidental injuries to patients; immunity from liability
+- Section 31-7-10 - Certification and approval of hospitals eligible to render service under a group nonprofit hospital insurance plan; supervision of such hospitals; withdrawal of approval
+- Section 31-7-11 - Written summary of hospital service charge rates
+- Section 31-7-12 - Personal care homes; licensure and registration; inspection by local boards; fees; investigations; waiver, variance, or exemption; staffing, training, and financial stability requirements; certified medication aides
+- Section 31-7-12.1 - Unlicensed personal care home; civil penalties; negligence per se for certain legal claims; declared nuisance dangerous to public health, safety, and welfare; criminal sanctions
+- Section 31-7-12.2 - Regulation and licensing of assisted living communities; legislative intent; definitions; procedures; requirements for medication aides
+- Section 31-7-12.3 - Adoption of rules and regulations to implement Code Sections 31-7-12 and 31-7-12.2
+- Section 31-7-12.4 - Operation of memory care center; certificate required; staffing and training requirements; other requirements; regulation
+- Section 31-7-12.5 - Notification and other requirements for COVID-19 infections in personal care homes
+- Section 31-7-12.6 - SARS CoV-2 testing for residents and staff in long-term care facilities
+- Section 31-7-12.7 - Employment of certified medication aides in nursing homes; competency review; authorized task; review by pharmacists; ongoing medication training; administration of narcotics prohibited
+- Section 31-7-12.8 - Certification as nurse aide; employer sponsored training and competency examination programs; provisional practice by military medical personnel
+- Section 31-7-13 - Transfer of property upon death of patient
+- Section 31-7-14 - Blood supplies; blood donor storage programs
+- Section 31-7-15 - Review of professional practices by a peer review committee
+- Section 31-7-16 - Determination or pronouncement of death of patient who died in facility classified as nursing home
+- Section 31-7-17 - Licensure and regulation of hospitals and related institutions transferred to Department of Community Health
+- Section 31-7-18 - Vaccinations for influenza and pneumococcal disease for certain discharged patients; vaccinations or other measures for health care workers and other employees in hospitals; immunity from liability; standing orders
+- Section 31-7-19 - Nursing homes to annually offer influenza vaccinations to health care workers and other employees; immunity from liability
+- Section 31-7-20 - Medical facilities to make good faith application to southern regional TRICARE managed care support coordinator for certification in the TRICARE program
+- Section 31-7-21 - Provision of influenza education information to assisted living community residents
+- Section 31-7-22 - Required publication by hospital of certain documentation on website; updating; penalty for noncompliance; enforcement; individual criminal penalty
+- Section 31-7-23 - Surgical smoke
+- Section 31-7-23.1 - Drop off of homeless patients by hospitals
+- Section 31-7-24 - through 31-7-40 - Reserved
+- Section 31-7-50 - Authorization of grants-in-aid
+- Section 31-7-51 - Definitions
+- Section 31-7-52 - Amounts of grants for construction and modernization
+- Section 31-7-53 - Matching formula; priority system; use of earnings; approval of federal grant
+- Section 31-7-54 - Manner of expenditure of construction funds
+- Section 31-7-55 - Administration of state funds
+- Section 31-7-56 - Adherence to federal law and regulations
+- Section 31-7-57 - Procedure for grants to sponsors of construction projects; injunction of operation by transferee in violation of article
+- Section 31-7-70 - Short title
+- Section 31-7-71 - Definitions
+- Section 31-7-72 - Creation of hospital authority in each county and municipality
+- Section 31-7-72.1 - Merger of hospital authorities
+- Section 31-7-73 - Creation of additional hospital authority in counties with large populations
+- Section 31-7-74 - Residency requirement; officers; compensation; rules and regulations
+- Section 31-7-74.1 - Definitions; disclosures required; prohibited transactions; exceptions; sanctioning; sanctioning of members violating prohibition; authorization of authority to make stricter rules; preemption of other laws; applicability
+- Section 31-7-74.2 - Oath to be taken by members of hospital authority
+- Section 31-7-74.3 - Sale or lease by hospital authority; hearing required; factors to be considered at hearing; applicability; requirements for lease
+- Section 31-7-74.4 - Board members deemed directors upon sale or lease of hospital
+- Section 31-7-75 - Functions and powers
+- Section 31-7-75.1 - Proceeds of sale of hospital held in trust to fund indigent health care
+- Section 31-7-75.2 - Exemption from disclosure for potentially commercially valuable plan, proposal, or strategy
+- Section 31-7-75.3 - [Repealed] Home health agency services operated by hospitals
+- Section 31-7-76 - Procedure in event of failure of authority to perform minimum functions; determination of removal from office; appointments to fill vacancies created by removal
+- Section 31-7-77 - Prohibition on for-profit projects; rates and charges; utilization of revenues to pay certain obligations
+- Section 31-7-78 - Issuance and sale of negotiable revenue anticipation certificates
+- Section 31-7-79 - Liability on revenue certificates; tax exemption
+- Section 31-7-80 - Form and contents of revenue certificates; validity of signatures thereon
+- Section 31-7-81 - Confirmation and validation of revenue certificates
+- Section 31-7-82 - Enforcement of rights of revenue certificate holders; procedure in event of default
+- Section 31-7-83 - Investment of surplus moneys and moneys received through issuance of revenue certificates
+- Section 31-7-84 - Payment for authority's services and facilities; levy of tax by political subdivisions; compliance by authority with county budgetary procedures
+- Section 31-7-85 - Contracts with political subdivisions
+- Section 31-7-86 - Manner of operating property conveyed or leased to authority
+- Section 31-7-87 - Hypothecation or mortgaging of purchased hospital facilities
+- Section 31-7-88 - Payment of general obligations
+- Section 31-7-89 - Procedure for dissolution; disposition of property
+- Section 31-7-89.1 - &quot;Control&quot; defined; sale or lease by hospital authority subject to requirements of Article 15 of this chapter
+- Section 31-7-90 - Annual report; budget
+- Section 31-7-90.1 - Community benefit report; report disclosing member ownership in entities transacting business with authority
+- Section 31-7-91 - Required annual audit
+- Section 31-7-92 - Filing of audits
+- Section 31-7-93 - Failure to provide for audit
+- Section 31-7-94 - Grants to hospital authorities and rural hospital organizations
+- Section 31-7-94.1 - Rural Hospital Organization Assistance Act; legislative findings; certification of rural hospitals for grant eligibility; rules and regulations
+- Section 31-7-95 - Funding of medical education provided by hospital authorities and designated teaching hospitals
+- Section 31-7-96 - Construction of article
+- Section 31-7-110 - Short title
+- Section 31-7-111 - Findings; declaration of policy
+- Section 31-7-112 - Definitions
+- Section 31-7-113 - Creation of Residential Care Facilities for the Elderly Authority in each county and municipality; board of directors
+- Section 31-7-114 - Powers of authorities
+- Section 31-7-115 - Lease or sale of projects
+- Section 31-7-116 - Provisions contained in obligations and security for obligations; procedures for issuance of bonds and bond anticipation notes; interest rates; limitations and conditions
+- Section 31-7-117 - Liability for bonds or other obligations
+- Section 31-7-118 - Exemption from taxation
+- Section 31-7-119 - Holding moneys as trust funds; pledges for payment of bonds
+- Section 31-7-120 - Construction of article
+- Section 31-7-130 - Legislative intent
+- Section 31-7-131 - Definitions
+- Section 31-7-132 - Immunity from liability for peer review activities; immunity from liability of persons providing information
+- Section 31-7-133 - Confidentiality of review organization's records
+- Section 31-7-140 - &quot;Medical review committee&quot; defined
+- Section 31-7-141 - Committee members immune from liability
+- Section 31-7-142 - Liability of those providing health care facilities or services
+- Section 31-7-143 - Committee proceedings and records immune from discovery or use as evidence in civil actions
+- Section 31-7-150 - Definitions
+- Section 31-7-151 - License required; license may not be transferred but may be suspended or revoked
+- Section 31-7-152 - Application for license
+- Section 31-7-153 - Standards for patient care and agency operation; regulations as to issuance, denial, suspension, or revocation of licenses; hearings
+- Section 31-7-154 - Inspections
+- Section 31-7-155 - Certificates of need for new service or extending service area; exemption from certificate
+- Section 31-7-156 - Fee system for services under this article
+- Section 31-7-157 - Exemptions from article
+- Section 31-7-158 - Penalties for unlicensed operation
+- Section 31-7-159 - Licensure and regulation of home health agencies transferred to Department of Community Health
+- Section 31-7-160 - Definitions
+- Section 31-7-161 - Appointment to staff of medical facility or institution
+- Section 31-7-162 - Training and experience requirements
+- Section 31-7-163 - Status of present psychologist staff members
+- Section 31-7-164 - Limitation or revocation of staff privileges
+- Section 31-7-165 - Report of denial of staff privileges
+- Section 31-7-170 - Short title
+- Section 31-7-171 - Legislative findings and purpose
+- Section 31-7-172 - Definitions
+- Section 31-7-173 - License required
+- Section 31-7-174 - Application for license
+- Section 31-7-175 - Administration of article
+- Section 31-7-176 - Responsibilities of provider of hospice care
+- Section 31-7-176.1 - Determination or pronouncement of death
+- Section 31-7-177 - Inpatient beds
+- Section 31-7-178 - Inspection
+- Section 31-7-179 - Certificate of need not required
+- Section 31-7-190 - Legislative intent
+- Section 31-7-191 - Definitions
+- Section 31-7-192 - Georgia Palliative Care and Quality of Life Advisory Council
+- Section 31-7-193 - Palliative Care Consumer and Professional Information and Education Program
+- Section 31-7-250 - through 31-7-265 - Reserved
+- Section 31-7-280 - Health care provider annual reports; form
+- Section 31-7-281 - Data system established; departmental authority
+- Section 31-7-282 - Collection and submission of data
+- Section 31-7-283 - Compilation and dissemination of information; rules and regulations
+- Section 31-7-284 - Public disclosure; updating of data base; publication; fees
+- Section 31-7-285 - Confidentiality; liability
+- Section 31-7-300 - Definitions
+- Section 31-7-301 - License requirement; license not assignable or transferable
+- Section 31-7-302 - Rules and regulations; authority of department to issue, suspend, or revoke licenses
+- Section 31-7-303 - Inspections; requirements for exemption
+- Section 31-7-304 - Fees
+- Section 31-7-305 - Exempt services
+- Section 31-7-306 - Applications received prior to effective date of article
+- Section 31-7-307 - Certificate of need not required of licensees; operation of licensee as home health agency not authorized
+- Section 31-7-308 - Licensure and regulation of private home care providers transferred to Department of Community Health
+- Section 31-7-350 - Short title; purpose
+- Section 31-7-351 - Definitions
+- Section 31-7-352 - Registry check required; validation of licensing
+- Section 31-7-353 - Records check application; transmittal of fingerprints; penalties for unauthorized release or disclosure of information
+- Section 31-7-354 - Consent to background checks; certain results of background check barring employment; rights of owner, applicant, or employee
+- Section 31-7-355 - Personnel files; when department may require background check; result of unsatisfactory determination
+- Section 31-7-356 - Facility's failure to comply with provisions; penalty
+- Section 31-7-357 - Required notice on application form
+- Section 31-7-358 - License revocation or withholding; additional requirements
+- Section 31-7-359 - Liability for civil damages; sovereign immunity not waived
+- Section 31-7-360 - Rules and regulations
+- Section 31-7-361 - Transfer of responsibilities, rights, and personnel between departments
+- Section 31-7-380 - Purpose and intent
+- Section 31-7-381 - Definitions
+- Section 31-7-382 - Establishment of central caregiver registry
+- Section 31-7-383 - Private employer's inquiry with department on eligibility of employee; employer responsible for decisions
+- Section 31-7-384 - Appeal of ineligibility determination
+- Section 31-7-385 - Immunity from liability
+- Section 31-7-386 - Rules and regulations
+- Section 31-7-400 - Definitions
+- Section 31-7-401 - Notice to Attorney General of acquisition
+- Section 31-7-402 - Content and form of notice to Attorney General; retention of experts; payment of costs and expenses
+- Section 31-7-403 - Certification of interest in acquiring entity; certification of financial interest in business associated with party to disposition; statement of fair dealing; opposing board members exempt
+- Section 31-7-404 - Publication of notice
+- Section 31-7-405 - Public hearing; expert or consultant required to testify; testimony; representative of acquiring entity to testify
+- Section 31-7-406 - Purpose of public hearing; factors to be addressed in disclosure
+- Section 31-7-407 - Attorney General to ensure compliance with article; other persons not precluded from instituting judicial proceedings
+- Section 31-7-407.1 - Report of findings
+- Section 31-7-408 - Notice required prior to issuance or renewal of permit to operate hospital; permit subject to revocation or suspension for failure to comply
+- Section 31-7-409 - Prospective operation of article
+- Section 31-7-410 - Authority of Attorney General unaffected
+- Section 31-7-411 - Attorney General's power under article same as under Code Section 45-15-17
+- Section 31-7-412 - Disposition or acquisition made in violation of requirements of article null and void; violators subject to fine; Attorney General to instigate proceedings to impose fine within one year
+- Section 31-7-430 - Definitions
+- Section 31-7-431 - Rights; obligations; suspension or termination
+- Section 31-7-432 - Limitations or restrictions
+- Section 31-7-433 - Waiver of rights; compliance
+- Section 31-7-434 - Informational materials; public accessibility
+- Section 31-7-435 - Limitation of liability

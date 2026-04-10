@@ -1,0 +1,21 @@
+# Chapter 3 - ELEMENTS AND FORMATION GENERALLY (§§ 13-3-1 — 13-3-47)
+
+- Section 13-3-1 - Essentials of contracts generally
+- Section 13-3-2 - Contract incomplete without assent of parties to terms thereof; withdrawal of bid or proposition by party
+- Section 13-3-3 - When written acceptance of offer made by letter takes effect; acceptance of offer containing alternative propositions
+- Section 13-3-4 - Effect of conditions precedent or subsequent upon rights of parties under contracts
+- Section 13-3-5 - Effect of impossible, immoral, and illegal conditions
+- Section 13-3-20 - Minors - Contracts for property or valuable consideration; contracts for necessaries
+- Section 13-3-21 - Minors - Contracts relating to practice of profession, trade, or business
+- Section 13-3-22 - Minors - Marriage contracts and settlements
+- Section 13-3-23 - Minors - Contracts, promissory notes, written obligation, or other evidence, for loans from trust funds for educational purposes
+- Section 13-3-24 - Insane, mentally ill, intellectually disabled, or mentally incompetent persons
+- Section 13-3-25 - Intoxicated persons
+- Section 13-3-40 - Necessity for consideration; presumption of consideration
+- Section 13-3-41 - Types of consideration
+- Section 13-3-42 - Acts which constitute consideration; effect of consideration given or received by persons other than promisor or promisee
+- Section 13-3-43 - Effect of satisfying requirement of consideration
+- Section 13-3-44 - Effect of promise which is reasonably expected to induce action or forbearance by promisee or third person; requirement as to proof of reliance in cases of charitable subscriptions or marriage settlements
+- Section 13-3-45 - Effect of partially valid consideration; effect of illegal consideration
+- Section 13-3-46 - Effect of inadequacy of consideration
+- Section 13-3-47 - Effect of impossible and possible but improbable consideration

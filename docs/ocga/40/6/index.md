@@ -1,0 +1,220 @@
+# Chapter 6 - UNIFORM RULES OF THE ROAD (§§ 40-6-1 — 40-6-397)
+
+- Section 40-6-1 - Violations of chapter a misdemeanor unless otherwise stated; maximum fines for speed limit violations
+- Section 40-6-2 - Obedience to authorized persons directing traffic
+- Section 40-6-3 - Chapter refers to operation of vehicles on highways; exceptions; vehicle accident reports and private property
+- Section 40-6-4 - Persons riding animals or driving animal drawn vehicles
+- Section 40-6-5 - Persons working on highways
+- Section 40-6-6 - Authorized emergency vehicles; pursuit of fleeing suspects
+- Section 40-6-7 - Operation of motor vehicles in parades
+- Section 40-6-8 - Rights of owners of real property
+- Section 40-6-9 - Challenges to speed limits and other traffic regulations established or enforced by local governing authorities
+- Section 40-6-10 - Insurance requirements for operation of motor vehicles generally
+- Section 40-6-10.1 - Financial responsibility requirements of the Federal Motor Carrier Safety Administration
+- Section 40-6-11 - Insurance requirements for operation of motorcycles
+- Section 40-6-12 - Subsequent violation; proof of financial responsibility
+- Section 40-6-13 - Courts having jurisdiction to try offenses
+- Section 40-6-14 - Sound volume limitations from within the motor vehicle
+- Section 40-6-15 - Knowingly driving motor vehicle on suspended, canceled, or revoked registration
+- Section 40-6-16 - Procedure for passing certain stationary vehicles
+- Section 40-6-16.1 - Procedure for passing vehicle with active sanitation workers
+- Section 40-6-17 - Prohibited use of traffic-control device preemption emitter; penalty
+- Section 40-6-20 - Obedience to traffic-control devices required; presumptions; red light cameras
+- Section 40-6-21 - Meaning of traffic signals
+- Section 40-6-22 - Pedestrian-control signals
+- Section 40-6-23 - Flashing circular red or yellow signals
+- Section 40-6-24 - Lane direction control signals
+- Section 40-6-25 - Display of unauthorized signs, signals, or markings
+- Section 40-6-26 - Interference with official traffic-control devices or certain signs; travel on closed highway prohibited
+- Section 40-6-27 - Installation of blue retroreflective raised pavement markers
+- Section 40-6-28 - Restricted access/managed lanes
+- Section 40-6-40 - Vehicles to drive on right side of roadway; exceptions; impeding traffic
+- Section 40-6-41 - Passing vehicles proceeding in opposite directions
+- Section 40-6-42 - Overtaking and passing generally
+- Section 40-6-43 - When overtaking and passing on the right permitted
+- Section 40-6-44 - Limitations on overtaking and passing on the left
+- Section 40-6-45 - Further limitations on driving on left of center of roadway
+- Section 40-6-46 - No-passing zones
+- Section 40-6-47 - One-way roadways and rotary traffic islands
+- Section 40-6-48 - Driving on roadways laned for traffic
+- Section 40-6-49 - Following too closely
+- Section 40-6-50 - Driving on divided highway, controlled-access roadways, and emergency lanes
+- Section 40-6-51 - Restrictions on type of vehicle that may travel on certain major interstates and highways inside the Interstate 285 perimeter
+- Section 40-6-52 - Prohibited lane usage by trucks using multilane highways
+- Section 40-6-53 - Prohibited lane usage by buses and motorcoaches using multilane highways; HOV lane usage by a bus or motorcoach
+- Section 40-6-53.1 - Designated commercial motor vehicle restricted highways
+- Section 40-6-54 - Designation of travel lanes for exclusive use of certain vehicles; penalty; presumption; establishment of high occupancy toll (HOT)
+- Section 40-6-55 - Obligation of drivers to yield to bicyclist in a bicycle lane
+- Section 40-6-56 - Procedure for passing a bicyclist
+- Section 40-6-70 - Right of way rule for vehicles approaching or entering intersection
+- Section 40-6-71 - Yield when turning left
+- Section 40-6-72 - Stopping and yielding
+- Section 40-6-73 - Entering or crossing roadway
+- Section 40-6-74 - Operation of vehicles on approach of authorized emergency vehicles
+- Section 40-6-75 - Highway construction and maintenance personnel and vehicles
+- Section 40-6-76 - Funeral processions
+- Section 40-6-77 - Penalties for collision which causes serious injury to motorcyclist, pedestrian, bicyclist, or farmer transporting certain items
+- Section 40-6-90 - Pedestrians to obey traffic-control devices and traffic regulations
+- Section 40-6-91 - Right of way in crosswalks
+- Section 40-6-92 - Crossing roadway elsewhere than at crosswalk
+- Section 40-6-93 - Drivers to exercise due care in relation to pedestrians
+- Section 40-6-94 - Right of way of blind pedestrian
+- Section 40-6-95 - Pedestrian under influence of alcohol or drug
+- Section 40-6-96 - Pedestrians on or along roadway
+- Section 40-6-97 - Pedestrians soliciting
+- Section 40-6-97.1 - Solicitation permits for charitable organizations
+- Section 40-6-98 - Driving through safety zone prohibited
+- Section 40-6-99 - Pedestrians to yield to authorized emergency vehicles
+- Section 40-6-120 - Methods of turning at intersections
+- Section 40-6-121 - U-turns
+- Section 40-6-122 - Starting parked vehicle
+- Section 40-6-123 - Turning movements; signals required on turning, changing lanes, slowing, or stopping
+- Section 40-6-124 - Signals by hand and arm or signal lights
+- Section 40-6-125 - Method of giving hand and arm signals
+- Section 40-6-126 - Central lane for turning
+- Section 40-6-140 - Approaching and travel over railroad grade crossing
+- Section 40-6-141 - Erection and observance of stop signs at railroad grade crossings
+- Section 40-6-142 - Certain vehicles to stop at all railroad crossings
+- Section 40-6-143 - Moving heavy equipment at railroad grade crossings
+- Section 40-6-144 - Emerging from alley, driveway, or building; driving upon a sidewalk prohibited
+- Section 40-6-160 - Speed limits when transporting children
+- Section 40-6-161 - Headlights to be lit when transporting children; communication equipment required
+- Section 40-6-162 - Use of visual signals
+- Section 40-6-163 - Duty of driver of vehicle meeting or overtaking school bus; reporting of violations; civil monetary penalty for violations captured by school bus camera
+- Section 40-6-164 - Duty of school bus driver stopping to allow children to disembark
+- Section 40-6-165 - Operation of school buses
+- Section 40-6-180 - Basic rules
+- Section 40-6-181 - Maximum limits
+- Section 40-6-182 - Establishment of state speed zones
+- Section 40-6-183 - Alteration of speed limits by local authorities
+- Section 40-6-184 - Impeding traffic flow; minimum speed limits; slower driving in a passing lane
+- Section 40-6-185 - Speed limits on bridges and other elevated structures
+- Section 40-6-186 - Racing on highways or streets
+- Section 40-6-187 - Charging violations; sentence to specify amount by which speed limit exceeded
+- Section 40-6-188 - Highway work zones; reduction in speed; signage
+- Section 40-6-189 - Classification as super speeder; fees
+- Section 40-6-200 - How vehicles to be parked; powers of Department of Transportation and local authorities
+- Section 40-6-202 - Stopping, standing, or parking outside of business or residential districts
+- Section 40-6-203 - Stopping, standing, or parking prohibited in specified places; stopping or standing for collecting municipal solid waste or recovered materials
+- Section 40-6-204 - Exception as to disabled vehicles
+- Section 40-6-205 - Obstructing intersection
+- Section 40-6-206 - When police officers may remove vehicles; uninsured vehicles
+- Section 40-6-207 - Liability of owner for traffic or parking violations occurring while vehicle leased to another; duty of owner to attend hearing on the offense; improper vehicle maintenance
+- Section 40-6-208 - Parking areas for passengers of rapid rail or public transit buses; violations
+- Section 40-6-220 - Short title
+- Section 40-6-221 - Definitions
+- Section 40-6-222 - [Repealed] Permits
+- Section 40-6-223 - [Repealed] Fees
+- Section 40-6-224 - Out-of-state handicapped or persons with disabilities license plates or permits
+- Section 40-6-225 - Parking places for persons with disabilities for the nonambulatory
+- Section 40-6-226 - Offenses and penalties
+- Section 40-6-227 - Application to both public and private property
+- Section 40-6-228 - Enforcement
+- Section 40-6-240 - Backing
+- Section 40-6-241 - Distracted driving; restrictions on operation of wireless telecommunications devices and stand-alone electronic devices; penalty; exceptions
+- Section 40-6-241.1 - [Repealed] Definitions; prohibition on certain persons operating motor vehicle while engaging in wireless communications; exceptions; penalties
+- Section 40-6-241.2 - [Repealed] Writing, sending, or reading text based communication while operating motor vehicle prohibited; prohibited uses of wireless telecommunications devices by drivers of commercial vehicles; exceptions; penalties for violation
+- Section 40-6-242 - Obstruction of driver's view or interference with control of vehicle
+- Section 40-6-243 - Opening and closing vehicle doors
+- Section 40-6-244 - Riding in house trailer
+- Section 40-6-245 - Driving through canyon or on mountain highway
+- Section 40-6-246 - Coasting
+- Section 40-6-247 - Following fire apparatus or emergency vehicle
+- Section 40-6-248 - Crossing fire hose
+- Section 40-6-248.1 - Securing and covering loads on vehicles
+- Section 40-6-249 - Littering highway
+- Section 40-6-250 - Wearing device which impairs hearing or vision
+- Section 40-6-251 - Driving in circular or zigzag course; &quot;laying drags.&quot;
+- Section 40-6-252 - Parking, standing, or driving vehicle in private parking area after request not to do so
+- Section 40-6-253 - Consumption of alcoholic beverage or possession of open container of alcoholic beverage in passenger area
+- Section 40-6-253.1 - Transportation of medical waste; exception; penalty for violation
+- Section 40-6-254 - Operating vehicle without adequately securing load
+- Section 40-6-255 - Driving away without paying for gasoline
+- Section 40-6-270 - Hit and run; duty of driver to stop at or return to scene of accident
+- Section 40-6-271 - Duty upon striking unattended vehicle
+- Section 40-6-272 - Duty upon striking fixture
+- Section 40-6-273 - Duty to report accident resulting in injury, death, or property damage
+- Section 40-6-273.1 - Instruction to drivers to provide certain information to other parties
+- Section 40-6-274 - Exemption from duty to stop at scene or report accident
+- Section 40-6-275 - Duty to remove vehicle from public roads; removal of incapacitated vehicle from state highway
+- Section 40-6-276 - Duty of driver of wrecker/tow truck
+- Section 40-6-277 - Sheriffs and chief executive officers of law enforcement agencies to report traffic accident deaths
+- Section 40-6-278 - Uniform motor vehicle accident reports and reporting procedures
+- Section 40-6-279 - Accidents involving operation of fully autonomous vehicles
+- Section 40-6-290 - Application of part regarding bicycles
+- Section 40-6-291 - Traffic laws applicable to bicycles; operation upon paved shoulder; signaling of right hand turns
+- Section 40-6-292 - Manner of riding bicycle; passengers
+- Section 40-6-293 - Clinging to vehicles
+- Section 40-6-294 - Riding on roadways and bicycle paths
+- Section 40-6-295 - Carrying articles
+- Section 40-6-296 - Lights and other equipment on bicycles
+- Section 40-6-297 - Violation of part a misdemeanor; duty of parents and guardians
+- Section 40-6-298 - Rules and regulations
+- Section 40-6-299 - [ Redesignated as 40-6-298] Redesignated
+- Section 40-6-300 - Definitions
+- Section 40-6-301 - Rights and duties of electric assisted bicycle operators
+- Section 40-6-302 - Labeling of bicycles; required equipment
+- Section 40-6-303 - Location of operation; age limitations; required safety equipment
+- Section 40-6-305 - Purpose of farm use vehicle
+- Section 40-6-306 - Rights and duties of operator
+- Section 40-6-307 - Local restrictions on public roads and highways
+- Section 40-6-308 - Operation of farm tractors and implements of husbandry upon certain highways; yielding of right of way
+- Section 40-6-310 - Traffic laws applicable to persons operating motorcycles
+- Section 40-6-311 - Manner of riding motorcycle generally
+- Section 40-6-312 - Operating motorcycle on roadway laned for traffic
+- Section 40-6-313 - Clinging to other vehicles
+- Section 40-6-314 - Footrests and handlebars
+- Section 40-6-315 - Headgear and eye-protective devices for riders
+- Section 40-6-316 - Rules and regulations
+- Section 40-6-320 - Operation on highways and sidewalks; direction of travel
+- Section 40-6-321 - Avoiding collisions; yielding the right of way; warning of approach
+- Section 40-6-322 - Speed of travel restricted
+- Section 40-6-323 - Parking
+- Section 40-6-324 - Transportation of hazardous materials; medical oxygen excluded
+- Section 40-6-325 - Required equipment; minimum age for operation; exception to age requirement
+- Section 40-6-326 - Operation while intoxicated
+- Section 40-6-327 - Monitoring of personal delivery devices; general liability coverage
+- Section 40-6-328 - Requirement in the event of an accident
+- Section 40-6-329 - [Renumbered] Penalty for violations; judicial jurisdiction
+- Section 40-6-329.1 - Local ordinances or resolutions; limitations; authority; requirements
+- Section 40-6-329.2 - Operation of personal delivery device within surface transportation project prohibited
+- Section 40-6-330 - Standards for operating personal transportation vehicles
+- Section 40-6-330.1 - Required equipment for personal transportation vehicles; grandfather clause
+- Section 40-6-331 - Designated areas of operation; PTV licensing requirements and operating standards; signage; use by a commercial delivery company
+- Section 40-6-350 - Traffic laws applicable to persons operating mopeds
+- Section 40-6-351 - Driver's license or permit required for certain operators
+- Section 40-6-352 - Protective headgear
+- Section 40-6-353 - Operation over certain roads may be prohibited
+- Section 40-6-354 - Rules and regulations
+- Section 40-6-359 - Required equipment for multipurpose off-highway vehicles
+- Section 40-6-360 - Rights of persons operating low-speed or multipurpose off-highway vehicles
+- Section 40-6-361 - Traffic laws applicable to low-speed or multipurpose off-highway vehicles
+- Section 40-6-362 - Operating low-speed and multipurpose off-highway vehicles on highways
+- Section 40-6-363 - Legislative intent
+- Section 40-6-364 - Definitions
+- Section 40-6-365 - Standards for local authorities to establish personal transportation vehicle transportation plans
+- Section 40-6-366 - Acquisition of property for PTV lanes
+- Section 40-6-367 - Part inapplicable to certain localities with prior ordinances governing PTV use
+- Section 40-6-368 - Requirements for streets or highways on which joint use by regular vehicle traffic and PTVs permitted
+- Section 40-6-369 - Manner in which PTVs may be driven
+- Section 40-6-369.1 - Speed limits on streets authorized for PTV use
+- Section 40-6-370 - Uniform state-wide application of chapter
+- Section 40-6-371 - Powers of local authorities generally
+- Section 40-6-372 - Adoption of chapter by local authorities
+- Section 40-6-373 - Effect of future changes in chapter
+- Section 40-6-374 - Form of adopting ordinance
+- Section 40-6-375 - Citations for violations
+- Section 40-6-376 - Prosecution under this chapter or local ordinance; transfer of charge to state tribunal; double jeopardy
+- Section 40-6-390 - Reckless driving
+- Section 40-6-390.1 - Reckless stunt driving
+- Section 40-6-391 - Driving under the influence of alcohol, drugs, or other intoxicating substances; penalties; publication of notice of conviction for persons convicted for second time; endangering a child
+- Section 40-6-391.1 - Entry and acceptance of plea of nolo contendere
+- Section 40-6-391.2 - Seizure and civil forfeiture of motor vehicle operated by habitual violator
+- Section 40-6-391.3 - Penalty for conviction for driving under influence of alcohol or drugs while driving school bus
+- Section 40-6-392 - Chemical tests for alcohol or drugs
+- Section 40-6-393 - Homicide by vehicle
+- Section 40-6-393.1 - Feticide by vehicle
+- Section 40-6-394 - Serious injury by vehicle
+- Section 40-6-395 - Fleeing or attempting to elude police officer; impersonating law enforcement officer
+- Section 40-6-396 - Homicide by interference with official traffic-control device or railroad sign or signal; serious injury by interference with official traffic-control device or railroad sign or signal
+- Section 40-6-397 - Aggressive driving

@@ -1,0 +1,42 @@
+# Chapter 4 - JAILS (§§ 42-4-1 — 42-4-105)
+
+- Section 42-4-1 - Appointment of county and municipal jailers; arrest powers
+- Section 42-4-2 - Oath and bond of jailers
+- Section 42-4-3 - When coroner to act as keeper of jail
+- Section 42-4-4 - Duties of sheriff as to jail inmates
+- Section 42-4-5 - Cruelty to inmates
+- Section 42-4-6 - Confinement and care of tubercular inmates; crediting of time spent in hospital or institution against sentence
+- Section 42-4-7 - Maintenance of inmate records; earned time allowances
+- Section 42-4-8 - Inquiry into contents of inmate record by grand jury; failure to comply with Code Section 42-4-7
+- Section 42-4-9 - Conditions for receipt of federal prisoners
+- Section 42-4-10 - Receipt of additional federal prisoners after initial acceptance
+- Section 42-4-11 - Transfer procedure upon change of venue
+- Section 42-4-12 - Penalty for refusal by officer to receive persons charged with or guilty of offense
+- Section 42-4-13 - Possession of drugs, weapons, alcohol, or tobacco products by inmates
+- Section 42-4-14 - Identity verification of persons confined in a jail or detention facility
+- Section 42-4-15 - Limitations on medical charges for providing emergency medical care services to individuals in custody
+- Section 42-4-16 - Inmate reports by county jails and municipal detention facilities
+- Section 42-4-30 - Definitions
+- Section 42-4-31 - Required safety and security measures
+- Section 42-4-32 - Sanitation and health requirements
+- Section 42-4-33 - Penalties
+- Section 42-4-50 - Definitions
+- Section 42-4-51 - Information as to inmate's health insurance or eligibility for benefits; access to medical services; liability for payment; inmate's liability for costs of medical care; procedure for recovery against inmate
+- Section 42-4-70 - Definitions
+- Section 42-4-71 - Deduction of costs from inmate's account for destruction of property, medical treatment, and other causes; exception for certain medical costs
+- Section 42-4-90 - Short title
+- Section 42-4-91 - Statement of authority; policy of state
+- Section 42-4-92 - Definitions
+- Section 42-4-93 - Creation of authorities; exemption from Georgia State Financing and Investment Commission Act
+- Section 42-4-94 - Board of directors; members; election of officers; expenses; duties; addition of counties or municipalities to authority
+- Section 42-4-95 - Management committee of county regional jail authority; management and operation of municipal regional jail authority
+- Section 42-4-96 - Quorums; voting requirements
+- Section 42-4-97 - Powers of authority
+- Section 42-4-98 - Duties and responsibilities of sheriffs and governing bodies imposed upon management committee and authority
+- Section 42-4-99 - Limitation on liability of members, officers, or employees
+- Section 42-4-100 - Bonds or other obligations; requirements and procedure for issuance
+- Section 42-4-101 - Bonds or other obligations not indebtedness of state or political subdivision; payment
+- Section 42-4-102 - Construction of article; bonds not subject to regulation under Georgia Uniform Securities Act; power of counties and municipalities to activate authorities
+- Section 42-4-103 - Operation and finance agreement required; withdrawal from authority
+- Section 42-4-104 - Authority of county or municipality to establish and maintain jail or jail-holding facility
+- Section 42-4-105 - Immunity of authorities from liability

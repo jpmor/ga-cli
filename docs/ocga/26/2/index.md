@@ -1,0 +1,210 @@
+# Chapter 2 - STANDARDS, LABELING, AND ADULTERATION OF FOOD (§§ 26-2-1 — 26-2-466)
+
+- Section 26-2-1 - Lard, mixed edible fat, and edible cottonseed oil
+- Section 26-2-2 - Meat, fish, and poultry to be sold by net weight; exceptions; penalty
+- Section 26-2-3 - Obstruction of inspectors and others in performance of duties
+- Section 26-2-4 - Labeling, sale, or advertising of spring water
+- Section 26-2-20 - Short title
+- Section 26-2-21 - Definitions
+- Section 26-2-22 - Prohibited acts
+- Section 26-2-23 - Injunctions for violations of Code Section 26-2-22
+- Section 26-2-24 - Penalty for violation of Code Section 26-2-22; exceptions
+- Section 26-2-25 - Licensing of food sales establishments
+- Section 26-2-26 - When food deemed adulterated
+- Section 26-2-27 - Poisonous or deleterious substances in food; exception for required substances
+- Section 26-2-27.1 - Testing of specimens from food processing centers; consistency in standards; cost; retention of records from testing; exemption
+- Section 26-2-28 - When food deemed misbranded
+- Section 26-2-29 - Misleading advertisements; certain practices declared misleading
+- Section 26-2-30 - Factors to be taken into account in determining whether labels or advertisements are misleading
+- Section 26-2-30.1 - Beef produced without antibiotics or growth hormones; &quot;Georgia lean&quot; beef
+- Section 26-2-32 - Honey and imitation honey labels
+- Section 26-2-33 - Enforcement of article by Commissioner; employment of personnel
+- Section 26-2-34 - Promulgation of regulations; notice and hearing for proposed amendments; variances or waivers
+- Section 26-2-34.1 - Confidential information
+- Section 26-2-35 - Food regulations
+- Section 26-2-36 - Right of access to food establishments and transport vehicles
+- Section 26-2-37 - Temporary permits
+- Section 26-2-38 - Detention or embargo of adulterated or misbranded food
+- Section 26-2-39 - Publication of reports and dissemination of information in the interest of public health and consumer protection
+- Section 26-2-40 - Written notice or warning sufficient for minor violations of article
+- Section 26-2-41 - Prosecution of violations; notice to defendant prior to institution of criminal proceeding
+- Section 26-2-60 - Short title
+- Section 26-2-61 - Legislative intent
+- Section 26-2-62 - Definitions
+- Section 26-2-63 - Federal and state cooperation
+- Section 26-2-64 - Concurrent enforcement jurisdiction
+- Section 26-2-80 - Promulgation of regulations
+- Section 26-2-81 - Powers of Commissioner; reports
+- Section 26-2-82 - Administrative penalties; judicial review
+- Section 26-2-83 - Authority to refuse or withdraw meat inspection service
+- Section 26-2-84 - Detention of carcasses, meat, and meat food products suspected of being adulterated or misbranded; removal of official marks
+- Section 26-2-85 - Seizure and condemnation of carcasses, meat, and meat food products
+- Section 26-2-86 - Injunctions
+- Section 26-2-87 - Written notice or warning sufficient for minor violations
+- Section 26-2-88 - Penalties for fraud or distribution of adulterated articles; penalties for slaughter or distribution of diseased or cancerous animals
+- Section 26-2-100 - Duties of inspectors
+- Section 26-2-100.1 - Examinations and inspections of nontraditional livestock carcasses, meats, and meat food products
+- Section 26-2-101 - Inspections and examinations generally
+- Section 26-2-102 - Inspection of animals prior to slaughter or preparation; slaughtering and examination of diseased animals; refusal or suspension of inspections
+- Section 26-2-103 - Post-mortem inspection and marking of carcasses and parts; disposition of condemned carcasses and parts; reinspection; removal of inspectors
+- Section 26-2-104 - Inspection of carcasses, parts, meat, and meat products brought into or returned to slaughtering or packing establishments; limitations on entry of carcasses, parts, meat, and meat products
+- Section 26-2-105 - Inspection of meat food products where prepared; inspection markings; disposition of condemned meat food products; removal of inspectors
+- Section 26-2-106 - Inspection of meat and meat food products in retail and other food service establishments; disposition of condemned meat; sale or display of noninspected meat or meat food products
+- Section 26-2-107 - Labeling of meat, meat food products, and carcasses; standards and definitions; use of false or misleading labels or containers
+- Section 26-2-108 - Sanitary inspections of slaughter and packing establishments; sanitation regulations; labeling adulterated meat and meat food products
+- Section 26-2-109 - Timing of examination and inspection of slaughtered animals and food products
+- Section 26-2-110 - Slaughter, preparation, sale, or transportation of animals, meat, or meat food products generally
+- Section 26-2-110.1 - Approved methods for handling and slaughtering of animals; designation by Commissioner of methods of handling and slaughtering
+- Section 26-2-111 - Labeling and preparation of carcasses, meat, and meat food products of equines
+- Section 26-2-112 - Inspection exceptions; labeling and handling of custom slaughtered and prepared meat or meat food products
+- Section 26-2-113 - Storage and handling regulations for carcasses, meat, and meat food products
+- Section 26-2-114 - Fraudulent practices
+- Section 26-2-115 - Use of &quot;Georgia&quot; in trademark, trade name, service mark, or advertisement
+- Section 26-2-116 - Applicability of part to federally inspected slaughtering and packing establishments
+- Section 26-2-130 - Buying, selling, transporting, or receiving of dead, dying, disabled, or diseased animals
+- Section 26-2-131 - Registration of dealers in dead, dying, diseased, or disabled animals
+- Section 26-2-132 - Maintenance and inspection of records
+- Section 26-2-133 - Identification of carcasses, meat, or meat food products not intended for human use
+- Section 26-2-150 - Legislative intent
+- Section 26-2-151 - Promulgation of rules and regulations regarding deceptive advertising of meat
+- Section 26-2-152 - Advertisement or sale of beef, pork, and lamb; &quot;bait and switch&quot; advertising
+- Section 26-2-153 - Sale of partial or whole carcasses
+- Section 26-2-154 - Penalty for violation of Code Sections 26-2-150 through 26-2-153
+- Section 26-2-155 - Food service establishment display of information if serving imported beef
+- Section 26-2-156 - Slaughter of horses for human consumption or other purposes
+- Section 26-2-157 - Signage and label required for sale of horse meat
+- Section 26-2-158 - Disclosure required for sale of horse meat
+- Section 26-2-159 - Promulgation of regulations
+- Section 26-2-160 - Sale of dog meat restricted; packaging and label requirements
+- Section 26-2-161 - Penalty for violations of Code Section 26-2-157, 26-2-158, 26-2-159, or 26-2-160
+- Section 26-2-180 - Definitions
+- Section 26-2-181 - Promulgation of rules and regulations
+- Section 26-2-182 - Inspection and quarantine of animals, poultry, or products suspected of contamination
+- Section 26-2-183 - Duration of quarantine or detention of animals, poultry, or products suspected of contamination
+- Section 26-2-184 - Orders for destruction of animals, poultry, or products suspected of contamination; compliance with federal tolerances
+- Section 26-2-185 - Injunctions
+- Section 26-2-186 - Penalty
+- Section 26-2-200 - Definitions
+- Section 26-2-201 - Supervision and control of sanitary conditions in dairies and meat, poultry, and dairy processing plants; designation of inspectors
+- Section 26-2-202 - Promulgation of rules and regulations
+- Section 26-2-203 - Power of inspection
+- Section 26-2-204 - Inspection of dairies and meat, poultry, or dairy processing plants; right to take and test samples
+- Section 26-2-205 - Wholesomeness inspection of meat, poultry, and dairy products offered for sale; inspection of livestock slaughtered; marking system for inspection purposes
+- Section 26-2-206 - Wholesomeness inspection of meat, poultry, or dairy processing plants on cost basis or less
+- Section 26-2-207 - Sanitary condition of dairy equipment and premises; adequate supply and drainage of water
+- Section 26-2-208 - Sale, offer for sale, or possession of dairy, animal, or poultry products under conditions other than sanitary
+- Section 26-2-209 - Permanent license for meat processing plants
+- Section 26-2-210 - Permanent license for poultry processing plants
+- Section 26-2-211 - Statistics on animals and poultry slaughtered; maintenance of records
+- Section 26-2-212 - County and municipal ordinances dealing with meats, poultry, and dairy products
+- Section 26-2-213 - Injunctions
+- Section 26-2-213.1 - Applicability to individuals and entities governed by federal acts
+- Section 26-2-214 - Inspection of federally inspected meat, poultry, or dairy products; exception for horse slaughter operations
+- Section 26-2-215 - Penalty
+- Section 26-2-230 - Short title
+- Section 26-2-231 - Definitions
+- Section 26-2-232 - Duties of Commissioner generally
+- Section 26-2-233 - Promulgation and amendment of rules and regulations by Commissioner
+- Section 26-2-234 - Licensure procedure
+- Section 26-2-235 - Cream tester license
+- Section 26-2-238 - Standards and requirements generally
+- Section 26-2-239 - Standards and requirements for frozen desserts generally
+- Section 26-2-240 - Adulterated ice cream
+- Section 26-2-241 - Testing of milk, cream, or other dairy products
+- Section 26-2-242 - Standards and requirements for sale of milk and milk products
+- Section 26-2-243 - Intermingling of Grade A milk or milk products with other grades
+- Section 26-2-244 - Standards and conditions for importation of milk and milk products
+- Section 26-2-245 - Condemnation and coloring of milk and milk products produced, processed, or delivered in violation of laws of state
+- Section 26-2-246 - Furnishing of records by persons operating under article
+- Section 26-2-247 - Enforcement of article generally
+- Section 26-2-248 - Injunctions
+- Section 26-2-249 - Unlawful acts
+- Section 26-2-250 - Penalty
+- Section 26-2-260 - Definitions
+- Section 26-2-261 - Classification of eggs
+- Section 26-2-262 - Registration of entities dealing in eggs
+- Section 26-2-263 - Egg wholesaler and handler licenses
+- Section 26-2-264 - Sales by entities dealing in eggs; exemption of producers from taxation and licensing
+- Section 26-2-265 - Dealer's invoices of sales to be furnished to Department of Agriculture on request; exception for sales to consumers
+- Section 26-2-266 - Inspectors and assistants; confiscation and destruction of eggs found unfit for human consumption
+- Section 26-2-267 - Promulgation of rules, regulations, grades, and standards; powers of inspectors
+- Section 26-2-268 - Information labels affixed to cases of eggs
+- Section 26-2-269 - Placard to be displayed; contents
+- Section 26-2-270 - Reciprocal marketing agreement to vary labeling requirements
+- Section 26-2-271 - &quot;Withhold From Sale Orders&quot;; cost of inspection and release
+- Section 26-2-272 - Egg candler and grader licenses
+- Section 26-2-273 - Refrigeration and other handling requirements
+- Section 26-2-274 - Penalty; duty of prosecuting attorneys to prosecute violations
+- Section 26-2-290 - Definitions
+- Section 26-2-291 - Vitamins and ingredients in flour; specification changes; milling process
+- Section 26-2-292 - Vitamins and ingredients in bread; specification changes
+- Section 26-2-293 - Vitamins and ingredients in degerminated corn meal and degerminated hominy grits; specification changes; milling process
+- Section 26-2-294 - Exemptions
+- Section 26-2-295 - Labeling requirements
+- Section 26-2-296 - Duties of Commissioner of Agriculture
+- Section 26-2-297 - Penalty
+- Section 26-2-310 - Definitions
+- Section 26-2-311 - Administration by Commissioner of Agriculture
+- Section 26-2-312 - Wholesale fish dealers' licenses
+- Section 26-2-313 - Applications for wholesale fish dealers' licenses
+- Section 26-2-314 - License revocation
+- Section 26-2-315 - Promulgation of rules and regulations regarding sanitation, distribution, and transportation of fish and seafoods
+- Section 26-2-316 - Suitable equipment and sanitation for wholesale fish dealers
+- Section 26-2-317 - Equipment for traveling fish dealers
+- Section 26-2-318 - Inspection of fish and seafoods
+- Section 26-2-319 - [Reserved] Allocation of license fees
+- Section 26-2-320 - Penalty
+- Section 26-2-330 - through 26-2-335 - Reserved
+- Section 26-2-350 - Definitions
+- Section 26-2-351 - License for manufacture and bottling; separate license for each business or bottling or manufacturing plant
+- Section 26-2-352 - Sanitary standards and specifications for the manufacture, bottling, and distribution of soft drinks or soft drink syrup
+- Section 26-2-353 - Promulgation of rules and regulations; administrative personnel
+- Section 26-2-354 - Suspension or revocation of license; hearing
+- Section 26-2-355 - Sanitary inspection of building, area, structure, plant, or vehicle used in the manufacture, bottling, or distribution of soft drinks or soft drink syrup
+- Section 26-2-356 - Applicability of article to dairy or milk processing or distributing plants otherwise licensed
+- Section 26-2-357 - Penalty
+- Section 26-2-370 - [See Editor's notes] Definitions
+- Section 26-2-371 - Food service establishment and mobile food service establishment permits
+- Section 26-2-372 - Permits - Issuance; suspension, revocation, or denial; notice and hearing
+- Section 26-2-373 - Promulgation of rules, regulations, and standards by Department of Public Health and county boards of health; exemption for nonprofit schools and institutions producing own milk
+- Section 26-2-373.1 - Use of hair nets or hats by food preparers; penalty
+- Section 26-2-374 - Contents and posting of notices relating to assistance to persons choking; relief from civil liability of persons rendering emergency aid
+- Section 26-2-375 - Enforcement of article; inspection of food service and food sales establishments
+- Section 26-2-376 - Review of final order or determination by Department of Public Health; appeal to superior court
+- Section 26-2-377 - Penalty
+- Section 26-2-378 - Disclosure of meat products that contain extenders; exception
+- Section 26-2-379 - Mobile food service establishment permits; inspections; fees
+- Section 26-2-390 - Definitions
+- Section 26-2-391 - Permits for nonprofit food sales and food service at events; duration of permit; issuance of subsequent permits
+- Section 26-2-392 - Food safety standards for food sales and food service at events by nonprofit organizations
+- Section 26-2-393 - Enforcement of article
+- Section 26-2-410 - Definitions
+- Section 26-2-411 - Licensing and inspection of mobile vehicles
+- Section 26-2-412 - Rules and regulations
+- Section 26-2-413 - Penalty
+- Section 26-2-430 - Short title
+- Section 26-2-431 - Definitions
+- Section 26-2-432 - Exemption from liability of food distributors for long-term consumption of food
+- Section 26-2-433 - Exception to nonliability of food distributors
+- Section 26-2-434 - Requirements of complaint
+- Section 26-2-435 - Discovery
+- Section 26-2-436 - Applicability
+- Section 26-2-440 - Definitions
+- Section 26-2-441 - Designation of cooperating agency
+- Section 26-2-450 - Definitions
+- Section 26-2-451 - Raw milk for human consumption
+- Section 26-2-452 - Enforcement by Commissioner
+- Section 26-2-453 - Rules and regulations
+- Section 26-2-454 - Permit required
+- Section 26-2-455 - Examination of raw milk by department; adulterated milk
+- Section 26-2-456 - Bottling, packaging, and sealing raw milk; labeling
+- Section 26-2-457 - Sampling and collection; testing and analysis
+- Section 26-2-458 - Chemical, bacteriological, and temperature standards
+- Section 26-2-459 - Sanitation requirements
+- Section 26-2-460 - Health status of animals; testing and records
+- Section 26-2-461 - Reporting of safety concerns; product recall or notifications to consumers
+- Section 26-2-462 - Revocation or cancellation of permit or license
+- Section 26-2-463 - Furnishing of data and statistics and maintenance of records by operators
+- Section 26-2-464 - Enjoining continuing violations
+- Section 26-2-465 - Unlawful activities
+- Section 26-2-466 - Penalty

@@ -1,0 +1,46 @@
+# Chapter 1 - GENERAL PROVISIONS (§§ 37-1-1 — 37-1-125)
+
+- Section 37-1-1 - Definitions
+- Section 37-1-2 - Legislative findings as to mental health, developmental disability, and addictive disease problems and services; role of county governing authorities; purpose of this chapter and Chapter 2 of this title
+- Section 37-1-3 - Board of Behavioral Health and Developmental Disabilities; members; removal
+- Section 37-1-4 - Department of Behavioral Health and Developmental Disabilities; functions, duties; commissioner
+- Section 37-1-5 - Department to succeed to applicable rules and regulations; transfer of rights, responsibilities, duties, personnel, and property
+- Section 37-1-6 - Service of notice of pendency of action by second original process
+- Section 37-1-7 - Funding for new co-responder programs
+- Section 37-1-20 - Obligations of the Department of Behavioral Health and Developmental Disabilities
+- Section 37-1-21 - Institutional powers and duties
+- Section 37-1-22 - Redesignated
+- Section 37-1-23 - Rules of practice and procedure; availability
+- Section 37-1-24 - Use of psychologist or physician in lieu of one another
+- Section 37-1-25 - Purchase of real property authorized
+- Section 37-1-26 - Sale of surplus products
+- Section 37-1-27 - Legislative findings; Suicide Prevention Program; implementation
+- Section 37-1-28 - Conviction data
+- Section 37-1-29 - Crisis stabilization unit defined; certification of units; minimum standards and requirements; designation as an emergency receiving facility; legislative intent
+- Section 37-1-40 - Power of board to provide and promote standards, rules, and regulations
+- Section 37-1-41 - Rules and regulations of Board of Behavioral Health and Developmental Disabilities
+- Section 37-1-50 - [Repealed] [Reserved] Necessity of hearing; powers of hearing examiner, qualification
+- Section 37-1-51 - and 37-1-52 - Reserved
+- Section 37-1-53 - Classification of privileged materials
+- Section 37-1-70 - Definitions
+- Section 37-1-71 - Persons who may obtain inspection warrants; authorization of searches and inspections of property
+- Section 37-1-72 - Issuance; grounds
+- Section 37-1-73 - Contents
+- Section 37-1-74 - Exclusion of evidence obtained
+- Section 37-1-90 - Injunctions for the purpose of enjoining violations of the provisions of this title
+- Section 37-1-100 - Penalty for violations of the provisions of this title
+- Section 37-1-110 - [Repealed effective 6/30/2025] Legislative findings
+- Section 37-1-111 - [Repealed effective 6/30/2025] Commission created; &quot;commission&quot; defined
+- Section 37-1-112 - [Repealed effective 6/30/2025] Members; terms; officers; operational matters
+- Section 37-1-113 - [Repealed effective 6/30/2025] Meetings; prior approval of agenda; quorum; allowances and reimbursements
+- Section 37-1-114 - [Repealed effective 6/30/2025] Duties and powers; use of third parties
+- Section 37-1-114.1 - [Repealed effective 6/30/2025] Authority of commission
+- Section 37-1-115 - [Repealed effective 6/30/2025] Subcommittees
+- Section 37-1-115.1 - [Repealed effective 6/30/2025] Exploration of community supervision strategies for individuals with mental illness
+- Section 37-1-116 - [Repealed effective 6/30/2025] Abolishment and termination
+- Section 37-1-120 - Definitions
+- Section 37-1-121 - Grant program for implementation of assisted outpatient treatment
+- Section 37-1-122 - Funding opportunity announcement; requirements; assistance; announcement of awards
+- Section 37-1-123 - Technical assistance providers
+- Section 37-1-124 - Independent evaluations of the programs; sharing and reporting of information
+- Section 37-1-125 - Rules and regulations

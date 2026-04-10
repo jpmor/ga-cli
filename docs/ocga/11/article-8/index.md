@@ -1,0 +1,56 @@
+# Article 8 - INVESTMENT SECURITIES (§§ 11-8-101 — 11-8-603)
+
+- Section 11-8-101 - Short title
+- Section 11-8-102 - Definitions
+- Section 11-8-103 - Rules for determining whether certain obligations and interests are securities or financial assets
+- Section 11-8-104 - Acquisition of security or financial asset or interest therein
+- Section 11-8-105 - Notice of adverse claim
+- Section 11-8-106 - Control
+- Section 11-8-107 - Whether indorsement, instruction, or entitlement order is effective
+- Section 11-8-108 - Warranties in direct holding
+- Section 11-8-109 - Warranties in indirect holding
+- Section 11-8-110 - Applicability; choice of law
+- Section 11-8-111 - Clearing corporation rules
+- Section 11-8-112 - Creditor's legal process
+- Section 11-8-113 - Statute of frauds inapplicable
+- Section 11-8-114 - Evidentiary rules concerning certificated securities
+- Section 11-8-115 - Securities intermediary and others not liable to adverse claimant
+- Section 11-8-116 - Securities intermediary as purchaser for value
+- Section 11-8-201 - Issuer
+- Section 11-8-202 - Issuer's responsibility and defenses; notice of defect or defense
+- Section 11-8-203 - Staleness as notice of defect or defense
+- Section 11-8-204 - Effect of issuer's restriction on transfer
+- Section 11-8-205 - Effect of unauthorized signature on security certificate
+- Section 11-8-206 - Completion or alteration of security certificate
+- Section 11-8-207 - Rights and duties of issuer with respect to registered owners
+- Section 11-8-208 - Effect of signature of authenticating trustee, registrar, or transfer agent
+- Section 11-8-209 - Issuer's lien
+- Section 11-8-210 - Overissue
+- Section 11-8-301 - Delivery
+- Section 11-8-302 - Rights of purchaser
+- Section 11-8-303 - Protected purchaser
+- Section 11-8-304 - Indorsement
+- Section 11-8-305 - Instruction
+- Section 11-8-306 - Effect of guaranteeing signature, indorsement, or instruction
+- Section 11-8-307 - Purchaser's right to requisites for registration of transfer
+- Section 11-8-401 - Duty of issuer to register transfer
+- Section 11-8-402 - Assurance that indorsement or instruction is effective
+- Section 11-8-403 - Demand that issuer not register transfer
+- Section 11-8-404 - Wrongful registration
+- Section 11-8-405 - Replacement of lost, destroyed, or wrongfully taken security certificate
+- Section 11-8-406 - Obligation to notify issuer of lost, destroyed, or wrongfully taken security certificate
+- Section 11-8-407 - Authenticating trustee, transfer agent, and registrar
+- Section 11-8-501 - Securities account; acquisition of security entitlement from securities intermediary
+- Section 11-8-502 - Assertion of adverse claim against entitlement holder
+- Section 11-8-503 - Property interest of entitlement holder in financial asset held by securities intermediary
+- Section 11-8-504 - Duty of securities intermediary to maintain financial asset
+- Section 11-8-505 - Duty of securities intermediary with respect to payments and distributions
+- Section 11-8-506 - Duty of securities intermediary to exercise rights as directed by entitlement holder
+- Section 11-8-507 - Duty of securities intermediary to comply with entitlement order
+- Section 11-8-508 - Duty of securities intermediary to change entitlement holder's position to other form of security holding
+- Section 11-8-509 - Specification of duties of securities intermediary by other statute or regulation; manner of performance of duties of securities intermediary and exercise of rights of entitlement holder
+- Section 11-8-510 - Rights of purchaser of security entitlement from entitlement holder
+- Section 11-8-511 - Priority among security interests and entitlement holders
+- Section 11-8-601 - Effective date
+- Section 11-8-602 - [Repealed] Repeals
+- Section 11-8-603 - Savings clause

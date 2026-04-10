@@ -1,0 +1,27 @@
+# Chapter 1 - GENERAL PROVISIONS; ACCESS TO EYE CARE (§§ 31-1-1 — 31-1-25)
+
+- Section 31-1-1 - Definitions
+- Section 31-1-2 - Use of flammable materials in eyeglass frames; delivery of completed work by offices, companies, or laboratories; penalty
+- Section 31-1-3 - Detection of hearing impairments in infants; evaluations
+- Section 31-1-3.1 - Reporting disabled newborn persons; referral to treatment and rehabilitative services
+- Section 31-1-3.2 - Hearing screenings for newborns
+- Section 31-1-4 - Penalties for false representation, impersonation
+- Section 31-1-5 - Compensation of employees for damage to wearing apparel caused by patients
+- Section 31-1-6 - Reuse of heart pacemakers
+- Section 31-1-7 - Marking of dentures and other removable dental prostheses for identification
+- Section 31-1-8 - Notice of proposed special facility
+- Section 31-1-9 - Breast-feeding of baby
+- Section 31-1-10 - State health officer; duties
+- Section 31-1-11 - No legal compulsion to participate in health care system; no legal prohibition on purchase or sale of health insurance in private health care systems
+- Section 31-1-12 - Hospitals to provide educational information to parents of newborns regarding pertussis disease and availability of a vaccine
+- Section 31-1-13 - Hemophilia Advisory Board
+- Section 31-1-14 - Physician Orders for Life-Sustaining Treatment (POLST)
+- Section 31-1-15 - Storage, maintenance, control, and oversight of auto-injectable epinephrine by certain authorized entities
+- Section 31-1-16 - Reporting information concerning nurses holding multistate licenses
+- Section 31-1-17 - Notification of dense breast tissue
+- Section 31-1-18 - Individuals with high risk for breast cancer; consumer information
+- Section 31-1-19 - Prohibition on expenditure or use of state resources to advocate for or intend to influence citizens in support of Medicaid expansion under the federal Affordable Care Act
+- Section 31-1-20 - through 31-1-22 - Reserved
+- Section 31-1-23 - Blindness education, screening, and treatment program
+- Section 31-1-24 - Organ transplant protections for individuals with disabilities; civil relief for violations
+- Section 31-1-25 - Required information for potential patient-subjects for cancer clinical trials; reimbursements; federal compliance

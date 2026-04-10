@@ -1,0 +1,43 @@
+# Chapter 3 - ACCOUNTANTS (§§ 43-3-1 — 43-3-37)
+
+- Section 43-3-1 - Short title
+- Section 43-3-2 - Definitions
+- Section 43-3-3 - Georgia State Board of Accountancy; powers and duties; executive director; venue
+- Section 43-3-4 - Membership of board; terms; removal; expense reimbursement
+- Section 43-3-5 - Chairperson and secretary of board; meetings; seal; records of proceedings; appointment of committees and employees
+- Section 43-3-6 - Duties of executive director
+- Section 43-3-7 - Fees authorized
+- Section 43-3-8 - Rules and regulations; notice; hearings
+- Section 43-3-9 - Requirements for certificate of certified public accountant; disclosure of commissions from sale of insurance or financial products
+- Section 43-3-10 - Examinations for certified public accountants
+- Section 43-3-11 - Certificate holder as &quot;certified public accountant&quot; or &quot;public accountant&quot;
+- Section 43-3-12 - Reciprocity for certified public accountants
+- Section 43-3-13 - Individuals holding certified public accountant certificates, live permits, or licenses as of July 1, 2014
+- Section 43-3-14 - Application for certification by nonresidents
+- Section 43-3-15 - Foreign registered accountant
+- Section 43-3-16 - Licensure requirements for firms practicing public accountancy
+- Section 43-3-17 - Renewal of firm license
+- Section 43-3-18 - Issuance of license to practice accountancy; substantial equivalency practice privilege for nonresidents
+- Section 43-3-19 - Continuing professional education requirements
+- Section 43-3-20 - Investigations; admissibility of records; filing of complaint; immunity; hearing
+- Section 43-3-21 - Revocation or refusal to grant or renew license; immunity
+- Section 43-3-22 - Revocation, suspension, or refusal to renew firm license
+- Section 43-3-23 - Adjudicative hearings before board
+- Section 43-3-23.1 - Redesignated
+- Section 43-3-23.2 - and 43-3-23.3 - [Repealed]
+- Section 43-3-24 - Sanctions; probation
+- Section 43-3-24.1 - Cease and desist order
+- Section 43-3-25 - Civil penalty
+- Section 43-3-25.1 - Confidentiality of applicant information
+- Section 43-3-26 - Authority of executive director to provide information regarding past or pending investigation of applicant
+- Section 43-3-27 - Notification of conviction; time limit; suspension
+- Section 43-3-28 - Reinstatement or modification of a revoked or suspended license
+- Section 43-3-29 - Accountants' records and communications; peer review data
+- Section 43-3-29.1 - [Repealed] Sanctions
+- Section 43-3-30 - Injunctions; enforcement
+- Section 43-3-31 - Prohibited use of title or designation; false or deceptive practices
+- Section 43-3-32 - Exceptions to operation of chapter
+- Section 43-3-33 - Expired license of service member
+- Section 43-3-34 - Criminal penalty
+- Section 43-3-36.1 - [Repealed] Exempted licensees
+- Section 43-3-37 - [Repealed] Use of acquired materials in civil action

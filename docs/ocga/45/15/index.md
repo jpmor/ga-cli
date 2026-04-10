@@ -1,0 +1,34 @@
+# Chapter 15 - ATTORNEY GENERAL (§§ 45-15-1 — 45-15-71)
+
+- Section 45-15-1 - Election
+- Section 45-15-2 - Compensation
+- Section 45-15-3 - Duties generally
+- Section 45-15-4 - Attorney General authorized to employ private counsel
+- Section 45-15-5 - Payment for services of private counsel
+- Section 45-15-6 - Representation of state in court of competent jurisdiction
+- Section 45-15-7 - Discretion of comptroller general as to requirement of services of Attorney General or of district attorneys
+- Section 45-15-8 - Performance of legal services for Western &amp; Atlantic Railroad
+- Section 45-15-9 - Representation of state in United States Supreme Court and beyond state limits
+- Section 45-15-10 - Attorney General authorized to prosecute for violations while dealing with or for state; assistance by state court prosecuting officers; commencement of civil forfeiture proceedings; investigation and prosecution of violations of immigration compliance reports
+- Section 45-15-11 - Notification of Attorney General prior to presenting indictment to grand jury charging state officials
+- Section 45-15-12 - Attorney General authorized to prosecute civil recovery actions for violations while dealing with state or officials, employees, or entities thereof
+- Section 45-15-13 - Representation of state authorities by Attorney General
+- Section 45-15-14 - Exclusive authority in law matters; employment of other counsel by state authorities; designation and assignment of assistant attorneys general to perform legal services for authorities
+- Section 45-15-15 - Attorney General to submit statement to state authority for legal services; contents; advance approval of state authority director
+- Section 45-15-16 - State authority to reimburse department for legal services
+- Section 45-15-17 - Power to conduct investigations generally; issuance and enforcement of subpoenas
+- Section 45-15-18 - Governor may direct Attorney General to conduct investigations of departments, state officials or employees or entities dealing with state; prosecution of actions; appointment of special attorney general
+- Section 45-15-19 - Governor and General Assembly authorized to make investigations; designation of district attorney to act for state in action against Attorney General
+- Section 45-15-20 - Charge, demand, or receipt by Attorney General of fee, perquisite, or compensation other than salary in case where state interested
+- Section 45-15-30 - Created; assistants, deputies, and other personnel; determination of duties, salaries, and promotions; limitation on private practice of law; disclosure requirement for assistant attorney general representing criminal defendant
+- Section 45-15-31 - Appointment, compensation, and removal of assistant and deputy attorneys general and law assistants
+- Section 45-15-32 - Employment of clerical assistants for department
+- Section 45-15-33 - Employees of department not to receive remuneration of any kind or reimbursement other than provided by article; exception
+- Section 45-15-34 - Department as exclusive authority for executive branch in law matters
+- Section 45-15-35 - Power of Governor to direct institution of proceedings and litigation by department
+- Section 45-15-35.1 - [Repealed] Governor's power to seek preclearance of any change affecting voting pursuant to Section 5 of the federal Voting Rights Act of 1965
+- Section 45-15-36 - Reimbursement of department by other state agencies for litigation expenses; submission to agency of statement of expenses
+- Section 45-15-37 - Reimbursement of department by state retirement systems or Board of Workers' Compensation for services; statement of expenses; advance approval of services
+- Section 45-15-50 - through 45-15-57 - [Repealed]
+- Section 45-15-70 - Governor authorized to provide counsel for public officials and agencies; fees and costs to be paid by state
+- Section 45-15-71 - Judicial Legal Defense Fund and Commission created; operations

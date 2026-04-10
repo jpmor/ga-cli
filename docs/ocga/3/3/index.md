@@ -1,0 +1,37 @@
+# Chapter 3 - REGULATION OF ALCOHOLIC BEVERAGES GENERALLY (§§ 3-3-1 — 3-3-40)
+
+- Section 3-3-1 - Declaration of business of manufacturing, selling, and other dealings in alcoholic beverages as privilege subject to regulatory requirements
+- Section 3-3-1.1 - Legislative intent; construction
+- Section 3-3-2 - Powers of local governing authorities as to granting, refusal, suspension, or revocation of licenses generally; due process guidelines; fingerprints
+- Section 3-3-2.1 - Notice to revenue department by county or municipality of violations concerning sale of alcoholic beverages to underage persons
+- Section 3-3-2.2 - Maximum fine for violations of local alcoholic beverages licensing ordinances
+- Section 3-3-3 - Licenses required to distribute, sell, or otherwise deal in alcoholic beverages; display of licenses
+- Section 3-3-4 - Exemptions from license fees or taxes
+- Section 3-3-5 - Sale of alcoholic beverages not complying with federal requirements as to quality or purity or standards adopted by commissioner
+- Section 3-3-6 - Maintenance of records as to manufacture, purchase, or sale of alcoholic beverages by manufacturers, importers, or dealers; disposal of records
+- Section 3-3-7 - Local authorization and regulation of sales of alcoholic beverages on Sunday
+- Section 3-3-8 - Possession and transportation of lawfully purchased alcoholic beverages upon which taxes have not been paid in this state
+- Section 3-3-9 - Penalty for violations of prohibitions in chapter
+- Section 3-3-10 - Delivery of malt beverages, wine, and distilled spirits for personal use; marketing, receiving, and processing orders; regulation; penalty
+- Section 3-3-11 - Sale of mixed drinks for off premises consumption
+- Section 3-3-20 - Sale of alcoholic beverages on Sundays, election days, and Christmas Day
+- Section 3-3-21 - Sales of alcoholic beverages near churches, school buildings, or other sites
+- Section 3-3-21.1 - Possession of alcoholic beverages on the grounds of a public school
+- Section 3-3-22 - Sale or furnishing of alcoholic beverages to intoxicated persons
+- Section 3-3-23 - Furnishing to, purchase of, or possession by persons under 21 years of age of alcoholic beverages; identification; serving, or handling by persons under 21 years of age in the course of employment; seller's receipt of false identification; immunity for seeking medical assistance for alcohol related overdose
+- Section 3-3-23.1 - Procedure and penalties upon violation of Code Section 3-3-23
+- Section 3-3-24 - Dispensing, serving, selling, or taking orders for alcoholic beverages by persons under 18 years of age
+- Section 3-3-24.1 - &quot;Bouncer&quot; defined; admission of under 21 year olds into bar
+- Section 3-3-24.2 - Posting of laws regarding sale of alcoholic beverages to underage persons
+- Section 3-3-25 - Sale of or furnishing alcoholic beverages to prisoners or inmates of places of confinement; introduction or possession of alcoholic beverages at Georgia War Veterans Home
+- Section 3-3-26 - Prohibition on drinking of alcoholic beverages on retail package premises; sampling permitted; regulation
+- Section 3-3-27 - Unlawful manufacture, transportation, receipt, possession, sale, or distribution of alcoholic beverages; failure to file proper reports or bonds or pay fees; declaration of apparatus used in unlawful manufacture of alcoholic beverages as contraband; penalties
+- Section 3-3-27.1 - Report to the commissioner of alcoholic beverages transported into this state
+- Section 3-3-28 - [Repealed and Reserved] [Reserved] Reuse, counterfeiting, or forging of tax stamps
+- Section 3-3-29 - Possession, sale, or purchase of distilled spirits for which taxes not paid
+- Section 3-3-30 - Storage and distribution of alcoholic beverages by corporations granted the privilege of establishing, operating, and maintaining foreign trade zones
+- Section 3-3-31 - Legislative findings
+- Section 3-3-32 - Shipment of alcoholic beverages into state by nonresident, without license, who is in business of selling alcoholic beverages in another state
+- Section 3-3-33 - Vaporized form of alcoholic beverages and alcohol vaporizing devices prohibited
+- Section 3-3-34 - &quot;Powdered alcohol&quot; defined; prohibition; exception; penalty
+- Section 3-3-40 - through 3-3-46 - [Repealed]

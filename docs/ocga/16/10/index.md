@@ -1,0 +1,53 @@
+# Chapter 10 - OFFENSES AGAINST PUBLIC ADMINISTRATION (§§ 16-10-1 — 16-10-98)
+
+- Section 16-10-1 - Violation of oath by public officer
+- Section 16-10-2 - Bribery
+- Section 16-10-3 - Using private funds for law enforcement; off-duty employment of law enforcement officers
+- Section 16-10-4 - Influencing of legislative action by state and local government officers or employees
+- Section 16-10-5 - Influencing of officer or employee of state or political subdivision by another officer or employee
+- Section 16-10-6 - Sale of real or personal property to political subdivision by local officer or employee; exceptions; limitation of civil liability
+- Section 16-10-7 - False acknowledgments, certificates, or statements of appearance or oath by officer authorized to do same
+- Section 16-10-8 - False official certificates or writings by officers or employees of state and political subdivisions
+- Section 16-10-9 - Acceptance of office or employment in more than one branch of government
+- Section 16-10-20 - False statements and writings, concealment of facts, and fraudulent documents in matters within jurisdiction of state or political subdivisions
+- Section 16-10-20.1 - Filing false documents
+- Section 16-10-21 - Conspiracy to defraud state or political subdivision
+- Section 16-10-22 - Conspiracy in restraint of free and open competition in transactions with state or political subdivisions; forfeiture of right to bid on or enter into contracts
+- Section 16-10-23 - Impersonating a public officer or employee
+- Section 16-10-24 - Obstructing or hindering law enforcement officers
+- Section 16-10-24.1 - Obstructing or hindering firefighters
+- Section 16-10-24.2 - Obstructing or hindering emergency medical technicians or emergency medical professionals; criminal penalty
+- Section 16-10-24.3 - Obstructing or hindering persons making emergency telephone calls
+- Section 16-10-24.4 - Obstructing or hindering park ranger
+- Section 16-10-25 - Giving false name, address, or birthdate to law enforcement officer
+- Section 16-10-26 - False report of a crime
+- Section 16-10-27 - Transmitting false report of fire
+- Section 16-10-28 - Transmitting a false public alarm; restitution
+- Section 16-10-29 - Request for ambulance service when not reasonably needed
+- Section 16-10-30 - Refusal to obey official request at fire or other emergency
+- Section 16-10-31 - Concealing death of another person
+- Section 16-10-32 - Attempted murder or threatening of witnesses in official proceedings
+- Section 16-10-33 - Removal or attempted removal of weapon from public official; punishment
+- Section 16-10-34 - Use of laser devices against law enforcement officer
+- Section 16-10-35 - Obstructing emergency personnel with fireworks
+- Section 16-10-50 - Hindering apprehension or punishment of criminal
+- Section 16-10-51 - Bail jumping
+- Section 16-10-52 - Escape
+- Section 16-10-53 - Aiding or permitting another to escape lawful custody or confinement
+- Section 16-10-54 - Assailing, opposing, or resisting officer of the law in a penal institution
+- Section 16-10-55 - Persuading, enticing, instigating, aiding, or abetting person in a penal institution to commit mutiny
+- Section 16-10-56 - Unlawful acts of violence in a penal institution
+- Section 16-10-70 - Perjury
+- Section 16-10-71 - False swearing
+- Section 16-10-72 - Subornation of perjury or false swearing
+- Section 16-10-73 - Impersonating another in the acknowledgment of recognizance, bail, or judgment
+- Section 16-10-90 - Compounding a crime
+- Section 16-10-91 - Embracery
+- Section 16-10-92 - Acceptance of benefit, reward, or consideration by witness for changing testimony or being absent from trial, hearing, or other proceeding
+- Section 16-10-93 - Influencing witnesses
+- Section 16-10-94 - Tampering with evidence
+- Section 16-10-94.1 - Willful destruction, alteration, or falsification of medical records
+- Section 16-10-95 - [Repealed] [Reserved] Barratry; penalty
+- Section 16-10-96 - Impersonating another in the course of an action, proceeding, or prosecution
+- Section 16-10-97 - Intimidation or injury of any officer in or of any court
+- Section 16-10-98 - Illegal remuneration of judges and law enforcement officials

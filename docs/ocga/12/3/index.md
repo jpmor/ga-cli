@@ -1,0 +1,292 @@
+# Chapter 3 - PARKS, HISTORIC AREAS, MEMORIALS, AND RECREATION (§§ 12-3-1 — 12-3-680)
+
+- Section 12-3-1 - Duties and powers of department as to recreational policies and programs
+- Section 12-3-2 - Disposition of miscellaneous funds by department
+- Section 12-3-3 - Powers of department as to projects generally
+- Section 12-3-4 - Powers of department and Board of Natural Resources as to Lake Lanier Islands Development
+- Section 12-3-5 - Authority of state to make grants, leases, contracts, and cooperative agreements in regard to public-use areas; powers of department
+- Section 12-3-6 - Federal Land and Water Conservation Fund Act of 1965 - Creation of office for administration of federal funds
+- Section 12-3-7 - Federal Land and Water Conservation Fund Act of 1965 - Designation of office as state agency to deal with secretary of interior; powers of head of office
+- Section 12-3-8 - Federal Land and Water Conservation Fund Act of 1965 - Establishment of state assistance fund to provide matching funds for local recreational projects; limitations on use of fund; approval of projects by federal government
+- Section 12-3-9 - Adoption and promulgation by Board of Natural Resources of rules and regulations regarding parks, historic sites, and recreational areas
+- Section 12-3-9.1 - Discount for certified disabled veterans
+- Section 12-3-10 - Directing persons to leave parks, historic sites, or recreational areas upon their refusal to observe rules and regulations; prohibited acts generally
+- Section 12-3-10.1 - Directing persons to leave parks, historic sites, or recreation areas; penalty
+- Section 12-3-11 - Civil penalty; reports to department by clerk of court regarding disposition of actions; compensation of clerk for reports
+- Section 12-3-12 - Notification of local governing authorities prior to certain significant changes in services at state parks, historic sites, or recreational areas
+- Section 12-3-20 - Creation of committee; members and organization; duty to review operations of Stone Mountain Memorial Association, Jekyll Island - State Park Authority, North Georgia Mountains Authority, and Lake Lanier Islands Development Authority
+- Section 12-3-21 - Assistance by state officers and agencies
+- Section 12-3-22 - Reporting requirements; enforcement
+- Section 12-3-23 - Evaluation criteria
+- Section 12-3-24 - Authorized expenditures; compensation of members; funding
+- Section 12-3-25 - Information required in annual reports
+- Section 12-3-30 - Definitions
+- Section 12-3-31 - Parks and recreational areas acquired by state as constituting state park system; control and management of system by department
+- Section 12-3-32 - Powers and duties of department as to parks and recreational areas and facilities
+- Section 12-3-33 - County and municipal aid to state park system
+- Section 12-3-34 - Permits for construction, maintenance, and use of boat docks and boat shelters on High Falls Lake
+- Section 12-3-50 - Powers and duties of department as to historic preservation and promotion
+- Section 12-3-50.1 - Grants for preservation of &quot;historic properties&quot;; additional powers and duties of department
+- Section 12-3-50.2 - Georgia Register of Historic Places
+- Section 12-3-51 - Grants and gifts to department
+- Section 12-3-52 - Archeological exploration, excavation, or surveying; administrative appeal of department orders
+- Section 12-3-53 - State archeologist
+- Section 12-3-54 - Penalty
+- Section 12-3-55 - General provisions; preservation of state owned historic properties
+- Section 12-3-56 - Revitalization of central business districts; government presence in historic districts
+- Section 12-3-57 - Legislative findings; historical and cultural museum assistance program; responsibilities
+- Section 12-3-58 - Powers, duties, and authority of the Department of Community Affairs; historic preservation grant program
+- Section 12-3-70 - Short title
+- Section 12-3-71 - Legislative purpose
+- Section 12-3-72 - Definitions
+- Section 12-3-73 - [Repealed] [Reserved] Creation of Heritage Trust Commission; appointment and criteria for selection of members; terms of office; reimbursement of members for expenses; duties
+- Section 12-3-74 - Powers and duties of board as to Heritage Trust Program
+- Section 12-3-75 - Dedication of property as a heritage preserve
+- Section 12-3-76 - Use of heritage preserves; state authorized to transfer interest in heritage preserve property to county, local government, or private entity upon certain conditions
+- Section 12-3-77 - Effect on protected status of property of dedication or other action taken by board
+- Section 12-3-80 - &quot;Submerged cultural resources&quot; defined; title and exclusive right to regulate investigation, survey, and recovery; exceptions
+- Section 12-3-81 - Department named custodian of submerged cultural resources; rules and regulations; reporting findings; duties of state archeologist
+- Section 12-3-82 - Permits and authorization to contract for investigation, survey, or recovery operations; renewal and revocation of permits
+- Section 12-3-82.1 - [Repealed] Permits for investigation, survey, or recovery of deadhead logs
+- Section 12-3-83 - Prohibited acts constituting misdemeanor
+- Section 12-3-90 - Short title
+- Section 12-3-91 - Legislative findings and declaration of purpose
+- Section 12-3-92 - &quot;Natural areas&quot; defined
+- Section 12-3-93 - Powers and duties of department as to natural areas
+- Section 12-3-94 - Appropriation of funds to department
+- Section 12-3-110 - Short title
+- Section 12-3-111 - Legislative purpose
+- Section 12-3-112 - &quot;System&quot; defined
+- Section 12-3-113 - Duties and powers of department as to system; requirements as to title to land traversed by system
+- Section 12-3-114 - Policies to guide department in creating and administering system
+- Section 12-3-115 - Construction of bicycle trails and bikeways by Department of Transportation
+- Section 12-3-116 - Responsibility and liability of owners of premises traversed by system
+- Section 12-3-117 - Adoption and promulgation of rules and regulations by Board of Natural Resources
+- Section 12-3-130 - through 12-3-133 - Reserved
+- Section 12-3-150 - Duty of department to administer and maintain memorial
+- Section 12-3-151 - Powers of department
+- Section 12-3-152 - Franklin D. Roosevelt Warm Springs Memorial Advisory Committee created; composition; duties of committee; officers; quorum; reimbursement for expenses; appointment of successors; terms of members
+- Section 12-3-153 - Construction of part
+- Section 12-3-170 - Making and developing plans for administration and maintenance of memorial or shrine
+- Section 12-3-171 - Powers of department as to memorial or shrine
+- Section 12-3-172 - Construction of part
+- Section 12-3-190 - Short title
+- Section 12-3-191 - Definitions
+- Section 12-3-192 - Creation of association
+- Section 12-3-192.1 - Purposes of association
+- Section 12-3-193 - Members of association; terms; vacancies; officers; bylaws; quorum; reimbursement for expenses; compensation of employees; books and records
+- Section 12-3-194 - Powers of association generally
+- Section 12-3-194.1 - Police and legislative powers of association; appointment of peace officers; jurisdiction and venue of park offenses; sale of confederate memorabilia
+- Section 12-3-194.2 - Adherence to master plan; survey required; amendment of plan; uses to which natural district may be put
+- Section 12-3-195 - Obligations of state under lease contracts with association; failure or refusal of lessee to perform; assignment of rentals due
+- Section 12-3-196 - Condemnation of property for developing Stone Mountain; conveyance of property and rights of way to association; facilities, equipment, and services
+- Section 12-3-197 - Transfer of funds to association
+- Section 12-3-198 - Location, construction, improvement, and maintenance of highways, roads, streets, and rights of way
+- Section 12-3-199 - Association fund
+- Section 12-3-200 - Revenue bonds - Power of association to adopt resolutions providing for and to issue bonds
+- Section 12-3-201 - Revenue bonds - Sale by public competitive bidding; determination of price and rate of interest; dating of bonds; payment of principal and interest; time of maturity
+- Section 12-3-202 - Revenue bonds - Form; denominations; place of payment of principal and interest; issuance in coupon or registered form
+- Section 12-3-203 - Revenue bonds - Signatures; seal
+- Section 12-3-204 - Revenue bonds - Status as negotiable instruments; tax exemption for bonds and income therefrom
+- Section 12-3-205 - Revenue bonds - Use and manner of disbursement of proceeds; procedure where proceeds are less than or greater than cost of projects
+- Section 12-3-206 - Revenue bonds - Issuance of interim receipts, interim certificates, and temporary bonds
+- Section 12-3-207 - Revenue bonds - Replacement of mutilated, destroyed, or lost bonds
+- Section 12-3-208 - Revenue bonds - Immediate effectiveness of resolutions providing for issuance of bonds; time and manner of passage of resolutions
+- Section 12-3-209 - Revenue bonds - Status as constituting debt or pledge of credit of state; effect of issuance of bonds on obligation of state to tax or make appropriations; recitals on face of bonds
+- Section 12-3-210 - Revenue bonds - Securing bonds by trust indenture
+- Section 12-3-211 - Revenue bonds - Designation of recipient of bond proceeds
+- Section 12-3-212 - Revenue bonds - Establishment of sinking funds for payment of principal, interest, and other costs
+- Section 12-3-213 - Revenue bonds - Revenue refunding bonds
+- Section 12-3-214 - Revenue bonds - Remedies of bondholders, coupon holders, and trustee
+- Section 12-3-215 - Revenue bonds - Status as legal investment and as securities for deposits
+- Section 12-3-216 - Revenue bonds - Protection of bondholders; part as constituting a contract with bondholders
+- Section 12-3-217 - Revenue bonds - Validation
+- Section 12-3-218 - Moneys received by association as constituting trust funds; bondholders' lien on funds
+- Section 12-3-219 - Association property, activities, income, and bonds exempt from taxation and assessment; facilities, services, and charges subject to certain taxes
+- Section 12-3-220 - Venue and jurisdiction for actions under part
+- Section 12-3-230 - Short title
+- Section 12-3-231 - Definitions
+- Section 12-3-232 - Creation of authority as instrumentality of state and public corporation; delegation of powers and duties; duration of existence
+- Section 12-3-233 - Appointment of members; terms; vacancies; officers; quorum; reimbursement for expenses; members as constituting policy-making body of authority; executive director
+- Section 12-3-233.1 - Jekyll Island Citizens Resource Council; purpose; members; meetings; reimbursement for expenses
+- Section 12-3-234 - Accountability of authority members as trustees; maintenance of financial records and books; creation of Jekyll Island-State Park Authority Oversight Committee
+- Section 12-3-235 - Powers of authority generally
+- Section 12-3-236 - Exercise of police power of authority; delegation of power to state or county
+- Section 12-3-236.1 - Adoption and enforcement of ordinances and resolutions
+- Section 12-3-236.2 - Continuation of ordinances and resolutions of authority in force as of April 13, 1981
+- Section 12-3-237 - Rules and regulations for operation of projects authorized
+- Section 12-3-238 - Easements and rights of way for intracoastal waterway
+- Section 12-3-239 - Establishment of museum
+- Section 12-3-240 - Transfer of funds to authority; cooperation between authority and department
+- Section 12-3-241 - Lease to authority of Jekyll Island, adjacent marshes and marsh islands, rights of way, and rights and privileges of every kind
+- Section 12-3-242 - Lease payments by authority as constituting good, valuable, and sufficient consideration
+- Section 12-3-243 - Subdivision, improvement, lease, or sale of island by authority - Limitations on developed area; beaches to remain free and open; protected areas; disposition of proceeds of sale; creation of reserve fund; signing conveyances
+- Section 12-3-243.1 - Master plan as to Jekyll Island; maintenance; contents; adherence to plan; amendments
+- Section 12-3-244 - Subdivision, improvement, lease, or sale of island by authority - Sale and lease restrictions
+- Section 12-3-245 - Subdivision, improvement, lease, or sale of island by authority - Term of leases; assignment; preservation, continuance, and survival of rights and privileges
+- Section 12-3-246 - Subdivision, improvement, lease, or sale of island by authority - Limitation as to number of lots to be leased or sold to one party
+- Section 12-3-247 - Subdivision, improvement, lease, or sale of island by authority - Conditions on sale of residential lots; sale of commercial property; sale price; payment of state's share into state treasury
+- Section 12-3-248 - Subdivision, improvement, lease, or sale of island by authority - Sales of property for which approval by General Assembly is required
+- Section 12-3-249 - Subdivision, improvement, lease, or sale of island by authority - Publication of schedule of lease rentals; applications exceeding available lots; leasing by negotiation; leases as constituting contracts
+- Section 12-3-250 - Subdivision, improvement, lease, or sale of island by authority - Conversion prices of lots
+- Section 12-3-251 - Subdivision, improvement, lease, or sale of island by authority - Leases to counties for charitable purposes
+- Section 12-3-252 - Revenue bonds - Issuance by authority; payment of principal and interest from special fund; dating of bonds; determination of rate of interest; medium of payment; redemption before maturity
+- Section 12-3-253 - Revenue bonds - Form of bonds; denominations; place of payment of principal and interest; issuance in coupon or registered form; registration of coupon bonds
+- Section 12-3-254 - Revenue bonds - Signatures; seal
+- Section 12-3-255 - Revenue bonds - Status as negotiable instruments
+- Section 12-3-256 - Revenue bonds - Manner of sale; determination of price
+- Section 12-3-257 - Revenue bonds - Use and manner of disbursement of proceeds; procedure where proceeds are less than or greater than cost of projects
+- Section 12-3-258 - Revenue bonds - Issuance of interim receipts, interim certificates, and temporary bonds
+- Section 12-3-259 - Revenue bonds - Replacement of mutilated, destroyed, or lost bonds
+- Section 12-3-260 - Revenue bonds - Bonds of a single issue as payment for one or more projects; immediate effectiveness of resolutions providing for issuance of bonds; time and manner of passage of resolutions
+- Section 12-3-261 - Revenue bonds - Status as constituting debt or pledge of faith and credit of state; effect of issuance on obligation of state to tax or make appropriation; recitals on face of bonds
+- Section 12-3-262 - Revenue bonds - Securing by trust indenture
+- Section 12-3-263 - Revenue bonds - Payment of proceeds to trustee
+- Section 12-3-264 - Revenue bonds - Pledging and allocating funds to payment of bonds; establishment of sinking fund for payment of principal, interest, and other costs
+- Section 12-3-265 - Revenue bonds - Remedies of bondholders, coupon holders, and trustees
+- Section 12-3-266 - Revenue bonds - Revenue refunding bonds
+- Section 12-3-267 - Revenue bonds - Status as legal investment and as securities for deposits
+- Section 12-3-268 - Revenue bonds - Protection of bondholders; part as constituting a contract with bondholders
+- Section 12-3-269 - Revenue bonds - Validation
+- Section 12-3-270 - Use of rentals and other charges collected from leases and contracts for projects; obligations under lease contracts with authority; failure or refusal of lessee to perform; assignment of rentals due
+- Section 12-3-271 - Utilization of income and revenues
+- Section 12-3-272 - Acceptance by authority of grants and contributions
+- Section 12-3-273 - Moneys received by authority as constituting trust funds
+- Section 12-3-274 - Authority property, activities, income, and bonds exempt from taxation and assessment
+- Section 12-3-275 - Venue and jurisdiction for actions under part
+- Section 12-3-276 - Supplemental nature of part
+- Section 12-3-277 - Construction of part
+- Section 12-3-290 - Creation of authority as constituting instrumentality of state and public corporation; delegation of powers and duties; duration of authority's existence
+- Section 12-3-291 - Definitions
+- Section 12-3-292 - Membership of authority; officers; bylaws; quorum; action by majority vote; vacancies; reimbursement for expenses; compensation of employees
+- Section 12-3-293 - Accountability of members as trustees; maintenance of financial records and books; submitting records, books, and statement of financial position to state auditor
+- Section 12-3-294 - Powers of authority generally
+- Section 12-3-294.1 - Master plan; creations; contents; notice and hearing on preliminary plan; adherence to plan; amendment
+- Section 12-3-295 - Security officers
+- Section 12-3-296 - Provision of legal services by Attorney General
+- Section 12-3-297 - Lease of state lands to authority
+- Section 12-3-298 - Revenue bonds - Issuance for purpose of paying for cost of projects
+- Section 12-3-299 - Jurisdiction of authority
+- Section 12-3-300 - Approval of indebtedness by Georgia State Financing and Investment Commission
+- Section 12-3-310 - Definitions
+- Section 12-3-311 - Creation of authority; delegation of powers and duties; duration of authority's existence
+- Section 12-3-312 - Membership of authority; election of officers; bylaws; quorum; action by majority vote; voting by proxy; effect of vacancy; reimbursement for expenses; compensation of employees
+- Section 12-3-313 - Accountability of members as trustees; maintenance of financial records and books; submitting records, books, and statement of financial position to state auditor
+- Section 12-3-314 - Powers of authority generally
+- Section 12-3-314.1 - Master plan; creation; contents; notice and hearing on preliminary plan; adherence to plan; amendment
+- Section 12-3-315 - Exercise of police powers by authority; delegation of powers
+- Section 12-3-316 - Security force
+- Section 12-3-317 - Lease payments by authority as constituting good, valuable, and sufficient consideration
+- Section 12-3-318 - Purposes for which income, gifts, grants, appropriations, bonds, or loans may be used; consultation with others; projects for Lake Lanier Watershed area
+- Section 12-3-319 - Location, construction, improvement, and maintenance of highways, streets, roads, and rights of way
+- Section 12-3-320 - Power of authority to survey, subdivide, improve, and lease island property
+- Section 12-3-321 - Restrictions under lease; restrictions on subleasing
+- Section 12-3-322 - Leasing of property by competitive bidding
+- Section 12-3-323 - Revenue bonds - Power of authority to issue bonds; payment of principal and interest; dating of bonds; determination of maturity dates, interest rates, and medium of payments; redemption before maturity
+- Section 12-3-324 - Revenue bonds - Form of bonds; interest coupons; denominations; place of payment; issuance in coupon or registered form; registration of coupon bonds
+- Section 12-3-325 - Revenue bonds - Signatures; seal
+- Section 12-3-326 - Revenue bonds - Status as negotiable instruments; tax exemption for bonds and income therefrom
+- Section 12-3-327 - Revenue bonds - Manner of sale; determination of price; use and manner of disbursement of proceeds
+- Section 12-3-328 - Revenue bonds - Issuance of interim receipts, interim certificates, and temporary bonds
+- Section 12-3-329 - Revenue bonds - Replacement of mutilated, destroyed, or lost bonds
+- Section 12-3-330 - Revenue bonds - Bonds; application of bonds of a single issue as payment for one or more projects; immediate effectiveness of resolutions providing for issuance of bonds; time and manner of passage of resolutions
+- Section 12-3-331 - Revenue bonds - Status as constituting debt or pledge of faith or credit of state; effect of issuance on obligation of state to tax or make appropriations; recitals on face of bonds
+- Section 12-3-332 - Revenue bonds - Securing by trust indenture
+- Section 12-3-333 - Revenue bonds - Designation of recipient of bond proceeds
+- Section 12-3-334 - Revenue bonds - Establishment of sinking fund for payment of principal, interest, and other costs
+- Section 12-3-335 - Revenue bonds - Remedies of bondholders, coupon holders, and trustees
+- Section 12-3-336 - Revenue bonds - Revenue refunding bonds
+- Section 12-3-337 - Revenue bonds - Protection of bondholders; part as constituting a contract with bondholders
+- Section 12-3-338 - Revenue bonds - Validation
+- Section 12-3-339 - Authority property, activities, income, and bonds exempt from taxation and assessment
+- Section 12-3-340 - Conflicts of interest; applicability of other laws regulating conduct; contracts voidable by authority
+- Section 12-3-341 - Venue and jurisdiction of actions under part
+- Section 12-3-360 - through 12-3-378 - Reserved
+- Section 12-3-400 - Short title
+- Section 12-3-401 - Definitions
+- Section 12-3-402 - Creation; membership; compensation; qualifications; accountabilities; assignment
+- Section 12-3-403 - Purpose and nature of authority
+- Section 12-3-404 - General powers
+- Section 12-3-405 - Exemption from taxation
+- Section 12-3-406 - Police powers
+- Section 12-3-407 - Security force
+- Section 12-3-408 - Receipt of moneys deemed to be trust funds
+- Section 12-3-409 - Authority to fix rentals and other charges for use of project
+- Section 12-3-410 - Attorney General providing legal services
+- Section 12-3-411 - Jurisdiction of actions under this part
+- Section 12-3-412 - Applicability of Chapter 10 of Title 45
+- Section 12-3-413 - Issuance of bonds
+- Section 12-3-414 - Authorization of Governor
+- Section 12-3-440 - Short title
+- Section 12-3-441 - Legislative findings
+- Section 12-3-442 - Definitions
+- Section 12-3-443 - Creation; power to contract and sue; assignment to Department of Natural Resources
+- Section 12-3-444 - Membership; officers; compensation; quorum; meetings
+- Section 12-3-445 - Powers and duties
+- Section 12-3-446 - Authority's property subject to inventory requirements; conveyances not subject to filing requirements
+- Section 12-3-447 - Authority's property not subject to adverse possession or prescription
+- Section 12-3-448 - Authority members accountable as trustees; financial records required
+- Section 12-3-449 - Authority and property exempt from taxation, levy and sale, garnishment, and attachment
+- Section 12-3-450 - Attorney General to provide legal services
+- Section 12-3-451 - Jurisdiction of actions against authority
+- Section 12-3-452 - Liberal construction
+- Section 12-3-470 - through 12-3-484 - Reserved
+- Section 12-3-500 - Creation of committee; membership; vacancies; review of Georgia Agricultural Exposition Authority
+- Section 12-3-501 - Assistance to committee in discharging duties; employees; securing professional services
+- Section 12-3-502 - Cooperation of Georgia Agricultural Exposition Authority
+- Section 12-3-503 - Committee to evaluate performance of authority
+- Section 12-3-504 - Expenditure of state funds by committee; compensation, expenses, and allowances for members
+- Section 12-3-520 - Short title
+- Section 12-3-521 - Definitions
+- Section 12-3-522 - Creation; membership; meetings; expense allowance; perpetual existence; records
+- Section 12-3-522.1 - [Repealed]
+- Section 12-3-523 - Corporate purpose and general nature of business
+- Section 12-3-524 - General powers
+- Section 12-3-524.1 - Expenditure of funds to aid in securing gifts, grants, donations, and contributions
+- Section 12-3-524.2 - Ownership of Music Hall of Fame; compliance with copyright and trademark laws
+- Section 12-3-525 - Exemption from taxation
+- Section 12-3-526 - Police powers
+- Section 12-3-527 - Security force
+- Section 12-3-528 - Moneys received by authority deemed to be trust funds
+- Section 12-3-529 - Authority to fix rentals and other charges for users and exhibitors
+- Section 12-3-530 - Attorney General to provide legal services for authority
+- Section 12-3-531 - Jurisdiction of actions brought under this part
+- Section 12-3-532 - Contracts or transactions of authority involving conflict of interest
+- Section 12-3-533 - Issuance of bonds by authority
+- Section 12-3-534 - Department of Economic Development authorized to construct, erect, acquire, and exercise custodial responsibility over projects
+- Section 12-3-535 - Creation of Georgia Music Hall of Fame Advisory Committee
+- Section 12-3-536 - Transferring powers of authority to the Department of Economic Development
+- Section 12-3-550 - Establishment of Georgia Halls of Fame Authority Overview Committee; membership
+- Section 12-3-551 - Assistance to committee by other state agencies
+- Section 12-3-552 - Georgia Music Hall of Fame Authority and Georgia Sports Hall of Fame Authority to cooperate with state agencies
+- Section 12-3-553 - Standards for evaluation of performance of authority
+- Section 12-3-554 - Expenditure of state funds; per diem and expenses; appropriations
+- Section 12-3-560 - Short title
+- Section 12-3-561 - Definitions
+- Section 12-3-562 - Creation; membership; terms; vacancies; expense allowance; perpetual existence; books and records; assignment to Department of Economic Development; staffing; cooperative agreements
+- Section 12-3-562.1 - Joint operation between Georgia Sports Hall of Fame and Georgia Music Hall of Fame; proposals for accomplishing objectives
+- Section 12-3-563 - Purpose
+- Section 12-3-564 - Powers and duties
+- Section 12-3-565 - Tax exemption
+- Section 12-3-566 - Police powers
+- Section 12-3-567 - Security force
+- Section 12-3-568 - Trust fund
+- Section 12-3-569 - Rentals and other charges
+- Section 12-3-570 - Legal services
+- Section 12-3-571 - Venue and jurisdiction of actions
+- Section 12-3-572 - Conflicts of interest
+- Section 12-3-573 - Revenue bonds
+- Section 12-3-574 - Construction and responsibility over project by Department of Economic Development
+- Section 12-3-580 - through 12-3-592 - [Repealed]
+- Section 12-3-600 - Legislative findings; policy of state
+- Section 12-3-601 - Definitions
+- Section 12-3-602 - Establishment of programs and activities; Nongame Wildlife Conservation and Wildlife Habitat Acquisitions Fund; income tax return form contribution option; administrative costs of voluntary contribution program
+- Section 12-3-620 - Definitions
+- Section 12-3-621 - Prohibited acts as to archeological, aboriginal, prehistoric, or historic sites; notification of state archeologist before beginning investigation or disturbance of site; penalty
+- Section 12-3-622 - Buying, selling, trading, importing, or exporting American Indian burial, sacred, or cultural objects
+- Section 12-3-640 - Designation
+- Section 12-3-650 - [Repealed] Definitions
+- Section 12-3-651 - Redesignated
+- Section 12-3-652 - through 12-3-661 - [Repealed]
+- Section 12-3-662 - Redesignated
+- Section 12-3-680 - through 12-3-708 - [Repealed]

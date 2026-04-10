@@ -1,0 +1,25 @@
+# Chapter 7 - AUDITORS (§§ 9-7-1 — 9-7-23)
+
+- Section 9-7-1 - Duties of auditor
+- Section 9-7-2 - When facts referred to auditor; on application and notice; on court's own motion
+- Section 9-7-3 - Appointment of auditor in matters of account; on application and notice; on court's own motion
+- Section 9-7-4 - Appointment of person agreed on
+- Section 9-7-5 - Where hearing held; notice of hearing; auditor's oath
+- Section 9-7-6 - Powers of auditor generally
+- Section 9-7-7 - Contempt referred to superior court
+- Section 9-7-8 - Contents of report - Rulings, findings, and conclusions
+- Section 9-7-9 - Contents of report - Motions and rulings; transcript; documentary evidence
+- Section 9-7-10 - Contents of report - Evidence deemed inadmissible
+- Section 9-7-11 - Written notice of filing report
+- Section 9-7-12 - Report prima facie true
+- Section 9-7-13 - When report recommitted
+- Section 9-7-14 - Time for filing exceptions; classification; extension on application; what exceptions to specify
+- Section 9-7-15 - Exceptions to matters outside record; certification by auditor or return with objections; application for mandamus; notice and hearing; effect of mandamus absolute
+- Section 9-7-16 - Exceptions of law for judge
+- Section 9-7-17 - When exceptions of fact tried by jury; burden of proof; right to open and conclude
+- Section 9-7-18 - Trial on the record; what additional evidence introduced; what evidence excluded
+- Section 9-7-19 - When new testimony considered; application; notice; rights of opposite party
+- Section 9-7-20 - Form of jury's verdict
+- Section 9-7-21 - Court to frame judgment or decree
+- Section 9-7-22 - Auditor's fees
+- Section 9-7-23 - Compensation of reporter; by whom paid

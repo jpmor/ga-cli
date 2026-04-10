@@ -1,0 +1,33 @@
+# Chapter 17 - RECIPROCAL INSURERS (§§ 33-17-1 — 33-17-31)
+
+- Section 33-17-1 - Definitions
+- Section 33-17-2 - Applicability of chapter
+- Section 33-17-3 - Authorization of transaction of insurance by reciprocal insurers generally
+- Section 33-17-4 - Types of insurance in which reciprocal insurers authorized to transact business; reinsurance
+- Section 33-17-5 - Requirements as to name; actions by and against insurers
+- Section 33-17-6 - Procedure for incorporation of domestic reciprocal insurer generally; application for certificate of authority; execution and filing by attorney of declaration; contents of declaration
+- Section 33-17-7 - Issuance of certificate of authority; refusal, suspension, or revocation of certificate of authority; renewal of certificate; payment of fees and taxes
+- Section 33-17-8 - Filing of bond by attorney for insurer; amount of bond; cancellation of bond
+- Section 33-17-9 - Maintenance by attorney of deposit in lieu of bond
+- Section 33-17-10 - Actions on attorney's bond or deposit
+- Section 33-17-11 - Rights and powers of attorney for insurer generally; contents and terms of power of attorney; furnishing of copy of power of attorney to subscribers
+- Section 33-17-12 - Effect of discharge of duties by attorney of foreign or alien insurer; office of attorney
+- Section 33-17-13 - Designation by insurer of person to acknowledge or accept service of process; manner of service of process; effect of judgment based upon process served in manner prescribed
+- Section 33-17-14 - Subscribers' advisory committee
+- Section 33-17-15 - Modifications of terms of subscribers' agreement or of power of attorney
+- Section 33-17-16 - General requirements for transaction of insurance by domestic reciprocal insurers
+- Section 33-17-17 - Advancement of sums to insurer by attorney or other parties; withdrawal or repayment of advances
+- Section 33-17-18 - Persons and organizations authorized to become subscribers; exchange of insurance contracts; personal liability upon contracts
+- Section 33-17-19 - Liability of subscribers for obligations of insurer generally; contingent liability assessment
+- Section 33-17-20 - Enforcement against subscriber of judgment against insurer
+- Section 33-17-21 - Standards for determination by Commissioner of financial condition of insurer
+- Section 33-17-22 - Manner of levy of assessments against subscribers generally; computation of assessments
+- Section 33-17-23 - Limitation period for assessments
+- Section 33-17-24 - Maximum assessable aggregate contingent liability
+- Section 33-17-25 - Insufficient assets to discharge liabilities and to maintain required surplus
+- Section 33-17-26 - Authorization and procedure for issuance by Commissioner of certificate authorizing insurer to extinguish contingent liability of subscribers; revocation of certificate
+- Section 33-17-27 - Distribution of unused premiums, savings, credits, or profits to subscribers
+- Section 33-17-28 - Distribution of assets to subscribers upon liquidation of insurer
+- Section 33-17-29 - Filing of annual statement with Commissioner
+- Section 33-17-30 - Merger of reciprocal insurers; conversion of reciprocal insurers to stock or mutual insurers
+- Section 33-17-31 - Exchange of contracts or indemnities by attorneys

@@ -1,0 +1,43 @@
+# Article 4 - BANK DEPOSITS AND COLLECTIONS (§§ 11-4-101 — 11-4-504)
+
+- Section 11-4-101 - Short title
+- Section 11-4-102 - Applicability
+- Section 11-4-103 - Variation by agreement; measure of damages; action constituting ordinary care
+- Section 11-4-104 - Definitions and index of definitions
+- Section 11-4-105 - &quot;Bank&quot;; &quot;depositary bank&quot;; &quot;payor bank&quot;; &quot;intermediary bank&quot;; &quot;collecting bank&quot;; &quot;presenting bank.&quot;
+- Section 11-4-106 - Payable through or payable at bank; collecting bank
+- Section 11-4-107 - Separate office of a bank
+- Section 11-4-108 - Time of receipt of items
+- Section 11-4-109 - Delays
+- Section 11-4-110 - Electronic presentment
+- Section 11-4-111 - Statute of limitations
+- Section 11-4-201 - Status of collecting bank as agent and provisional status of credits; applicability of article; item indorsed &quot;pay any bank.&quot;
+- Section 11-4-202 - Responsibility for collection or return; when action timely
+- Section 11-4-203 - Effect of instructions
+- Section 11-4-204 - Methods of sending and presenting; sending directly to payor bank
+- Section 11-4-205 - Depositary bank holder of unindorsed item
+- Section 11-4-206 - Transfer between banks
+- Section 11-4-207 - Transfer warranties
+- Section 11-4-208 - Presentment warranties
+- Section 11-4-209 - Encoding and retention warranties
+- Section 11-4-210 - Security interest of collecting bank in items, accompanying documents, and proceeds
+- Section 11-4-211 - When bank gives value for purposes of holder in due course
+- Section 11-4-212 - Presentment by notice of item not payable by, through, or at a bank; liability of drawer or indorser
+- Section 11-4-213 - Medium and time of settlement by bank
+- Section 11-4-214 - Right of charge-back or refund; liability of collecting bank; return of item
+- Section 11-4-215 - Final payment of item by payor bank; when provisional debits and credits become final; when certain credits become available for withdrawal
+- Section 11-4-216 - Insolvency and preference
+- Section 11-4-301 - Deferred posting; recovery of payment by return of items; time of dishonor; return of items by payor bank
+- Section 11-4-302 - Payor bank's responsibility for late return of item
+- Section 11-4-303 - When items subject to notice, stop-payment order, legal process, or setoff; order in which items may be charged or certified
+- Section 11-4-401 - When bank may charge customer's account
+- Section 11-4-402 - Bank's liability to customer for wrongful dishonor; time of determining insufficiency of account
+- Section 11-4-403 - Customer's right to stop payment; burden of proof of loss
+- Section 11-4-404 - Bank not obliged to pay check more than six months old
+- Section 11-4-405 - Death or incompetence of customer
+- Section 11-4-406 - Customer's duty to discover and report unauthorized signature or alteration
+- Section 11-4-407 - Payor bank's right to subrogation on improper payment
+- Section 11-4-501 - Handling of documentary drafts; duty to send for presentment and to notify customer of dishonor
+- Section 11-4-502 - Presentment of &quot;on arrival&quot; drafts
+- Section 11-4-503 - Responsibility of presenting bank for documents and goods; report of reasons for dishonor; referee in case of need
+- Section 11-4-504 - Privilege of presenting bank to deal with goods; security interest for expenses

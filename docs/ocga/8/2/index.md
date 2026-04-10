@@ -1,0 +1,124 @@
+# Chapter 2 - STANDARDS AND REQUIREMENTS FOR CONSTRUCTION, ALTERATION, ETC., OF BUILDINGS AND OTHER STRUCTURES (§§ 8-2-1 — 8-2-222)
+
+- Section 8-2-1 - Legislative findings
+- Section 8-2-2 - Purpose of part
+- Section 8-2-3 - Requirements for high-efficiency plumbing fixtures
+- Section 8-2-4 - Certain residential fire sprinkler requirements prohibited
+- Section 8-2-20 - Definitions
+- Section 8-2-21 - Enforcement of code appendices
+- Section 8-2-22 - Rules governing licensing of trades, professions, and businesses
+- Section 8-2-23 - Revisions, amendments, and new editions generally; certain amendments and review required
+- Section 8-2-24 - Advisory committee; review of proposed amendments, modifications, and new provisions
+- Section 8-2-24.1 - Review of denial of proposed amendment, modification, or new provision to code
+- Section 8-2-25 - Application of minimum standard codes; local adoption and requirements; exemptions
+- Section 8-2-26 - Local enforcement, inspectors, and building permits
+- Section 8-2-26.1 - Qualified inspectors; inspection reports
+- Section 8-2-27 - Energy conservation code; applicability; enforcement; appeals
+- Section 8-2-28 - Construction code; local adoption and enforcement
+- Section 8-2-29 - Powers of department generally
+- Section 8-2-30 - Applicability of part
+- Section 8-2-31 - Effect of part
+- Section 8-2-35 - Legislative findings
+- Section 8-2-36 - Definitions
+- Section 8-2-37 - Stays of action for failure to comply
+- Section 8-2-38 - Procedure for actions subject to part
+- Section 8-2-39 - Discovery of additional defects after original notice given
+- Section 8-2-40 - Effect of claimant's acceptance of settlement; subrogation of insurance
+- Section 8-2-41 - Notice to consumer required
+- Section 8-2-42 - Associations; bribery prohibited; applicable procedures
+- Section 8-2-43 - Effect and application of part
+- Section 8-2-50 - Fire escapes and exit doors; requirements
+- Section 8-2-51 - Inspections; reports; noncompliance
+- Section 8-2-52 - Alterations and additions required; making inspections and reports
+- Section 8-2-53 - Power of cities to extend coverage of part
+- Section 8-2-54 - Penalty
+- Section 8-2-70 - through 8-2-75 - Reserved
+- Section 8-2-90 - through 8-2-95 - Reserved
+- Section 8-2-100 - Definitions
+- Section 8-2-101 - Inspection and registration requirement; maintenance; alterations
+- Section 8-2-102 - Inspections
+- Section 8-2-103 - Operating permits
+- Section 8-2-104 - Employment of inspectors; fees and penalties; rules and regulations
+- Section 8-2-105 - Local government regulation and enforcement
+- Section 8-2-106 - Reporting of accidents; removal from service of equipment involved in accident
+- Section 8-2-107 - Penalties
+- Section 8-2-108 - Appeals from orders or acts of inspectors
+- Section 8-2-109 - Consultations; creation of committees of consultants
+- Section 8-2-109.1 - Exceptions from part; audit of compliance of local governmental units
+- Section 8-2-110 - Legislative findings
+- Section 8-2-111 - Definitions
+- Section 8-2-112 - Inspection and approval of industrialized buildings by commissioner or local government; modifications prohibited; costs; adoption of rules
+- Section 8-2-113 - Rules and regulations; delegation of inspection authority; advisory committee; employees and training
+- Section 8-2-114 - Industrialized building meeting standards prescribed by other states; delegation of inspection authority
+- Section 8-2-115 - Appeals from applications of rules and regulations
+- Section 8-2-116 - Injunctive relief
+- Section 8-2-117 - Civil cause of action; damages, costs, and attorney's fees
+- Section 8-2-117.1 - Cease and desist orders; civil penalties; appeals
+- Section 8-2-118 - Criminal penalties
+- Section 8-2-119 - Applicability of part
+- Section 8-2-120 - Authority to enter to determine compliance with part
+- Section 8-2-121 - Maintenance and inspection of records
+- Section 8-2-130 - Short title
+- Section 8-2-131 - Definitions
+- Section 8-2-132 - Authority of Commissioner; policy and purpose
+- Section 8-2-133 - Rules and regulations; investigations and inspections
+- Section 8-2-134 - Compliance with rules and regulations
+- Section 8-2-135 - Licensing
+- Section 8-2-135.1 - Manufacturing and monitoring inspection fees
+- Section 8-2-136 - Maintenance and inspection of records
+- Section 8-2-137 - Hearings; dispute resolution program
+- Section 8-2-138 - Alterations or modifications by retailers, retail brokers, or installers
+- Section 8-2-139 - Interference with representative of Commissioner; entry and inspection authorized
+- Section 8-2-140 - Inspections during transit authorized
+- Section 8-2-141 - Monetary penalty; injunctive relief
+- Section 8-2-142 - Adjustment of taxes and other fees for certain Georgia-domiciled manufacturers
+- Section 8-2-143 - Civil and criminal penalties for certain federal violations
+- Section 8-2-144 - Reporting and accounting for fees
+- Section 8-2-160 - Definitions
+- Section 8-2-160.1 - Cooperative agreements
+- Section 8-2-161 - Rules and procedure for licensure and installation
+- Section 8-2-162 - Administration of part by Commissioner; investigation of consumer complaints
+- Section 8-2-163 - Compliance required
+- Section 8-2-164 - Licensing and permits
+- Section 8-2-165 - Compliance with manufacturer's installation instructions; random inspections on installations
+- Section 8-2-166 - Penalties
+- Section 8-2-167 - Requirements not consistent with part prohibited
+- Section 8-2-168 - Hearings
+- Section 8-2-170 - Definitions
+- Section 8-2-171 - Health and safety standards for pre-owned manufactured homes; inspections; immunity
+- Section 8-2-180 - Definitions
+- Section 8-2-181 - Manufactured home as personal property; requirements for real property status; requirements for Certificate of Permanent Location
+- Section 8-2-182 - Recording of Certificate of Permanent Location; responsibilities of commissioner; notification to tax assessors
+- Section 8-2-183 - Status of home as part of real property
+- Section 8-2-183.1 - When manufactured home becomes real property; Certificate of Permanent Location; removal
+- Section 8-2-184 - Reversion of manufactured home to personal property; Certificate of Removal from Permanent Location required
+- Section 8-2-185 - Duties of commissioner upon receipt of Certificate of Removal from Permanent Location
+- Section 8-2-186 - Acceptance and recording of Certificate of Removal from Permanent Location by clerk of superior court
+- Section 8-2-187 - Certificate of Destruction required
+- Section 8-2-188 - Duties of commissioner upon receipt of Certificate of Destruction
+- Section 8-2-189 - Acceptance and recording of Certificate of Destruction by clerk of superior court
+- Section 8-2-190 - Taxation as real property
+- Section 8-2-191 - Filing fee
+- Section 8-2-200 - Short title
+- Section 8-2-201 - Purpose and applicability of article
+- Section 8-2-202 - Definitions
+- Section 8-2-203 - Effect of article on state and local enforcement authorities
+- Section 8-2-204 - Alteration or repair without total compliance with new construction requirements
+- Section 8-2-205 - Identification and correction of certain conditions or defects
+- Section 8-2-206 - Consideration of compliance alternatives
+- Section 8-2-207 - Compliance alternatives for inadequate number of exits
+- Section 8-2-208 - Compliance alternatives for excessive travel distances to approved exit
+- Section 8-2-209 - Compliance alternatives for unenclosed or improperly enclosed exit stairways or vertical shafts
+- Section 8-2-210 - Compliance alternatives for inadequate fire partitions or walls
+- Section 8-2-211 - Compliance alternatives for lack of required protection of openings in exterior walls
+- Section 8-2-212 - Filing of approved compliance alternatives
+- Section 8-2-213 - Final review of projects; agreement of local authorities
+- Section 8-2-214 - Additions
+- Section 8-2-215 - Minor alterations or repairs; reduction or removal of features; alteration or repair without further compliance; installation of mechanical systems
+- Section 8-2-216 - Continuation of legal use and occupancy
+- Section 8-2-217 - Total change in use or occupancy
+- Section 8-2-218 - Change of portion of building to new use or occupancy
+- Section 8-2-219 - Changes which increase floor loading
+- Section 8-2-220 - Rules and regulations
+- Section 8-2-221 - Appeals of rulings or decisions
+- Section 8-2-222 - Immunity of state and local entities; liability of property owner or user

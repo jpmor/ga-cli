@@ -1,0 +1,44 @@
+# Chapter 26 - NURSES (§§ 43-26-1 — 43-26-65)
+
+- Section 43-26-1 - Short title
+- Section 43-26-2 - Legislative intent
+- Section 43-26-3 - Definitions
+- Section 43-26-4 - Georgia Board of Nursing; membership; meetings; officers
+- Section 43-26-5 - General powers and responsibilities of board
+- Section 43-26-6 - Use of certain titles and abbreviations by licensed nurses
+- Section 43-26-7 - Requirements for licensure as registered professional nurse; requirements for nontraditional nursing education program
+- Section 43-26-7.1 - Requirements for licensure as advanced practice registered nurse
+- Section 43-26-8 - Temporary permits
+- Section 43-26-9 - Biennial renewal of licenses; continuing competency requirements; voluntary surrender or failure to renew license; restoration and reissuance of license
+- Section 43-26-9.1 - Inactive status; restoration of inactive license; nurses on inactive status barred from practicing
+- Section 43-26-10 - Practicing without a license prohibited
+- Section 43-26-11 - Denial or revocation of licenses; other discipline
+- Section 43-26-11.1 - Administration of anesthesia by certified registered nurse anesthetist
+- Section 43-26-12 - Exceptions to operation of article; burden of proof
+- Section 43-26-13 - Certain information given to the board by licensees; references to rural hospital organizations
+- Section 43-26-30 - Short title
+- Section 43-26-31 - Purpose of article
+- Section 43-26-32 - Definitions
+- Section 43-26-33 - Use of titles and abbreviations by licensed practical nurses
+- Section 43-26-34 - [Repealed] [Reserved] Board of examiners created; appointment of members; terms; filling of vacancies; meetings; reimbursement of expenses
+- Section 43-26-35 - [Repealed] [Reserved] Duties of board generally
+- Section 43-26-36 - Application for licensure; examination; provisional licensure of military medical personnel
+- Section 43-26-36.1 - Fingerprint record and criminal background checks for applicants for licensure; fees
+- Section 43-26-37 - Issuance of license upon passing examination; further educational and training requirements for applicants failing to pass examination within certain period of time
+- Section 43-26-38 - License by endorsement; temporary permit
+- Section 43-26-39 - Renewal of license; continuing competency requirements; voluntary surrender; application for reinstatement; temporary permit
+- Section 43-26-40 - Refusal to grant license; revocation of license; disciplining of licensees
+- Section 43-26-41 - Exceptions to licensure requirements; burden of proof
+- Section 43-26-42 - Criminal violations
+- Section 43-26-50 - Definitions
+- Section 43-26-51 - Mandatory reporting requirement for violations of grounds for discipline; no reporting requirement for knowledge obtained via privileged communications
+- Section 43-26-52 - Institutional reporting requirements; voluntary submission to alternative to discipline program not subject to reporting requirement
+- Section 43-26-53 - Reportable incidents
+- Section 43-26-54 - Court order; citation for civil contempt
+- Section 43-26-55 - Immunity from liability for good-faith reporting
+- Section 43-26-60 - Short title
+- Section 43-26-61 - Compact enacted and entered into by the State of Georgia; text of compact
+- Section 43-26-62 - Rules and regulations
+- Section 43-26-63 - Nurse Licensure Compact administrator
+- Section 43-26-64 - Statutes applicable to nurses practicing under multistate license
+- Section 43-26-65 - [Repealed] Applicability of article to nurses whose states have substantially similar licensure requirements

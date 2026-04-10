@@ -1,0 +1,24 @@
+# Chapter 38 - GEORGIA LIFE AND HEALTH INSURANCE GUARANTY ASSOCIATION (§§ 33-38-1 — 33-38-22)
+
+- Section 33-38-1 - Purpose
+- Section 33-38-2 - Scope
+- Section 33-38-3 - Construction
+- Section 33-38-4 - Definitions
+- Section 33-38-5 - Creation; required membership; functions and powers; supervision of association; accounts for administration and assessment
+- Section 33-38-6 - Membership of the board of directors; vacancies; compensation and reimbursement of expenses
+- Section 33-38-7 - Powers and duties of the association generally
+- Section 33-38-8 - Submission of plan of operation; contents; compliance with such plan
+- Section 33-38-9 - Delegation of powers and duties of the association
+- Section 33-38-10 - Duties and powers of the Commissioner
+- Section 33-38-11 - Records of meetings and negotiations of the association
+- Section 33-38-12 - Examination of the association by the Commissioner; annual report
+- Section 33-38-13 - Exemption of the association from taxation
+- Section 33-38-14 - Immunity from liability for actions or omissions in performance of powers and duties pursuant to this chapter
+- Section 33-38-15 - Assessments against member insurers
+- Section 33-38-16 - Reports and recommendations as to solvency of companies; board may report information as to insolvency of member insurer; examinations of member insurers; reports of insurer insolvencies
+- Section 33-38-17 - Assessment liability, association as creditor of insolvent or impaired insurer; distribution of insolvent insurer's ownership rights; reimbursement of association from disbursement of marshaled assets as available; recovery of distributions to affiliates
+- Section 33-38-18 - Stay of court proceedings to which insolvent insurer is a party; setting aside of default judgments
+- Section 33-38-19 - Notification as to effect of chapter
+- Section 33-38-20 - Appeal to the Commissioner; judicial review
+- Section 33-38-21 - References to the association in advertisements for insurance
+- Section 33-38-22 - Premium tax liability offsets; refunds offset against taxes

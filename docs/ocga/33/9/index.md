@@ -1,0 +1,52 @@
+# Chapter 9 - REGULATION OF RATES, UNDERWRITING RULES, AND RELATED ORGANIZATIONS (§§ 33-9-1 — 33-9-44)
+
+- Section 33-9-1 - Purpose and construction of chapter
+- Section 33-9-2 - Definitions
+- Section 33-9-3 - Application of chapter
+- Section 33-9-4 - Standards applicable to making and use of rates
+- Section 33-9-5 - Authorized joint actions by insurers generally
+- Section 33-9-6 - Authorized joint actions by two or more admitted insurers having common ownership or operating under common management or control generally
+- Section 33-9-7 - Authorized agreements among admitted insurers for apportionment of property and casualty insurance; approval by Commissioner; review of practices and activities
+- Section 33-9-8 - Agreements to share high-risk applicants; approval of rates
+- Section 33-9-9 - Use of rating systems, underwriting rules, or forms of rating or advisory organizations
+- Section 33-9-10 - Conduct of operations by organizations engaging in joint underwriting or reinsurance
+- Section 33-9-11 - Authorization of cooperation among rating organizations and insurers; review of cooperative activities and practices by Commissioner and proceedings thereon
+- Section 33-9-12 - Requirement of license for rating organization; application; fee
+- Section 33-9-13 - Evidence to be submitted by rating organization for license
+- Section 33-9-14 - Examination of rating organization application; investigation of applicant; issuance of license; duration of license
+- Section 33-9-15 - Annual license fee for rating organizations
+- Section 33-9-16 - Adoption by rating organizations of rules governing eligibility for membership generally
+- Section 33-9-17 - Requirement by rating organizations of membership by all insurers having common ownership or operating under common management
+- Section 33-9-18 - Requirements for conduct of operations by advisory organizations generally; engaging in unfair or unreasonable practices
+- Section 33-9-19 - Requirements for conduct of operations by organizations engaging in joint underwriting and joint reinsurance generally; engaging in unfair or unreasonable practices
+- Section 33-9-20 - Maintenance of records by organizations generally; maintenance and reporting of statistics by insurers
+- Section 33-9-21 - Maintenance and filing rates, rating plans, rating systems, or underwriting rules; examination of claim reserve practices by Commissioner
+- Section 33-9-21.1 - Filing and maintenance of information relating to certain casualty insurance
+- Section 33-9-21.2 - Petition for hearing by aggrieved insurer
+- Section 33-9-22 - Conduct of examinations of organizations by Commissioner generally; acceptance of reports of insurance supervisory officials of other states
+- Section 33-9-23 - Examination of admitted insurers; examination of insurers transacting workers' compensation insurance
+- Section 33-9-24 - Examination of officers, managers, agents, and employees of organizations and insurers
+- Section 33-9-25 - Payment of costs of examinations
+- Section 33-9-26 - Review of rate, rating plan, rating system, or underwriting rule by insurer or rating organization
+- Section 33-9-27 - Issuance of notice by Commissioner upon determination of noncompliance with requirements of chapter
+- Section 33-9-28 - Conduct of hearing by Commissioner upon failure to correct noncompliance; notice of hearing; matters considered at hearing
+- Section 33-9-28.1 - Assessment of investigation costs against parties
+- Section 33-9-29 - Issuance of remedial orders by Commissioner generally; suspension or revocation of certificate of authority or license
+- Section 33-9-30 - Suspension or revocation of license or certificate of authority for failure to comply with order of Commissioner
+- Section 33-9-31 - Manner of conduct of proceedings in connection with denial, suspension, or revocation of license or certificate of authority
+- Section 33-9-32 - Validity of contracts to use rates in excess of, or lower than, generally applicable rates
+- Section 33-9-33 - Payment of dividends, savings, or unabsorbed premium deposits by insurers
+- Section 33-9-34 - Acts done, actions taken, or agreements made pursuant to chapter not to constitute violation under other laws
+- Section 33-9-35 - Withholding of information; false or misleading information
+- Section 33-9-36 - Unauthorized premiums; unlawful inducements
+- Section 33-9-37 - Liability of insurer conspiring to fix insurance rates unauthorized by chapter
+- Section 33-9-38 - Penalty for failure to comply with final order of Commissioner; penalty for willful violation of provision of chapter
+- Section 33-9-39 - Restrictions on motor vehicle insurance surcharges relating to accidents involving law enforcement officers, firefighters, or emergency medical technicians
+- Section 33-9-40 - Prohibition of motor vehicle insurance surcharges relating to accidents in which insured not at fault
+- Section 33-9-40.1 - Rates of workers' compensation policies issued to business entities with majority interest held by the same person; limitation on maintenance of reserves; investigations of complaints
+- Section 33-9-40.2 - Workers' compensation insurance premium discount for insured with drug-free workplace program
+- Section 33-9-40.3 - Employers to provide work based learning opportunities for students age 16 and older
+- Section 33-9-41 - [Repealed] [Reserved] Study of effect of 1987 legislation on loss experience; cooperation of insurers; report to General Assembly
+- Section 33-9-42 - Reduction in premiums for motor vehicle liability, first-party medical, and collision coverages for certain named drivers
+- Section 33-9-43 - Reduction in premiums for motor vehicle liability, first-party medical, and collision coverage for named drivers under 25 years of age
+- Section 33-9-44 - Legislative intent

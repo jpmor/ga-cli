@@ -1,0 +1,96 @@
+# Chapter 10 - PUBLIC AUTHORITIES (§§ 32-10-1 — 32-10-133)
+
+- Section 32-10-1 - Definitions
+- Section 32-10-2 - Continuation of Georgia Highway Authority; preservation of authority's powers; protection of rights of bondholders generally
+- Section 32-10-3 - Members; compensation; officers; quorum; record of proceedings
+- Section 32-10-4 - Powers of authority generally
+- Section 32-10-5 - Conveyance of property to authority
+- Section 32-10-6 - Reimbursement of counties and municipalities for property, interests, and rights of way conveyed to authority
+- Section 32-10-7 - Letting of construction contracts by competitive bids
+- Section 32-10-8 - Initiation of projects; preliminary expenses; selection of projects
+- Section 32-10-9 - Leasing of projects
+- Section 32-10-10 - Payment of rentals by lessees; enforcement of covenants and obligations; assignment of rentals by authority
+- Section 32-10-11 - Cessation of rentals; transfer of projects
+- Section 32-10-12 - Designation of projects as part of county and municipal public road systems and as part of state highway system
+- Section 32-10-13 - Composition of authority's fund; purposes for which fund may be pledged or utilized
+- Section 32-10-14 - Designation of moneys received pursuant to article as trust funds
+- Section 32-10-15 - Effect of article
+- Section 32-10-16 - Construction of article
+- Section 32-10-30 - Power of authority to issue bonds generally; attributes of bonds generally
+- Section 32-10-31 - Sale of bonds by public competitive bidding; determination of sale price and interest rate
+- Section 32-10-32 - Form and issuance of bonds
+- Section 32-10-33 - Signing bonds; affixing authority's seal to bonds
+- Section 32-10-34 - Bonds as negotiable instruments; tax exemption
+- Section 32-10-35 - Utilization of bond proceeds; procedure in cases where proceeds are less than or greater than cost of project or combined projects
+- Section 32-10-36 - Issuance of interim receipts, interim certificates, and temporary bonds
+- Section 32-10-37 - Replacement of lost or mutilated bonds
+- Section 32-10-38 - Resolutions for bond issuance; issuance of bonds of a single issue
+- Section 32-10-39 - Effect of bond issuance on state debt; recitals on face of bonds regarding such effect
+- Section 32-10-40 - Trust indentures as security for bonds
+- Section 32-10-41 - Payment of bond proceeds to trustee
+- Section 32-10-42 - Pledges of revenues, rents, and earnings; creation and disposition of sinking funds
+- Section 32-10-43 - Rights and remedies of holders of bonds or interest coupons, of receivers for such holders, and of indenture trustees
+- Section 32-10-44 - Refunding bonds
+- Section 32-10-45 - Investment of funds in bonds; deposit of bonds as securities
+- Section 32-10-46 - Protection of interests and rights of bondholders
+- Section 32-10-47 - Confirmation and validation of bonds
+- Section 32-10-48 - Adjudication regarding lease contracts and rental income
+- Section 32-10-49 - Covenant with holders of bonds as to tax-exempt status of authority property and bonds
+- Section 32-10-50 - Venue and jurisdiction of actions
+- Section 32-10-60 - Definitions
+- Section 32-10-61 - Continuation of State Tollway Authority as State Road and Tollway Authority
+- Section 32-10-62 - Membership; compensation; officers; bylaws; quorum; record of proceedings
+- Section 32-10-63 - Powers of authority generally
+- Section 32-10-63.1 - Exemption for transit service buses, motor vehicles, and rapid rail systems from requirements relating to identification and regulation of motor vehicles
+- Section 32-10-64 - General toll powers; police powers; operation of vehicles through toll collection facilities; penalties; video surveillance authorized
+- Section 32-10-65 - Fixing, revising, charging, and collecting tolls; use and disposition of tolls generally
+- Section 32-10-65.1 - Expiration of tolls
+- Section 32-10-65.2 - Annual reporting
+- Section 32-10-66 - Duty of authority to prescribe rules and regulations for projects generally
+- Section 32-10-67 - Study, financing, construction, and operation of new projects; cooperation and assistance of Department of Transportation
+- Section 32-10-68 - Letting of contracts by competitive bids
+- Section 32-10-69 - Conveyance of real property to authority; power to acquire and expend funds for property interests
+- Section 32-10-70 - Transfer of real and personal property to authority by public bodies and officers
+- Section 32-10-71 - Acquisition, maintenance, and operation of tollway projects; collection of parking fees for public beaches
+- Section 32-10-72 - Authority fund for excess toll and other revenue
+- Section 32-10-73 - Designation of moneys received pursuant to article as trust funds
+- Section 32-10-74 - Effect of article
+- Section 32-10-75 - Construction of article
+- Section 32-10-76 - Reserved
+- Section 32-10-77 - General Assembly approval of funding for street car projects
+- Section 32-10-90 - Form and issuance of bonds; pledging of tolls and other project revenues
+- Section 32-10-90.1 - Garvee bond provisions
+- Section 32-10-91 - Obtaining of loans and issuance and sale of notes and bonds; sale of obligations
+- Section 32-10-92 - Bonds authorized by resolution; specification of terms; public or private sale
+- Section 32-10-93 - Execution, seal, and signing of bonds
+- Section 32-10-94 - Bonds as negotiable instruments; tax exemption
+- Section 32-10-95 - Utilization of bond proceeds; procedure in cases where proceeds are less than or greater than cost of project or combined projects
+- Section 32-10-96 - Issuance of interim receipts, interim certificates, and temporary bonds
+- Section 32-10-97 - Replacement of lost or mutilated bonds
+- Section 32-10-98 - Resolutions for bond issuance; issuance of bonds of a single issue
+- Section 32-10-99 - Credit of state not pledged
+- Section 32-10-100 - Trust indenture as security for bonds
+- Section 32-10-101 - Payment of bond proceeds to trustee
+- Section 32-10-102 - Pledges of revenues, tolls, and earnings; creation and disposition of sinking funds
+- Section 32-10-103 - Rights and remedies of holders of bonds or interest coupons and of indenture trustees
+- Section 32-10-104 - Refunding bonds
+- Section 32-10-105 - Investment of funds in bonds; deposit of bonds as securities
+- Section 32-10-106 - Protection of interests and rights of bondholders
+- Section 32-10-107 - Confirmation and validation of bonds
+- Section 32-10-108 - Transfer of projects to state highway system free from tolls
+- Section 32-10-109 - Covenant with holders as to tax-exempt status of authority property and bonds
+- Section 32-10-110 - Venue and jurisdiction of actions
+- Section 32-10-120 - Short title
+- Section 32-10-121 - Creation; governance; corporate purpose; types of accounts
+- Section 32-10-122 - Definitions
+- Section 32-10-123 - Authority of the board
+- Section 32-10-124 - Power of board; meaning of use of word &quot;bank&quot; for purposes of this article
+- Section 32-10-125 - Revenue sources
+- Section 32-10-126 - Earnings; establishment of accounts and subaccounts; commingling of funds
+- Section 32-10-127 - Loans and other financial assistance; determination of eligible projects
+- Section 32-10-128 - Authority of qualified borrowers
+- Section 32-10-129 - Bank exempted from taxes and assessments
+- Section 32-10-130 - Withholding of funds
+- Section 32-10-131 - Liability of officer, employee, or committee of bank
+- Section 32-10-132 - Notice prior to action or referendum not required
+- Section 32-10-133 - Annual report

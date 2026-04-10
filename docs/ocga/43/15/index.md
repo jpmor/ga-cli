@@ -1,0 +1,36 @@
+# Chapter 15 - PROFESSIONAL ENGINEERS AND LAND SURVEYORS (§§ 43-15-1 — 43-15-31)
+
+- Section 43-15-1 - Short title and purpose
+- Section 43-15-2 - Definitions
+- Section 43-15-3 - State Board of Registration for Professional Engineers; members; funding; employees
+- Section 43-15-4 - Adoption of rules and regulations; meetings; seal; executive director as secretary of board; advisors
+- Section 43-15-5 - Role of executive director
+- Section 43-15-6 - General powers of board; injunctions; continuing education
+- Section 43-15-6.1 - Fees and funding
+- Section 43-15-7 - Unlawful practice as a professional engineer or land surveyor
+- Section 43-15-8 - Engineer-in-training certificate; eligibility
+- Section 43-15-9 - Professional engineer certificate of registration; eligibility
+- Section 43-15-9.1 - Minimum requirements for professional structural engineers
+- Section 43-15-10 - Evaluation of engineering experience
+- Section 43-15-11 - Professional engineer's examination
+- Section 43-15-12 - [Repealed] [Reserved] Surveyor intern certificate; eligibility
+- Section 43-15-13 - Licensure as a professional land surveyor; land surveyor intern certification
+- Section 43-15-13.1 - Requirements for professional land surveyors engaged in design of storm-water management plans, facilities, water distribution lines, and sanitary sewer collection systems
+- Section 43-15-14 - Examinations
+- Section 43-15-15 - Applications for certificates, certificates of registration, and licenses
+- Section 43-15-16 - Registration and licensure by comity
+- Section 43-15-17 - Issuance, expiration, and renewal of certificates and certificates of registration
+- Section 43-15-18 - Effect of certificate of registration or license
+- Section 43-15-19 - Revocation, suspension, or denial of certificates, certificates of registration, or licenses; reprimands
+- Section 43-15-20 - Reissuance of certificates, certificates of registration, and licenses; fee
+- Section 43-15-21 - Temporary permit
+- Section 43-15-22 - Registrant or licensee required to obtain seal; inscription; purpose; fraudulent use of seal
+- Section 43-15-23 - Practice of professional engineering by or through firm, corporation, or other entity
+- Section 43-15-23.1 - Land surveying firms, corporations, or other entities; application; fee; certificate of authorization
+- Section 43-15-24 - Construction of structures jeopardizing health, safety, or welfare; exceptions; record of building permits
+- Section 43-15-25 - Procedure for filing charges against holder of certificate, certificate of registration, or license
+- Section 43-15-26 - Cease and desist orders; civil penalties for violation of order
+- Section 43-15-27 - Enforcement of chapter
+- Section 43-15-28 - Applicability of the &quot;Georgia Administrative Procedure Act.&quot;
+- Section 43-15-29 - Exceptions to operation of chapter
+- Section 43-15-30 - Unlawful acts

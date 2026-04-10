@@ -1,0 +1,75 @@
+# Chapter 9 - CHILD CUSTODY PROCEEDINGS (§§ 19-9-1 — 19-9-134)
+
+- Section 19-9-1 - Parenting plans; requirements for plan
+- Section 19-9-1.1 - Binding arbitration on issue of child custody and related matters
+- Section 19-9-1.2 - Required domestic relations case filing information form
+- Section 19-9-2 - Right of surviving parent to custody of child; discretion of judge
+- Section 19-9-3 - Establishment and review of child custody and visitation
+- Section 19-9-4 - Investigation of abuse, neglect, or other acts which adversely affect health of child in custody disputes; cost
+- Section 19-9-5 - Custody agreements; ratification; supplementation
+- Section 19-9-6 - Definitions
+- Section 19-9-7 - Visitation by parent who has committed acts of family violence; conditional orders; confidentiality; joint counseling; conditions for supervised visitation
+- Section 19-9-20 - Short title
+- Section 19-9-21 - Purpose; construction
+- Section 19-9-22 - Definitions
+- Section 19-9-23 - Actions to obtain change of legal or physical custody; use of certain complaints prohibited
+- Section 19-9-24 - Actions by physical or legal custodian not permitted in certain instances
+- Section 19-9-40 - Short title
+- Section 19-9-41 - Definitions
+- Section 19-9-42 - Article inapplicable to adoptions or authorizations for emergency care
+- Section 19-9-43 - Proceeding pertaining to Indian child exempted from article
+- Section 19-9-44 - Child custody determinations of foreign country
+- Section 19-9-45 - Binding authority of child custody determination
+- Section 19-9-46 - Priority of question of jurisdiction
+- Section 19-9-47 - Notice and proof of service on persons outside the state
+- Section 19-9-48 - Personal jurisdiction not obtained in other matters; service of process
+- Section 19-9-49 - Communication between court of this state and other states
+- Section 19-9-50 - Testimony by deposition; electronic deposition; evidence transmitted by technological means not to be excluded
+- Section 19-9-51 - Hearings and studies in another state; costs
+- Section 19-9-52 - through 19-9-60 - [Repealed]
+- Section 19-9-61 - Jurisdiction requirements for initial child custody determinations; physical presence alone insufficient
+- Section 19-9-62 - Prerequisites for termination of exclusive, continuing jurisdiction
+- Section 19-9-63 - Prerequisites for modifying custody determination from foreign court
+- Section 19-9-64 - Temporary emergency jurisdiction; continuing effect; communicating with other courts
+- Section 19-9-65 - Notice required; intervention
+- Section 19-9-66 - Procedure when proceedings pending in another state
+- Section 19-9-67 - Finding of inconvenient forum; conditions
+- Section 19-9-68 - Wrongfully obtained jurisdiction; actions to prevent repetition of unjustifiable conduct; expenses
+- Section 19-9-69 - Information required as part of pleading or affidavit; continuing duty; sealing of information; children residing in family violence shelters
+- Section 19-9-70 - Requiring appearance for in-state and out-of-state residents; other court orders
+- Section 19-9-81 - Definitions
+- Section 19-9-82 - Orders made under the Hague Convention
+- Section 19-9-83 - Recognition of foreign custody decrees; remedies
+- Section 19-9-84 - Authority to enter temporary orders if lacking jurisdiction; remedy from court with jurisdiction; victims of family violence
+- Section 19-9-85 - Registering foreign custody determinations; requirements of registering court; contesting registration; confirmation of registered order
+- Section 19-9-86 - Granting relief and enforcing registered custody determinations
+- Section 19-9-87 - Communication between enforcing court and modifying court
+- Section 19-9-88 - Verification and petition for enforcement requirements; sealing; appearance; expenses
+- Section 19-9-89 - Service of petitions and orders
+- Section 19-9-90 - Finding of immediate physical custody; awarding of fees, costs, and expenses; drawing adverse inference from refusal to testify; spousal relationship irrelevant
+- Section 19-9-91 - Verified application for warrant seeking physical custody; requirement for serious physical harm; warrant requirements; enforceability; conditions
+- Section 19-9-92 - Awarding of necessary and reasonable expenses
+- Section 19-9-93 - Full faith and credit to orders of other states
+- Section 19-9-94 - Appeals
+- Section 19-9-95 - Actions by district attorney
+- Section 19-9-96 - Assistance by law enforcement
+- Section 19-9-97 - Recovering expenses of district attorney and law enforcement
+- Section 19-9-101 - Promotion of uniformity between states
+- Section 19-9-102 - Application
+- Section 19-9-103 - Construction
+- Section 19-9-104 - Conflicts with Child Custody Intrastate Jurisdiction Act
+- Section 19-9-120 - Short title
+- Section 19-9-121 - Definitions
+- Section 19-9-122 - Delegation of child caregiving authority
+- Section 19-9-123 - Reporting requirement from nonprofit entities or faith based organizations; departmental responsibilities and liabilities; regulation
+- Section 19-9-124 - Parental limitation on delegation of power of attorney; rights, duties, and responsibilities of agents; acknowledgment of acceptance of responsibilities; approval of agents; organizational and entity record keeping
+- Section 19-9-125 - Notice to noncustodial parent of execution of power of attorney; objection by noncustodial parent; compliance with relocation notice requirements
+- Section 19-9-126 - Impact of execution on parental rights
+- Section 19-9-127 - Temporary written permission to seek emergency medical treatment or other services for children
+- Section 19-9-128 - No limitation on role of Division of Family and Children Services
+- Section 19-9-129 - Execution of power of attorney; probate court responsibilities; revocation or execution of subsequent power of attorney
+- Section 19-9-130 - Authority of agent; revocation, termination, or resignation of agent exercising power of attorney; right of parent to access records while power of attorney in effect
+- Section 19-9-131 - Child's status upon execution of power of attorney; delegation of authority must specify applicability
+- Section 19-9-132 - Delegation to grandparent; delegation by deployed parents
+- Section 19-9-133 - Continuing application of former provisions as applicable to grandparents
+- Section 19-9-134 - Power of attorney form

@@ -1,0 +1,72 @@
+# Chapter 5 - GEORGIA UNIFORM SECURITIES ACT OF 2008 (§§ 10-5-1 — 10-5-108)
+
+- Section 10-5-1 - Short title
+- Section 10-5-2 - Definitions
+- Section 10-5-3 - Citations to United States Code
+- Section 10-5-4 - Reference to agency or department of United States
+- Section 10-5-5 - Electronic records and signatures
+- Section 10-5-6 - [Repealed]
+- Section 10-5-7 - [Repealed]
+- Section 10-5-8 - [Repealed]
+- Section 10-5-9 - [Repealed] Exempt Transactions
+- Section 10-5-10 - Exemptions from registration of securities
+- Section 10-5-11 - Exempt transactions
+- Section 10-5-12 - Exemption of securities, transactions, or offers by adoption of rule or issuance of order
+- Section 10-5-13 - Denial, suspension, or revocation of exemption
+- Section 10-5-14 - [Repealed]
+- Section 10-5-15 - [Repealed]
+- Section 10-5-16 - [Repealed]
+- Section 10-5-17 - [Repealed]
+- Section 10-5-18 - [Repealed]
+- Section 10-5-19 - [Repealed]
+- Section 10-5-20 - Restrictions on sales of securities
+- Section 10-5-21 - Filing of records
+- Section 10-5-22 - Registration by coordination; additional records; effective date of federal registration statement
+- Section 10-5-23 - Registration by qualification; additional information and records required; effective date
+- Section 10-5-23.1 - [Repealed]
+- Section 10-5-24 - Filing of registration statement; conditions of registration; amendment
+- Section 10-5-25 - Denying, suspending, or revoking the effectiveness of registration statement; publication of conduct constituting violations; notice and hearing
+- Section 10-5-26 - Waiver or modification of requirements by Commissioner
+- Section 10-5-30 - Registration requirements for broker-dealers; exemptions
+- Section 10-5-31 - Registration requirements for agents; exemptions
+- Section 10-5-32 - Registration requirements for investment advisors; exemptions
+- Section 10-5-33 - Registration requirement for investment adviser representatives; exemptions
+- Section 10-5-34 - Registration requirements for federal covered investment advisers
+- Section 10-5-35 - Application for registration; consent to service of process
+- Section 10-5-36 - Successors to registration; change of name, form of organization, and control
+- Section 10-5-37 - Notice of termination
+- Section 10-5-38 - Withdrawal of registration
+- Section 10-5-39 - Fees
+- Section 10-5-40 - Financial requirements
+- Section 10-5-41 - Denial of or placement of conditions or limitations on registration; civil penalties
+- Section 10-5-50 - Unlawful practices with offer, sale, or purchase of security
+- Section 10-5-51 - Fraud or deceit unlawful; adoption of rule
+- Section 10-5-52 - Burden on person claiming exemption, preemption, or exclusion in civil and criminal proceedings
+- Section 10-5-53 - Order or rule may require filing of prospectus and additional information
+- Section 10-5-54 - Unlawful to make false or misleading statements
+- Section 10-5-55 - Acceptance of filings not indicative of accuracy, merit, or qualification
+- Section 10-5-56 - Liability for defamation related to information contained in record
+- Section 10-5-57 - Penalties for violations
+- Section 10-5-58 - Enforcement of civil liability; damages
+- Section 10-5-59 - Exemptions to liability
+- Section 10-5-70 - Administration of chapter; Commissioner of Securities; authority
+- Section 10-5-71 - Powers of Commissioner
+- Section 10-5-72 - Violations; remedies and penalties
+- Section 10-5-73 - Cease and desist orders; denying, revoking, or conditioning exemptions for broker-dealers; civil penalties
+- Section 10-5-74 - Issuance of forms and orders; adoption and amendment of rules
+- Section 10-5-75 - Register of applications for registration of securities; registration statements; notice filings; notices of claims; furnishing certain information to the public
+- Section 10-5-76 - Public records; exceptions
+- Section 10-5-77 - Intergovernmental cooperation, coordination, and consultation; sharing of records and information
+- Section 10-5-78 - Rules and orders issued under this chapter subject to judicial review
+- Section 10-5-79 - Applicability of chapter to certain offers to purchase or sell
+- Section 10-5-80 - Consent to service of process
+- Section 10-5-90 - Predecessor Act governs actions pending and registrations, orders, and rules in effect on July 1, 2009
+- Section 10-5-100 - Definitions
+- Section 10-5-101 - Prompt notification to Commissioner of exploitation; requirements
+- Section 10-5-102 - Notifications to designated third parties
+- Section 10-5-103 - Delayed disbursement if financial exploitation suspected; expiration; judicial extension of delay
+- Section 10-5-104 - Limitations on administrative and civil liability
+- Section 10-5-105 - Disclosure on investigations
+- Section 10-5-106 - Accessibility of books and records
+- Section 10-5-107 - Administrative and civil liability
+- Section 10-5-108 - Reporting requirements remain

@@ -1,0 +1,26 @@
+# Chapter 53 - STRATEGIC HEALTH CARE MANAGEMENT AND COORDINATION (§§ 31-53-1 — 31-53-53)
+
+- Section 31-53-1 - Legislative findings
+- Section 31-53-2 - Definitions
+- Section 31-53-3 - Establishment of Office of Health Strategy and Coordination; powers and duties
+- Section 31-53-4 - Appointment of director; qualifications; authority; additional personnel
+- Section 31-53-5 - Advisory committees; membership; function
+- Section 31-53-6 - Compiling of reports; public dissemination of data
+- Section 31-53-20 - Legislative findings; public policy declaration
+- Section 31-53-21 - Establishment of Georgia Data Access Forum; composition; membership
+- Section 31-53-22 - Purpose
+- Section 31-53-23 - Consultation with third party vendors
+- Section 31-53-40 - Definitions
+- Section 31-53-41 - GAPCD Advisory Committee established; membership; terms; meeting; reimbursement for expenses; appointment of nonvoting members
+- Section 31-53-42 - Initial recommendations requirements; ongoing recommendations; evaluations
+- Section 31-53-43 - Funding; beginning of operations
+- Section 31-53-44 - Objectives and use of GAPCD
+- Section 31-53-45 - Role of administrator
+- Section 31-53-46 - Design criteria
+- Section 31-53-47 - Submission of claims; personal identification data not public record
+- Section 31-53-48 - Operation of GAPCD
+- Section 31-53-49 - Requirements for annual report
+- Section 31-53-50 - Penalties for noncompliance
+- Section 31-53-51 - Regulatory authority
+- Section 31-53-52 - Impact of insufficient funding
+- Section 31-53-53 - Reporting exemption for self-funded employer or plan sponsor

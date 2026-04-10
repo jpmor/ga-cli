@@ -1,0 +1,29 @@
+# Chapter 14 - USE OF RADAR SPEED DETECTION DEVICES AND TRAFFIC-CONTROL SIGNAL DEVICES (§§ 40-14-1 — 40-14-26)
+
+- Section 40-14-1 - Definitions
+- Section 40-14-1.1 - Definitions
+- Section 40-14-1.2 - Agent not private investigator or subject to certain laws
+- Section 40-14-2 - Permit required for use; use not authorized where officers paid on fee system; operation by registered or certified peace officers
+- Section 40-14-3 - Application for permit; use of device while application pending
+- Section 40-14-4 - Compliance with rules of Federal Communications Commission; certification of devices
+- Section 40-14-5 - Testing of radar devices; removal of inaccurate radar devices from service; maintenance of testing log and independent calibration tests of automated traffic enforcement devices
+- Section 40-14-6 - Warning signs required; signage requirements
+- Section 40-14-7 - Visibility of vehicle from which device is operated
+- Section 40-14-8 - When case may be made and conviction had
+- Section 40-14-9 - Certain evidence inadmissible; use of device on hill
+- Section 40-14-10 - Unlawful use of devices generally
+- Section 40-14-11 - Investigations by commissioner of public safety; issuance of order suspending or revoking permit; ratio of speeding fines to agency's budget
+- Section 40-14-12 - Administrative hearing upon permit suspension or revocation
+- Section 40-14-13 - Administrative and judicial appeal of decision suspending or revoking permit
+- Section 40-14-14 - Petition for reconsideration following permit suspension or revocation
+- Section 40-14-15 - Rehearing or restoration of permit at direction of Governor
+- Section 40-14-16 - Restrictions on suspension or revocation of drivers' licenses; reports to Department of Driver Services to specify speed
+- Section 40-14-17 - Laser devices; reliability and admissibility of evidence
+- Section 40-14-18 - Enforcement of speed limit in school zones with recorded images; civil monetary penalty; consequences for failure to pay penalty
+- Section 40-14-20 - Definitions
+- Section 40-14-21 - Traffic-control signal monitoring devices; application and permit for operation; collection and use of civil monetary penalty; inspection of devices
+- Section 40-14-22 - Timing of traffic-control signals utilizing monitoring devices
+- Section 40-14-23 - Use of signs to notify motorists of traffic-control signal monitoring devices
+- Section 40-14-24 - Reports on traffic-control signal monitoring device use
+- Section 40-14-25 - Complaints about traffic-control signal monitoring devices; rebuttable presumption; remission of revenues
+- Section 40-14-26 - Revoking traffic-control signal monitoring device permit; hearing; reconsideration

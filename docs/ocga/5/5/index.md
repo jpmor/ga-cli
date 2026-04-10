@@ -1,0 +1,22 @@
+# Chapter 5 - NEW TRIAL (§§ 5-5-1 — 5-5-51)
+
+- Section 5-5-1 - [Effective until 7/1/2026] Power of probate, superior, state, juvenile, State-wide Business, and City of Atlanta courts
+- Section 5-5-1 - [Effective 7/1/2026] Power of probate, superior, state, juvenile, State-wide Business, Tax, and City of Atlanta courts
+- Section 5-5-20 - Verdict contrary to evidence and justice
+- Section 5-5-21 - Verdict against weight of evidence
+- Section 5-5-22 - Illegal admission or exclusion of evidence
+- Section 5-5-23 - Newly discovered evidence
+- Section 5-5-24 - Error in instructions; objection required in civil cases; requested instructions; review of charges involving substantial error
+- Section 5-5-25 - Other grounds
+- Section 5-5-40 - Time of motion for new trial generally; amendments; extension of time for filing transcript; time of hearing; priority to cases in which death penalty imposed; appeal not limited to grounds urged; new trial on court's own motion
+- Section 5-5-41 - Requirements as to extraordinary motions for new trial generally; notice of filing of motion; limitations as to number of extraordinary motions in criminal cases; DNA testing
+- Section 5-5-42 - Form for motion for new trial
+- Section 5-5-43 - Allowance of filing of motion by judge other than trial judge
+- Section 5-5-44 - Service of rule nisi; filing and recordation of motion
+- Section 5-5-45 - Amendment of rule nisi
+- Section 5-5-46 - Operation of rule nisi as supersedeas in criminal cases; superseding of sentence
+- Section 5-5-47 - Right to give supersedeas bond for bailable offense upon filing of new trial motion; assessment and approval of bond
+- Section 5-5-48 - Time of new trial generally
+- Section 5-5-49 - Trial of cases returned for new trial by appellate courts
+- Section 5-5-50 - Standard for review by appellate court of first grant of new trial
+- Section 5-5-51 - Written basis for exercise of judicial discretion for new trial

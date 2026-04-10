@@ -1,0 +1,33 @@
+# Chapter 2 - ACTIONS GENERALLY (§§ 9-2-1 — 9-2-63)
+
+- Section 9-2-1 - Definitions
+- Section 9-2-2 - Actions in personam; actions in rem
+- Section 9-2-3 - Remedy for every right
+- Section 9-2-4 - Pursuit of consistent or inconsistent remedies
+- Section 9-2-5 - Prosecution of two simultaneous actions for same cause against same party prohibited; election; pendency of former action as defense; exception
+- Section 9-2-6 - Demand prior to action not necessary
+- Section 9-2-7 - Implied promise to pay for services or property
+- Section 9-2-8 - Private rights of action not created unless expressly stated
+- Section 9-2-20 - Parties to actions on contracts; action by beneficiary
+- Section 9-2-21 - Parties to actions for torts; notice to Department of Community Health for a party who has received medical assistance benefits
+- Section 9-2-22 - Joinder of defendants in action for deficiencies in construction
+- Section 9-2-23 - Separate action by tenant in common
+- Section 9-2-24 - Action by unincorporated association
+- Section 9-2-25 - Action against unincorporated association; service of process; venue; what property bound by judgment
+- Section 9-2-26 - Prosecution of action against less than all joint contractors or copartners
+- Section 9-2-27 - Action against representative of joint obligor
+- Section 9-2-28 - Effect of action by minor alone
+- Section 9-2-29 - Plaintiff in penal action
+- Section 9-2-30 - Substitution of plaintiff's spouse or others in action on chose in action assigned as year's support
+- Section 9-2-40 - No abatement on death of party where cause survives
+- Section 9-2-41 - Nonabatement of tort actions; survival of cause; no punitive damages against representative
+- Section 9-2-42 - Death of one or more codefendants; suggestion of record
+- Section 9-2-43 - No abatement where some defendants not liable
+- Section 9-2-44 - Effect of former recovery; pendency of former action
+- Section 9-2-45 - No abatement for pendency of action in another state
+- Section 9-2-46 - Institution of action on same cause in other state; setting case in this state; postponement limited
+- Section 9-2-47 - Precedence of first filed informer's action; abatement of others
+- Section 9-2-60 - Dismissal for want of prosecution; costs; recommencement within six months
+- Section 9-2-61 - Renewal of case after dismissal
+- Section 9-2-62 - Retraxit and dismissal or discontinuance distinguished
+- Section 9-2-63 - Affidavit of indigence for renewal of action

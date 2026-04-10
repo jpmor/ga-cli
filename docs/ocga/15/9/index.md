@@ -1,0 +1,99 @@
+# Chapter 9 - PROBATE COURTS (§§ 15-9-1 — 15-9-158)
+
+- Section 15-9-1 - Election; term
+- Section 15-9-1.1 - Required training courses; attendance record; expenses
+- Section 15-9-2 - Eligibility for judgeship; restrictions on fiduciary role
+- Section 15-9-2.1 - Appointment, compensation, authority, qualifications, training, and other limitations of associate probate court judges
+- Section 15-9-3 - Restrictions on practice of law
+- Section 15-9-4 - Additional judicial eligibility requirements in certain counties
+- Section 15-9-5 - When judge ineligible for reelection
+- Section 15-9-6 - Oath of office
+- Section 15-9-7 - Bond
+- Section 15-9-8 - Qualification; bond
+- Section 15-9-9 - When other security ordered; failure to comply
+- Section 15-9-10 - Temporary filling of vacancy; order of priority; compensation
+- Section 15-9-11 - Special election to fill vacancy; term of individual elected
+- Section 15-9-11.1 - [Repealed] Assumption of duties by chief clerk upon vacancy in office of probate judge; filling of vacancy; compensation
+- Section 15-9-12 - Disposition of unfinished proceedings of predecessor
+- Section 15-9-13 - Procedure when judge unable to act; compensation
+- Section 15-9-14 - [Repealed] Sheriffs to act as administrators when probate judge is superior court clerk in absence of county administrator
+- Section 15-9-15 - [Effective Until 7/1/2025] Council of Probate Court Judges of Georgia
+- Section 15-9-15 - [Effective 7/1/2025] Council of Probate Court Judges of Georgia; notifications
+- Section 15-9-16 - Authority of retired judge to perform marriage ceremonies
+- Section 15-9-17 - Serving a minor or incapacitated adult
+- Section 15-9-18 - Remittance of interest from cash bonds
+- Section 15-9-30 - Subject matter jurisdiction; powers and duties generally; copy of Official Code of Georgia Annotated furnished for each judge; authority of probate court judges
+- Section 15-9-30.1 - Jurisdiction in cases involving removal of obstructions from roads
+- Section 15-9-30.2 - Approval of bonds, qualification of officers, and delivery of commissions
+- Section 15-9-30.3 - Jurisdiction over Game and Fish Code misdemeanor violations
+- Section 15-9-30.4 - Jurisdiction over violations of Code Section 12-3-10 involving parks, historic sites, and recreational areas
+- Section 15-9-30.5 - Jurisdiction over certain violations of &quot;Georgia Boat Safety Act.&quot;
+- Section 15-9-30.6 - Jurisdiction over certain drug and alcohol offenses
+- Section 15-9-30.7 - Jurisdiction over certain cases involving litter
+- Section 15-9-30.8 - Jurisdiction over certain cases involving operation of off-road vehicle
+- Section 15-9-30.9 - Jurisdiction over certain animal control cases
+- Section 15-9-31 - Authority of judge of probate court to grant administration
+- Section 15-9-32 - Jurisdiction over estate of nonresident with property or cause in several counties
+- Section 15-9-33 - Authority to administer oaths
+- Section 15-9-34 - Contempt powers
+- Section 15-9-35 - Power to cite absconding fiduciaries; publication of order; communication with appointing court in another state
+- Section 15-9-36 - Judges of probate courts as clerks thereof; chief clerk; powers of clerks; uncontested matters; oaths
+- Section 15-9-37 - Duties of clerks or probate judges acting as clerks; storage of records for retrieval from automated or computerized record-keeping method or system; installation and use of photostatic equipment or other photographic equipment for recording documents
+- Section 15-9-38 - Filing of wills; confidentiality of files; public docket
+- Section 15-9-39 - Docket of applications and cases
+- Section 15-9-40 - Filing and recording of proceedings
+- Section 15-9-41 - Minutes of proceedings
+- Section 15-9-42 - Docket of fiduciaries; storage of records for retrieval from automated or computerized record-keeping method or system
+- Section 15-9-43 - Preservation of newspapers
+- Section 15-9-44 - [Repealed] [Reserved] Use of photostatic and photographic equipment
+- Section 15-9-45 - [Repealed] [Reserved] Filing of photostatic records
+- Section 15-9-46 - Validity of photostatic records
+- Section 15-9-47 - Default judgments; governing provisions
+- Section 15-9-60 - Fees
+- Section 15-9-60.1 - Additional marriage license fee for Children's Trust Fund
+- Section 15-9-61 - Payment of fees prerequisite to filing; affidavit of indigence
+- Section 15-9-62 - Issuance of writ of fieri facias for fees; defenses
+- Section 15-9-63 - Schedule of minimum salaries
+- Section 15-9-63.1 - Compensation for services as magistrate or chief magistrate; longevity increases
+- Section 15-9-64 - Supplement to minimum salaries
+- Section 15-9-64.1 - Monthly contingent expense allowance schedule for the operation of the probate judge's office
+- Section 15-9-65 - Longevity increases
+- Section 15-9-66 - Effect of minimum salary provisions on judges in office on July 1, 1991; expenses not covered by salary
+- Section 15-9-67 - [Repealed] [Reserved] Fee systems continued until enactment of local legislation
+- Section 15-9-68 - Limitation of probate judge's fees
+- Section 15-9-80 - Location of office
+- Section 15-9-81 - Additional offices authorized in certain counties
+- Section 15-9-82 - Terms of court; place for court
+- Section 15-9-83 - Hours for conducting business; official closings for legal holidays and inclement weather
+- Section 15-9-84 - Adjournments
+- Section 15-9-85 - Adjournment by appointed person
+- Section 15-9-86 - Verified petitions; notice and service thereof
+- Section 15-9-86.1 - Citations and responsive pleadings in certain types of proceedings
+- Section 15-9-87 - Contents of order
+- Section 15-9-88 - Objections or caveats to order
+- Section 15-9-89 - Amendment of petition and caveat
+- Section 15-9-90 - Forms for probate court; local alteration
+- Section 15-9-100 - Creation of Probate Judges Training Council; duties of council
+- Section 15-9-101 - &quot;Training council&quot; defined; powers; bond of personnel; audits
+- Section 15-9-102 - Composition; terms of office; vacancies
+- Section 15-9-103 - &quot;Training council&quot; defined; meetings; officers; reimbursement of expenses
+- Section 15-9-104 - Eligibility of councilmember to hold office of judge of probate court
+- Section 15-9-120 - Definitions
+- Section 15-9-121 - Jury trials in civil cases
+- Section 15-9-122 - Applicability of laws and rules
+- Section 15-9-123 - Appeal
+- Section 15-9-124 - Enforcement of judgments
+- Section 15-9-125 - Jurors
+- Section 15-9-126 - Fees
+- Section 15-9-127 - Concurrent jurisdiction with superior courts; probate court jurisdiction
+- Section 15-9-140 - Jurisdiction of judges
+- Section 15-9-141 - Retired judges; senior judge appointment; written request for assistance
+- Section 15-9-150 - Requesting district attorney to prosecute criminal cases; creation of prosecuting attorney position by ordinance or resolution; appointment of prosecuting attorney
+- Section 15-9-151 - Qualifications of prosecuting attorney; appointment of assistant district attorneys
+- Section 15-9-152 - Oath of office
+- Section 15-9-153 - Determining if prosecuting attorney shall be full time or part time; limitations on private practice of law
+- Section 15-9-154 - Disqualification of prosecuting attorney
+- Section 15-9-155 - Prosecuting attorney's duties; authority
+- Section 15-9-156 - Compensation; reimbursement of expenses
+- Section 15-9-157 - Additional assistant prosecuting attorneys, employees, or independent contractors; duties; compensation
+- Section 15-9-158 - Qualifications of assistant prosecuting attorneys; assistance by qualified law student or law school graduate

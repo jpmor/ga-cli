@@ -1,0 +1,39 @@
+# Chapter 5 - LIBRARIES (§§ 20-5-1 — 20-5-65)
+
+- Section 20-5-1 - State policy
+- Section 20-5-1.1 - Board of regents defined
+- Section 20-5-2 - Powers and duties of the board of regents and director of University of Georgia Libraries; abolition of State Library Commission and transfer of functions; reports of state publications; electronic submission
+- Section 20-5-3 - Disbursement of funds
+- Section 20-5-4 - Annual reports by public libraries
+- Section 20-5-5 - Internet safety policies in public libraries
+- Section 20-5-20 - Power of city to tax and appropriate for library purposes; election of trustees to control library funds
+- Section 20-5-21 - Disbursement of library appropriations; annual reports by trustees
+- Section 20-5-22 - Acceptance of donations by trustees
+- Section 20-5-23 - Powers of trustees over library; librarian and assistant librarian or officers
+- Section 20-5-24 - City may bind itself to accept donation and make annual payments for library
+- Section 20-5-40 - Power of local governments to establish public libraries; procedures for establishment
+- Section 20-5-41 - Establishment of boards of trustees to govern libraries
+- Section 20-5-42 - Membership of boards of trustees
+- Section 20-5-43 - Duties and responsibilities of boards of trustees
+- Section 20-5-44 - Compensation of trustees
+- Section 20-5-45 - Directors of library systems; duties and responsibilities
+- Section 20-5-46 - Reports of the library system
+- Section 20-5-47 - Written constitution
+- Section 20-5-48 - Ownership of library property
+- Section 20-5-49 - Authorization of library systems to enter into contracts
+- Section 20-5-50 - Requirement of finance bond
+- Section 20-5-51 - Dissolution of or withdrawal from a library system
+- Section 20-5-52 - Prohibition of theft or damage of library property
+- Section 20-5-53 - Procedures following failure of library patron to return borrowed property
+- Section 20-5-54 - Prohibition of concealing or removing library property
+- Section 20-5-55 - Immunity of library agents and employees from civil actions arising from part
+- Section 20-5-56 - Requirement of certification of librarians
+- Section 20-5-57 - Penalty
+- Section 20-5-58 - Time requirement for existing library systems to conform with part
+- Section 20-5-59 - Exemption of municipal public libraries from part
+- Section 20-5-60 - &quot;State library agency&quot; defined
+- Section 20-5-61 - Compact enacted; terms
+- Section 20-5-62 - Participating political subdivisions to comply with laws on capital outlay and pledging of credit
+- Section 20-5-63 - State and federal aid to interstate library districts
+- Section 20-5-64 - Appointment of compact administrator and deputy administrators
+- Section 20-5-65 - Notices of withdrawal from compact

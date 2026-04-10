@@ -1,0 +1,123 @@
+# Chapter 3 - HOUSING GENERALLY (§§ 8-3-1 — 8-3-332)
+
+- Section 8-3-1 - Short title
+- Section 8-3-2 - Legislative findings and declaration of necessity
+- Section 8-3-3 - Definitions
+- Section 8-3-3.1 - Additional definitions
+- Section 8-3-4 - Creation of housing authorities
+- Section 8-3-5 - Findings required before adoption of resolution
+- Section 8-3-6 - Resolution as conclusive evidence of authority's establishment and authority
+- Section 8-3-7 - Applicability of local laws, ordinances, and regulations to housing projects
+- Section 8-3-8 - Exemption of authorities and their property from taxes and special assessments; payments in lieu of taxes and special assessments
+- Section 8-3-9 - Filing reports with clerk; recommending legislation or other necessary action
+- Section 8-3-10 - Vesting of fee simple title upon an authority's exercise of power of eminent domain
+- Section 8-3-11 - Renting of housing units
+- Section 8-3-12 - Dwelling accommodations for persons of low income; duties with respect to rentals and tenant selection
+- Section 8-3-13 - Cooperation and joint operation by authorities
+- Section 8-3-14 - Consolidated housing authorities for two or more municipalities
+- Section 8-3-15 - Extraterritorial operation of city housing authorities
+- Section 8-3-16 - Providing housing in rural areas
+- Section 8-3-17 - Dormitories
+- Section 8-3-30 - General powers; applicability of laws as to acquisition, operation, or disposition of property by other public bodies
+- Section 8-3-31 - Eminent domain
+- Section 8-3-31.1 - Eminent domain to be exercised solely for public use
+- Section 8-3-32 - Cooperation with federal government
+- Section 8-3-33 - Contracts with federal government
+- Section 8-3-34 - Housing studies and analyses
+- Section 8-3-35 - Legislative findings; additional powers; bonds
+- Section 8-3-36 - Prohibition of nonresidents suspected of criminal acts
+- Section 8-3-50 - Appointment, qualifications, and tenure of commissioners; reimbursement for expenses
+- Section 8-3-51 - Authority; quorum; voting; officers; employees
+- Section 8-3-52 - Disclosure and abstention requirements for interested commissioners and employees
+- Section 8-3-53 - Removal of commissioners
+- Section 8-3-70 - Authorized bonds
+- Section 8-3-71 - Bonds not personal liability nor public debt
+- Section 8-3-72 - Issued for public purpose; tax exemption; bonds as contract
+- Section 8-3-73 - Form; terms; interest
+- Section 8-3-74 - Sale of bonds
+- Section 8-3-75 - Signatures; negotiability
+- Section 8-3-76 - Validity
+- Section 8-3-77 - Powers of authorities as to securing payment of bonds and lease obligations
+- Section 8-3-78 - Remedies of obligee of an authority generally
+- Section 8-3-79 - Additional remedies conferrable on obligee by an authority
+- Section 8-3-80 - Property exempt from execution
+- Section 8-3-81 - Bonds and other obligations of authorities as legal investments
+- Section 8-3-100 - Procedure for creating an authority
+- Section 8-3-101 - Transfer of property to an authority
+- Section 8-3-102 - Resolution declaring need
+- Section 8-3-103 - Public hearings on adoption of resolution
+- Section 8-3-104 - Resolution as conclusive evidence of establishment
+- Section 8-3-105 - Powers of authority generally
+- Section 8-3-106 - Appointment of commissioners
+- Section 8-3-107 - Appointment of additional commissioner
+- Section 8-3-108 - Terms of office and removal of commissioners
+- Section 8-3-109 - Powers of commissioners
+- Section 8-3-110 - Area of operation of county and regional authorities
+- Section 8-3-111 - Increase in area of operation
+- Section 8-3-112 - Transfer of property to authority
+- Section 8-3-113 - Requirements for declaration of need for expansion of authority
+- Section 8-3-114 - Exclusion of counties; procedure; effect
+- Section 8-3-115 - Requirements for declaration of need for exclusion from authority
+- Section 8-3-116 - Detachment of county by its own resolution; effect
+- Section 8-3-117 - Creation of authority after exclusion or detachment
+- Section 8-3-118 - Public hearing prior to adoption of resolution
+- Section 8-3-130 - Declaration of necessity
+- Section 8-3-131 - Definitions
+- Section 8-3-132 - Conditions precedent to exercise of powers; scope of rights and powers
+- Section 8-3-133 - Existence of war or national emergency as condition precedent to initiation of project
+- Section 8-3-134 - Cooperation with other entities
+- Section 8-3-135 - Aid and cooperation by state public bodies in development and administration of projects
+- Section 8-3-136 - Issuance of bonds, notes, and other obligations
+- Section 8-3-137 - Authorization for projects
+- Section 8-3-150 - Short title
+- Section 8-3-151 - Legislative findings and declaration of necessity
+- Section 8-3-152 - Definitions
+- Section 8-3-153 - Powers of state public bodies as to housing projects generally
+- Section 8-3-154 - Contracts for payments to state public bodies for improvements, services, and facilities provided
+- Section 8-3-155 - Appropriations to an authority by a city or a county for first-year expenses; loans and donations to authority
+- Section 8-3-156 - Procedure for exercise of powers granted by article to state public bodies
+- Section 8-3-170 - Legislative findings; powers and duties of State Office of Housing
+- Section 8-3-171 - State housing goal and report; assistance by other agencies and political subdivisions
+- Section 8-3-172 - Funding for single-family housing; construction requirements
+- Section 8-3-200 - State policy; purposes and construction of article
+- Section 8-3-201 - Definitions
+- Section 8-3-202 - Unlawful practices in selling or renting dwellings; exceptions
+- Section 8-3-203 - Unlawful denial of or discrimination in membership or participation in service or organization relating to selling or renting dwellings
+- Section 8-3-204 - Discrimination in residential real estate related transactions; appraisals
+- Section 8-3-205 - Permissible limitations in sale, rental, or occupancy of dwellings by religious organizations or private clubs; housing for older persons
+- Section 8-3-206 - Powers and duties of administrator; housing and urban development programs of other agencies
+- Section 8-3-207 - Educational and conciliatory activities; conferences; consultation as to extent of discrimination; reports
+- Section 8-3-208 - Discriminatory housing practice complaint procedures
+- Section 8-3-209 - Investigations; conciliation agreements; final report; breach of conciliation agreement; disclosure; action for temporary relief; transmittal of information
+- Section 8-3-210 - Procedure where local fair housing law applicable
+- Section 8-3-211 - Procedure on filing of discriminatory housing practice complaint
+- Section 8-3-212 - Subpoenas and discovery; penalties for violations
+- Section 8-3-213 - State action for enforcement; fines; damages; civil action by local agency; administrative proceeding
+- Section 8-3-214 - Orders of administrative law judge
+- Section 8-3-215 - Appeal from order of administrative law judge; attorney's fees and costs
+- Section 8-3-216 - Filing order of administrator in superior court and judgment thereon
+- Section 8-3-217 - Civil actions by aggrieved persons
+- Section 8-3-218 - Civil actions by Attorney General
+- Section 8-3-219 - Expediting civil actions
+- Section 8-3-220 - Adoption of provisions in local ordinance
+- Section 8-3-221 - Cooperation with federal and local agencies
+- Section 8-3-222 - Coercion, intimidation, threats, or interference
+- Section 8-3-223 - Compliance with federal law
+- Section 8-3-300 - Short title
+- Section 8-3-301 - Definitions
+- Section 8-3-302 - Fund created
+- Section 8-3-303 - Amounts credited to trust fund
+- Section 8-3-304 - Investments
+- Section 8-3-305 - Payments from fund
+- Section 8-3-306 - Commission established; membership
+- Section 8-3-307 - Expense allowance and travel reimbursement for members of commission
+- Section 8-3-308 - Duties of commission
+- Section 8-3-309 - Acceptance of federal funds; disposition
+- Section 8-3-310 - Authorized disbursements for residential housing projects
+- Section 8-3-311 - Creation of stable housing accountability programs; application process; minimum standards; approval criteria; funding
+- Section 8-3-312 - Disbursements for operating expenses
+- Section 8-3-313 - Powers of commission
+- Section 8-3-330 - Home inspector
+- Section 8-3-331 - Documentation required
+- Section 8-3-331.1 - Licensing authority of political subdivision
+- Section 8-3-332 - Criminal penalty

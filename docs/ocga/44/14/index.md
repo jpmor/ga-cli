@@ -1,0 +1,231 @@
+# Chapter 14 - MORTGAGES, CONVEYANCES TO SECURE DEBT, AND LIENS (§§ 44-14-1 — 44-14-613)
+
+- Section 44-14-1 - Operation of &quot;open-end&quot; clauses; limited to ex contractu obligations between parties
+- Section 44-14-2 - What advances secured by mortgage or conveyance to secure debt; effect of recorded transfer of property subject to &quot;open-end&quot; clause; notice of transfer
+- Section 44-14-3 - Furnishing of cancellation by grantee or holder upon payment; liability for failure to comply; cancellation of instrument after failure to comply; liability of agents
+- Section 44-14-4 - Procedure for recording cancellation of mortgage
+- Section 44-14-5 - Practices prohibited in connection with certain residential real estate transactions
+- Section 44-14-6 - Wrongful sale or removal of mortgaged property; penalty
+- Section 44-14-7 - Selling or disposing of motor vehicle securing bill of sale with intent to defraud; penalty
+- Section 44-14-8 - Removal or other disposal of encumbered property in order to hinder levy; penalty; venue
+- Section 44-14-9 - Aiding and abetting removal or other disposal; venue; conviction not dependent upon principal's conviction
+- Section 44-14-10 - Search for property where defendant has no permanent abode; venue of prosecution
+- Section 44-14-11 - Entry of nulla bona; shifting of burden of proof
+- Section 44-14-12 - Deceiving as to existence of lien; making second deed of conveyance; penalty
+- Section 44-14-13 - Disbursement of settlement proceeds; delivery of loan funds to settlement agent by lender; damages
+- Section 44-14-14 - Vacant and foreclosed real property registries; definitions; fees and penalties for registration
+- Section 44-14-15 - Fee for a future conveyance; limited circumstances
+- Section 44-14-30 - Mortgage as security only; effect on title
+- Section 44-14-31 - Form and contents of mortgage
+- Section 44-14-32 - Use of parol evidence to prove apparent deed a mortgage
+- Section 44-14-33 - Attestation or acknowledgment of mortgage; additional witness in case of land; constructive notice
+- Section 44-14-34 - Signing of mortgages executed outside state
+- Section 44-14-35 - Recording of mortgages on realty; effect of renewed mortgage as lien absent recordation
+- Section 44-14-35.1 - Property covered by mortgage or bill of sale to secure debt; mortgage or bill given to secure bond issue
+- Section 44-14-36 - Registry of mortgages on property of railroads and other utilities
+- Section 44-14-37 - [Repealed] Effect of failure to record
+- Section 44-14-38 - [Repealed] Admission of mortgages into evidence
+- Section 44-14-39 - Effect of defective record as notice
+- Section 44-14-40 - Probate of mortgages
+- Section 44-14-41 - Tacking of mortgages
+- Section 44-14-42 - Mortgages to sureties and guarantors
+- Section 44-14-42.1 - Redemption of property by mortgagor
+- Section 44-14-43 - Foreclosure of mortgage after note barred by limitations
+- Section 44-14-44 - Sale of mortgaged land under other process; claiming proceeds of sale
+- Section 44-14-45 - Forthcoming bond by purchaser of mortgaged personalty; affidavit of mortgagee
+- Section 44-14-46 - When mortgage fi. fa. may claim proceeds of sale
+- Section 44-14-47 - Sale of mortgaged property without foreclosure and claim by mortgagee
+- Section 44-14-48 - Foreclosure by one of several mortgagees; control and distribution of proceeds by court
+- Section 44-14-49 - Right of holder of mortgage to foreclose in equity
+- Section 44-14-60 - Deed to secure debt as absolute deed; necessity of bond of title or to reconvey
+- Section 44-14-61 - Signing of deeds to secure debt and bills of sale
+- Section 44-14-62 - Out-of-state deeds to secure debt and bills of sale
+- Section 44-14-63 - Recording of deeds to secure debt and bills of sale to secure debt; effect of failure to record
+- Section 44-14-64 - Transfers of deeds to secure debt; execution; partial transfers; transfers by certain financial institutions; requirements for recording; payoff balance
+- Section 44-14-65 - [Repealed] Fees for transfer of real property covered by deed to secure debt
+- Section 44-14-66 - Effect of liens against grantee on grantor's right to reconvey; effect of reconveyance in event of grantor's prior death
+- Section 44-14-67 - Cancellation of deed as reconveyance of title
+- Section 44-14-80 - Reversion of realty to grantor; renewals and affidavits; effect; fees; construction of Code section
+- Section 44-14-81 - When power of sale barred
+- Section 44-14-82 - When action to recover barred
+- Section 44-14-83 - Actions to foreclose and exercise of powers of sale after reversion
+- Section 44-14-84 - Effect of grantor relinquishing possession in settlement of debt
+- Section 44-14-85 - Withdrawal of foreclosure proceedings after acceleration of maturity of indebtedness; effect on running of statute of limitations; rescission of acceleration
+- Section 44-14-100 - Tree growing and fruit producing as agricultural pursuits; gum producers as farmers
+- Section 44-14-101 - Crops as personalty
+- Section 44-14-120 - Enforcement of rights; petition; order
+- Section 44-14-121 - Defense by maker; when and how made; affidavit
+- Section 44-14-122 - Action against maker's personal representative
+- Section 44-14-123 - Trial of issues
+- Section 44-14-124 - Judgment; lien thereof; levy and sale of the land
+- Section 44-14-125 - Disposition of proceeds of sale; surplus
+- Section 44-14-126 - Debt due in installments; treatment of surplus
+- Section 44-14-140 - Expiration of notice effected by recording of mortgage or other security instrument on personalty
+- Section 44-14-141 - Extension of time period; affidavit
+- Section 44-14-142 - Recording of affidavit; indexing; fee
+- Section 44-14-143 - Limitations on instruments filed before March 31, 1937
+- Section 44-14-144 - Exclusion of public utility corporations from coverage of Code Sections 44-14-140 through 44-14-143
+- Section 44-14-160 - Filing of foreclosure and deed under power; penalty for late payment
+- Section 44-14-161 - Sales made on foreclosure under power of sale; when deficiency judgment allowed; confirmation and approval; notice and hearing; resale
+- Section 44-14-162 - Sales made on foreclosure under power of sale; manner of advertisement and conduct necessary for validity; filing
+- Section 44-14-162.1 - &quot;Debtor&quot; defined
+- Section 44-14-162.2 - Mailing or delivery of notice to debtor; procedure
+- Section 44-14-162.3 - Waiver or release of notice requirement
+- Section 44-14-162.4 - Recitals in deeds as to meeting of notice requirement
+- Section 44-14-163 - Vacation of certain judgments prior to sale; jurisdiction, power, and authority
+- Section 44-14-164 - Vacation of certain judgments prior to sale; cancellation of execution; invalidation of deed made for purpose of levy and sale; notation on record
+- Section 44-14-165 - Vacation of certain judgments prior to sale; effect
+- Section 44-14-180 - Manner of foreclosing; petition; rule; venue
+- Section 44-14-181 - Proceedings by personal representative when mortgagee deceased
+- Section 44-14-182 - Foreclosure by transferee
+- Section 44-14-183 - Proceedings against personal representative when mortgagor deceased
+- Section 44-14-184 - Defense against foreclosure; verification
+- Section 44-14-185 - Defenses by third persons; right of purchaser not party to foreclosure to go behind judgment
+- Section 44-14-186 - Jury trial
+- Section 44-14-187 - Judgment; sale of mortgaged property
+- Section 44-14-188 - Effect of judgment on one purchasing during pendency of proceedings
+- Section 44-14-189 - Rights of purchaser at void or irregular sale
+- Section 44-14-190 - Disposition of proceeds
+- Section 44-14-191 - Treatment of proceeds of sale when debt due in installments
+- Section 44-14-210 - Execution and recordation of quitclaim deed following judgment; levy and sale; disposition of proceeds; notice
+- Section 44-14-211 - Attachment against grantor in deed to realty to secure debt; execution and recordation of quitclaim, levy, and deed following judgment; sale; disposition of proceeds
+- Section 44-14-230 - Authority to foreclose; execution; sale
+- Section 44-14-231 - Petition for writ of possession; affidavit
+- Section 44-14-232 - Summons; service on defendant; debtor's duty to notify creditor of address changes; form
+- Section 44-14-233 - Answer; reopening the default; granting writ upon default; trial; order to turn over property to sheriff or other
+- Section 44-14-234 - Payment into court; issuance of writ; possession and disposition of property pending resolution; disposition of payments
+- Section 44-14-235 - Appeals; possession pending appeal
+- Section 44-14-236 - Execution and levy; retention by plaintiff; sale
+- Section 44-14-237 - Transfer, movement, or conveyance of property by defendant after posting of bond
+- Section 44-14-238 - Foreclosure when debts due in installments; treatment of surplus
+- Section 44-14-239 - Foreclosure before debt due; grounds; affidavit
+- Section 44-14-240 - Foreclosure before debt due; levy and sale; disposition of proceeds
+- Section 44-14-241 - Foreclosure before debt due; affidavit of illegality; bond; trial of issue
+- Section 44-14-260 - Definitions
+- Section 44-14-261 - Petition for immediate writ of possession; verification; exemption of consumer transactions
+- Section 44-14-262 - Grounds for immediate writ of possession
+- Section 44-14-263 - Bond or waiver required
+- Section 44-14-264 - Issuance of writ; procedure when showing insufficient
+- Section 44-14-265 - Service of notice to defendant
+- Section 44-14-266 - Execution and levy
+- Section 44-14-267 - Time for filing defenses
+- Section 44-14-268 - Motion for dissolution of writ; payment of claim or furnishing of bond; procedure upon dissolution of writ
+- Section 44-14-269 - Default judgment
+- Section 44-14-280 - Manner of foreclosure
+- Section 44-14-281 - Proceedings after foreclosure; defenses
+- Section 44-14-282 - Levy and sale following execution and recording of bill of sale to defendant; priorities; disposition of proceeds
+- Section 44-14-300 - Amount of mortgage; filing of affidavit; execution
+- Section 44-14-301 - Notice to mortgagor
+- Section 44-14-302 - Levy and sale of property; advertisement
+- Section 44-14-303 - Defenses by mortgagor; hearing in magistrate's court
+- Section 44-14-320 - Certain liens established; removal of nonconforming liens
+- Section 44-14-321 - Lien of judgment on debt given for purchase money; priority
+- Section 44-14-322 - Vendor's equitable lien abolished
+- Section 44-14-323 - Rank of liens according to date
+- Section 44-14-324 - Assignment of liens; rights of assignee
+- Section 44-14-325 - Transfers and assignments of evidences of indebtedness secured by lien; how made
+- Section 44-14-326 - Transfers and assignments of evidences of indebtedness secured by lien; effect as transfer of lien
+- Section 44-14-340 - Lien for farming supplies, equipment and other items furnished tenant; operation of law or special contract; enforcement; duty to inform; priorities
+- Section 44-14-341 - Special lien on tenant's crops; priorities; general lien on tenant's property
+- Section 44-14-342 - Priority and date of general liens; date of special liens for rent; enforcement of liens
+- Section 44-14-343 - Enforcement of special lien for rent by distress warrant
+- Section 44-14-344 - Special lien for rent in favor of transferee of rent contract; when lien arises
+- Section 44-14-345 - Special lien for rent in favor of transferee of rent contract; foreclosure by transferee
+- Section 44-14-346 - Giving false information as to liens; penalty
+- Section 44-14-347 - Unlawful purchase of corn or cotton from tenant or laborer after notice of disability to sell; penalty
+- Section 44-14-348 - Unlawful sale of farm products on which lien exists; penalty
+- Section 44-14-349 - Priority of liens affecting manufactured and mobile homes
+- Section 44-14-360 - Definitions
+- Section 44-14-361 - Creation of liens; property to which lien attaches; items to be included in lien
+- Section 44-14-361.1 - How liens declared and created; amendment; record; commencement of action; notice; priorities; parties; limitation on aggregate amount of liens
+- Section 44-14-361.2 - Dissolution of lien
+- Section 44-14-361.3 - Preliminary notice of lien; form; notice to contractor; filing; necessity of preliminary notice
+- Section 44-14-361.4 - Cancellation or expiration of preliminary notice; demand for filing of claim of lien
+- Section 44-14-361.5 - Liens of persons without privity of contract
+- Section 44-14-362 - Cancellation of preliminary notice upon final payment; form of cancellation
+- Section 44-14-363 - Special liens on personalty; notice; enforcement; priorities; maximum claims for storage; recordation
+- Section 44-14-364 - Release of lien on approval of bond; amount; real property bonds; schedule, affidavit, and recordation; superior court clerk held harmless for good faith discretionary acts in connection with bond approval
+- Section 44-14-365 - Rights as to liens of partnerships, corporations, and associations made up of or employing registered architects, foresters, land surveyors, professional engineers, or interior designers
+- Section 44-14-366 - Waiver of lien or claim upon bond in advance of furnishing labor, services, or materials void; interim waiver and release upon payment; unconditional waiver and release upon final payment; affidavit of nonpayment
+- Section 44-14-367 - Notice; required statement
+- Section 44-14-368 - Notice of contest of lien
+- Section 44-14-369 - Computation of certain time periods
+- Section 44-14-380 - General lien; priorities
+- Section 44-14-381 - Special lien; priorities
+- Section 44-14-382 - When laborers' liens arise; priority of conflicting liens
+- Section 44-14-400 - Liens of pawnbrokers, factors, bailees, and acceptors; priorities
+- Section 44-14-401 - Depositories' liens; loss of liens under this Code section and Code Section 44-14-400; priorities
+- Section 44-14-402 - Liens of depositories for hire
+- Section 44-14-403 - Lien of pawnbroker; action for interference; grace period on pawn transactions; extension or continuation of maturity date; redemption of goods after maturity date
+- Section 44-14-404 - Factor's lien; extent; attachment to proceeds
+- Section 44-14-405 - Satisfaction of factors' and acceptors' liens
+- Section 44-14-406 - Livery stable keepers; lien by retaining possession; priorities
+- Section 44-14-407 - Procedure for livery stable keepers acquriing lien; recording; enforcement
+- Section 44-14-408 - Satisfaction of liens of pawnbrokers and livery stable keepers
+- Section 44-14-409 - Special lien of bailee for hire of labor and service; effect of delivery of a part
+- Section 44-14-410 - Depositories of involuntary, gratuitous, or naked deposits; lien; authorization to open containers; notice to owner
+- Section 44-14-411 - Sale by depositories of property at public auction; notice
+- Section 44-14-411.1 - Repossessor of motor vehicle as involuntary, gratuitous, or naked depository of personal property found therein; disposition of personal property
+- Section 44-14-412 - Disposition of proceeds of sale; one-year limitation for claims of owner
+- Section 44-14-430 - Lien for repairs; sale after one year
+- Section 44-14-431 - Publication and mailing of notice
+- Section 44-14-432 - Sale at public auction before courthouse
+- Section 44-14-433 - Disposition of proceeds of sale; one-year limitation for claims of owner; disposition of residue
+- Section 44-14-434 - Display of sign as to intention to sell
+- Section 44-14-450 - Creation of lien
+- Section 44-14-451 - Enforcement of lien; retention of possession; attachment to articles acquired after delivery made
+- Section 44-14-452 - Priority; method of foreclosure
+- Section 44-14-453 - Sale of goods after 90 days; sale of goods within 120 days where notice provided
+- Section 44-14-454 - Notice of sale
+- Section 44-14-455 - Disposition of proceeds of sale
+- Section 44-14-456 - Cumulative remedies for satisfaction
+- Section 44-14-460 - Creation of lien
+- Section 44-14-461 - Right to retain possession; forfeiture of lien
+- Section 44-14-462 - Priority; foreclosure
+- Section 44-14-463 - Sale of goods after 60 days
+- Section 44-14-464 - Notice of sale
+- Section 44-14-465 - Disposition of proceeds of sale
+- Section 44-14-466 - Cumulative remedies for satisfaction
+- Section 44-14-470 - Lien on causes of action accruing to injured person for costs of care and treatment of injuries arising out of such causes of action
+- Section 44-14-471 - Filing of verified statement; contents; notice
+- Section 44-14-472 - Duties of clerk; lien book; fee
+- Section 44-14-473 - Effect of covenant not to bring an action; action to enforce lien; limitation; affidavit of payment
+- Section 44-14-474 - Exemptions from part
+- Section 44-14-475 - Effect of part on settlement before entry into hospital, nursing home, or traumatic burn care medical facility
+- Section 44-14-476 - No independent right of action
+- Section 44-14-477 - False swearing in affidavits under Code Section 44-14-473
+- Section 44-14-490 - Lien for treatment, board, or care of animal; right to retain possession
+- Section 44-14-491 - Notice to owner; sale or disposal of animal; liability
+- Section 44-14-492 - Disposition of sale proceeds
+- Section 44-14-493 - Necessity of other legal proceedings
+- Section 44-14-494 - Criminal liability under Code Section 44-14-491
+- Section 44-14-510 - Lien of officers and employees on watercraft; priorities
+- Section 44-14-511 - Liens on offspring of stallions, jacks, bulls or boars; necessity of recordation; recording fee; priorities
+- Section 44-14-512 - Lien for hauling lumber, stocks, or logs
+- Section 44-14-513 - Liens in favor of planing mills and similar establishments
+- Section 44-14-514 - Liens of laborers at mills and similar establishments
+- Section 44-14-515 - Liens for articles furnished to sawmills; priorities
+- Section 44-14-516 - Liens on merchandise because of bad checks or stop payment orders
+- Section 44-14-517 - Filing liens imposed under federal Superfund Amendments and Reauthorization Act of 1986
+- Section 44-14-518 - Liens on aircraft or aircraft engines for labor and materials and for contracts of indemnity
+- Section 44-14-530 - Manner of foreclosure; attachment of lien; proceeds of judicial sale; trial of claim; damages; effect of delivery of possessions
+- Section 44-14-531 - Right of transferee to foreclose
+- Section 44-14-550 - Manner of foreclosure; demand; forfeiture of lien; affidavit; notice; petition for and conduct of probable cause hearing; possession; bond; petition for full hearing; authorization of foreclosure; damages; limitation
+- Section 44-14-551 - Judgment on replevy bonds
+- Section 44-14-570 - Purpose
+- Section 44-14-571 - Filing of federal tax liens on realty and personalty
+- Section 44-14-572 - When notices and certificates affecting tax liens entitled to be filed; certification by secretary of treasury
+- Section 44-14-573 - Filing of federal tax lien, notice or revocation of certificate, or certificate of discharge
+- Section 44-14-574 - Fees; billing procedure
+- Section 44-14-590 - Recording of bankruptcy petition, decree, or order; fees
+- Section 44-14-591 - Effect of failure to record petition, decree, or order as to bona fide purchaser or lienor of real property
+- Section 44-14-600 - Short title
+- Section 44-14-601 - Definitions
+- Section 44-14-602 - Lien on commercial real estate for broker's compensation
+- Section 44-14-603 - Priority of liens
+- Section 44-14-604 - Escrow to release claim for lien that would prevent closing of transaction or conveyance
+- Section 44-14-605 - Release or satisfaction of lien on occurrence of condition precluding broker from receiving compensation; suit to enforce lien; when lien invalid; when right to file and record lien dissolved
+- Section 44-14-610 - Necessity of recordation for operation of lis pendens as to real property
+- Section 44-14-611 - Lis pendens docket; indexing; recording fees
+- Section 44-14-612 - Entry of dismissal, settlement, or final judgment
+- Section 44-14-613 - Effect of article on other laws

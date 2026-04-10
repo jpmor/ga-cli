@@ -1,0 +1,52 @@
+# Chapter 5 - CRIMES AGAINST THE PERSON (§§ 16-5-1 — 16-5-110)
+
+- Section 16-5-1 - Murder; malice murder; felony murder; murder in the second degree
+- Section 16-5-2 - Voluntary manslaughter
+- Section 16-5-3 - Involuntary manslaughter
+- Section 16-5-3.1 - Aggravated involuntary manslaughter for fentanyl overdose death
+- Section 16-5-4 - Time elapsed between injury and death
+- Section 16-5-5 - Assisted suicide; notification of licensing board regarding violation
+- Section 16-5-19 - Definitions
+- Section 16-5-20 - Simple assault
+- Section 16-5-21 - Aggravated assault
+- Section 16-5-22 - Conviction of assault with intent to commit a crime if intended crime actually committed
+- Section 16-5-23 - Simple battery
+- Section 16-5-23.1 - Battery
+- Section 16-5-24 - Aggravated battery
+- Section 16-5-25 - Opprobrious or abusive language as justification for simple assault or simple battery
+- Section 16-5-26 - Publication of second or subsequent conviction of simple assault, simple battery, or battery; cost of publication; good faith publications immune from liability
+- Section 16-5-27 - Female genital mutilation
+- Section 16-5-28 - Assault on an unborn child
+- Section 16-5-29 - Battery of an unborn child
+- Section 16-5-40 - Kidnapping
+- Section 16-5-41 - False imprisonment
+- Section 16-5-42 - False imprisonment under color of legal process
+- Section 16-5-43 - Malicious confinement of sane person in an asylum
+- Section 16-5-44 - Hijacking an aircraft
+- Section 16-5-44.1 - Hijacking a motor vehicle
+- Section 16-5-45 - Interference with custody
+- Section 16-5-46 - Trafficking of persons for labor or sexual servitude
+- Section 16-5-47 - Posting model notice with human trafficking hotline information in businesses and on internet
+- Section 16-5-60 - Reckless conduct causing harm to or endangering the bodily safety of another; conduct by HIV infected persons
+- Section 16-5-61 - Hazing
+- Section 16-5-70 - Cruelty to children
+- Section 16-5-71 - Tattooing
+- Section 16-5-71.1 - Piercing of the body
+- Section 16-5-72 - Reckless abandonment
+- Section 16-5-73 - Prohibition against presence of children during manufacture of methamphetamine; punishment
+- Section 16-5-80 - Feticide; voluntary manslaughter of an unborn child; penalties
+- Section 16-5-90 - Stalking; psychological evaluation
+- Section 16-5-91 - Aggravated stalking
+- Section 16-5-92 - Applicability
+- Section 16-5-93 - Right of victim to notification of release or escape of stalker
+- Section 16-5-94 - Restraining orders; protective orders
+- Section 16-5-95 - Violation of civil family violence order, dating violence order, or criminal family violence order
+- Section 16-5-96 - Publication of second or subsequent conviction of stalking or aggravated stalking; cost of publication; good faith publications immune from liability
+- Section 16-5-100 - Definitions
+- Section 16-5-101 - Neglect to a disabled adult, elder person, or resident
+- Section 16-5-102 - Exploitation and intimidation of disabled adults, elder persons, and residents; obstruction of investigation
+- Section 16-5-102.1 - Trafficking of a disabled adult, elder person, or resident; penalty
+- Section 16-5-103 - Exceptions to criminal liability
+- Section 16-5-104 - Venue
+- Section 16-5-105 - Applicability
+- Section 16-5-110 - Publication of notice; information required; assessment for cost; immunity

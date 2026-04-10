@@ -1,0 +1,29 @@
+# Chapter 29 - INDIVIDUAL ACCIDENT AND SICKNESS INSURANCE (§§ 33-29-1 — 33-29-22)
+
+- Section 33-29-1 - &quot;Accident and sickness policy&quot; defined; applicability of chapter
+- Section 33-29-2 - Requirements as to policies generally
+- Section 33-29-3 - Required policy provisions
+- Section 33-29-3.1 - Coverage for human heart transplants; optional endorsement; requirements; guidelines
+- Section 33-29-3.2 - Coverage for mammograms, Pap smears, and prostate-specific antigen tests; notice of coverage
+- Section 33-29-3.3 - Coverage for bone marrow transplants for the treatment of breast cancer and Hodgkin's disease; optional endorsement; requirements; guidelines; applicability
+- Section 33-29-3.4 - Insurance coverage for child wellness services
+- Section 33-29-4 - Optional policy provisions
+- Section 33-29-5 - Order of printing of provisions
+- Section 33-29-6 - Provision in policies for medical or surgical services
+- Section 33-29-7 - Provision in policies for refusal of renewal generally
+- Section 33-29-8 - Provision in policies renewable or cancelable at option of insurer for refund of premiums
+- Section 33-29-9 - Requirements as to references in policies to noncancelable nature or guaranteed renewability nature; exception for certain matters concerning renewability of individual accident and sickness policies; rules and regulations
+- Section 33-29-10 - Operation of provision establishing age for termination of coverage generally; effect of misstatement of age of insured
+- Section 33-29-11 - Right of person to whom policy or contract issued to return policy or contract and receive premium refund; effect of return; proof of return
+- Section 33-29-12 - Policies issued for delivery or delivered within state by foreign or alien insurers; policies of domestic insurers issued for delivery in other states or countries
+- Section 33-29-13 - Furnishing of written outline of coverage to applicants for insurance; approval of outline
+- Section 33-29-14 - Application for, and ownership of, policies by persons other than insured
+- Section 33-29-15 - Exemption of policy proceeds from liability for debts of insured and beneficiary
+- Section 33-29-16 - Compliance with chapter by attachment of rider or endorsement to policy
+- Section 33-29-17 - Validity and construction of policies delivered or issued for delivery in violation of chapter; effect of conflict between provisions subject to chapter and other provisions
+- Section 33-29-18 - Franchise insurance
+- Section 33-29-19 - Rate modification on individual accident and sickness policies providing for optional loss ratio guarantee
+- Section 33-29-20 - Insurance coverage for treatment of temporomandibular joint dysfunction or surgery for deformities of maxilla or mandible
+- Section 33-29-21 - Renewal or continuation at option of insured
+- Section 33-29-21.1 - Availability of accident and sickness policy upon termination of dependent coverage based on age of dependent
+- Section 33-29-22 - Notice of premium increase

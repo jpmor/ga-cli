@@ -1,0 +1,74 @@
+# Chapter 23 - LICENSING OF AGENTS, AGENCIES, SUBAGENTS, COUNSELORS, AND ADJUSTERS (§§ 33-23-1 — 33-23-205)
+
+- Section 33-23-1 - Definitions
+- Section 33-23-1.1 - Counselor's additional ancillary services considered a separate transaction
+- Section 33-23-2 - [Repealed] [Reserved] Licenses to be issued only to individuals
+- Section 33-23-3 - Agency licensing and biennial renewals; ownership restrictions
+- Section 33-23-4 - License required; restrictions on payment or receipt of commissions; positions indirectly related to sale, solicitation, or negotiation of insurance excluded from licensing requirements
+- Section 33-23-5 - Qualifications and requirements for license
+- Section 33-23-5.1 - Conviction data
+- Section 33-23-6 - Bond requirements for applicants for adjuster's license
+- Section 33-23-7 - Bond requirement for applicants for counselor's license
+- Section 33-23-8 - Form and contents of license application; fees
+- Section 33-23-9 - Study materials for applicants
+- Section 33-23-10 - Examination of applicants
+- Section 33-23-11 - Issuance and contents of license; display certificate of licensure
+- Section 33-23-12 - Limited licenses
+- Section 33-23-13 - Temporary licenses
+- Section 33-23-14 - Probationary licenses
+- Section 33-23-15 - Additional licenses
+- Section 33-23-16 - Licensing of nonresidents
+- Section 33-23-17 - Registration of nonresident representatives to represent life insurers in military installations in foreign countries
+- Section 33-23-18 - Issuance of license on biennial basis; filing for renewal; continuing education requirements
+- Section 33-23-19 - Placing of license on inactive status; subsequent revocation
+- Section 33-23-20 - Effect of license suspension or placement of license on inactive status
+- Section 33-23-21 - Grounds for refusal, suspension, or revocation of license
+- Section 33-23-21.1 - Licensing for educational borrowers in default
+- Section 33-23-22 - Notice of suspension or revocation of license; hearing; appeals
+- Section 33-23-23 - Limitation on application after refusal or revocation of license; effect of surrender of license under written consent order
+- Section 33-23-24 - Permits and licenses not transferable
+- Section 33-23-25 - Place of business
+- Section 33-23-26 - Agent's certificate of authority
+- Section 33-23-27 - Subagent's certificate of authority
+- Section 33-23-28 - Scope of subagent's authority; record of transactions
+- Section 33-23-29 - Authority of agent to act as adjuster; nonresident adjusters; reciprocal agreements
+- Section 33-23-29.1 - Licensing of nonresident counselors
+- Section 33-23-30 - Restrictions on signing by agents
+- Section 33-23-31 - Risk situs; service on nonresidents; venue of action
+- Section 33-23-32 - Countersigning by resident agents not required generally; exceptions; commissions
+- Section 33-23-33 - Duty of licensees to provide current information of names and addresses
+- Section 33-23-34 - Records of transactions
+- Section 33-23-35 - Reporting and disposition of premiums
+- Section 33-23-36 - Inquiry into illegal or improper conduct
+- Section 33-23-37 - Licensing of surplus lines broker; application; bond; written examination
+- Section 33-23-38 - Placing insurance beyond scope of license or with nonlicensed insurers prohibited; restrictions on sharing commissions; penalty for violation
+- Section 33-23-39 - Placing of insurance through unlicensed agent prohibited; exception relating to construction project bid bonds
+- Section 33-23-40 - Contracts issued by unauthorized persons not rendered unenforceable
+- Section 33-23-41 - Liability and penalties for unauthorized acts
+- Section 33-23-42 - Performing acts for unauthorized insurer
+- Section 33-23-43 - Authority of adjusters; penalty for violation
+- Section 33-23-43.1 - Representing oneself as public adjuster; when license not required
+- Section 33-23-43.2 - Requirements for public adjuster contracts
+- Section 33-23-43.3 - Compensation of adjusters; criteria for written endorsement of payment
+- Section 33-23-43.4 - Proof of financial responsibility
+- Section 33-23-43.5 - Complete record of transactions; retention and examination
+- Section 33-23-43.6 - Funds held in fiduciary capacity; authorization for disclosure
+- Section 33-23-43.7 - Advertisements; deceptive or misleading ads; required disclaimer
+- Section 33-23-43.8 - Prohibited acts of adjusters
+- Section 33-23-43.9 - Standard of conduct for public adjusters
+- Section 33-23-43.10 - Denial, suspension, or revocation of license; notice and hearing
+- Section 33-23-44 - Rules and regulations
+- Section 33-23-45 - [Reserved] Limitation on applicability of article
+- Section 33-23-46 - Compensation of licensed counselors; disclosure; exceptions
+- Section 33-23-100 - Definitions; exemptions; applicability of Code Sections 33-24-59.5 and 33-24-59.14
+- Section 33-23-101 - Licensing of administrators; filing fee; refusal, suspension, or revocation of license; notice and hearing; reissuance of revoked license; appeal; probationary licenses; additional qualifications for license; restrictions on licensees; penalties
+- Section 33-23-102 - Bond and surety of applicant; liability insurance; remained licenses
+- Section 33-23-103 - Examination of administrators by Commissioner
+- Section 33-23-104 - Establishing requirements and procedures affecting administrators
+- Section 33-23-105 - Rules and regulations for implementation of article
+- Section 33-23-200 - [See Note] Legislative findings; licensing of health insurance navigators
+- Section 33-23-201 - [See Note] Definitions
+- Section 33-23-202 - [See Note] Licensing and requirements therefor
+- Section 33-23-203 - [See Note] Violations; limitation on solicitations; navigator compensation, responsibilities, and limitations
+- Section 33-23-204 - [See Note] Adoption of rules and regulations
+- Section 33-23-205 - [See Note] Applicability

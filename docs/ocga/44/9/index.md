@@ -1,0 +1,44 @@
+# Chapter 9 - EASEMENTS (§§ 44-9-1 — 44-9-92)
+
+- Section 44-9-1 - Methods of acquiring private ways
+- Section 44-9-2 - Acquisition of easement of light and air
+- Section 44-9-3 - Right of lateral support from adjoining land; right to make excavations up to boundary line; notice to adjoining landowner; standard of care
+- Section 44-9-4 - Parol license; when revocable; when easement running with land
+- Section 44-9-5 - Cessation of easement of necessity upon purchase of land providing access to highway
+- Section 44-9-6 - Loss of easement by abandonment or nonuse
+- Section 44-9-7 - Effect of sale of property for taxes or assessments on easements or rights of way
+- Section 44-9-20 - Short title
+- Section 44-9-21 - Legislative findings and declaration of policy
+- Section 44-9-22 - Establishment of solar easements
+- Section 44-9-23 - Contents of solar easements
+- Section 44-9-40 - Authority of superior court to grant private ways; filing of petition as declaration of necessity; when proceeding enjoined
+- Section 44-9-41 - Contents of petition; manner of service and advertisement; fees
+- Section 44-9-42 - Selection of assessors
+- Section 44-9-43 - Show cause order; selection of assessors; hearing before assessors
+- Section 44-9-44 - Appeals from award of assessors; jury trial
+- Section 44-9-45 - Maintenance of private way by condemnor; failure to maintain as abandonment
+- Section 44-9-46 - Determination of amount of compensation and other issues by jury; payment and disposition of damages
+- Section 44-9-47 - Motions and proceedings subsequent to judgment; payment of compensation; nonpayment as abandonment; effect of abandonment on subsequent application
+- Section 44-9-48 - Agreements between parties as to payment of compensation
+- Section 44-9-49 - Establishment of private way by agreement between parties
+- Section 44-9-50 - Recording of private way; protection of owner's use
+- Section 44-9-51 - Establishment of private way by several landowners; duties and privileges of subsequent vendees
+- Section 44-9-52 - Establishment and apportionment of private way by several landowners
+- Section 44-9-53 - Establishment of private way over wild lands without notice to landowner; assessment of damages after notice
+- Section 44-9-54 - Establishment of private way by prescription
+- Section 44-9-55 - Establishment of private way by prescription; when owners barred from damages
+- Section 44-9-56 - Notice of closing of private way after one year's use
+- Section 44-9-57 - Limitation on use of private ways for specific commercial purposes
+- Section 44-9-58 - Petition to use another's landing
+- Section 44-9-59 - Obstructions; proceedings for removal; petition; rule nisi; order; appeal; fees
+- Section 44-9-60 - Conditions for converting private ways into public roads
+- Section 44-9-70 - Obtaining rights of way for mining, quarrying, and other business
+- Section 44-9-71 - Appointment of arbitrators in right of way disputes
+- Section 44-9-72 - Arbitration of requests for diversions of watercourses
+- Section 44-9-73 - Right of mine owner to control water power with canal or dam; damages to intervening landowners; application to probate court for such right
+- Section 44-9-74 - Right to drain mine, carry off ore or transport items over adjoining land; compensation of landowner; application for such right; proceedings
+- Section 44-9-75 - Application of article to lessee of mine
+- Section 44-9-76 - Amount of water allowed to be withdrawn from stream above mill or factory by mine owner or lessee
+- Section 44-9-90 - Petition for construction of tramway
+- Section 44-9-91 - Proceedings to lay out way; maximum width
+- Section 44-9-92 - Abandonment; effect

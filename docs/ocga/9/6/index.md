@@ -1,0 +1,22 @@
+# Chapter 6 - EXTRAORDINARY WRITS (§§ 9-6-1 — 9-6-66)
+
+- Section 9-6-1 - Final judgment prerequisite to appeal; grant of new trial subject to review
+- Section 9-6-20 - When mandamus may issue; exceptions
+- Section 9-6-21 - Not a private remedy; enforcement of officer's discretionary acts
+- Section 9-6-22 - Enforcement of officer's duties under Title 5
+- Section 9-6-23 - Enforcement of corporation's public duty
+- Section 9-6-24 - What interest required to enforce public right
+- Section 9-6-25 - Loss prerequisite to enforcing private right
+- Section 9-6-26 - Mandamus not granted where fruitless, nor on suspicion
+- Section 9-6-27 - Time of hearing; notice; how and when issues of fact determined
+- Section 9-6-28 - Appeal
+- Section 9-6-40 - Prohibition counterpart of mandamus
+- Section 9-6-41 - When writ granted; time for return; trial of fact issues
+- Section 9-6-42 - Prohibition against executive and military officers; Governor exempt
+- Section 9-6-60 - For what purpose quo warranto may issue; who may bring action
+- Section 9-6-61 - Writ lies against civil and military officers; Governor exempt
+- Section 9-6-62 - When granted; how issues of fact tried
+- Section 9-6-63 - Service of writ and process
+- Section 9-6-64 - How issues of law determined; time for final determination; appeal; application to issues of fact
+- Section 9-6-65 - Jury trial where facts at issue; time of trial; continuances
+- Section 9-6-66 - Disposition of books and papers by judgment

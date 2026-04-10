@@ -1,0 +1,45 @@
+# Chapter 9 - MOTOR FUEL AND ROAD TAXES (§§ 48-9-1 — 48-9-46)
+
+- Section 48-9-1 - Short title
+- Section 48-9-2 - [Effective Until 1/1/2026] Definitions
+- Section 48-9-2 - [Effective 1/1/2026] Definitions
+- Section 48-9-3 - [Effective Until 1/1/2026] Levy of excise tax; rate; taxation of motor fuels not commonly sold or measured by gallon; rate; prohibition of tax on motor fuel by political subdivisions; exception; exempted sales
+- Section 48-9-3 - [Effective 1/1/2026] Levy of excise tax; rate; taxation of motor fuels not commonly sold or measured by gallon; rate; prohibition of tax on motor fuel by political subdivisions; exception; exempted sales
+- Section 48-9-4 - Distributor's license required; validity and nonassignability; application procedure; fee; bond; release and discharge of surety
+- Section 48-9-5 - Distributor's license optional for compressed petroleum gas or special fuel with both highway and nonhighway uses; resellers of fuel oils, compressed petroleum gas, or special fuel
+- Section 48-9-6 - Licensing of sellers and consumers of aviation gasoline as aviation gasoline dealers; application; contents; filing fee; validity and nonassignability of license
+- Section 48-9-7 - Discontinuance, sale, or transfer of distributor's operations; notice to commissioner; payment of taxes concurrent with discontinuance, sale, or transfer; failure to give notice
+- Section 48-9-8 - [Effective Until 1/1/2026] Tax reports from distributors; quarterly or annual; contents; payment; time; business records of distributors, resellers, and retailers; inspection; dyed fuel oil notices
+- Section 48-9-8 - [Effective 1/1/2026] Tax reports from distributors; quarterly or annual; contents; payment; time; business records of distributors, resellers, and retailers; inspection; dyed fuel oil notices
+- Section 48-9-9 - [Effective Until 1/1/2026] Reports of motor fuel deliveries; persons required to report; procedure; restrictions on delivery; reports of unlicensed purchasers
+- Section 48-9-9 - [Effective 1/1/2026] Reports of motor fuel deliveries; persons required to report; procedure; restrictions on delivery; reports of unlicensed purchasers
+- Section 48-9-10 - Refunds of motor fuel taxes; refund permits generally; refunds to persons using gasoline for agricultural purposes; amounts and interest
+- Section 48-9-10.1 - Refunds of sales and use taxes to credit card issuers
+- Section 48-9-11 - Falsely swearing on application for refund of gasoline tax under Code Section 48-9-10; penalty
+- Section 48-9-12 - [Effective Until 1/1/2026] Powers of the commissioner; notice of cancellation of license; retention of bonds; public inspection of records; assessment based on commissioner's estimate; agreements for time extension; list of licensed distributors
+- Section 48-9-12 - [Effective 1/1/2026] Powers of the commissioner; notice of cancellation of license; retention of bonds; public inspection of records; assessment based on commissioner's estimate; agreements for time extension; list of licensed distributors
+- Section 48-9-13 - Assessments of deficiencies; time limits for returns; false or fraudulent return; failure to return; filing of statement by sheriff, receiver, or other officer upon sale of distributor's property
+- Section 48-9-14 - [Repealed] [Reserved] Second motor fuel tax; rate; exemptions; applicability of Article 1 of Chapter 8 of this title
+- Section 48-9-15 - Officers required to assist in enforcing article; powers
+- Section 48-9-16 - Penalties and interest; untimely return; failure to pay; false or fraudulent returns; failure to file returns; dyed fuel oil violations
+- Section 48-9-17 - Violations of article; penalties
+- Section 48-9-18 - Operation without distributor's license; assessment of penalty in lieu of taxes
+- Section 48-9-19 - Cooperative agreements with other states
+- Section 48-9-20 - [Repealed] Temporary exemption of motor fuels from state sales and use tax, excise tax, and second motor fuel tax
+- Section 48-9-30 - Definitions
+- Section 48-9-31 - Road tax on motor carriers; rate; basis of calculation; additional tax
+- Section 48-9-32 - Payment of road tax; time; calculation on amount of motor fuel used in state; formula
+- Section 48-9-33 - Reports of motor carriers; time; exemption
+- Section 48-9-34 - Joint reports by passenger motor carriers; basis of calculation of taxes due; liability; contents of reports; credits and refunds
+- Section 48-9-35 - Credit against road tax for payment of motor fuel tax; evidence of payments; subsequent application of credit exceeding amount of road tax; limit
+- Section 48-9-36 - Refunds to motor carriers; minimum credit refundable; applications; procedure; bond; audit of applicant's records; procedure for issuance of refunds; interest
+- Section 48-9-37 - Lessee and lessor of motor vehicles as motor carriers; determination of status; primary liability; effect of failure to discharge liability
+- Section 48-9-38 - Requirement of motor vehicle registration card and identification marker; validity; renewal; fee; temporary authorizations; temporary permits; fee
+- Section 48-9-39 - Violation of Code Section 48-9-38; penalty
+- Section 48-9-40 - Keeping and preservation of records; inspection; estimate of amount of road tax due; prima-facie evidence; burden of proof; multi-jurisdictional, cooperative audits
+- Section 48-9-41 - Assessment of deficiencies; time limits; timely report; false or fraudulent report; no report; procedures for collection
+- Section 48-9-42 - Secretary of State as agent of nonresident motor carriers for service of process or notice
+- Section 48-9-43 - Assistance by Department of Public Safety in administration and enforcement of article; powers
+- Section 48-9-44 - Powers of revenue agents in enforcement of article
+- Section 48-9-45 - Violation of registration provisions; untimely reports; failure to pay; penalties; interest; other punitive measures
+- Section 48-9-46 - Making false statement for purpose of obtaining credit, refund, or reduction of liability for tax imposed by article; willful failure to file report; penalty

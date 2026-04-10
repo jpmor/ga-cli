@@ -1,0 +1,83 @@
+# Chapter 8 - PROBATION (§§ 42-8-1 — 42-8-150)
+
+- Section 42-8-1 - [Repealed] [Reserved] Creation; composition; selection of members; terms of office
+- Section 42-8-2 - [Repealed]
+- Section 42-8-3 - [Repealed]
+- Section 42-8-20 - Short title
+- Section 42-8-21 - Definitions
+- Section 42-8-22 - State-wide probation system for felony offenders created; administration generally
+- Section 42-8-23 - Administration of supervision of felony probationers by DCS; graduated sanctions
+- Section 42-8-24 - General duties of DCS; rules and regulations
+- Section 42-8-25 - Employment of community service officers; assignment to circuits by DCS
+- Section 42-8-26 - Qualifications of officer; compensation and expenses; conflicts of interest; bonds
+- Section 42-8-27 - Duties of officers
+- Section 42-8-28 - Assignment of officers among judicial circuits generally
+- Section 42-8-29 - Presentence investigations; supervision of probationers; maintenance of records relating to probationers
+- Section 42-8-29.1 - Disposition of officer's records; confidentiality
+- Section 42-8-30 - Applicability of this article when private probation services are utilized
+- Section 42-8-30.1 - [Renumbered] Redesignated
+- Section 42-8-31 - Collection and disbursement of funds by officers; recordkeeping; bank accounts
+- Section 42-8-32 - Funds which may be collected by officers
+- Section 42-8-33 - Audits of accounts of officers; records and reports of audits; bonds of auditors; refunding overpayment of fines, restitutions, or moneys owed
+- Section 42-8-34 - Sentencing hearings and determinations; presentence investigations; payment of fees, fines, and costs; post-conviction, presentence bond; continuing jurisdiction; transferal of probation supervision
+- Section 42-8-34.1 - Revocation of probated or suspended sentence; alternative sentencing; burden of proof; length of probation supervision
+- Section 42-8-34.2 - Delinquency of defendant in payment of fines, costs, or restitution or reparation; costs of garnishment
+- Section 42-8-35 - Terms and conditions of probation; supervision
+- Section 42-8-35.1 - Probation boot camp unit as special alternative incarceration
+- Section 42-8-35.2 - Special term of probation; when imposed; revocation; suspension
+- Section 42-8-35.3 - Conditions of probation for stalking or aggravated stalking
+- Section 42-8-35.4 - Confinement in probation detention center
+- Section 42-8-35.5 - [Repealed] [Reserved] Confinement in probation diversion center
+- Section 42-8-35.6 - Family violence intervention program participation as condition of probation; cost borne by defendant
+- Section 42-8-35.7 - Drug and alcohol screening of probationers
+- Section 42-8-36 - Duty of probationer to inform officer of residence and whereabouts; violations; tolling; unpaid moneys
+- Section 42-8-37 - Effect of termination of probated portion of sentence; review of cases of persons receiving probated sentence; reports
+- Section 42-8-38 - Arrest or graduated sanctions for probationers violating terms; hearing; disposition of charge; procedure when probation revoked in county other than that of conviction
+- Section 42-8-39 - Suspension of sentence does not place defendant on probation
+- Section 42-8-40 - Confidentiality of reports, files, records, and other information related to supervision; exemption from subpoena; declassification
+- Section 42-8-41 - Cooperation of state and local entities with probation officials
+- Section 42-8-42 - Provision of office space and clerical help by DCS and counties
+- Section 42-8-43 - Liberal construction of article
+- Section 42-8-43.1 - through 42-8-43.3 - [Repealed]
+- Section 42-8-44 - [Renumbered] Redesignated
+- Section 42-8-60 - Probation prior to adjudication of guilt; violation of probation; review of criminal record by judge
+- Section 42-8-61 - Defendant to be informed of eligibility for sentencing as first offender
+- Section 42-8-62 - Duty of clerk to transfer information
+- Section 42-8-62.1 - Limiting public access to first offender status; petitioning; sealing record
+- Section 42-8-63 - Effect of discharge under article on eligibility for employment or appointment to office
+- Section 42-8-63.1 - Discharges disqualifying individuals from employment
+- Section 42-8-64 - Appeal of sentence imposed under article
+- Section 42-8-65 - Use of prior finding of guilt in subsequent prosecutions; modification of records
+- Section 42-8-66 - Petition for exoneration and discharge; hearing; retroactive grant of first offender status; no filing fee
+- Section 42-8-70 - through 42-8-74 - Reserved
+- Section 42-8-80 - through 42-8-84 - Reserved
+- Section 42-8-100 - Definitions
+- Section 42-8-101 - Agreements for probation services; termination of contract for probation services
+- Section 42-8-102 - Probation and supervision; determination of fees, fines, and restitution; converting moneys owed to community service or educational advancement; continuing jurisdiction; revocation; transfer
+- Section 42-8-103 - Pay-only probation; discharge or termination of probation
+- Section 42-8-103.1 - Serving consecutive misdemeanor sentences
+- Section 42-8-104 - Terms and conditions of probation
+- Section 42-8-105 - Probationer obligation to keep officer informed of certain information; tolling for failure to meet certain obligations; procedure
+- Section 42-8-106 - Advisory committee created; membership
+- Section 42-8-106.1 - Powers and duties of Board of Community Supervision
+- Section 42-8-107 - Uniform professional standards and uniform contract standards
+- Section 42-8-108 - Quarterly report to judge and council; records to be open for inspection
+- Section 42-8-109 - Private entities conflicts of interest prohibited
+- Section 42-8-109.1 - Public entities and employees conflicts of interest prohibited
+- Section 42-8-109.2 - Confidentiality of records
+- Section 42-8-109.3 - Registration with board
+- Section 42-8-109.4 - Applicability of article to contractors for probation services; requirements for private corporations, private enterprises and private agencies entering into written contracts for services
+- Section 42-8-109.5 - Determination by court whether misdemeanor probation to be supervised by community supervision officer, private probation officer, or probation officer
+- Section 42-8-110 - Definitions; applicability; purchase or lease of ignition interlock devices by counties, municipalities, or private entities; costs, fees, and deposits; participation by indigents
+- Section 42-8-110.1 - Ignition interlock device limited driving permit; restrictions
+- Section 42-8-111 - Court issuance of certificate for installation of ignition interlock devices; exceptions; completion of alcohol and drug use risk reduction program; notice of requirements; fees for driver's license
+- Section 42-8-112 - Timing for issuance of ignition interlock device limited driving permit; documentation required; reporting requirement
+- Section 42-8-113 - Renting, leasing, or lending motor vehicle to probationer subject to this article prohibited
+- Section 42-8-114 - Specifying provider for ignition interlock device
+- Section 42-8-115 - Certification of ignition interlock devices
+- Section 42-8-116 - Warning labels
+- Section 42-8-116.1 - Effect of failing to comply; previously installed devices
+- Section 42-8-117 - Revocation of driving privilege upon violation of probation imposed by Code Section 42-8-111
+- Section 42-8-118 - Requesting or soliciting another to blow into device; tampering with or circumventing operation of device
+- Section 42-8-130 - [Repealed] Establishment; obligations of respondent; confinement; fee; alternative methods of incarceration
+- Section 42-8-150 - through 42-8-159 - [Repealed]

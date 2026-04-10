@@ -1,0 +1,84 @@
+# Chapter 8 - RAILROAD COMPANIES (§§ 46-8-1 — 46-8-382)
+
+- Section 46-8-20 - Exclusive power of commission to determine just and reasonable rates and charges; establishing rates and tariffs generally; locating of depots and construction of freight and passenger buildings
+- Section 46-8-21 - Powers of commission regarding railroads generally
+- Section 46-8-22 - Investigation by commission of books and papers of railroad companies; inspection of railroad offices and stations; examination of railroad's agents and employees; rules and regulations concerning investigations and inspections
+- Section 46-8-23 - Prescription and enforcement by commission of rules, regulations, and orders as to receipt, transportation, and delivery of freight by railroads
+- Section 46-8-24 - Inspection by commission of contracts and agreements between railroad companies; disapproval of agreements; inclusion in agreements of rates exceeding rates fixed by commission
+- Section 46-8-25 - Inspection of railroads by commission; requiring repair of railroads; allotment of reasonable time for repairs; effect of Code section on liability of railroads
+- Section 46-8-40 - Grant of corporate powers and privileges to railroad companies by Secretary of State; procedure in case of disqualification of Secretary of State
+- Section 46-8-41 - Procedures regarding preparation of petition for incorporation; filing of petition and affidavit with Secretary of State; endorsement by Secretary of State; allowance for public inspection of petition and affidavit
+- Section 46-8-42 - Certificate of incorporation; duration of corporate existence; fee for issuance of certificate
+- Section 46-8-43 - Duties of Secretary of State prior to issuance of certificate of incorporation; certificate or duplicate thereof as evidence of existence of corporation and compliance with chapter
+- Section 46-8-44 - Subscription to capital stock; par value of stock; subscription to all capital stock as prerequisite to beginning railroad construction
+- Section 46-8-45 - Payment of subscriptions; procedure by directors in case of default by subscriber
+- Section 46-8-46 - Procedures regarding organizational meeting; qualifications of directors; selection of officers and agents; annual election of directors; filling of vacancies on board
+- Section 46-8-47 - Determination of directors' compensation; appointment of chairman and vice-presidents; time and place of board meetings; procedures regarding board meetings
+- Section 46-8-48 - Creation of executive committee and other committees; powers of committees; designation of alternate members of committees; committee action by majority vote
+- Section 46-8-49 - Action by board or committee thereof or by shareholder or committee thereof by written consent of members without meeting
+- Section 46-8-50 - Combination of offices of corporation; election of officers by shareholders; terms of office; powers and duties of officers; authority of chairman or president as to legal proceedings
+- Section 46-8-51 - Indemnification of persons by railroad corporation; advance of expenses; insuring against liabilities; reports of payments to shareholders; provisions eliminating or limiting liability of director
+- Section 46-8-52 - Exemption of property of stockholders from debts or liabilities of corporation
+- Section 46-8-53 - Procedure for issuing bonds or increasing capital stock
+- Section 46-8-54 - Adoption of title by railroad companies incorporated, or by persons owning or operating a railroad, prior to December 17, 1892
+- Section 46-8-55 - Standard of care for directors and officers in discharge of duties; reliance upon financial information
+- Section 46-8-70 - Application by railroad company that company surrender its franchises and cease performing as a common carrier; hearing before commission; effect of outstanding debts on company
+- Section 46-8-71 - Dissolution of railroad corporation generally
+- Section 46-8-72 - Adoption of resolution for dissolution by board of directors; meeting of stockholders to consider resolution; filing of petition for dissolution with Secretary of State
+- Section 46-8-73 - Contents of petition for dissolution; certification resolution recommending dissolution; attachment of resolution to petition; verification of petition; fee for filing petition
+- Section 46-8-74 - Advertisement of petition for dissolution
+- Section 46-8-75 - Transfer of copy of petition from Secretary of State to commission
+- Section 46-8-76 - Investigation by commission of proposed dissolution; issuance of certificate approving or disapproving application for dissolution; transfer of certificate; filing of duplicate certificate; effect of disapproval
+- Section 46-8-77 - Certification by judge of the probate court of the fact of advertisement of petition; filing of certificate with Secretary of State
+- Section 46-8-78 - Order of Secretary of State accepting surrender of charter and franchises and dissolving corporation; recording of petition, certificate of approval, certificate of publication, and order by Secretary of State
+- Section 46-8-79 - Effect of issuance of order of dissolution and payment of fees
+- Section 46-8-80 - Contracts between railroad companies for merger, consolidation, lease, or purchase for purposes of connecting the roads of the companies
+- Section 46-8-81 - Consolidation, merger, lease, or purchase of railroad companies whose roads form a continuous line; issuance of stocks and bonds by consolidated companies
+- Section 46-8-82 - Forfeiture of powers, privileges, and certificate of incorporation for failure to construct and operate 15 miles of road within three years; extension of time for construction and operation of road
+- Section 46-8-100 - General powers
+- Section 46-8-104 - Power of railroad companies to cross other railroads in order to reach minerals, timber, or other materials
+- Section 46-8-120 - Powers of railroad companies generally
+- Section 46-8-121 - Acquisition of property by companies; approval by commission as prerequisite to exercise of power of eminent domain
+- Section 46-8-122 - Effect of Code Sections 46-8-120 and 46-8-121 on other powers and authority granted to railroad companies
+- Section 46-8-123 - Construction of extensions and branch roads generally
+- Section 46-8-124 - Exercise of power of eminent domain by railroad corporations generally
+- Section 46-8-126 - Relocation of highways necessitated by construction of crossings
+- Section 46-8-133 - Alteration of railroad tracks, bridges, and other structures to accommodate motor vehicles
+- Section 46-8-194 - Erection and maintenance of crossbuck signs at highway grade crossings; conformance of signs to Department of Transportation standards
+- Section 46-8-195 - Bringing of actions to compel railroad companies to post crossbuck signs
+- Section 46-8-196 - Use of standard signs for highway crossings and for advertising or other purposes; mutilation, destruction, and defacement of standard signs; removal of unauthorized signs by county authorities
+- Section 46-8-197 - Legal responsibility of member of train crew, yard crew, or engine crew for occupying or blocking street, road, or highway grade crossing pursuant to employer's order
+- Section 46-8-230 - Appointment of officers by Governor; power of arrest; source of compensation
+- Section 46-8-231 - Powers, duties, and responsibilities of officers generally
+- Section 46-8-232 - Qualifications of officers; posting of bond; duration of appointment and commission; filing notice of termination by corporation; revocation of appointment and commission
+- Section 46-8-233 - Return of processes to county of origin
+- Section 46-8-290 - Liability of railroad companies and their officers, agents, and employees for injuries to individuals and for damage or destruction of property generally
+- Section 46-8-291 - Consent and contributory negligence as defenses; comparative negligence as affecting amount of recovery
+- Section 46-8-292 - Proof of injury from running of train as prima-facie evidence of lack of reasonable skill and care
+- Section 46-8-310 - Venue for actions against lessee or possessor of railroad
+- Section 46-8-311 - Manner of service of process on lessee of railroad
+- Section 46-8-312 - Service of process on lessor railroad company, generally
+- Section 46-8-313 - Manner of service where address of president of company unknown
+- Section 46-8-314 - Venue and service of process in actions against receivers, trustees, and other officers of railroad companies; obtaining leave to sue
+- Section 46-8-330 - &quot;Interurban railroads&quot; defined
+- Section 46-8-331 - Incorporation, control, and management of interurban, suburban, and street railroads
+- Section 46-8-332 - Power of street, suburban, or interurban railroad corporation to increase capital stock; manner of increase
+- Section 46-8-333 - Use of electricity, gasoline, or gas by street, suburban, and interurban railroads; operation of gas and electric plants, generation and furnishing of gas and electricity by railroads
+- Section 46-8-334 - Purchase, mortgage, transfer, or disposal of capital stock, bonds, or other indebtedness; acquisition of property, rights, and franchises
+- Section 46-8-335 - Time of effectiveness of guaranty or acquisition of stock, property, and franchises; protection of rights of dissenting stockholders
+- Section 46-8-336 - Manner of acquiring property, franchises, and rights; nature of rights and privileges of purchasing or consolidated corporation; Secretary of State's certificate as evidence of existence of corporation
+- Section 46-8-337 - Issuance of bonds, notes, or other indebtedness by consolidated corporation; pledge of security
+- Section 46-8-338 - Tax exemption for property and capital stock of street, suburban, or interurban railroad companies with tracks and appurtenances extended into adjoining state
+- Section 46-8-339 - Authority of street, suburban, and interurban railroad companies to furnish steam for heating and power purposes and to lay and maintain steampipes
+- Section 46-8-340 - Free transportation for policemen, firemen, and other members of municipal and county utility departments by street, suburban, and interurban railroad companies
+- Section 46-8-341 - Lease and sale of roads, franchises, and property between street, suburban, and interurban railroad companies; property purchaser's liability for debts and claims against lessor or vendor
+- Section 46-8-342 - Acquisition, sale, operation, transfer, or disposal of motor buses and trackless trolleys by street, suburban, and interurban railroad companies
+- Section 46-8-343 - Utilization of trackless trolleys by street, suburban, or interurban railroad companies
+- Section 46-8-344 - Sale of street, suburban, or interurban railroad and bus transportation operations by companies engaged in operating electric generating plants, generally
+- Section 46-8-345 - Consent by municipality to sale of street, suburban, or interurban railroad and bus properties and franchises; hearing for approval of sale; filing of board resolution, resolution of municipality, and order of approval
+- Section 46-8-346 - Effect of sale on corporate existence, powers, and liabilities of company
+- Section 46-8-347 - Adoption of chapter by railroad companies
+- Section 46-8-348 - Jurisdiction of commission over interurban railroads; applicability of laws pertaining to other railroad companies; existing contracts between municipalities and railroad companies; fares established by contract prior to August 16, 1921
+- Section 46-8-380 - Intruding on railroad tracks
+- Section 46-8-381 - Hiding on train for purpose of stealing a ride
+- Section 46-8-382 - Neglect or refusal of officer, agent, or employee of railroad company to make and furnish report required by commission; obstructing commission

@@ -1,0 +1,51 @@
+# Chapter 10 - MARKETING FACILITIES, ORGANIZATIONS, AND PROGRAMS (§§ 2-10-1 — 2-10-130)
+
+- Section 2-10-1 - through 2-10-39 - Reserved
+- Section 2-10-50 - Short title
+- Section 2-10-51 - Purpose of article
+- Section 2-10-52 - Definitions
+- Section 2-10-53 - Powers and duties of Commissioner generally
+- Section 2-10-53.1 - Oversight by legislative advisory committee; membership; duties; expiration
+- Section 2-10-54 - Employees prohibited from engaging in business as dealer in agricultural products
+- Section 2-10-55 - Authority of Commissioner to make inspections, prescribe and collect fees and charges, and assign space on farmers' markets
+- Section 2-10-56 - Promulgation of rules and regulations by Commissioner
+- Section 2-10-57 - Authority of Commissioner to provide for safety and security at farmers' markets; police powers
+- Section 2-10-58 - Acquisition and rental of real property; format of lease execution; closing of farmers' markets
+- Section 2-10-59 - License required to sell in farmers' markets; consent to inspection of property; removal from premises
+- Section 2-10-60 - Suspension or revocation of registration, license, or permit; procedure; enforcement of laws, regulations, or orders
+- Section 2-10-61 - Rules and regulations to continue in effect
+- Section 2-10-62 - Prohibited acts; penalty
+- Section 2-10-80 - Short title
+- Section 2-10-81 - Definitions
+- Section 2-10-82 - When associations deemed nonprofit
+- Section 2-10-83 - Persons who may form cooperative association
+- Section 2-10-84 - Filing of articles of incorporation; contents; subscription; verification; further proceedings
+- Section 2-10-85 - Amendment of charter
+- Section 2-10-86 - Adoption of bylaws; authorized provisions
+- Section 2-10-87 - Directors to manage association; number; election or appointment; compensation; marketing or purchasing contracts with association; vacancies
+- Section 2-10-88 - Election of officers
+- Section 2-10-89 - Removal of officers or directors
+- Section 2-10-90 - Eligibility as members or stockholders
+- Section 2-10-91 - Issuance of stock or certificate; liability of member; maximum amount of stock member may own; voting; preferred stock; transfer of stock; purchase of own stock by association
+- Section 2-10-92 - Regular meetings; special meetings generally; notice
+- Section 2-10-93 - Referral of matters to entire membership; special meetings
+- Section 2-10-94 - Powers of associations generally
+- Section 2-10-95 - Duration of associations
+- Section 2-10-96 - Use of preferred stock to purchase property interest
+- Section 2-10-97 - Transfer of common stock
+- Section 2-10-98 - Joining with other nonprofit cooperative associations
+- Section 2-10-99 - Ownership in, control of, or membership in other corporations; warehouse receipts
+- Section 2-10-100 - Contracts and agreements between associations
+- Section 2-10-101 - Marketing contracts authorized; provisions; liquidated damages; injunctions and restraining orders; specific performance
+- Section 2-10-102 - Activities in connection with agricultural products and furnishing farm business services generally
+- Section 2-10-103 - Engaging in business for nonmembers
+- Section 2-10-103.1 - Power to acquire debt or equity of, create or own, and control and manage business entities
+- Section 2-10-104 - Annual reports
+- Section 2-10-105 - License fee; tax exemption
+- Section 2-10-106 - Distribution of excess income, reserves, or surpluses
+- Section 2-10-107 - Associations not deemed monopolistic or in restraint of trade
+- Section 2-10-108 - Applicability of nonprofit corporation laws
+- Section 2-10-109 - Applicability of other laws
+- Section 2-10-110 - Procedure by which other corporations and associations may come under article
+- Section 2-10-111 - Use of word &quot;cooperative&quot; in business name
+- Section 2-10-130 - through 2-10-140 - [Repealed]

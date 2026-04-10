@@ -1,0 +1,47 @@
+# Chapter 7 - DEPARTMENT OF INDUSTRY, TRADE, AND TOURISM (§§ 50-7-1 — 50-7-120)
+
+- Section 50-7-1 - Department created
+- Section 50-7-2 - Commissioner; appointment; duties; personnel
+- Section 50-7-3 - Board of Economic Development created
+- Section 50-7-4 - Policy-making function of board
+- Section 50-7-5 - Compensation and expenses of board members
+- Section 50-7-6 - Board operations
+- Section 50-7-7 - Duties and powers of board generally
+- Section 50-7-8 - Additional duties and powers of board
+- Section 50-7-9 - Board to recommend improvements for business conditions
+- Section 50-7-10 - Authorization for board to accept grants and gifts
+- Section 50-7-11 - Use by board of accepted grants or gifts
+- Section 50-7-11.1 - Authority for board to administer and disperse funds
+- Section 50-7-12 - Welcome centers; construction, operation, and maintenance
+- Section 50-7-13 - Revenue from vending machine sales to offset maintenance costs
+- Section 50-7-14 - Tourist center near residence of state citizen elected President
+- Section 50-7-15 - Expenditures for meals and expenses of persons seeking to locate business, industry, or tourist facilities in state
+- Section 50-7-16 - Acquisition and conveyance of property by department
+- Section 50-7-17 - Georgia Foundation for Tourism; marketing program
+- Section 50-7-18 - Disposition of assets of the Georgia Golf Hall of Fame
+- Section 50-7-19 - State-wide electric vehicle manufacturing program; Georgia Electric Vehicle Manufacturing Commission
+- Section 50-7-20 - Employer eligibility for economic development incentives
+- Section 50-7-30 - Purpose of article; authority of department
+- Section 50-7-40 - Construction, operation, and improvement of project
+- Section 50-7-41 - Lease of property to authority
+- Section 50-7-50 - Definitions
+- Section 50-7-51 - Authority and duties of department and local government; purposes of local government; lease of property
+- Section 50-7-55 - Creation of Savannah-Georgia Convention Center Authority; membership; powers
+- Section 50-7-60 - Civil War Commission created
+- Section 50-7-61 - Duties and powers of Civil War Commission
+- Section 50-7-62 - Commission assigned to Department of Economic Development for administrative purposes only
+- Section 50-7-63 - Acquisition of lands within boundaries of Civil War battlefields for public access; maintenance, protection, and interpretation of sites
+- Section 50-7-64 - Appointment of commission
+- Section 50-7-70 - Legislative findings; definitions; criteria and application process; fee; directional road signs; rules and regulations
+- Section 50-7-80 - Legislative findings; creation of &quot;Made in Georgia&quot; program
+- Section 50-7-90 - Definitions
+- Section 50-7-91 - Reserved
+- Section 50-7-110 - Short title
+- Section 50-7-111 - Purpose
+- Section 50-7-112 - &quot;Trail&quot; defined
+- Section 50-7-113 - Duties and responsibilities of Department of Economic Development
+- Section 50-7-114 - Policies
+- Section 50-7-115 - Placing of signage
+- Section 50-7-116 - Liability for injury to person or property caused by act or failure to act of other persons using premises
+- Section 50-7-117 - Rules and regulations
+- Section 50-7-120 - Administration and support from the Department of Economic Development

@@ -1,0 +1,28 @@
+# Chapter 45 - PERSONS ENGAGED IN STRUCTURAL PEST CONTROL (§§ 43-45-1 — 43-45-26)
+
+- Section 43-45-1 - Short title
+- Section 43-45-2 - Definitions
+- Section 43-45-3 - Creation of commission; composition; vacancies; number of members who may represent a single business entity
+- Section 43-45-4 - Terms of office; eligibility of member to succeed himself
+- Section 43-45-5 - Election of officers; action by vote of four members; meetings
+- Section 43-45-6 - Reimbursement of commission members
+- Section 43-45-7 - Commissioner as secretary of commission
+- Section 43-45-8 - General powers and duties of commission
+- Section 43-45-9 - Examination for certification as an operator; evidence from applicants as to employment of qualified operators; insurance requirements; required statements in contracts for service
+- Section 43-45-10 - Registration of employees and agents; registration certificates; employee training
+- Section 43-45-11 - Transfer of licenses, certifications, and registrations; procedure upon change of status of licensee
+- Section 43-45-12 - Suspension, cancellation, and revocation of licenses, certifications, and registrations; unlawful acts
+- Section 43-45-13 - Restrictions on advertising
+- Section 43-45-14 - Designation of resident agents by nonresident licensees and certified operators
+- Section 43-45-15 - Issuance of business license by municipalities or other political subdivisions; local business license fees and occupation taxes
+- Section 43-45-16 - Promulgation of regulations
+- Section 43-45-17 - Enforcement authority of Commissioner
+- Section 43-45-18 - Applicability of the &quot;Georgia Administrative Procedure Act.&quot;
+- Section 43-45-19 - Inspection of licensees' records by Commissioner
+- Section 43-45-20 - Injunctions
+- Section 43-45-21 - Exceptions to operation of chapter
+- Section 43-45-22 - Authority to refuse license to applicant convicted of violation of chapter
+- Section 43-45-23 - Interference with or obstruction of inspector
+- Section 43-45-24 - Engaging in pest control business without a license; engaging in field work or soliciting accounts without registering or obtaining certification
+- Section 43-45-24.1 - Civil penalty; negotiated settlements; hearings and procedure; disposition of penalties; judicial review; judgments
+- Section 43-45-25 - Penalty

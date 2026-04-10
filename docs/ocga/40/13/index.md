@@ -1,0 +1,36 @@
+# Chapter 13 - PROSECUTION OF TRAFFIC OFFENSES (§§ 40-13-1 — 40-13-64)
+
+- Section 40-13-1 - Form to be developed by commissioner of driver services; function; identifying number
+- Section 40-13-2 - System of accountability; procedures for use and issuance
+- Section 40-13-2.1 - Signature on citations required; effect of failure to sign; exemption for out-of-state drivers; electronic capture of signature
+- Section 40-13-3 - Traffic offenses triable on complaint without indictment except in superior courts; report of disposition
+- Section 40-13-4 - Fees of officers
+- Section 40-13-20 - &quot;Municipal courts&quot; defined
+- Section 40-13-21 - General powers and jurisdiction of probate and municipal courts; assistance of the district attorney or solicitor
+- Section 40-13-22 - Jurisdiction over offenses under Code Section 40-2-8
+- Section 40-13-23 - Waiver of jury trial; withdrawal of waiver
+- Section 40-13-24 - Indictment or accusation not required; docket
+- Section 40-13-25 - Costs
+- Section 40-13-26 - How sentences for traffic offenses served; disposition of fines and costs; definition of &quot;urban interstate system&quot;
+- Section 40-13-27 - Records to be kept
+- Section 40-13-28 - Appeal to superior court; bond
+- Section 40-13-29 - Jurisdiction exclusive
+- Section 40-13-30 - Authority to make arrests
+- Section 40-13-31 - Arresting fees
+- Section 40-13-32 - Restrictions on ability of courts to change or modify traffic law sentences or judgments
+- Section 40-13-33 - Limitation on habeas corpus challenge of misdemeanor traffic conviction
+- Section 40-13-50 - Establishment
+- Section 40-13-51 - Appointment of clerk or deputy clerk; bond
+- Section 40-13-52 - Traffic offense cards; contents
+- Section 40-13-53 - Release of arrested person upon service of citation and complaint
+- Section 40-13-54 - Disposition of original and copies of citation and complaint
+- Section 40-13-55 - Cash bonds permitted
+- Section 40-13-56 - Officer not to accept cash bond
+- Section 40-13-57 - Taking of cash bond where officer doubts that arrested person will appear
+- Section 40-13-58 - Failure to appear after giving cash bond as admission of guilt; forfeiture of bond; order to stand trial not precluded
+- Section 40-13-59 - Records to be kept by traffic violations bureau; filing of citation and complaint; time for posting cash bond; when bond forfeited
+- Section 40-13-60 - Disposition of traffic violations; jurisdiction of bureau
+- Section 40-13-61 - Maintenance of records; accusations
+- Section 40-13-62 - Failure to appear; bench warrant
+- Section 40-13-63 - Penalty for failure to appear
+- Section 40-13-64 - Suspended sentence division; collection of fines

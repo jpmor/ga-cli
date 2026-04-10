@@ -1,0 +1,37 @@
+# Chapter 13 - CRIMINAL EXTRADITION (§§ 17-13-1 — 17-13-49)
+
+- Section 17-13-1 - Requirements as to applications for requisitions for extradition of fugitives from justice of this state
+- Section 17-13-2 - Duty of Governor to make requisitions
+- Section 17-13-3 - Expense of returning fugitives to be first authorized by county governing authority
+- Section 17-13-4 - Arrest and delivery to authorities of fugitive from foreign country
+- Section 17-13-5 - Execution of warrants for arrest of fugitives from justice
+- Section 17-13-20 - Short title
+- Section 17-13-21 - Definitions
+- Section 17-13-22 - Duty of Governor to have fugitives from justice arrested and delivered to executive authorities of other states
+- Section 17-13-23 - Form of demand for extradition of person charged with crime in another state
+- Section 17-13-24 - Extradition of person imprisoned or awaiting trial in another state or who has left the demanding state under compulsion
+- Section 17-13-25 - Extradition of persons not present in demanding state at time of commission of crime
+- Section 17-13-26 - Investigation of case upon receipt of demand for extradition
+- Section 17-13-27 - Issue of Governor's warrant of arrest; recitals
+- Section 17-13-28 - Manner and place of execution of warrant
+- Section 17-13-29 - Authority of arresting officers; penalties for refusal to assist arresting officers
+- Section 17-13-30 - Rights of accused person; application for writ of habeas corpus; hearing; penalty
+- Section 17-13-31 - Duty of district attorney to answer and defend habeas corpus action
+- Section 17-13-32 - Confinement in jail of person being extradited to another state when necessary
+- Section 17-13-33 - Arrest of person charged with crime in another state under warrant based upon oath or affidavit of another person
+- Section 17-13-34 - Arrest without warrant of a person charged with a crime in another state
+- Section 17-13-35 - Commitment of person accused of crime in another state to county jail pending receipt of demand from other state generally
+- Section 17-13-36 - Granting of bail
+- Section 17-13-37 - Procedure where accused not arrested within time specified in warrant
+- Section 17-13-38 - Forfeiture of bail bond
+- Section 17-13-39 - Surrender of persons under criminal prosecution or sentence in this state to demanding state
+- Section 17-13-40 - Conduct of inquiry as to guilt or innocence of accused
+- Section 17-13-41 - Recall of warrant of arrest or issuance of another warrant by Governor
+- Section 17-13-42 - Demand for return of fugitives in other states by Governor of this state; issuance of warrant to person receiving fugitive
+- Section 17-13-43 - Application for issuance of demand
+- Section 17-13-44 - Payment of expenses
+- Section 17-13-45 - Immunity from service of process of persons brought into state in civil actions based on facts in criminal charge
+- Section 17-13-46 - Execution and filing of written waiver of extradition proceedings by accused; delivery of accused to demanding state
+- Section 17-13-47 - Effect of article as to right, power, or privilege of state to try demanded person
+- Section 17-13-48 - Trial of person brought into state for other criminal prosecutions while in state
+- Section 17-13-49 - Uniform interpretation and construction

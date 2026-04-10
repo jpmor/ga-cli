@@ -1,0 +1,25 @@
+# Chapter 9 - CHIROPRACTORS (§§ 43-9-1 — 43-9-20)
+
+- Section 43-9-1 - Definitions
+- Section 43-9-2 - Georgia Board of Chiropractic Examiners; members; qualifications; residence requirements; terms
+- Section 43-9-3 - Terms of office of board members; vacancies
+- Section 43-9-4 - Meetings; seal; rules and regulations; election of officers; oath of office; certificate of appointment
+- Section 43-9-5 - Reimbursement of board members
+- Section 43-9-6 - Removal of board members
+- Section 43-9-6.1 - Authority of board
+- Section 43-9-7 - Qualifications of applicants for license to practice chiropractic
+- Section 43-9-7.1 - Temporary licenses
+- Section 43-9-7.2 - Persons excepted from application of chapter
+- Section 43-9-8 - Examination
+- Section 43-9-9 - Reciprocity
+- Section 43-9-10.1 - Display of license; notification of address change
+- Section 43-9-11 - Biennial renewal of licenses; continuing education requirement
+- Section 43-9-12 - Refusal, suspension, or revocation of licenses; subpoenas; other discipline; judicial review; reinstatement; voluntary surrender of license; injunctions; statement of complaint
+- Section 43-9-12.1 - Reasonable care and skill; referrals
+- Section 43-9-13 - Hearing before board when license refused or revoked
+- Section 43-9-14 - [Repealed] [Reserved] Record of license revocation
+- Section 43-9-15 - Reissuance of licenses
+- Section 43-9-16 - Scope of practice
+- Section 43-9-17 - Applicability of chapter upon scope of practice of chiropractic students
+- Section 43-9-18 - Provision of chiropractic services limited to doctors of chiropractic; construction of chapter
+- Section 43-9-19 - Penalty

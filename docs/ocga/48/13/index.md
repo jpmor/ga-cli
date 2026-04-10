@@ -1,0 +1,113 @@
+# Chapter 13 - SPECIFIC, BUSINESS, AND OCCUPATION TAXES (§§ 48-13-1 — 48-13-144)
+
+- Section 48-13-2 - Prohibition of export tax on state products
+- Section 48-13-3 - Prohibition of capitation tax; exception
+- Section 48-13-4 - Prohibition of tax on activities involving air commerce; exceptions
+- Section 48-13-5 - Definitions
+- Section 48-13-6 - Levy of occupation tax by counties and municipalities on businesses and practitioners of professions and occupations; hearing on tax increase
+- Section 48-13-7 - Levy of occupation tax by localities on persons with no location or office in state; superseding of local law; tax payable to only one local government; exemption
+- Section 48-13-8 - Imposition of regulatory fees by counties and municipalities on businesses and practitioners of professions and occupations; classification based on location within or without corporate limits prohibited
+- Section 48-13-9 - Limitation on authority of local government to impose regulatory fee; examples of individuals and entities which may and may not be subject to fees; methods for determining fees
+- Section 48-13-9.1 - Civil action; attorney's fees
+- Section 48-13-10 - Determining amount of occupation tax; criteria for classification of businesses and practitioners; administrative fee; exemptions or reduction in fees for economic development; election of tax by practitioner
+- Section 48-13-11 - Prohibited criteria or methods in determining amount of occupation tax
+- Section 48-13-12 - Classification rules for businesses or practitioners with more than one type of service or product
+- Section 48-13-13 - Prohibitions on occupation tax levies by local governments
+- Section 48-13-14 - Levy on business or practitioner with location or office in more than one jurisdiction; allocating gross receipts; limits on levies using criteria for taxation
+- Section 48-13-15 - Confidentiality of information provided by business or practitioner; violation; when disclosure allowed
+- Section 48-13-16 - Excluded businesses or practitioners; other laws on occupation taxes or registration fees of local governments not repealed
+- Section 48-13-17 - Levy of license, occupation, or professional tax by counties and municipalities upon real estate brokers
+- Section 48-13-18 - Municipal occupational tax on businesses, trades, and professions licensed by or registered with state
+- Section 48-13-19 - Limitation on levy of employment taxes by municipalities; exception
+- Section 48-13-20 - Time for payment of fees and taxes
+- Section 48-13-20.1 - Localities levying occupation tax or regulatory fee to collect certain information from taxpayers; electronic submission of information
+- Section 48-13-21 - Penalty for failure to pay tax or fee; time; amount; interest and administrative fees; exemption for certain military service
+- Section 48-13-22 - Amount of tax due from businesses commenced on or after July 1
+- Section 48-13-23 - Duty to post state licenses in places of business by persons subject to any special or occupational tax
+- Section 48-13-24 - Census governing amount of tax or license fee to be paid
+- Section 48-13-25 - Effect of entry of nulla bona on right of defaulting taxpayer to collect fees for services rendered after entry; effect of taxpayer's payment in full of delinquent tax, on such right
+- Section 48-13-26 - Issuance of executions against delinquent taxpayers; criminal liability unaffected
+- Section 48-13-27 - Ordinances and resolutions to be in compliance with amended article
+- Section 48-13-28 - Disposition of increase in occupation tax revenue; public hearings
+- Section 48-13-29 - Compliance by counties and municipalities with provisions; electronic or mail application process; payment of fees; establishment of system of permitting not required; plans or specifications by mail
+- Section 48-13-30 - &quot;Contractor&quot; defined
+- Section 48-13-31 - Registration of nonresident contractors; minimum contract price; reports with respect to liability; registration fees; disposition
+- Section 48-13-32 - Bonds; procedure; condition precedent to commencing work; amount; blanket or master bonds; amount; registration of completed contracts; fee
+- Section 48-13-33 - Injunction to prevent execution of contract pending compliance with registration and bond requirements; procedure
+- Section 48-13-34 - Release of bonds; completion of contract and certification from Commissioner of Labor; automatic release
+- Section 48-13-35 - Appointment of Secretary of State by nonresident contractor as agent for service of process; time; effect on validity of process as to contractor
+- Section 48-13-36 - Actions; venue; service and return of summons; procedure; record book kept by Secretary of State; contents
+- Section 48-13-37 - Preclusion of right to bring action for payment on contract by contractor in violation of article
+- Section 48-13-38 - Violations of article; penalty
+- Section 48-13-50 - Purpose
+- Section 48-13-50.1 - Creation of special districts
+- Section 48-13-50.2 - Definitions
+- Section 48-13-50.3 - Additional nightly tax levied on public accommodations; collection and remittance by innkeepers; exemptions; use of funds from additional taxes; provisions for termination
+- Section 48-13-50.4 - Obligation of marketplace innkeepers to collect and remit taxes; conditions; audits; liability; exceptions
+- Section 48-13-51 - County and municipal levies on public accommodations charges for promotion of tourism, conventions, and trade shows
+- Section 48-13-52 - Allowance of percentage of tax collected as deduction to person reporting and paying tax; effect of delinquent payments; rate
+- Section 48-13-53 - Procedures
+- Section 48-13-53.1 - Innkeepers; selling or quitting business; withholding of purchase money by purchaser; liability of purchaser for failure to withhold purchase money
+- Section 48-13-53.2 - Tax returns and remittances
+- Section 48-13-53.3 - Taxes; extensions and returns; failure of innkeeper to make return and pay required tax
+- Section 48-13-53.4 - Records and books
+- Section 48-13-53.5 - Assessments
+- Section 48-13-53.6 - Unpaid tax
+- Section 48-13-54 - Lodge operated under jurisdiction of Department of Natural Resources or other state authority; collection and remittance of tax; use of funds
+- Section 48-13-55 - Facility operated by charitable trust or functionally related business; license fees; limitation on or applicability of tax levies
+- Section 48-13-56 - Annual report to Department of Community Affairs
+- Section 48-13-56.1 - Hotel Motel Tax Performance Review Board; composition; appointments; investigations of complaints; expenses of members
+- Section 48-13-57 - Applicable provisions from Chapter 2 of this title; waiving interest and penalties; limitation for assessment of taxes
+- Section 48-13-58 - Penalties added to tax for failure to pay
+- Section 48-13-58.1 - Criminal penalties for failure to make return or pay taxes
+- Section 48-13-59 - Failure to collect taxes; punishment
+- Section 48-13-60 - Unlawful returns; punishment
+- Section 48-13-61 - Failure to furnish return; punishment
+- Section 48-13-62 - Failure to keep and open records; punishment
+- Section 48-13-63 - Other violations; punishment
+- Section 48-13-70 - Definition
+- Section 48-13-71 - Organizations and companies exempt from corporate net worth tax
+- Section 48-13-72 - Imposition of annual corporate net worth tax on all corporations doing business or owning property in state
+- Section 48-13-73 - Amount of corporate net worth tax; amount for taxable period less than six months
+- Section 48-13-74 - Determination of net worth of corporation; determination by commissioner absent disclosure of true net worth on corporation's books or return
+- Section 48-13-75 - Apportionment of net worth of foreign corporation; determination of receipts derived from business in state; fixing value of capital stock; methods
+- Section 48-13-76 - Corporate net worth tax due on first day of tax period; determination of annual tax period; determination of first tax period
+- Section 48-13-77 - Corporate net worth tax return and payment; procedure; combining net worth tax return with state income tax return
+- Section 48-13-78 - Period for payment of tax; effect
+- Section 48-13-79 - Penalties; failure to file timely; extensions; failure to pay timely; interest
+- Section 48-13-90 - Legislative purpose and intent
+- Section 48-13-91 - Definitions
+- Section 48-13-92 - Special districts
+- Section 48-13-93 - Levy and collection of excise taxes upon motor vehicle rental charges; expenditure of taxes; purpose
+- Section 48-13-94 - Reimbursement for persons collecting tax
+- Section 48-13-95 - Local powers and procedures
+- Section 48-13-96 - Auditor's report
+- Section 48-13-97 - Cash and credit rental charges to be reported on either cash or accrual basis of accounting
+- Section 48-13-110 - Definitions
+- Section 48-13-111 - Creation of special districts
+- Section 48-13-112 - Levy and collection of excise tax on sale or use of energy
+- Section 48-13-113 - Notice of meeting to determine levy
+- Section 48-13-114 - Adoption of ordinance levying excise tax within special district
+- Section 48-13-115 - Nonparticipation of county within special district to enter into intergovernmental agreement
+- Section 48-13-116 - Imposition of excise tax; effective date; limitations
+- Section 48-13-117 - Procedures for payment, collection, and assessment; refund claims; contingent contract or arrangement for assessment of liability prohibited
+- Section 48-13-118 - Separate revenue schedule required
+- Section 48-13-119 - Transmittal of returns and remission of taxes due; form of returns; estimated tax liability
+- Section 48-13-120 - Extension of time for making returns; penalties and interest; failure to make return
+- Section 48-13-121 - Keeping and preservation of records, exemption certificates, and books of account; records to be open to examination; audits and examinations
+- Section 48-13-122 - Authority to waive penalties
+- Section 48-13-123 - Failure to make returns or pay full amount of tax; penalties and interest
+- Section 48-13-124 - Willful failure to collect tax; misdemeanor; punishment
+- Section 48-13-125 - False or fraudulent return; penalty
+- Section 48-13-126 - Failure or refusal to furnish return; punishment
+- Section 48-13-127 - Willful failure to keep records or open records to inspection; punishment
+- Section 48-13-128 - Violation of article; punishment
+- Section 48-13-130 - Definitions
+- Section 48-13-131 - Excise tax imposed; rate of taxation; establishment of Fireworks Trust Fund
+- Section 48-13-132 - Civil penalty for violations
+- Section 48-13-133 - Promulgation of rules and regulations
+- Section 48-13-140 - Definitions
+- Section 48-13-141 - Excise tax on for-hire ground transport; Georgia Transit Trust Fund established; annual adjustment
+- Section 48-13-142 - Penalty for violations
+- Section 48-13-143 - Quarterly reporting requirement
+- Section 48-13-144 - Rules and regulations

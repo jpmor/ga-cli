@@ -1,0 +1,39 @@
+# Chapter 10 - VITAL RECORDS (§§ 31-10-1 — 31-10-33)
+
+- Section 31-10-1 - Definitions
+- Section 31-10-2 - Maintenance and operation of vital records registration system
+- Section 31-10-3 - Rules and regulations
+- Section 31-10-4 - Appointment of state registrar of vital records
+- Section 31-10-5 - Duties and powers of state registrar; delegation of functions and duties
+- Section 31-10-6 - Local registrars, local custodians, special abstracting agents, and deputies; appointment; duties
+- Section 31-10-7 - Form of certificates and reports; date received for registration required; filing or registration of information by photographic, electronic, or other means
+- Section 31-10-8 - Certification to county treasurers of birth and death certificates and spontaneous fetal death reports filed; fees
+- Section 31-10-9 - Registration of births
+- Section 31-10-9.1 - Social security account information of parents
+- Section 31-10-9.2 - Abuse or neglect reports; establishment of policies and procedures
+- Section 31-10-10 - Registration of live born infants of unknown parentage
+- Section 31-10-11 - Registration of delayed certificate of birth
+- Section 31-10-12 - Judicial procedure to establish facts of birth
+- Section 31-10-13 - Certificates of adoption
+- Section 31-10-13.1 - Certified copies of orders and registration of legitimations and paternity orders
+- Section 31-10-13.2 - Provision of copies of legitimation and paternity orders to state registrar
+- Section 31-10-14 - Issuance of new certificate of birth following adoption and legitimation or paternity determination
+- Section 31-10-15 - Death certificate; filing; medical certification; forwarding death certificate to decedent's county of residence; purging voter registration list
+- Section 31-10-16 - Criteria for pronouncing death; immunity from liability
+- Section 31-10-17 - State registration of death certificates; certified copies; certificates of record
+- Section 31-10-18 - Registration of spontaneous fetal deaths
+- Section 31-10-19 - Reporting of induced termination of pregnancy
+- Section 31-10-20 - Permits for disposition, disinterment, and reinterment
+- Section 31-10-21 - Record of marriage licenses
+- Section 31-10-22 - Record of divorces, dissolutions, and annulments
+- Section 31-10-23 - Amendment of certificates or reports
+- Section 31-10-24 - Preservation or disposition of vital records; certified reproductions; preserved originals and authorized reproductions as property of department
+- Section 31-10-25 - Disclosure of information contained in vital records; transfer of records to State Archives
+- Section 31-10-26 - Issuance of certified copies of vital records, voluntary acknowledgments of paternity, voluntary acknowledgments of legitimation; certificates; use for statistical purposes; transmittal of records out of state; use for commercial or speculative purposes
+- Section 31-10-27 - Fees for copies or services
+- Section 31-10-28 - Institutions to keep vital records
+- Section 31-10-29 - Privileged nature of disclosures; notification of local registrar of institutional deaths and fetal deaths; notification of board of voting registrars of adult deaths
+- Section 31-10-30 - Posting facts of death to birth certificates
+- Section 31-10-31 - Penalties
+- Section 31-10-32 - Extension of periods for filing of certificates or reports
+- Section 31-10-33 - Procedure for stillbirth

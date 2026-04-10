@@ -1,0 +1,29 @@
+# Chapter 12 - DISTRICT ATTORNEYS EMERITUS AND THE DISTRICT ATTORNEYS RETIREMENT FUND OF GEORGIA (§§ 47-12-1 — 47-12-101)
+
+- Section 47-12-1 - Definitions
+- Section 47-12-20 - Creation of the office of district attorney emeritus
+- Section 47-12-21 - Creation of the fund; membership of the board of trustees; payments to the fund
+- Section 47-12-22 - Power of board of trustees to make rules and regulations for the administration of the fund
+- Section 47-12-23 - Power of board of trustees to invest money received under this chapter
+- Section 47-12-24 - Annual audit of the fund
+- Section 47-12-25 - Administration of the fund
+- Section 47-12-40 - Eligibility to participate in the fund
+- Section 47-12-41 - Payments by district attorneys into the fund
+- Section 47-12-42 - Spouses' benefits coverage; payments required for such coverage; effect of spouse's death, divorce, or remarriage
+- Section 47-12-43 - Manner of deduction of payments to the fund; penalty for late payments; payments made on behalf of the district attorney
+- Section 47-12-44 - Transfer of membership and contributions to the Employees' Retirement System of Georgia; payment of additional state contribution upon transfer
+- Section 47-12-60 - Eligibility for retirement from the office of district attorney and appointment to the office of district attorney emeritus
+- Section 47-12-61 - Credit for service rendered as a judge of a city court from which appeals can be taken directly to the Court of Appeals; payments required in order to obtain such credit
+- Section 47-12-62 - Credit for service rendered as a judge of a county court from which appeals can be taken directly to the Court of Appeals; payments required in order to obtain such credit
+- Section 47-12-63 - Credit for service rendered as a member of the General Assembly or as an attorney for the state or an authority thereof; payments required in order to obtain such credit
+- Section 47-12-64 - Credit for service in the armed forces of the United States during certain national emergencies; payments required in order to obtain such credit
+- Section 47-12-80 - Retirement from the office of district attorney and appointment to the office of district attorney emeritus; term of office as district attorney emeritus
+- Section 47-12-81 - Practice of law during term of office as district attorney emeritus
+- Section 47-12-82 - Salary for district attorneys emeritus; suspension of office upon eligibility for or appointment to an office of profit or trust under the United States Constitution or the Constitution of Georgia
+- Section 47-12-83 - Duties of district attorney emeritus
+- Section 47-12-84 - Disability retirement; determination of disability; continuation of payments to the fund
+- Section 47-12-85 - Resignation from the office of district attorney emeritus; reappointment to office
+- Section 47-12-86 - Withdrawal of payments to the fund; right to participate in the fund after such withdrawal; how payments made on behalf of the district attorney are to be treated
+- Section 47-12-87 - Withdrawal of payments for disqualification from office or retirement; payments made upon the death of the district attorney; payments by employer
+- Section 47-12-100 - Effect of sufficiency of the fund on payments to persons who are eligible for retirement benefits; order of liability for such payments
+- Section 47-12-101 - Exemption of moneys and rights accruing under this chapter from taxation; exemption from levy and sale, attachment, garnishment, and other process; assignability

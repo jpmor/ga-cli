@@ -1,0 +1,128 @@
+# Chapter 5 - DRIVERS' LICENSES (§§ 40-5-1 — 40-5-179)
+
+- Section 40-5-1 - Definitions
+- Section 40-5-2 - Keeping of records of applications for licenses and information on licensees; furnishing of information
+- Section 40-5-3 - Department employees as notaries public
+- Section 40-5-4 - Promulgation of rules and regulations
+- Section 40-5-4.1 - Authorized delay in compliance with federal Real ID Act
+- Section 40-5-5 - Reciprocal agreements with other states, districts, territories, and foreign countries for the operation of motor vehicles and required testing; &quot;limited term&quot; notation
+- Section 40-5-6 - Form for making anatomical gifts upon issuance or renewal of driver's license or identification card
+- Section 40-5-7 - [Repealed] Blue Ribbon Young Driver and DUI Study Commission; creation; membership; purpose; meetings; compensation; reports to Governor and General Assembly; termination
+- Section 40-5-8 - Registration of applicants with United States Selective Service System; notification that signature constitutes consent
+- Section 40-5-9 - Pauper's affidavit for a partial waiver of driver's license reinstatement and restoration fees
+- Section 40-5-10 - Driver education training courses
+- Section 40-5-20 - License required; surrender of prior licenses; local licenses prohibited
+- Section 40-5-21 - Exemptions generally
+- Section 40-5-21.1 - Temporary licenses, permits, or special identification cards; foreign licenses or identification cards as evidence of legal presence in the United States; extensions
+- Section 40-5-21.2 - Compliance with Systematic Alien Verification for Entitlements Program; application; implementation
+- Section 40-5-22 - Issuance of instruction permit or driver's license to person under 18 years of age; persons not to be licensed
+- Section 40-5-22.1 - Reinstatement after delinquency adjudication for driving under the influence of alcohol or drugs for child under 16 years of age
+- Section 40-5-23 - Classes of licenses
+- Section 40-5-24 - Instruction permits; graduated licensing and related restrictions; temporary licenses
+- Section 40-5-25 - Applications; fees; provisions for voluntary participation in various programs
+- Section 40-5-26 - Applications of minors; revocation request of minor's instruction permit or license; distinctive licenses for persons under 21
+- Section 40-5-27 - Examination of applicants
+- Section 40-5-28 - Issuance and contents of licenses; county tag agents; Class E and Class F licenses for volunteer firefighters
+- Section 40-5-28.1 - Use of social security numbers
+- Section 40-5-29 - License to be carried and exhibited on demand
+- Section 40-5-30 - Restricted licenses
+- Section 40-5-31 - Replacement permits or licenses
+- Section 40-5-32 - Expiration and renewal of licenses; reexamination required; electronic renewal notices
+- Section 40-5-33 - Change of address or name
+- Section 40-5-34 - Driver License Advisory Board
+- Section 40-5-35 - Disqualifying disorders and disabilities; reports by physicians and vision specialists; procedure when person found unqualified to be licensed
+- Section 40-5-36 - Veterans' licenses, honorary licenses, and other distinctive licenses
+- Section 40-5-37 - Expiration of active duty service members' licenses
+- Section 40-5-38 - Notation of post-traumatic stress disorder
+- Section 40-5-39 - Requirements for operation of a motor vehicle for hire; for-hire license endorsements and eligibility; term; background checks
+- Section 40-5-50 - Authority of department to cancel license or identification card
+- Section 40-5-51 - Suspension of driving privilege of nonresident; reporting convictions, suspensions, and revocations of nonresidents
+- Section 40-5-52 - Suspension of license or operating privilege for conduct in another state
+- Section 40-5-53 - Surrender of license to court of conviction; report of conviction to department; destruction of license
+- Section 40-5-54 - Mandatory suspension of license; notice of suspension
+- Section 40-5-54.1 - Denial or suspension of license for noncompliance with child support order
+- Section 40-5-55 - Implied consent to chemical tests
+- Section 40-5-56 - Suspension of license or driving privilege for failure to respond to citation; reinstatement of license
+- Section 40-5-57 - Suspension or revocation of license of habitually negligent or dangerous driver; point system
+- Section 40-5-57.1 - Suspension of licenses of persons under 21 years for certain offenses; suspension of licenses of persons under 18 years for certain point accumulation
+- Section 40-5-57.2 - Suspension of license for reckless stunt driving
+- Section 40-5-57.3 - Penalty for multiple convictions of causing serious injury due to right of way violations
+- Section 40-5-58 - Habitual violators; probationary licenses
+- Section 40-5-59 - Reexamination of drivers believed to be incompetent or unqualified
+- Section 40-5-60 - When revocation or suspension effective; notice
+- Section 40-5-61 - Surrender and return of license; time served under such sentence credited toward fulfillment of period of revocation or suspension
+- Section 40-5-62 - Periods of revocation; time served under such sentence credited toward fulfillment of period of revocation; conditions to restoration of license or issuance of new license
+- Section 40-5-63 - Periods of suspension for certain convictions of Code Section 40-5-54 or 40-6-391; conditions to return of license
+- Section 40-5-63.1 - Clinical evaluation and substance abuse treatment programs for certain offenders
+- Section 40-5-64 - Limited driving permits for certain offenders
+- Section 40-5-64.1 - Ignition interlock device limited driving permits
+- Section 40-5-64.2 - [Repealed] Report on issuance of optional ignition interlock device limited driving permits
+- Section 40-5-65 - Restriction as to operation under foreign license during period of revocation or suspension
+- Section 40-5-66 - Appeals from decisions of department
+- Section 40-5-67 - Seizure and disposition of driver's license of persons charged with driving under the influence; issuance of temporary driving permit; disposition of cases
+- Section 40-5-67.1 - Chemical tests; implied consent notices; rights of motorists; test results; refusal to submit; suspension or disqualification; administrative license suspension hearing and review; inspection and certification of breath-testing instruments
+- Section 40-5-67.2 - Terms and conditions for implied consent license suspension; administrative license suspension in relation to post-conviction suspension
+- Section 40-5-69 - Circumstances not affecting suspensions by operation of law
+- Section 40-5-70 - Suspension of license, license tag, and tag registration for operation of vehicle without effective insurance
+- Section 40-5-71 - [Repealed] Notice of insurance issuance, renewal, or termination; lapse fee; suspension of license following insurance termination; restricted driving permits
+- Section 40-5-72 - [Reserved] Forwarding of suspended license, license tag, and tag registration to department
+- Section 40-5-73 - Limited applicability
+- Section 40-5-74 - Defacement or alteration of seized license prohibited
+- Section 40-5-75 - Suspension of licenses by operation of law; reinstatement
+- Section 40-5-76 - Court ordered reinstatement or suspension of license or issuance of limited driving permit or ignition interlock device limited driving permit; time credited toward fulfillment of period of license suspension
+- Section 40-5-80 - Purpose of article
+- Section 40-5-81 - Certification and approval of courses by department; prohibited behavior by a clinic or program
+- Section 40-5-82 - Administration of program
+- Section 40-5-83 - Approval and operation of driver improvement clinics; criteria for defensive driving courses, alcohol and drug courses, and driving under the influence risk reduction programs
+- Section 40-5-84 - Reinstatement of licenses suspended for certain offenses or for points
+- Section 40-5-85 - Red stripe upon reinstated license for repeat offenders of driving under the influence of alcohol or drugs
+- Section 40-5-86 - Reduction of point count upon completion of course
+- Section 40-5-87 - Conditions of article exclusive
+- Section 40-5-88 - Administrative penalties
+- Section 40-5-100 - Application; contents of card; prohibition on possession of more than one card; optional contributions to and participation in voluntary programs
+- Section 40-5-101 - Rules and regulations
+- Section 40-5-102 - Applicant to furnish proof of birth date
+- Section 40-5-103 - Fee; issuance period; exemptions from fees; renewal
+- Section 40-5-104 - False statement in application
+- Section 40-5-105 - Application of Code Section 40-5-2
+- Section 40-5-106 - Impact of display to officer of identification in electronic format
+- Section 40-5-107 - Issuance of identification cards upon release from confinement
+- Section 40-5-120 - Unlawful use of license or identification card; penalties for violations of chapter generally
+- Section 40-5-121 - Driving while license suspended or revoked
+- Section 40-5-122 - Permitting unlicensed person to drive
+- Section 40-5-123 - Permitting unauthorized minor to drive
+- Section 40-5-124 - Jurisdiction of offenses
+- Section 40-5-125 - Fraudulent driver's license or identification card; false statements or commission of fraud in applications; criminal violation
+- Section 40-5-140 - Short title
+- Section 40-5-141 - Purpose and applicability of article; liberal construction
+- Section 40-5-142 - Definitions
+- Section 40-5-143 - Driving commercial motor vehicle with more than one license prohibited
+- Section 40-5-144 - Notice required by driver of commercial vehicle of certain convictions or license restrictions; information required to be provided to prospective employer
+- Section 40-5-145 - Duties of employer
+- Section 40-5-146 - Operation of commercial motor vehicle without valid license or driving privilege
+- Section 40-5-147 - Requirements for issuance of license or instruction permit; administration of skills test by third party; waiver or exemption; disqualification and notice
+- Section 40-5-148 - Nonresident license
+- Section 40-5-148.1 - Restricted commercial licenses for persons in agricultural industry
+- Section 40-5-148.2 - Issuance of nonresident commercial drivers' licenses
+- Section 40-5-148.3 - Submission of medical examiner's certificate; penalty for false submissions
+- Section 40-5-149 - Contents of application; application required when name, mailing address, or residence changed
+- Section 40-5-150 - Contents of license; classifications; endorsements and restrictions; information to be obtained before issuance; notice of issuance; expiration of license; renewal
+- Section 40-5-151 - Disqualification from driving; action required after suspending, revoking, or canceling license or nonresident privileges
+- Section 40-5-152 - Operating a commercial motor vehicle while having measurable alcohol in system; refusal to take chemical test
+- Section 40-5-153 - Implied consent to chemical test; administration of test; procedure
+- Section 40-5-154 - Notice to licensing state of conviction of nonresident licensee for violation of state law or local ordinance
+- Section 40-5-155 - Information to be available to driver's license administrators of other states, employers, and insurers
+- Section 40-5-156 - Rules and regulations
+- Section 40-5-157 - Authority for commissioner to enter into agreements, arrangements, or declarations
+- Section 40-5-158 - Driving with license issued by state or province or territory of Canada in accordance with minimum federal standards
+- Section 40-5-159 - Violations
+- Section 40-5-170 - Definitions
+- Section 40-5-171 - Issuance and contents of identification cards for persons with disabilities
+- Section 40-5-172 - Term of card issued to person with permanent disability; issuance to person with temporary disability; renewal
+- Section 40-5-173 - Format of card
+- Section 40-5-174 - Proof of need for special transportation services for persons with disabilities
+- Section 40-5-175 - Admission to seating for persons with disabilities at public events
+- Section 40-5-176 - Rules and regulations
+- Section 40-5-177 - Evidence of applicant's birth date required
+- Section 40-5-178 - Fee for card; waiver for person with veteran's driver's license
+- Section 40-5-179 - Fraudulent identification cards; penalties

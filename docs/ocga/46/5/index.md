@@ -1,0 +1,148 @@
+# Chapter 5 - TELEPHONE SERVICE (§§ 46-5-1 — 46-5-252)
+
+- Section 46-5-1 - Exercise of power of eminent domain by telephone companies; placement of posts and other fixtures; regulation of construction of fixtures, posts, and wires near railroad tracks; liability of telephone companies for damages; required information; due compensation
+- Section 46-5-2 - Avoiding or attempting to avoid charges for use of telecommunication service; penalties; computation of damages
+- Section 46-5-3 - Making, possessing, selling, allowing use of, or publishing assembly plans for devices, equipment, or apparatus for committing theft of telecommunications service, or for concealing origin or destination of any telecommunication; compensatory damages
+- Section 46-5-4 - Seizure and disposal of devices, equipment, or any plan or instruction used for committing theft of telecommunications service
+- Section 46-5-5 - Inclusion of local exchanges 495 and 567 in area code 404
+- Section 46-5-6 - Exclusive power and authority of the Public Service Commission to prescribe rules and regulations regarding public pay telephones
+- Section 46-5-7 - Plan to ensure confidentiality of family violence shelters' addresses and locations
+- Section 46-5-8 - Termination of wireless communications service contracts by service members
+- Section 46-5-20 - Judicial proceedings for disconnection and removal of illegally used telephone facilities; liability of telephone companies for complying with order of disconnection and removal
+- Section 46-5-21 - Using telephone communications for obscene, threatening, or harassing purposes
+- Section 46-5-22 - Using telephone communications for obscene comments, requests, or suggestions; injunction; recorded commercial message
+- Section 46-5-23 - Use of automatic dialing and recorded message (ADAD)
+- Section 46-5-24 - Use of certain telephone numbers by ADAD equipment prohibited
+- Section 46-5-25 - Transmission of unsolicited commercial facsimile messages
+- Section 46-5-26 - Access to live telephone operator
+- Section 46-5-27 - Telephone solicitation calls; do not call database
+- Section 46-5-28 - Consent required for inclusion of subscribers' names or dialing numbers in a wireless telephone data base or a traditional telephone directory; exceptions; disclosure of wireless numbers to telemarketers prohibited; violations; immunity of service suppliers for authorized disclosures
+- Section 46-5-30 - Establishment, administration, and operation of state-wide dual party relay service and audible universal information access service
+- Section 46-5-31 - Rates and charges; surcharge not includable in gross receipts subject to franchise tax
+- Section 46-5-40 - &quot;Person&quot; defined
+- Section 46-5-41 - Obtaining of certificate of public convenience and necessity for construction, operation, acquisition, or extension of telephone lines, plants, or systems
+- Section 46-5-42 - Interference with existing telephone lines, plants, or systems by person constructing or extending a telephone line, plant, or system
+- Section 46-5-43 - Prescription by commission of rules and regulations as to application for certificate of public convenience and necessity; giving notice of receipt of application
+- Section 46-5-44 - Power of commission to issue or deny certificate
+- Section 46-5-45 - Filing complaints with commission regarding persons constructing, operating, or acquiring telephone line, plant, or system without certificate
+- Section 46-5-46 - [Repealed] Granting of certificates to persons engaged in construction or operation of telephone line, plant, or system as of February 17, 1950
+- Section 46-5-60 - Short title
+- Section 46-5-61 - Declaration of purpose
+- Section 46-5-62 - Definitions
+- Section 46-5-63 - Powers of cooperatives generally
+- Section 46-5-64 - Power of superior court to create cooperatives, to approve amendments to their articles of incorporation, conversion, consolidation, merger, or dissolution
+- Section 46-5-64.1 - Venue determinations
+- Section 46-5-65 - Names of cooperatives
+- Section 46-5-66 - Incorporators
+- Section 46-5-67 - Contents of articles of incorporation; signing and acknowledgment; recitation of purpose and powers; statements regarding issuance of nonvoting shares of stock
+- Section 46-5-68 - Presentation of articles of incorporation to superior court for approval; accompaniment of articles by Secretary of State's certificate and by required affidavits
+- Section 46-5-69 - Approval of articles by judicial order; application as constituting charter of cooperative
+- Section 46-5-70 - Filing of articles with clerk of court
+- Section 46-5-71 - Submittal to clerk of publisher's affidavit
+- Section 46-5-72 - Time of advertisement of articles; appearance of advertisements prior to granting of charter
+- Section 46-5-73 - Duty of clerk to deliver to applicants certified copies of articles and of order thereon
+- Section 46-5-74 - Filing of copies of articles and order with Secretary of State; payment of fee
+- Section 46-5-75 - Certificate of Secretary of State
+- Section 46-5-76 - Certified copies of charter and Secretary of State's certificate as evidence of incorporation of cooperative and of nature and contents of charter
+- Section 46-5-77 - Time of corporate existence of cooperative
+- Section 46-5-78 - Bylaws of cooperative generally
+- Section 46-5-79 - Qualifications for membership in cooperative; certificate of membership; share certificates; payment for shares of stock
+- Section 46-5-80 - Meetings of members - Generally
+- Section 46-5-81 - Meetings of members - Waiver of notice
+- Section 46-5-82 - Board of directors
+- Section 46-5-83 - Division of service territory into districts; election of district delegates; boundaries of districts; voting by members at district meetings and by district delegates at any meeting
+- Section 46-5-84 - Officers of cooperative
+- Section 46-5-85 - Amendment of articles of incorporation
+- Section 46-5-86 - Change of location of principal office
+- Section 46-5-87 - Consolidation of cooperatives
+- Section 46-5-88 - Merger of cooperatives
+- Section 46-5-89 - Effect of consolidation or merger
+- Section 46-5-90 - Conversion of telephone corporation into a cooperative; consolidation of telephone corporations into a cooperative
+- Section 46-5-91 - Dissolution of cooperatives
+- Section 46-5-92 - Operation of cooperatives on nonprofit basis; contents of bylaws and of contracts with members and patrons regarding nonprofit operation
+- Section 46-5-92.1 - Payment of revenues; priority of payments
+- Section 46-5-93 - Pledging or encumbering of property, assets, rights, and privileges of cooperative by board of directors to secure indebtedness to federal government; tax exemption for mortgages and deeds of trust; sale, pledge, or encumbrance of property
+- Section 46-5-94 - Liability of members and shareholders for debts of cooperative
+- Section 46-5-95 - Effect of recordation of mortgage, deed of trust, or other instrument of real and personal property of cooperative
+- Section 46-5-96 - Construction standards
+- Section 46-5-97 - Limitation of actions
+- Section 46-5-98 - Taking of acknowledgments by officers, trustees, members, or shareholders of cooperatives
+- Section 46-5-99 - Extension of telephone service into state by foreign nonprofit or cooperative corporations; Secretary of State as agent for foreign corporations; rights and powers of foreign corporations
+- Section 46-5-100 - Fees
+- Section 46-5-101 - Annual license fee; exemption of cooperatives from taxation
+- Section 46-5-102 - Interconnection of lines, facilities, or systems of cooperatives and other telephone companies
+- Section 46-5-103 - Jurisdiction of commission
+- Section 46-5-104 - Applicability of Chapter 5 of Title 10
+- Section 46-5-105 - Construction of part
+- Section 46-5-120 - Short title
+- Section 46-5-121 - Legislative intent
+- Section 46-5-122 - Definitions
+- Section 46-5-123 - [Repealed and Reserved] Creation of 9-1-1 Advisory Committee; selection of members; filling of vacancies; organization; roles and responsibilities
+- Section 46-5-124 - Guidelines for implementing state-wide emergency 9-1-1 system; training and equipment standards
+- Section 46-5-124.1 - Service suppliers or Voice over Internet Protocol service suppliers must register certain information with the authority; updating information; compliance; notices of deficiency or noncompliance
+- Section 46-5-125 - Formation of multijurisdictional and regional 9-1-1 systems
+- Section 46-5-126 - Cooperation by commission and telephone industry
+- Section 46-5-127 - Approval of 9-1-1 systems by agency; written confirmation by authority required for 9-1-1 systems established on or after January 1, 2019
+- Section 46-5-128 - Cooperation by public agencies
+- Section 46-5-129 - Use of 9-1-1 emblem
+- Section 46-5-130 - Federal assistance
+- Section 46-5-131 - Exemptions from liability in operation of 9-1-1 system
+- Section 46-5-132 - Fees by service supplier
+- Section 46-5-133 - Authority of local government to adopt resolution to impose monthly 9-1-1 charge
+- Section 46-5-134 - Billing of subscribers; liability of subscriber for service charge; taxes on service; establishment of Emergency Telephone System Fund; cost recovery fee; records; use of funds
+- Section 46-5-134.1 - Counties where the governing bodies of more than one local government have adopted a resolution to impose an enhanced 9-1-1 charge
+- Section 46-5-134.2 - Prepaid wireless 9-1-1 charge; definitions; imposition of fee by localities; collection and remission of charges; distribution of funds
+- Section 46-5-135 - Liability of service supplier in civil action
+- Section 46-5-136 - Authority of local government to create advisory board
+- Section 46-5-137 - Powers of Public Service Commission not affected
+- Section 46-5-138 - Joint authorities
+- Section 46-5-138.1 - Guidelines pertaining to additional charges involving contracts between two or more counties
+- Section 46-5-138.2 - &quot;Director&quot; defined; training and instruction
+- Section 46-5-139 - [Repealed] Joint Study Committee on Wireless Enhanced 9-1-1 Charges
+- Section 46-5-140 - through 46-5-149 - [Repealed]
+- Section 46-5-160 - Short title
+- Section 46-5-161 - Legislative findings; intent
+- Section 46-5-162 - Definitions
+- Section 46-5-163 - Certificates of authority
+- Section 46-5-164 - Interconnection among certificated local exchange companies
+- Section 46-5-165 - Alternative regulation of rates, terms, and conditions
+- Section 46-5-166 - Rates for switched access
+- Section 46-5-167 - Universal Access Fund
+- Section 46-5-168 - Jurisdiction and authority of commission
+- Section 46-5-169 - Company obligations associated with alternative regulation
+- Section 46-5-170 - Access to local telephone numbering resources and assignments
+- Section 46-5-171 - Local call charges based on duration or time of call prohibited
+- Section 46-5-171.1 - Written authorization required by customer prior to being charged for service initiated by a third party
+- Section 46-5-172 - Annual report of Tier 1 company's investment commitment
+- Section 46-5-173 - Unpublished telephone identification
+- Section 46-5-174 - Commission's annual report to General Assembly
+- Section 46-5-180 - Short title
+- Section 46-5-181 - Definitions
+- Section 46-5-182 - Certification of telecommunications companies which bill for or solicit intrastate telecommunications services
+- Section 46-5-183 - Procedures for confirmation of changes in selection of a primary local exchange or long distance carrier generated by telemarketing
+- Section 46-5-184 - Contents of letter of agency
+- Section 46-5-185 - Investigation and reporting requirements
+- Section 46-5-186 - Time limit on certain actions of local exchange carrier
+- Section 46-5-187 - Abusive telemarketing acts or practices
+- Section 46-5-188 - Forgery or falsification prohibited
+- Section 46-5-189 - Penalty for willful violation of article
+- Section 46-5-190 - Factual findings by Public Service Commission
+- Section 46-5-191 - Cause of action for damages resulting from violations of this article
+- Section 46-5-192 - Construction
+- Section 46-5-210 - Definitions
+- Section 46-5-211 - Consent of end user required for release of telephone records; law enforcement exception
+- Section 46-5-212 - Security certification required
+- Section 46-5-213 - Circumstances to which this article not applicable
+- Section 46-5-214 - Action in event of telephone record security breach; notification to Georgia residents; law enforcement exception; violations shall be unfair or deceptive practice in consumer transactions
+- Section 46-5-220 - Short title
+- Section 46-5-221 - Definitions
+- Section 46-5-222 - Commission has no authority over setting of rates or terms and conditions for the offering of broadband service, voice over Internet protocol, or wireless service; limitations
+- Section 46-5-230 - Short title
+- Section 46-5-231 - Definitions
+- Section 46-5-232 - Penalties
+- Section 46-5-233 - Article not to be construed so as to prevent certain law enforcement actions
+- Section 46-5-234 - Other circumstances to which this article not applicable
+- Section 46-5-235 - No private right of action created
+- Section 46-5-250 - Retail telecommunications service defined
+- Section 46-5-251 - Authority of Public Service Commission limited
+- Section 46-5-252 - Prohibition against passing cost of compliance on to consumers

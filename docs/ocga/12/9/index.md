@@ -1,0 +1,46 @@
+# Chapter 9 - PREVENTION AND CONTROL OF AIR POLLUTION (§§ 12-9-1 — 12-9-70)
+
+- Section 12-9-1 - Short title
+- Section 12-9-2 - Declaration of public policy
+- Section 12-9-3 - Definitions
+- Section 12-9-4 - Designation of division as agency to administer article
+- Section 12-9-5 - Powers and duties of Board of Natural Resources as to air quality generally
+- Section 12-9-6 - Powers and duties of director as to air quality generally
+- Section 12-9-7 - Permit required; report of spill or release of ethylene oxide; application; issuance; revocation, suspension, or amendment
+- Section 12-9-8 - Renewal or revision of permit
+- Section 12-9-9 - Notice requirements for permit applications and actions regarding permits
+- Section 12-9-10 - Permit related fees; costs of public notice
+- Section 12-9-11 - Inspections and investigations
+- Section 12-9-12 - Injunctive relief
+- Section 12-9-13 - Proceedings for enforcement
+- Section 12-9-14 - Powers of director in situations involving imminent and substantial danger to public health
+- Section 12-9-15 - Hearing; judicial review
+- Section 12-9-16 - Hearings and review
+- Section 12-9-17 - Legal assistance by Attorney General
+- Section 12-9-18 - Powers of Governor as to air quality control generally
+- Section 12-9-19 - Protection of confidential information obtained by division
+- Section 12-9-20 - Continuation in effect of rules, regulations, and permits
+- Section 12-9-21 - Effect of article on powers of Board of Natural Resources, department, division, and director
+- Section 12-9-22 - Noncompliance penalties
+- Section 12-9-23 - Civil penalties; procedures for imposing penalties
+- Section 12-9-24 - Criminal penalties; evidence; affirmative defenses
+- Section 12-9-25 - Small business stationary source technical and environmental compliance program; manager; advisory panel
+- Section 12-9-40 - Short title
+- Section 12-9-41 - Legislative findings
+- Section 12-9-42 - Declaration of public policy
+- Section 12-9-43 - Definitions
+- Section 12-9-44 - Uniformity and scope of application of article
+- Section 12-9-45 - Certificate of emission inspection
+- Section 12-9-46 - Powers and duties of board; designation of commissioner or director as board's agent; power and duties of director
+- Section 12-9-47 - Further powers and duties of board; designation of department personnel as board's agents
+- Section 12-9-48 - Requirement of certificate of emission inspection; standards for issuance; inspectors, equipment, and procedures; notice of violation of emission standards; reinspection after repairs; time extension; inspection sticker; new vehicles; replacement stickers
+- Section 12-9-49 - Application to conduct emission inspections; certificate of authorization
+- Section 12-9-50 - Authority to inspect, monitor, or investigate inspection stations
+- Section 12-9-51 - Emission inspection required for motor vehicle registration; operation without registration; improper reuse
+- Section 12-9-52 - Amendment, modification, revocation, or suspension of certificate of authorization
+- Section 12-9-53 - Review of director's decision
+- Section 12-9-54 - Sale of vehicle
+- Section 12-9-55 - Prohibited acts; registration of vehicle by county without proof of inspection; penalty; withholding of funding
+- Section 12-9-56 - Rules and regulations
+- Section 12-9-57 - Effect of federal Clean Air Act requirements; repeal of article
+- Section 12-9-70 - Study and review of gasoline additives

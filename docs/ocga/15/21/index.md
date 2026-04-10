@@ -1,0 +1,82 @@
+# Chapter 21 - PAYMENT AND DISPOSITION OF FINES AND FORFEITURES (§§ 15-21-1 — 15-21-209)
+
+- Section 15-21-1 - Time of payment of fines
+- Section 15-21-2 - Payment into county treasury of fines and bond forfeitures
+- Section 15-21-3 - Maintenance of moneys from fines and bond forfeitures in county treasury
+- Section 15-21-4 - Distribution of fines and bond forfeitures generally; liability of the clerk of the court as to distribution
+- Section 15-21-5 - Procedure for filing and payment of claims of officers of court when defendant acquitted or person liable is insolvent generally
+- Section 15-21-7 - Report by county treasurer to grand jury as to fines and bond forfeitures received and disbursed; compensation of treasurer; effect of Code section upon local laws
+- Section 15-21-8 - Applicability and effect of Code Sections 15-21-2 through 15-21-7
+- Section 15-21-9 - Lien of officers for payment of insolvent costs
+- Section 15-21-10 - Procedure for filing and payment of claims of officers of court when indictment found not true, defendant acquitted, or persons unable to pay
+- Section 15-21-11 - Priorities for distribution of fines and forfeitures generally
+- Section 15-21-12 - Contract for collection of moneys owed court
+- Section 15-21-13 - Priority of payment of claims for fees of solicitors of city courts, sheriffs, clerks, and district attorneys
+- Section 15-21-50 - Limitation period for claims against fine and bond forfeiture fund for payment of costs or fees; extension of limitation period
+- Section 15-21-51 - Procedure for extension of limitation period
+- Section 15-21-52 - Payment into county treasury of funds received as part of fine and bond forfeiture fund
+- Section 15-21-53 - Persons deemed county treasurers for purposes of article
+- Section 15-21-54 - Creation of claim for benefit of county against fine and bond forfeiture fund; priority of payment; rights of county to enforcement
+- Section 15-21-55 - Disposition of funds remaining after claims against fine and bond forfeiture fund paid or barred by limitation
+- Section 15-21-56 - Proceedings by persons claiming interest in fine and bond forfeiture fund
+- Section 15-21-57 - Effect of article upon duty of prosecuting officers and county treasurers relating to accounting for fines and bond forfeitures
+- Section 15-21-58 - Effect of article upon Acts pertaining to courts in particular counties or cities
+- Section 15-21-70 - Short title
+- Section 15-21-71 - Implementation of constitutional provision
+- Section 15-21-72 - Legislative intent
+- Section 15-21-73 - Penalty to be imposed in certain criminal and quasi-criminal and traffic cases and upon violation of bond
+- Section 15-21-74 - Assessment and collection of penalties; transfer of payments to Georgia Superior Court Clerks' Cooperative Authority; quarterly accounting
+- Section 15-21-77 - Appropriations for law enforcement or prosecutorial officers' training
+- Section 15-21-90 - Short title
+- Section 15-21-91 - Implementation of constitutional provision
+- Section 15-21-92 - Adoption of county resolution required; contracts between county and municipality after January 1, 1990
+- Section 15-21-93 - Imposition of additional penalty in fine cases; additional sum required when posting bail or bond
+- Section 15-21-94 - Assessment and collection of sums; deposit into county jail fund; failure to remit sums
+- Section 15-21-95 - Expenditure of moneys
+- Section 15-21-100 - Imposition of additional penalty for certain offenses
+- Section 15-21-101 - Collection of fines and authorized expenditures of funds from County Drug Abuse Treatment and Education Fund
+- Section 15-21-110 - Constitutional authority for enactment of article
+- Section 15-21-111 - Legislative intent
+- Section 15-21-112 - Additional penalty for violation of Code Section 40-6-391
+- Section 15-21-113 - Assessment and collection of penalty; payment to Georgia Superior Court Clerks' Cooperative Authority; quarterly reports and accounting
+- Section 15-21-115 - Failure or refusal to remit sums due
+- Section 15-21-130 - Legislative intent
+- Section 15-21-131 - Imposition of additional fines
+- Section 15-21-132 - Assessment and collection of additional sums; reporting; certification of victim assistance programs
+- Section 15-21-134 - Refusal to pay sums as provided in this article
+- Section 15-21-140 - Authorization of additional penalty assessments for violations involving driving under the influence
+- Section 15-21-141 - Definitions
+- Section 15-21-142 - Fund established
+- Section 15-21-143 - Appointment of members and personnel; agencies
+- Section 15-21-144 - Expense allowance and travel reimbursement of members of the fund
+- Section 15-21-145 - Duties of the commission
+- Section 15-21-146 - Recommendations of changes in state programs, statutes, policies, and budgets; standardization of care
+- Section 15-21-147 - Acceptance of federal funds; disposition
+- Section 15-21-148 - Creation of the Brain and Spinal Injury Trust Fund
+- Section 15-21-149 - Fines; penalties
+- Section 15-21-150 - Collection of fines; disposition of moneys collected
+- Section 15-21-151 - Additional fine for reckless driving; disposition
+- Section 15-21-152 - Duty to collect; misdemeanor
+- Section 15-21-170 - Short title
+- Section 15-21-171 - Definitions
+- Section 15-21-172 - Georgia Driver's Education Commission established
+- Section 15-21-173 - Members; terms; appointment; vacancies; chairperson and other officers; employees
+- Section 15-21-174 - Commission members' expenses
+- Section 15-21-175 - Powers and duties generally
+- Section 15-21-176 - Commission recommendations to Governor and General Assembly
+- Section 15-21-177 - Commission acceptance of federal funds, gifts and donations
+- Section 15-21-178 - Commission disbursement of funds for driver education and training
+- Section 15-21-179 - Additional penalty assessed for violations of traffic laws or ordinances
+- Section 15-21-180 - Disposition of funds from additional penalties
+- Section 15-21-181 - Report of funds received from additional penalties; annual reporting requirement; funds made available to Driver's Education Commission
+- Section 15-21-200 - Authority
+- Section 15-21-201 - Definitions
+- Section 15-21-202 - Commission established; fund creation; disbursement of proceeds
+- Section 15-21-203 - Commission membership; administration
+- Section 15-21-204 - Compensation
+- Section 15-21-205 - Commission meetings and responsibilities
+- Section 15-21-206 - Recommendations authorized
+- Section 15-21-207 - Funding sources
+- Section 15-21-208 - Financial penalty; collection
+- Section 15-21-209 - [Effective until 7/1/2026] State operation assessment against adult entertainment establishments; determination of obligation; use of funds; administration
+- Section 15-21-209 - [Effective 7/1/2026] State operation assessment against adult entertainment establishments; determination of obligation; use of funds; administration

@@ -1,0 +1,23 @@
+# Chapter 66C - STREAMLINING WIRELESS FACILITIES AND ANTENNAS ACT (§§ 36-66C-1 — 36-66C-21)
+
+- Section 36-66C-1 - Short title
+- Section 36-66C-2 - Definitions
+- Section 36-66C-3 - Informing authority on deployment of small wireless facilities and poles; confidentiality and proprietary nature of information
+- Section 36-66C-4 - Collocation of small wireless facilities and installation, modification, or replacement of associated poles or decorative poles
+- Section 36-66C-5 - Fees and rates preceding collocation; annual increases; rate changes after changes in federal law; removal; penalty
+- Section 36-66C-6 - Administrative review; public availability of accepted applications; requirements for application; exception to permitting requirements; changes to application information; exclusive arrangements prohibited; neutrality; location within right of way
+- Section 36-66C-7 - Requirements of authority following receipt of application; notification of time lapse; consolidated application; limitation on installation locations and permits; reconditioning work; time restrictions; imminent risk to public safety; repair of damage; delivery of notice or decision
+- Section 36-66C-8 - Compliance with all applicable law
+- Section 36-66C-9 - Due care during installation and maintenance; interference prohibited
+- Section 36-66C-10 - Collocation within historic district; limitations
+- Section 36-66C-11 - Alternate locations; certification
+- Section 36-66C-12 - Requirements for use of decorative poles
+- Section 36-66C-13 - Consolidated applications
+- Section 36-66C-14 - Resolution of conflicting requests
+- Section 36-66C-15 - Indemnification and liability
+- Section 36-66C-16 - Extra services
+- Section 36-66C-17 - Application if prior agreement in place
+- Section 36-66C-18 - Limitations
+- Section 36-66C-19 - Conflicting provisions
+- Section 36-66C-20 - Wireline backhaul facilities not addressed; no communication services authorized; utilization of rights of ways
+- Section 36-66C-21 - No relief of duties

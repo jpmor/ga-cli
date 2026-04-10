@@ -1,0 +1,22 @@
+# Chapter 4 - INTEREST AND USURY (§§ 7-4-1 — 7-4-30)
+
+- Section 7-4-1 - Usury
+- Section 7-4-2 - Legal rate of interest; maximum rate of interest generally; certain items not considered interest
+- Section 7-4-3 - Finance charges on certain retail installment contracts; contract provisions related to manufactured homes; violations
+- Section 7-4-4 - Advertisement of rates of interest or finance charge
+- Section 7-4-5 - Failure to include required contract provisions for manufactured homes; violation of advertising restrictions
+- Section 7-4-8 - Commission to third person does not make lawful interest usurious
+- Section 7-4-9 - Back interest may be stipulated in contract and recovered
+- Section 7-4-10 - Usury forfeits entire interest; right of setoff; how forfeiture discharged; when time bars action or defense
+- Section 7-4-11 - Usury is personal defense; no collection from insolvent to prejudice of others
+- Section 7-4-12 - Interest on judgments
+- Section 7-4-12.1 - Interest on child support and domestic relations orders; settlement of unreimbursed public assistance
+- Section 7-4-13 - Law of place of contract governs interest unless otherwise provided
+- Section 7-4-14 - Interest runs from default unless otherwise agreed; when demand necessary
+- Section 7-4-15 - When interest runs on liquidated demands; promissory notes payable on demand
+- Section 7-4-16 - When interest runs on commercial accounts; maximum interest rate on commercial accounts
+- Section 7-4-17 - Payment applied first to interest; no interest on unpaid interest; exceptions
+- Section 7-4-18 - Criminal penalty for excessive interest
+- Section 7-4-19 - Civil action to enforce chapter
+- Section 7-4-20 - Election to forgo application of federal usury laws
+- Section 7-4-21 - Class action barred on claims for violation of interest laws on loans secured by real estate

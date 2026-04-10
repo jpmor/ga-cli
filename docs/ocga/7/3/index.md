@@ -1,0 +1,45 @@
+# Chapter 3 - INSTALLMENT LOANS (§§ 7-3-1 — 7-3-52)
+
+- Section 7-3-1 - Short title
+- Section 7-3-2 - Transfer to Department of Banking and Finance
+- Section 7-3-3 - Definitions
+- Section 7-3-4 - Licensing requirement; exemptions
+- Section 7-3-5 - [Repealed] Applicability of chapter - Transactions by which money is paid others
+- Section 7-3-6 - [Renumbered as 7-3-4] Redesignated
+- Section 7-3-7 - through 7-3-9 - [Repealed]
+- Section 7-3-10 - [Renumbered from 7-3-13] False advertising prohibited
+- Section 7-3-11 - Maximum loan amount, period, and charges; deferments
+- Section 7-3-12 - Limitation on further charges
+- Section 7-3-13 - Licensee's compliance when purchasing notes and other documents
+- Section 7-3-14 - Payment before maturity; refund of prepaid interest; continuing insurance
+- Section 7-3-15 - Delivery of copy of contract or itemized statement; receipts
+- Section 7-3-16 - Additional loan fees; interest; penalties
+- Section 7-3-17 - Closing fees; refund or credit; pro rata basis
+- Section 7-3-18 - [Reserved] Tax on interest - Penalties for late or fraudulent tax payments
+- Section 7-3-20 - Licensing application; fee
+- Section 7-3-21 - Bond requirements
+- Section 7-3-22 - Investigations of applicants; license nontransferable; expiration and annual renewal
+- Section 7-3-23 - Use of Nationwide Multistate Licensing System and Registry
+- Section 7-3-24 - [Repealed] Suspension or revocation of license - Grounds; procedure; effect of loss of license on contracts
+- Section 7-3-25 - [Renumbered as 7-3-33] Redesignated
+- Section 7-3-26 - [Repealed] Probation and civil penalties for violations
+- Section 7-3-27 - [Repealed] Judicial review of Commissioner's decisions
+- Section 7-3-28 - [Renumbered as 7-3-49] Redesignated
+- Section 7-3-29 - [Renumbered as 7-3-50] Redesignated
+- Section 7-3-30 - Requirements of licensees; maintenance of records
+- Section 7-3-31 - Notification requirements
+- Section 7-3-32 - Locations; managers; change in control; approval of department
+- Section 7-3-33 - Unreasonable collection tactics
+- Section 7-3-40 - Investigations and examinations; payment of fees; cooperation by licensee
+- Section 7-3-41 - Subpoena powers and procedures
+- Section 7-3-42 - Felony convictions; criminal background checks
+- Section 7-3-43 - Grounds for denial, suspension, and revocation of license
+- Section 7-3-44 - Denial, suspension, and revocation of license; notice; hearings; review; effect
+- Section 7-3-45 - Cease and desist orders; hearings; review
+- Section 7-3-46 - Failure to comply with order; civil action; penalties
+- Section 7-3-47 - Confidentiality; disclosure limitations
+- Section 7-3-48 - Civil liability limited for providing information
+- Section 7-3-49 - [Renumbered from 7-3-28] Code Section 7-4-4 not repealed
+- Section 7-3-50 - Violations; criminal penalties; civil actions; liability
+- Section 7-3-51 - Rules and regulations
+- Section 7-3-52 - Limited continuation of licenses

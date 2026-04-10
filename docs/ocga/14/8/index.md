@@ -1,0 +1,71 @@
+# Chapter 8 - PARTNERSHIPS (§§ 14-8-1 — 14-8-64)
+
+- Section 14-8-1 - Short title
+- Section 14-8-2 - Definitions
+- Section 14-8-3 - &quot;Knowledge&quot; and &quot;notice&quot; defined
+- Section 14-8-4 - Construction with other laws
+- Section 14-8-5 - Governing laws in absence of specific provision in this chapter
+- Section 14-8-6 - &quot;Partnership&quot; defined
+- Section 14-8-7 - Determination of existence of partnership
+- Section 14-8-8 - Determination of ownership of property
+- Section 14-8-9 - Agency of partners for partnership
+- Section 14-8-10 - Conveyance of real property by partners
+- Section 14-8-10.1 - Statement of partnership generally
+- Section 14-8-11 - Representation of partnership affairs by partner
+- Section 14-8-12 - Notice to or knowledge of the partnership
+- Section 14-8-13 - Liability of partnership for acts of partners
+- Section 14-8-14 - Recovery from partnership for loss caused by wrongful act of partner
+- Section 14-8-15 - Liability of partners
+- Section 14-8-15.1 - Power to sue or be sued
+- Section 14-8-16 - Liability of person representing himself as a partner
+- Section 14-8-17 - Liability of incoming partner
+- Section 14-8-18 - Rights and duties of partners
+- Section 14-8-19 - Partnership books
+- Section 14-8-20 - Responsibility of partners to reveal true information to representative of deceased partner
+- Section 14-8-21 - Benefits derived by a partner without the consent of other partners
+- Section 14-8-22 - Right to formal accounting of partnership affairs
+- Section 14-8-23 - Continuation of partnership after time of termination
+- Section 14-8-24 - Property rights of partner
+- Section 14-8-25 - Incidents of tenancy in partnership
+- Section 14-8-26 - Interest of partner in partnership
+- Section 14-8-27 - Conveyance of partnership interest; dissolution of partnership
+- Section 14-8-28 - Judgment creditor of a partner against debtor partner's interest in partnership
+- Section 14-8-29 - Cessation of partners' association in carrying on partnership after dissolution
+- Section 14-8-30 - Continuation of dissolved partnership during wind-up of partnership's affairs
+- Section 14-8-31 - Causation of dissolution
+- Section 14-8-32 - Dissolution of partnership by court decree
+- Section 14-8-33 - Limitation of authority of partner to act for dissolved partnership
+- Section 14-8-34 - Liability of partners to copartners for actions following dissolution of partnership
+- Section 14-8-35 - Actions which can bind a dissolved partnership; liability of partners
+- Section 14-8-36 - Effect of dissolution of partnership on existing liability of partners
+- Section 14-8-37 - Rights of partners in winding up partnership affairs
+- Section 14-8-38 - Application of partnership property to satisfy obligations upon rightful dissolution; rights of partners following wrongful dissolution
+- Section 14-8-38.1 - Vesting of property of dissolved partnership in partnership continuing business
+- Section 14-8-38.2 - Vesting of property of dissolved partnership prior to July 1, 1989
+- Section 14-8-39 - Rescission of partnership agreement following fraud or misrepresentation
+- Section 14-8-40 - Settlement of accounts between partners after dissolution
+- Section 14-8-41 - Relations with creditors following withdrawal, expulsion, or death of existing partners or assignment of partnership rights to third parties
+- Section 14-8-42 - Continuation of business after withdrawal or death of a partner
+- Section 14-8-43 - Rights of partners to accounting of interest in partnership upon dissolution
+- Section 14-8-44 - Law governing foreign limited liability partnership
+- Section 14-8-45 - Certificate of authority requirement for foreign limited liability partnerships; contents of application for certificate; activities not constituting transacting business in state
+- Section 14-8-46 - Registered office and registered agent required for foreign limited liability partnership; Secretary of State as agent for service of process; venue
+- Section 14-8-47 - Issuance of certificate of authority to foreign limited liability partnership
+- Section 14-8-48 - Name of foreign limited liability partnership
+- Section 14-8-49 - Change of name of foreign limited liability partnership
+- Section 14-8-50 - Withdrawal of foreign limited liability partnership from state
+- Section 14-8-51 - Grounds for revocation of certificate of authority of foreign limited liability partnership
+- Section 14-8-52 - Procedure for revocation of certificate of authority of foreign limited liability partnership
+- Section 14-8-53 - Appeal from revocation of certificate of authority by foreign limited liability partnership
+- Section 14-8-54 - Transaction of business without certificate of authority by foreign limited liability partnership
+- Section 14-8-55 - Action to restrain foreign limited liability partnership from transacting business in state
+- Section 14-8-56 - Annual registration of foreign limited liability partnership
+- Section 14-8-56.1 - Valid period for annual registration
+- Section 14-8-57 - Filing fees pertaining to foreign limited liability partnerships
+- Section 14-8-58 - Administrative power of Secretary of State pertaining to foreign limited liability partnership laws
+- Section 14-8-59 - Rules and regulations pertaining to foreign limited liability partnerships
+- Section 14-8-60 - Effect of Secretary of State's filing of documents pertaining to foreign limited liability partnerships
+- Section 14-8-61 - Effective date of laws governing foreign limited liability partnership
+- Section 14-8-62 - Limited liability partnership election; recording; fees; contents; procedures and effect; cancellation; dissolution of partnership; amendment of certificate to comply with name requirements
+- Section 14-8-63 - Name of limited liability partnership
+- Section 14-8-64 - Recognition of limited liability partnership outside state; internal affairs of partnerships governed by state law

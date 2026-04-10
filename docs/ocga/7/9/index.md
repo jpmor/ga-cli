@@ -1,0 +1,28 @@
+# Chapter 9 - GEORGIA MERCHANT ACQUIRER LIMITED PURPOSE BANKS (§§ 7-9-1 — 7-9-13)
+
+- Section 7-9-1 - Short title
+- Section 7-9-2 - Definitions
+- Section 7-9-3 - Chartering of merchant acquirer limited purpose banks; regulation limited
+- Section 7-9-4 - Application; fees; minimum number of employees
+- Section 7-9-5 - Articles of incorporation; filing; publication; registered agent; administration by board of directors
+- Section 7-9-5.1 - Meetings
+- Section 7-9-5.2 - Bylaws
+- Section 7-9-5.3 - Officers and employees
+- Section 7-9-5.4 - Oath of office required
+- Section 7-9-6 - Charter application requirements
+- Section 7-9-7 - Investigation; requirements and procedure for background checks
+- Section 7-9-8 - Issuance of certificate of incorporation or certificate of organization
+- Section 7-9-9 - Corporate existence; shareholders; authority to regulate and supervise sale of shares; legal effect of incorporation certificate; when business may begin
+- Section 7-9-10 - Liability of applicant beginning business before authorized
+- Section 7-9-11 - Capital stock and paid-in surplus requirements
+- Section 7-9-11.1 - Merger or consolidation requirements
+- Section 7-9-11.2 - Merger or consolidation plan; requirements
+- Section 7-9-11.3 - Notice of merger or consolidation; filing
+- Section 7-9-11.4 - Merger or consolidation application; requirements
+- Section 7-9-11.5 - Merger or consolidation investigation; requirements and procedure
+- Section 7-9-11.6 - Certificate of merger or consolidation
+- Section 7-9-11.7 - Certificate effective upon issuance; evidence of satisfactory performance; effect of merger
+- Section 7-9-11.8 - Rights and remedies of shareholders
+- Section 7-9-12 - Limitations on activities; deposit insurance
+- Section 7-9-12.1 - Treatment of merchant funds
+- Section 7-9-13 - Regulation and enforcement by department; rules and regulations

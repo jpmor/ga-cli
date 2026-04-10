@@ -1,0 +1,27 @@
+# Chapter 47 - USED MOTOR VEHICLE AND USED MOTOR VEHICLE PARTS DEALERS (§§ 43-47-1 — 43-47-22)
+
+- Section 43-47-1 - Short title
+- Section 43-47-2 - Definitions
+- Section 43-47-3 - Creation of board; composition; terms of office; vacancies; election of chairperson; divisions
+- Section 43-47-4 - Division director as secretary of board
+- Section 43-47-5 - Reimbursement of board members
+- Section 43-47-6 - General powers and duties of board
+- Section 43-47-7 - Required license; records
+- Section 43-47-8 - License applications; prerequisites; license fees; renewal; training or test; supplemental licenses; bonds; insurance; suspension for conviction or false statement; meetings
+- Section 43-47-8.1 - Penalty
+- Section 43-47-8.2 - Place of business; temporary sites; penalties
+- Section 43-47-9 - Contents of licenses; display of licenses; endorsement of change of business location on licenses
+- Section 43-47-10 - Investigation of licensees by board; suspension or revocation of license; other sanctions
+- Section 43-47-11 - Hearings before board as to suspension of or revocation of licenses
+- Section 43-47-11.1 - Registration with commissioner of motor vehicle safety; application for dealer's registration plate
+- Section 43-47-12 - Maintenance of records by licensees; possession of vehicle or parts as evidence of purchase for resale
+- Section 43-47-13 - Local regulation and licensing
+- Section 43-47-14 - Fines for violation of chapter
+- Section 43-47-15 - Compliance with &quot;Motor Vehicle Certificate of Title Act&quot; required
+- Section 43-47-16 - Licensees to furnish certain information to purchasers
+- Section 43-47-17 - Consent to inspection as condition of licensure
+- Section 43-47-18 - Impoundment of used vehicles displayed for sale at unlicensed facilities
+- Section 43-47-19 - Sales on consignment basis
+- Section 43-47-20 - Prior rules remain valid
+- Section 43-47-21 - Civil penalty; civil actions; right of private action; persons already licensed to make changes at time of renewal of license
+- Section 43-47-22 - Penalty; injunctions

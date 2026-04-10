@@ -1,0 +1,33 @@
+# Chapter 16 - SHERIFFS' RETIREMENT FUND OF GEORGIA (§§ 47-16-1 — 47-16-123)
+
+- Section 47-16-1 - Definitions
+- Section 47-16-20 - Creation of the fund and the board of commissioners
+- Section 47-16-21 - Membership of the board
+- Section 47-16-22 - Quorum for conduct of business by the board; records of meetings of the board
+- Section 47-16-23 - Compensation and expenses of members of the board
+- Section 47-16-24 - Creation of the office of secretary-treasurer; periodic reports of moneys in hand, receipts, and expenditures; performance bond
+- Section 47-16-25 - Powers and duties of the board generally
+- Section 47-16-26 - Power of board to control, invest, and expend funds; gifts, grants, or bequests; deposit of funds received by the board; payment of benefits and administrative expenses
+- Section 47-16-27 - Duty of board to keep records of accounts and operations; presentation of annual financial statement to Georgia Sheriffs' Association
+- Section 47-16-28 - Duty of state auditor to make an annual audit and report of the operations of the board; right of state auditor to audit the affairs of the board; contents of annual report
+- Section 47-16-29 - Increases in maximum monthly benefit payable under Article 6 of this chapter
+- Section 47-16-40 - Application for membership in the fund; contents of application; claim for credit for prior service
+- Section 47-16-41 - Delayed application for membership in the fund; credit for prior service as a sheriff, member of the armed forces of the United States, or peace officer
+- Section 47-16-42 - Effect of membership or participation in other retirement programs on membership and benefits under this chapter
+- Section 47-16-43 - Requirements for continued active membership in the fund
+- Section 47-16-44 - Removal from active membership roll; requirements for reinstatement to active membership; claim for credit for service during period of inactive membership
+- Section 47-16-60 - Payments to fund from fines and bonds collected in criminal and quasi-criminal cases; duty of collecting authority to record and remit; penalty for late payment
+- Section 47-16-61 - Payments to fund from fees collected in civil actions; duty to record and remit sums collected; penalties on delinquent amounts
+- Section 47-16-80 - Credit for prior service in the armed forces of the United States or as a peace officer
+- Section 47-16-81 - Credit for prior service as sheriff, member of armed forces of United States, or peace officer; notice; amendment of application
+- Section 47-16-82 - Credit for prior service as a warden of a county correctional institution
+- Section 47-16-83 - Payment of dues as prerequisite to credit for service on and after January 1, 1961
+- Section 47-16-84 - Members appointed to fill anticipated vacancies in office of sheriff prior to becoming members
+- Section 47-16-100 - Eligibility for retirement benefits
+- Section 47-16-101 - Retirement benefit options; failure of member to select an option; effect of changes in retirement benefits and options; change of option after receipt of payments
+- Section 47-16-102 - Death benefits; beneficiaries; procedure for designation of beneficiary to receive such benefits
+- Section 47-16-103 - Right to withdraw dues; effect of withdrawal on membership and benefits
+- Section 47-16-120 - Vesting of rights to benefits under this chapter
+- Section 47-16-121 - Reduction of benefits when available funds are actuarially insufficient; resumption of payments; personal liability of board for such reductions
+- Section 47-16-122 - Exemption of funds from attachment, garnishment, or judgment; assignability
+- Section 47-16-123 - Exemptions of moneys and rights accruing under this chapter from taxation

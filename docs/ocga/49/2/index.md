@@ -1,0 +1,30 @@
+# Chapter 2 - DEPARTMENT, COMMISSIONER, AND BOARD OF HUMAN SERVICES (§§ 49-2-1 — 49-2-25)
+
+- Section 49-2-1 - Department created; transfer from Department of Human Resources; commissioner; kinship care enforcement administrator
+- Section 49-2-2 - Board created; membership; appointment; terms; removal
+- Section 49-2-2.1 - Department is successor-in-interest to former Department of Human Resources
+- Section 49-2-3 - Functions transferred to the board from other boards and commissions
+- Section 49-2-4 - Divisions; allocation of functions
+- Section 49-2-5 - Department is institution of state; power to disburse state, county, and federal funds
+- Section 49-2-6 - Powers and duties
+- Section 49-2-7 - Functions, duties, and authority transferred to the department from other state agencies
+- Section 49-2-8 - [Repealed] Approval of physicians employed by department
+- Section 49-2-9 - Powers in administering and disbursing funds
+- Section 49-2-10 - State appropriations; state, county, and federal welfare funds are for public purpose
+- Section 49-2-11 - Acceptance and disbursement of federal aid; compliance with conditions; use of appropriations for matching funds
+- Section 49-2-12 - Development and revision of transportation plan for programs of department
+- Section 49-2-13 - Identifying transportation needs of the elderly and persons with disabilities and alternatives to meet needs
+- Section 49-2-13.1 - Financial assistance for transportation services for the elderly and persons with disabilities
+- Section 49-2-14 - Record search for conviction data on prospective employees
+- Section 49-2-14.1 - Records check requirement for licensing certain facilities
+- Section 49-2-15 - Service of process against department
+- Section 49-2-16 - [Repealed] Council for Welfare Administration
+- Section 49-2-17 - Disciplinary actions against applicants or licensees for certain violations
+- Section 49-2-18 - Director of Division of Family and Children Services; appointment; qualifications
+- Section 49-2-19 - DFCS State Advisory Board; membership; duties; officers and committees
+- Section 49-2-20 - Definitions
+- Section 49-2-21 - Persons who may obtain inspection warrants; authorization to search or inspect property
+- Section 49-2-22 - Procedure for issuance of inspection warrants
+- Section 49-2-23 - Requirements for validly issued inspection warrant; contents of warrant
+- Section 49-2-24 - Evidence generated inadmissible in criminal proceedings
+- Section 49-2-25 - Injunctions for certain violations of residential child care licensing law

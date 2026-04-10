@@ -1,0 +1,72 @@
+# Chapter 12 - VERDICT AND JUDGMENT (§§ 9-12-1 — 9-12-138)
+
+- Section 9-12-1 - What verdict to cover
+- Section 9-12-2 - Instructions on form of verdict
+- Section 9-12-3 - How verdict received
+- Section 9-12-4 - Construction of verdicts
+- Section 9-12-5 - Verdict may be molded
+- Section 9-12-6 - Amendment of verdict - To conform to pleadings
+- Section 9-12-7 - Amendment of verdict - After dispersal of jury
+- Section 9-12-8 - Amendment of verdict - When part illegal
+- Section 9-12-9 - Judgment to conform to verdict
+- Section 9-12-10 - Judgment for principal and interest
+- Section 9-12-11 - Sureties and endorsers to be identified in judgment
+- Section 9-12-12 - Judgment for costs against fiduciary
+- Section 9-12-13 - Amount of judgment on bond
+- Section 9-12-14 - Amendment of judgment to conform to verdict
+- Section 9-12-15 - Judgment aided by verdict or amendable not set aside
+- Section 9-12-16 - Validity of judgment when court does not have jurisdiction
+- Section 9-12-17 - When creditors or purchasers may attack judgment
+- Section 9-12-18 - Right to confess judgment and appeal; where and when entered
+- Section 9-12-19 - Judgment suspended by appeal
+- Section 9-12-20 - Judgment when security given on appeal
+- Section 9-12-21 - Judgments transferable; status of transferee
+- Section 9-12-22 - Effect of transfer by attorney; ratification
+- Section 9-12-23 - Effect of consent judgment
+- Section 9-12-40 - Judgment conclusive between which persons and on what issues
+- Section 9-12-41 - Effect of judgment in rem
+- Section 9-12-42 - Judgment no bar absent decision on merits
+- Section 9-12-43 - Parol evidence admissible
+- Section 9-12-60 - When judgment becomes dormant; how dormancy prevented; docketing; applicability
+- Section 9-12-61 - Dormant judgments renewed by action or scire facias; time of renewal
+- Section 9-12-62 - Nature of scire facias
+- Section 9-12-63 - Issuance of scire facias; copies; service; return
+- Section 9-12-64 - Revival on motion after service of scire facias; when defendant entitled to jury trial
+- Section 9-12-65 - Scire facias when judgment transferred
+- Section 9-12-66 - Venue of action to renew judgment
+- Section 9-12-67 - Revival of judgment against nonresident; service by publication
+- Section 9-12-68 - Revival of dormant decrees for payment of money
+- Section 9-12-80 - Equal dignity and binding effect of judgments
+- Section 9-12-81 - General execution docket; when money judgment in county of defendant's residence creates lien against third parties without notice
+- Section 9-12-82 - When money judgment outside county of defendant's residence creates lien against third parties without notice
+- Section 9-12-83 - When money judgment creates lien on land located outside county in which obtained against third parties without notice
+- Section 9-12-84 - When money judgment against nonresident creates lien on land within state against third parties without notice
+- Section 9-12-85 - Deeds, mortgages, judgments, or liens between parties not affected by money judgments
+- Section 9-12-86 - Recordation in county where property located prerequisite to lien on land
+- Section 9-12-87 - Judgments from same term considered of equal date
+- Section 9-12-88 - Extent property affected by judgment pending appeal
+- Section 9-12-89 - Effect of appellate proceeding on lien
+- Section 9-12-90 - Judgments relating to common disaster
+- Section 9-12-91 - Effect of judgment on promissory notes
+- Section 9-12-92 - Effect of judgment lien on personalty removed to another state, sold, and returned
+- Section 9-12-93 - When purchased property discharged from lien
+- Section 9-12-94 - Clerk's fees
+- Section 9-12-110 - Short title
+- Section 9-12-111 - Definitions
+- Section 9-12-112 - Applicability; burden of proof
+- Section 9-12-113 - Recognition and enforcement of foreign-country judgments
+- Section 9-12-114 - Recognition of personal jurisdiction
+- Section 9-12-115 - Procedure for recognition
+- Section 9-12-116 - Effect of recognition of foreign-country judgments
+- Section 9-12-117 - Stay pending appeal
+- Section 9-12-118 - Uniform construction
+- Section 9-12-119 - Situations not covered by article
+- Section 9-12-130 - Short title
+- Section 9-12-131 - &quot;Foreign judgment&quot; defined
+- Section 9-12-132 - Filing of judgment; force and effect following filing
+- Section 9-12-133 - Filing of foreign judgment; notice to judgment debtor; Code Section 9-11-4 inapplicable to article
+- Section 9-12-134 - Appeal or stay of foreign judgment; security for satisfaction
+- Section 9-12-135 - Clerk's fees
+- Section 9-12-136 - Actions to enforce judgments preserved
+- Section 9-12-137 - Uniform construction
+- Section 9-12-138 - Judgments to which article applies

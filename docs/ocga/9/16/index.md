@@ -1,0 +1,24 @@
+# Chapter 16 - GEORGIA UNIFORM CIVIL FORFEITURE PROCEDURE ACT (§§ 9-16-1 — 9-16-22)
+
+- Section 9-16-1 - Short title
+- Section 9-16-2 - Definitions
+- Section 9-16-3 - Jurisdiction
+- Section 9-16-4 - Venue
+- Section 9-16-5 - Notice to owner of seizure of vehicle
+- Section 9-16-6 - Seizure of property
+- Section 9-16-7 - Reporting of seizure; role of state attorney
+- Section 9-16-8 - Forfeiture lien
+- Section 9-16-9 - Seized property not subject to replevin, conveyance, sequestration, or attachment; release of property; assignment of complaint for forfeiture; custodian of property
+- Section 9-16-10 - Disposition of seized property
+- Section 9-16-11 - Quasi-judicial forfeiture for property valued at $25,000.00 or less; notice; procedure
+- Section 9-16-12 - In rem forfeiture
+- Section 9-16-13 - In personam forfeiture
+- Section 9-16-14 - Restraining order, injunction, and other measures to seize, maintain, or preserve property; hearing
+- Section 9-16-15 - Stay of civil forfeiture proceedings during pendency of criminal proceedings; effect of criminal conviction
+- Section 9-16-16 - Recovery by an injured person
+- Section 9-16-17 - Burden of proof and presumptions
+- Section 9-16-18 - Forfeited property vests in state at time conduct giving rise to forfeiture committed; release of property upon entry of judgment in favor of owner
+- Section 9-16-19 - Disposition of forfeited property; order of distribution; annual report
+- Section 9-16-20 - Court may order forfeiture of other property under certain circumstances; civil action; enforcement of judgments; persons having interest in property barred from collaterally attacking forfeiture proceedings; limitations
+- Section 9-16-21 - Effect of federal law forfeitures; annual report
+- Section 9-16-22 - Construction

@@ -1,0 +1,46 @@
+# Chapter 5 - GEORGIA GOVERNMENT TRANSPARENCY AND CAMPAIGN FINANCE (§§ 21-5-1 — 21-5-76)
+
+- Section 21-5-1 - Short title
+- Section 21-5-2 - Declaration of policy
+- Section 21-5-3 - Definitions
+- Section 21-5-4 - State Ethics Commission; membership; officers; quorum; meetings
+- Section 21-5-5 - Operating expenses
+- Section 21-5-6 - Powers and duties of the commission
+- Section 21-5-7 - Initiation of complaints
+- Section 21-5-7.1 - Technical defects in filings; procedures for determination or correction of defects; failure to correct
+- Section 21-5-8 - Venue
+- Section 21-5-9 - Penalties
+- Section 21-5-9.1 - Prerequisite to seeking election or reelection to General Assembly
+- Section 21-5-10 - Chapter as continuation of laws; effect of enactment
+- Section 21-5-11 - Acceptance by public officers of monetary fees or honoraria
+- Section 21-5-12 - Connected organizations
+- Section 21-5-13 - Limitation of actions
+- Section 21-5-14 - Email address reporting requirements; exceptions
+- Section 21-5-15 - Notice to local officials regarding certain actions to be given by certified mail or statutory overnight delivery
+- Section 21-5-30 - Contributions made to candidate or campaign committee or for recall of a public officer
+- Section 21-5-30.1 - Contributions by regulated entities to elected executive officers or candidates
+- Section 21-5-30.2 - Contributions by public agencies
+- Section 21-5-31 - [Repealed] [Reserved] Contributions or expenditures other than through candidate or committee; disclosure of extensions of credit
+- Section 21-5-32 - Accounts to be kept by candidate or campaign committee treasurer
+- Section 21-5-33 - Disposition of contributions
+- Section 21-5-34 - Disclosure reports
+- Section 21-5-34.1 - Filing campaign contribution disclosure reports electronically
+- Section 21-5-34.2 - Leadership committee defined; operation; separate from campaign committees
+- Section 21-5-35 - Acceptance of contributions or pledges during legislative sessions
+- Section 21-5-36 - Disposition of reports; handling of complaints and violations
+- Section 21-5-40 - Definitions
+- Section 21-5-41 - Maximum allowable contributions
+- Section 21-5-42 - Contribution to campaign committee deemed contribution to candidate; rules for construction
+- Section 21-5-43 - Accounting for and expenditure of campaign contributions
+- Section 21-5-50 - Filing by public officers; filing by candidates for public office; filing by elected officials and members of the General Assembly; electronic filing
+- Section 21-5-51 - Inspection and copying of financial disclosure statements
+- Section 21-5-52 - [Repealed] Filing by mail
+- Section 21-5-53 - [Repealed] Public record
+- Section 21-5-70 - Definitions
+- Section 21-5-71 - Registration required; application for registration; supplemental registration; expiration; docket; fees; identification cards; public rosters; exemptions
+- Section 21-5-72 - Denial, suspension, or revocation of registration; reinstatement
+- Section 21-5-72.1 - Regulation of certain contact between lobbyists and members of the General Assembly; making or acceptance of certain expenditures
+- Section 21-5-73 - Disclosure reports
+- Section 21-5-74 - Postemployment restrictions on lobbyists
+- Section 21-5-75 - Postemployment restrictions on public officers
+- Section 21-5-76 - Contingent fees for lobbying prohibited; unauthorized persons on the floor while the General Assembly is in session

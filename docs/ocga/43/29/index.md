@@ -1,0 +1,23 @@
+# Chapter 29 - DISPENSING OPTICIANS (§§ 43-29-1 — 43-29-22)
+
+- Section 43-29-1 - Purpose of chapter
+- Section 43-29-2 - Definitions
+- Section 43-29-3 - State Board of Dispensing Opticians; members; election of officers; meetings; powers and duties
+- Section 43-29-4 - Board records and seal
+- Section 43-29-5 - Jurisdiction of board
+- Section 43-29-6 - Rules and regulations; violation as grounds for revocation of license
+- Section 43-29-7 - License requirement; qualifications of applicants; subjects to be tested on examination; issuance and display of license
+- Section 43-29-8 - Examination; effect of failure of two examinations
+- Section 43-29-9 - Reciprocity
+- Section 43-29-10 - Registration; fee; reinstatement
+- Section 43-29-11 - Continuing education requirement; waiver; effect of failure to complete required course hours
+- Section 43-29-12 - Refusal or revocation of certificates of registration
+- Section 43-29-13 - Appeal from decisions of board
+- Section 43-29-14 - Duties when dispensing contact lenses; restrictions; qualified dispensing optician as engaging in lawful trade or occupation
+- Section 43-29-15 - Advertising
+- Section 43-29-16 - Splitting fees or costs
+- Section 43-29-17 - Sale of nonprescription glasses; manufacture and sale of artificial eyes
+- Section 43-29-18 - Construction of chapter
+- Section 43-29-19 - Payment of fees in advance; restriction on paying out funds and creating expenses
+- Section 43-29-20 - Unlicensed practice as public nuisance; injunctions
+- Section 43-29-21 - Penalty

@@ -1,0 +1,64 @@
+# Chapter 2 - GROUNDS FOR EQUITABLE RELIEF (§§ 23-2-1 — 23-2-136)
+
+- Section 23-2-2 - Setting aside sale or contract for inadequate consideration
+- Section 23-2-3 - Payment of lost bonds or notes
+- Section 23-2-20 - Which accidents relievable in equity
+- Section 23-2-21 - What mistakes relievable in equity; power to relieve to be exercised cautiously
+- Section 23-2-22 - Mistake of law in instrument by contracting parties
+- Section 23-2-23 - Mistake of law in instrument by agent
+- Section 23-2-24 - When mistake of fact relieved
+- Section 23-2-25 - Form of conveyance contrary to intent
+- Section 23-2-26 - Accident or mistake in execution of power
+- Section 23-2-27 - Equitable interference not authorized by mere ignorance of law
+- Section 23-2-28 - Equitable interference not authorized by mutual ignorance of fact; mistake in judgment of value
+- Section 23-2-29 - Equitable interference not authorized by failure to exercise diligence; ignorance of fact absent fraud
+- Section 23-2-30 - Reformation and execution of contract in case of mistake distinguished
+- Section 23-2-31 - Rescission for unilateral mistake of fact
+- Section 23-2-32 - When negligent complainant granted relief
+- Section 23-2-33 - Mere volunteers, in general; exception for executed contracts
+- Section 23-2-34 - Relief against original parties or privies; exception
+- Section 23-2-50 - Concurrent jurisdiction over fraud
+- Section 23-2-51 - Fraud as actual or constructive
+- Section 23-2-52 - Misrepresentation as legal fraud
+- Section 23-2-53 - Suppression of fact as fraud
+- Section 23-2-54 - Surprise as a form of fraud
+- Section 23-2-55 - Use of similar trademarks, names, or devices
+- Section 23-2-56 - Consummation of fraud
+- Section 23-2-57 - Proving existence of fraud
+- Section 23-2-58 - Confidential relations defined
+- Section 23-2-59 - Acquisition of antagonistic rights by one in confidential relationship
+- Section 23-2-60 - Annulment of conveyances for fraud
+- Section 23-2-70 - Scope of equity jurisdiction over matters of account
+- Section 23-2-71 - Entitlement to contribution; when equity has jurisdiction
+- Section 23-2-72 - Apportionment of contract, rent, or hire
+- Section 23-2-73 - Discharge of encumbrances affecting several interests
+- Section 23-2-74 - Burden of distinguishing mingled property
+- Section 23-2-75 - Offer to pay balance unnecessary
+- Section 23-2-76 - Equitable setoff
+- Section 23-2-90 - Legal and equitable assets defined; rules of distribution
+- Section 23-2-91 - When equity will interfere with administration of estates
+- Section 23-2-92 - Application for direction or construction of will
+- Section 23-2-93 - Marshaling assets of decedent's estate
+- Section 23-2-94 - Compelled election in marshaling assets
+- Section 23-2-95 - Creditors' petitions
+- Section 23-2-96 - When equitable assets may be reached by creditor
+- Section 23-2-97 - Time limit for intervention in case disposing of assets; publication of order
+- Section 23-2-98 - Application of joint and individual assets to debts
+- Section 23-2-110 - Equitable jurisdiction over powers
+- Section 23-2-111 - Exercise of discretionary powers not compellable generally
+- Section 23-2-112 - When faithful execution of power compellable
+- Section 23-2-113 - When equity may relieve against collusive, illusory, mistaken, etc., executions
+- Section 23-2-114 - Powers of sale to be construed strictly; manner of sale; who may exercise
+- Section 23-2-115 - When private sale authorized
+- Section 23-2-116 - When powers of sale exercisable by successor administrator, trustee, or guardian
+- Section 23-2-117 - When release, relinquishment, or covenant as to exercise of power of appointment authorized
+- Section 23-2-118 - Release, relinquishment, or covenant as to exercise of power of appointment to be in writing; delivery or recordation
+- Section 23-2-119 - When fiduciaries or bona fide purchasers affected by release, relinquishment, or covenant as to exercise of power of appointment
+- Section 23-2-120 - Application of Code Sections 23-2-117 through 23-2-119
+- Section 23-2-130 - When specific performance decreed generally
+- Section 23-2-131 - When specific performance of parol contract for land decreed; sufficient part performance
+- Section 23-2-132 - When voluntary agreement enforced
+- Section 23-2-133 - Inadequacy of price; unfair or unjust contracts
+- Section 23-2-134 - Vendor's ability to comply
+- Section 23-2-135 - Damages when specific performance impossible
+- Section 23-2-136 - Specific personalty; damages or delivery

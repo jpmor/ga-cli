@@ -1,0 +1,22 @@
+# Chapter 12 - UNIFORM ELECTRONIC TRANSACTIONS ACT (§§ 10-12-1 — 10-12-20)
+
+- Section 10-12-1 - Short title
+- Section 10-12-2 - Definitions
+- Section 10-12-3 - Applicability to electronic records and signatures relating to a transaction
+- Section 10-12-4 - Applicability to electronic records and signatures created on or after July 1, 2009
+- Section 10-12-5 - Chapter does not create requirement for electronic transactions; determination as to whether parties intend to conduct electronic transactions
+- Section 10-12-6 - Construction and applicability
+- Section 10-12-7 - Legal effect of electronic records or signatures
+- Section 10-12-8 - Ability to retain, store, and print electronic records; requirements for posting and display of records; variation by agreement
+- Section 10-12-9 - Attributing electronic record or signature to particular person; effect
+- Section 10-12-10 - Rules applicable when change or error in electronic record occurs
+- Section 10-12-11 - Satisfaction of notarization, acknowledgement, verification or oath requirement
+- Section 10-12-12 - Retention of electronic records
+- Section 10-12-13 - Record or signature evidence not to be excluded solely on the basis of electronic format
+- Section 10-12-14 - Rules for automated transactions
+- Section 10-12-15 - Sending and receipt of electronic records
+- Section 10-12-16 - Transferable records
+- Section 10-12-17 - Agency creation and retention of electronic records; conversion of written records to electronic records
+- Section 10-12-18 - Each government agency to determine extent of electronic record utilization; specifications for use
+- Section 10-12-19 - Standards
+- Section 10-12-20 - Chapter modifies, limits, and supersedes Electronic Signatures in Global and National Commerce Act

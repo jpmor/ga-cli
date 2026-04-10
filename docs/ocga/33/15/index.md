@@ -1,0 +1,40 @@
+# Chapter 15 - FRATERNAL BENEFIT SOCIETIES (§§ 33-15-1 — 33-15-123)
+
+- Section 33-15-1 - Description of fraternal benefit society
+- Section 33-15-2 - Lodge system; lodges for children
+- Section 33-15-3 - Representative form of government; supreme governing body; officers
+- Section 33-15-4 - Definitions
+- Section 33-15-5 - Purposes of society; adoption of laws and rules
+- Section 33-15-20 - Membership classes; eligibility standards; rights and privileges
+- Section 33-15-21 - Principal office of society; meetings; official publications; annual statement; provision for grievance or complaint procedures
+- Section 33-15-22 - Limited liability of officers and members; indemnification; insurance
+- Section 33-15-23 - Limitation on power of subordinate body
+- Section 33-15-40 - Formation of society; petition for charter; preliminary certificate of authority; advance premiums; certificate of authority
+- Section 33-15-41 - Amendment of laws; referendum; approval of Commissioner
+- Section 33-15-42 - Operation of not for profit institutions
+- Section 33-15-43 - Reinsurance
+- Section 33-15-44 - Consolidations or mergers
+- Section 33-15-45 - Conversion to mutual life insurance company
+- Section 33-15-60 - Contractual benefits allowed; persons covered
+- Section 33-15-61 - Beneficiary designations; funeral benefits; payment upon death of person without lawful beneficiary
+- Section 33-15-62 - Exemption of benefits from process
+- Section 33-15-63 - Certificate of benefits; effect of changes or additions; benefit contract binding upon children; assessment; evidentiary value; filing requirements; transfer of control of ownership; assignment
+- Section 33-15-64 - Provisions on control of exercise of rights incident to certificate; printing; notice and consent requirements
+- Section 33-15-65 - Value of paid-up nonforfeiture benefits and amounts of cash surrender values, loans, or other options
+- Section 33-15-80 - Investments of funds
+- Section 33-15-81 - Disposition of assets; funds; accounts
+- Section 33-15-82 - Exemption from other insurance laws
+- Section 33-15-83 - Exemption from taxation
+- Section 33-15-100 - Standards of valuation
+- Section 33-15-101 - Annual statements
+- Section 33-15-102 - Renewal of licenses
+- Section 33-15-103 - Examinations
+- Section 33-15-104 - Licensing of foreign or alien societies
+- Section 33-15-105 - Deficiencies of domestic society; notice; surrender of charter
+- Section 33-15-106 - Deficiencies of foreign or alien society; notice; enforcement procedures
+- Section 33-15-107 - Licensing of agents or representatives; exemptions
+- Section 33-15-108 - Applicability of unfair trade practices laws
+- Section 33-15-120 - Appointment of Commissioner as agent for service of process
+- Section 33-15-121 - Review of decisions and findings of Commissioner
+- Section 33-15-122 - Violation; penalties
+- Section 33-15-123 - Exempt societies, orders, or associations

@@ -1,0 +1,43 @@
+# Chapter 20 - PERSONNEL ADMINISTRATION (§§ 45-20-1 — 45-20-111)
+
+- Section 45-20-1 - Purposes; principles
+- Section 45-20-2 - Definitions
+- Section 45-20-3 - Duties and functions of State Personnel Board generally; compensation; quorum
+- Section 45-20-3.1 - Rule-making procedure
+- Section 45-20-4 - Duties and responsibilities of commissioner in administration of this chapter
+- Section 45-20-5 - [Repealed] Creation of Council for State Personnel Administration; membership; objectives; powers
+- Section 45-20-6 - Composition of classified and unclassified service; effect of exclusion from classified service on eligibility for membership in Employees' Retirement System of Georgia; working test period before obtaining rights of appeal
+- Section 45-20-7 - [Repealed] Employees in legislative branch authorized to become covered employees; procedure
+- Section 45-20-8 - Procedure for adverse action against classified employees generally; appeals generally
+- Section 45-20-9 - Procedure for hearings and appeals relating to adverse personnel actions
+- Section 45-20-10 - Collection, compilation, consolidation, and submission of certain personnel data
+- Section 45-20-11 - and 45-20-12 - Reserved
+- Section 45-20-13 - and 45-20-14 - Reserved
+- Section 45-20-15 - [Repealed] Confidentiality of information received by staff in counseling; exceptions
+- Section 45-20-16 - Rules for accrual of leave, holidays, and compensation for closing of state offices; utilization of accumulated sick leave; conversion to and use of personal leave; disapproval, contesting, and reacquisition of sick leave
+- Section 45-20-17 - Parental leave; requirements for implementation
+- Section 45-20-18 - Loss of eligibility for wage incentive payment due to abuse of member of public
+- Section 45-20-19 - Termination or elimination of positions or employees through reduction in force
+- Section 45-20-20 - Eligible employees must register with Selective Service System; exemptions
+- Section 45-20-21 - Performance management system
+- Section 45-20-22 - Role of Department of Administrative Services in reducing barriers to state employment
+- Section 45-20-30 - Leave of absence for blood donation
+- Section 45-20-31 - Leave of absence for organ or bone marrow donation
+- Section 45-20-32 - Limited paid leave for the purpose of promoting education
+- Section 45-20-50 - Purpose of article
+- Section 45-20-51 - Definitions
+- Section 45-20-52 - Board as policy-setting body for administration of article; rules and regulations
+- Section 45-20-53 - Deduction from salaries or wages for contribution to charitable organizations
+- Section 45-20-54 - Disclosure of amounts or designations of authorized charitable deductions; pressure, coercion, or intimidation of employee with reference to deductions
+- Section 45-20-54.1 - Promulgation of regulations regarding distribution of deducted funds; disposition of undesignated funds
+- Section 45-20-55 - Reimbursement of cost of making deductions and remitting proceeds; delegation of activities related to management of funds
+- Section 45-20-56 - Deduction and transmittal of funds as privilege; immunity from liability to employee or charitable organization for errors, omissions, or decisions regarding deductions; board as sole judge of eligibility of charitable organizations
+- Section 45-20-70 - &quot;Employee assistance program&quot; defined
+- Section 45-20-70.1 - Program authorized
+- Section 45-20-71 - Confidentiality of program related records or activities
+- Section 45-20-90 - Definitions
+- Section 45-20-91 - Determination of employees subject to testing
+- Section 45-20-92 - Rules adopted by State Personnel Board; certification of testing laboratories
+- Section 45-20-93 - Grounds for termination from employment
+- Section 45-20-110 - Definitions
+- Section 45-20-111 - Analysis of positions warranting established test; testing requirements, cost, and procedure; disqualification from employment for refusing test or showing positive results

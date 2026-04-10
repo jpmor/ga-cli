@@ -1,0 +1,42 @@
+# Chapter 4 - GUARDIANS OF ADULTS (§§ 29-4-1 — 29-4-98)
+
+- Section 29-4-1 - Prerequisite findings prior to appointment of guardian for adult; extent of guardianship
+- Section 29-4-2 - Qualifications of guardians selected for adults
+- Section 29-4-3 - Order of preference in selection of guardians; written request nominating guardian; requirements of writing
+- Section 29-4-10 - Petition for appointment of guardian; requirements for petition
+- Section 29-4-11 - Prerequisite judicial finding of probable cause; notice; petition; evaluations; reporting requirements
+- Section 29-4-12 - Judicial review of pleadings and evaluation report; findings; hearing
+- Section 29-4-13 - Requirements of order granting guardianship; service
+- Section 29-4-14 - Petition for appointment of emergency guardian; requirements of petition
+- Section 29-4-15 - Prerequisite findings prior to appointment of emergency guardian; evaluation; notice; hearing
+- Section 29-4-16 - Conduct of emergency guardianship hearing; limitations on emergency guardianship
+- Section 29-4-17 - [Repealed] Responsibility for paying expenses of any hearing
+- Section 29-4-18 - Temporary medical consent guardianship
+- Section 29-4-20 - Rights of the ward; impact on voting and testamentary capacity
+- Section 29-4-21 - Rights and privileges removed from ward upon appointment of guardian
+- Section 29-4-22 - Decisions on ward's well-being; obligations of guardian; liability of guardian
+- Section 29-4-23 - Powers and rights of guardian; appointment of guardian ad litem; coordination and cooperation with conservator or others
+- Section 29-4-24 - Disclosure of conflicts of interest
+- Section 29-4-25 - Oath or affirmation of guardian
+- Section 29-4-30 - Bond; recording of bond; payment of bond premium
+- Section 29-4-40 - Inquiry into unjust denial of rights or privileges of ward
+- Section 29-4-41 - Modification of guardianship
+- Section 29-4-42 - Termination of guardianship; required evidence; burden of proof; return of property
+- Section 29-4-43 - Petition of guardian for dismissal; order of dismissal
+- Section 29-4-50 - Resignation of guardian; required showing; alternative guardian; individuals entitled to notice; hearing
+- Section 29-4-51 - Appointment of successor guardian; notice to interested individuals; hearing; order
+- Section 29-4-52 - Revocation or suspension of guardianship; investigation; impact on other proceedings
+- Section 29-4-53 - Breach of fiduciary duty by guardian
+- Section 29-4-54 - Statute of limitations
+- Section 29-4-55 - [Repealed]
+- Section 29-4-60 - Appointment of temporary substitute guardian; period of service; service on ward; removal
+- Section 29-4-61 - Appointment of successor guardian and legal counsel; notice to interested parties; hearing
+- Section 29-4-62 - Delivery of property and final report from predecessor guardian
+- Section 29-4-70 - Right of ward to appeal; procedure; appointment of emergency guardian
+- Section 29-4-80 - Removal to jurisdiction where ward resides; appointment of guardian ad litem; certification and transfer of records; scope of jurisdiction
+- Section 29-4-85 - through 29-4-88 - Reserved
+- Section 29-4-90 - through 29-4-94 - Reserved
+- Section 29-4-95 - &quot;Foreign guardian&quot; defined; sale of ward's property
+- Section 29-4-96 - Power to recover property
+- Section 29-4-97 - Required filings with clerk of court
+- Section 29-4-98 - Submission to jurisdiction; registration of guardianship order

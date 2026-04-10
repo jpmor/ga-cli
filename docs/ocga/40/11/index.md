@@ -1,0 +1,31 @@
+# Chapter 11 - ABANDONED MOTOR VEHICLES (§§ 40-11-1 — 40-11-22)
+
+- Section 40-11-1 - Definitions
+- Section 40-11-2 - [Repealed] Duty of person removing or storing motor vehicle
+- Section 40-11-3 - [Repealed] Removal of vehicles from public property by peace officer; notification requirements
+- Section 40-11-3.1 - [Repealed] Unattended vehicle checks
+- Section 40-11-3.2 - [Repealed] Limited prohibition on towing vehicles within paid parking facility located within 500 feet of an establishment serving alcohol
+- Section 40-11-4 - [Repealed] Creation of lien; courts authorized to foreclose lien
+- Section 40-11-5 - [Repealed] Lien foreclosure procedure
+- Section 40-11-6 - [Repealed] Sale of vehicle pursuant to foreclosure
+- Section 40-11-7 - [Repealed] How purchaser at foreclosure sale may obtain certificate of title
+- Section 40-11-8 - [Repealed] Disposition of proceeds of foreclosure sale
+- Section 40-11-9 - Derelict motor vehicles; determination of status; disposition; violations and penalties
+- Section 40-11-10 - [Repealed] Disposition of certain contents of abandoned vehicles
+- Section 40-11-11 - Short title
+- Section 40-11-12 - Legislative intent
+- Section 40-11-13 - Definitions
+- Section 40-11-14 - Unattended vehicle checks; completion and attachment of check card; determination if vehicle stolen
+- Section 40-11-15 - Removal of vehicle; liability; duty of towing and storage firm when removal at request of law enforcement
+- Section 40-11-16 - Duty of towing and storage firm when removal at request of property owners; obligations of repair facility or salvage dealer in possession of vehicle
+- Section 40-11-17 - Removal from private parking lot; fees; penalty
+- Section 40-11-18 - Retrieval of personal property
+- Section 40-11-19 - Notification letter to owners; advertisement; lien upon vehicle; recoverable fees; form disclaiming ownership; demand letter
+- Section 40-11-19.1 - Petition to foreclose a lien on motor vehicle; answer; motion for judgment; timing; fees
+- Section 40-11-19.2 - Public sale authorized upon court order; procedure following satisfaction of lien; disposition of excess proceeds
+- Section 40-11-19.3 - Certified copy of court order; obtaining certificate of title
+- Section 40-11-19.4 - Development and publication of forms by the Council of Magistrate Court Judges; requirements
+- Section 40-11-19.5 - Form for disclaimer of motor vehicle ownership interest
+- Section 40-11-20 - Items subject to civil forfeiture
+- Section 40-11-21 - Assignment of new identification numbers prior to disposition of property
+- Section 40-11-22 - through 40-11-24 - [Repealed]

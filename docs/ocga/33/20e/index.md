@@ -1,0 +1,29 @@
+# Chapter 20E - SURPRISE BILLING CONSUMER PROTECTION ACT (§§ 33-20E-1 — 33-20E-26)
+
+- Section 33-20E-1 - Short title
+- Section 33-20E-2 - Application to insurers; definitions
+- Section 33-20E-3 - Exemption
+- Section 33-20E-4 - Payment for emergency medical services
+- Section 33-20E-5 - Payment for nonemergency medical services
+- Section 33-20E-6 - Denying or restricting benefits based on balance billing; notice to insured
+- Section 33-20E-7 - Surprise bill exclusion; requirements
+- Section 33-20E-8 - Payer health claims data base; annual updating of website
+- Section 33-20E-9 - Arbitration of payment issues
+- Section 33-20E-10 - Dismissal of arbitration requests
+- Section 33-20E-11 - Submission to Commissioner by insurer of data pending arbitration
+- Section 33-20E-11.1 - Commissioner's authority to request data for arbitration; penalty
+- Section 33-20E-12 - Regulation; contracting with resolution organizations
+- Section 33-20E-13 - Selection of arbitrator
+- Section 33-20E-14 - Submission of final offers; supporting documentation
+- Section 33-20E-15 - Proposed payment amounts
+- Section 33-20E-16 - Payment of expenses and fees
+- Section 33-20E-17 - Referral of parties for violations
+- Section 33-20E-18 - Limitation on litigation when arbitration sought
+- Section 33-20E-19 - Quarterly reporting by resolution organizations
+- Section 33-20E-20 - Annual reporting by Commissioner
+- Section 33-20E-21 - Exclusion from other statutory provisions
+- Section 33-20E-22 - Reporting to credit reporting agencies
+- Section 33-20E-23 - Financial responsibilities for ground ambulance transportation
+- Section 33-20E-24 - Access to contracted healthcare; assessing coverage; limitations on insurer's authority; regulation
+- Section 33-20E-25 - Monitoring of providers for accessibility; notification of noncompliance; responding to notification; requesting hearing
+- Section 33-20E-26 - Enforcement; monetary penalties

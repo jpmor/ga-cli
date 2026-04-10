@@ -1,0 +1,59 @@
+# Chapter 12 - FERTILIZERS, LIMING MATERIALS, AND SOIL AMENDMENTS (§§ 2-12-1 — 2-12-110)
+
+- Section 2-12-1 - Short title
+- Section 2-12-2 - Definitions
+- Section 2-12-3 - Commissioner to administer article
+- Section 2-12-4 - Licensing requirements generally; fees; renewal; contents
+- Section 2-12-5 - Nonresident licensees
+- Section 2-12-6 - Labeling of fertilizer
+- Section 2-12-7 - Inspection of fertilizer; methods of sampling and analysis; distribution of results
+- Section 2-12-8 - Inspection fees; quarterly report; collection penalty; effect of failure to file report and pay assessment
+- Section 2-12-9 - Penalties for plant food deficiencies; time for payment; effect of failure to pay; alteration of content of fertilizer by recipient
+- Section 2-12-10 - Distribution of misbranded fertilizer prohibited; when misbranded
+- Section 2-12-11 - Distribution of adulterated fertilizer prohibited; when adulterated
+- Section 2-12-12 - Determination of value of ingredients; prohibition of use or deletion from label
+- Section 2-12-13 - Short weight penalty; adjustment of invoice
+- Section 2-12-14 - Exchange between licensees not restricted
+- Section 2-12-15 - Adoption, enforcement, and promulgation of rules and regulations generally; sharing of information
+- Section 2-12-16 - Revocation or denial of license; cancellation or refusal of registration
+- Section 2-12-17 - Stop sale, stop use, or removal orders
+- Section 2-12-18 - Seizure, condemnation, and disposition of nonconforming fertilizer
+- Section 2-12-19 - Injunctions
+- Section 2-12-20 - Notice of violations; administrative hearing; penalty for violation; prosecution
+- Section 2-12-21 - Local regulation prohibited
+- Section 2-12-40 - Short title
+- Section 2-12-41 - Definitions
+- Section 2-12-42 - Administration of article
+- Section 2-12-43 - Licenses required; application, annual renewal, fees, revocation; registration of products; application, fees, cancellation
+- Section 2-12-44 - Semiannual tonnage statements
+- Section 2-12-45 - Labeling requirements
+- Section 2-12-46 - Analysis and sampling by Commissioner
+- Section 2-12-47 - Sale of noncomplying, toxic, or domestic septage material prohibited
+- Section 2-12-48 - Penalties for deficient materials
+- Section 2-12-49 - Rules and regulations; sharing of information
+- Section 2-12-50 - Notice and prosecution of violations; hearings; penalty
+- Section 2-12-70 - Short title
+- Section 2-12-71 - Definitions
+- Section 2-12-72 - Commissioner to administer article
+- Section 2-12-73 - Registration required; proof of claims or value; fee
+- Section 2-12-74 - Refusal or revocation of registration
+- Section 2-12-75 - Inspection fees; semiannual reporting
+- Section 2-12-76 - Labeling requirements
+- Section 2-12-77 - When soil amendment deemed misbranded
+- Section 2-12-78 - Inspection, sampling, and analysis
+- Section 2-12-79 - Prohibited acts
+- Section 2-12-80 - Promulgation and adoption of rules and regulations; sharing of information
+- Section 2-12-81 - Stop sale, use, and removal orders
+- Section 2-12-82 - Injunctions
+- Section 2-12-83 - Penalties
+- Section 2-12-100 - Short title
+- Section 2-12-101 - Purpose
+- Section 2-12-102 - Definitions
+- Section 2-12-103 - Administration and enforcement
+- Section 2-12-104 - Authority of Commissioner
+- Section 2-12-105 - Assessment and collection of cost of registration
+- Section 2-12-106 - Exemptions
+- Section 2-12-107 - Revocation, denial, cancellation, and refusal of registration
+- Section 2-12-108 - Injunctions against violations
+- Section 2-12-109 - Prohibited acts
+- Section 2-12-110 - Penalty

@@ -1,0 +1,24 @@
+# Chapter 10 - COSMETOLOGISTS AND BARBERS (§§ 43-10-1 — 43-10-20)
+
+- Section 43-10-1 - Definitions
+- Section 43-10-2 - State Board of Cosmetology and Barbers; members, meetings, officers, and powers
+- Section 43-10-3 - Reimbursement of board members
+- Section 43-10-5 - Records of board generally
+- Section 43-10-6 - Rules and regulations as to sanitary requirements; instruction on HIV and AIDS; inspections; unsanitary condition as nuisance
+- Section 43-10-7 - Issuance of certificates of registration
+- Section 43-10-8 - Certificate of registration required
+- Section 43-10-9 - Application for certificate of registration
+- Section 43-10-10 - Display of certificate of registration; renewal; reinstatement; continuing education requirements; exemptions
+- Section 43-10-11 - Registration of shops, salons, and schools
+- Section 43-10-12 - Regulation and licenses for schools; teachers and instructors; registration of apprentices; certification as teacher by Department of Education
+- Section 43-10-13 - Right to set course of study for students; application for examination; apprenticeship
+- Section 43-10-14 - Study by individuals 16 years of age and older; registration of apprentices; registration certificate; waiver of education requirements
+- Section 43-10-15 - Suspension, revocation, cancellation, or restoration of certificates of registration; reprimand of certificate holders; fines
+- Section 43-10-16 - Injunction against unlicensed or unregistered practice
+- Section 43-10-17 - Employment of persons to wash, shampoo, comb, brush, and blow-dry hair and apply cosmetics in beauty shops, beauty salons, and barber shops
+- Section 43-10-18 - Home beauty shops, beauty salons, or barber shops
+- Section 43-10-18.1 - [Repealed] [Reserved] Authorization to employ licensed barber; exemption from barbering licensure provisions
+- Section 43-10-18.2 - Exemption from licensing requirement for nursing home facility
+- Section 43-10-18.3 - Serving physically disabled or infirm persons in residence, assisted living facility, nursing home, hospital, or similar facility
+- Section 43-10-19 - Penalty
+- Section 43-10-20 - Teaching of barbering or the practice of a cosmetologist in prisons; certification of registration

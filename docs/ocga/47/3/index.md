@@ -1,0 +1,74 @@
+# Chapter 3 - TEACHERS RETIREMENT SYSTEM OF GEORGIA (§§ 47-3-1 — 47-3-142)
+
+- Section 47-3-1 - Definitions
+- Section 47-3-20 - Creation and management of the Teachers Retirement System of Georgia; its powers and privileges; name under which business transacted
+- Section 47-3-21 - Creation and membership of board of trustees; filling of vacancies; per diem, expenses, and oath of office; quorum; creation, membership, and duties of Teachers Retirement System Nomination Committee
+- Section 47-3-22 - Election of chairman and executive director of the board of trustees; payments by executive director of retirement system funds; surety bond required of executive director
+- Section 47-3-23 - Designation and duties of an actuary for the board of trustees; periodic actuarial investigation and recommendations; calculation tables and regular interest rate; annual valuation
+- Section 47-3-24 - Legal adviser of the board of trustees
+- Section 47-3-25 - Medical board; designation; duties regarding medical examinations required under this chapter
+- Section 47-3-26 - Powers and duties of the board of trustees generally
+- Section 47-3-27 - Investment powers; power to maintain cash on deposit for payments under the retirement system; personal interests in investments prohibited
+- Section 47-3-28 - Rights exempted from levy and sale, garnishment, and other process; assignability; exemptions for other retirement systems; assets and investments and their transfer or sale exempted
+- Section 47-3-29 - Deduction of membership dues of nonprofit organizations from benefit payments
+- Section 47-3-40 - Funds in which assets of the retirement system are to be held
+- Section 47-3-41 - Annuity savings fund generally
+- Section 47-3-41.1 - Payment of employee contributions by employers; mandatory nature; vesting
+- Section 47-3-42 - Employer's duty to deduct, collect, and remit employee contributions; effect of failure to deduct, collect, and remit such contributions
+- Section 47-3-43 - Pension accumulation fund generally
+- Section 47-3-44 - Crediting to pension accumulation fund; annual transfer from pension accumulation fund to provide regular interest
+- Section 47-3-45 - Obligations of the pension accumulation fund; permissible uses of the assets of the pension accumulation fund and of income, interest, and dividends
+- Section 47-3-46 - Date on which contributions to the retirement system are to commence
+- Section 47-3-47 - Purpose of the expense fund
+- Section 47-3-48 - Certification to employers of normal and accrued liability contribution rates; estimates by employers of contributions for coming year; requests for appropriations
+- Section 47-3-49 - Effective date of chapter; effect of appropriation of funds on the obligation to make employee and employer contributions to the retirement system
+- Section 47-3-60 - Eligibility; termination; leaves of absence; service credit for postgraduate study; transfer of service credit
+- Section 47-3-61 - [Repealed] Membership of persons who teach in both a public and private school system; payment of employer contributions for such persons
+- Section 47-3-62 - Membership of visiting teachers and attendance officers employed in lieu of visiting teachers
+- Section 47-3-63 - Membership of full-time public school support personnel; employee and employer contributions; creditable service
+- Section 47-3-64 - [Repealed] Public school teachers and employees who are covered by local retirement fund and who accept employment with private nonsectarian schools eligible for state grants
+- Section 47-3-65 - Membership, rights, and benefits in local retirement funds
+- Section 47-3-66 - Membership of teachers who are employed by independent school systems; creditable service
+- Section 47-3-67 - Membership of teachers who are employed by certain county school systems; transfer from local retirement fund; creditable service; contributions
+- Section 47-3-68 - Membership of eligible university system employees
+- Section 47-3-80 - Power of the board of trustees to determine which service is creditable service
+- Section 47-3-81 - Transfer of service credits from Employees' Retirement System of Georgia; limitations; additional contributions or adjustments required
+- Section 47-3-82 - Reestablishment of creditable service by persons who have withdrawn their contributions
+- Section 47-3-83 - Service credit for active duty service in the armed forces of the United States; limitations on credit for such service if used to obtain other state or federal retirement benefits
+- Section 47-3-84 - Credit for service rendered by members who have breaks in membership; payments required to obtain such credit
+- Section 47-3-84.1 - Certain former members of the system who have not withdrawn contributions
+- Section 47-3-84.2 - [Repealed] Credit for service by members described in subparagraphs (N)
+- Section 47-3-85 - Credit for service by former member of Employees' Retirement System of Georgia who withdrew contributions; credit for service before that retirement system established
+- Section 47-3-86 - Issuance of a prior service certificate; evidentiary effect of such certificate; credit for prior service rendered by members who previously elected nonmembership
+- Section 47-3-87 - [Repealed] Accumulated contributions for prior service; local retirement fund service included; determination of earnable compensation received during prior service
+- Section 47-3-87.1 - Credit for service rendered in independent school system prior to, but not later than, June 30, 1979
+- Section 47-3-88 - Credit for service rendered to a local school system by persons who became members on or after April 1, 1966; payments required in order to obtain such credit
+- Section 47-3-89 - Credit for service rendered in governmentally supported or operated schools other than public schools in Georgia; payments required to obtain credit for such service
+- Section 47-3-90 - Absence from employment because of pregnancy
+- Section 47-3-91 - Credit for service for visiting scholars
+- Section 47-3-92 - Absence from employment because of sick leave; creditable service
+- Section 47-3-93 - Additional creditable service for members with at least 25 years of creditable service
+- Section 47-3-94 - [Repealed] Credit for service while employed by nonprofit corporation under contract with state agency; requirements
+- Section 47-3-95 - Credit for service in private schools
+- Section 47-3-100 - Service which is creditable toward a retirement allowance
+- Section 47-3-101 - Eligibility and application for retirement; retirement age; duration of benefits paid to a retired member; payment to maintain Teachers Retirement System
+- Section 47-3-102 - Early retirement after 30 years' service; time for application; payment by member of actuarial cost
+- Section 47-3-120 - Allowance on service retirement; minimum retirement allowance; reduced allowance; increase; computation of average compensation
+- Section 47-3-121 - Optional retirement allowances; election of such options; revocation of election; effect of divorce
+- Section 47-3-122 - Eligibility and application for disability benefits; amount of disability benefits; reexamination of recipients; reduction
+- Section 47-3-123 - Benefits payable upon the death of a member before retirement
+- Section 47-3-124 - Application of minimum retirement allowances to persons who retired pursuant to county, municipal, or local board of education retirement or pension systems
+- Section 47-3-125 - Application of increases in retirement benefits to persons who retired pursuant to county, municipal, or local board of education retirement or pension systems
+- Section 47-3-126 - Postretirement benefit adjustments
+- Section 47-3-126.1 - Postretirement benefit adjustments effective July 1, 1984
+- Section 47-3-126.2 - Postretirement benefit adjustments effective July 1, 1986
+- Section 47-3-126.3 - Postretirement benefit adjustments
+- Section 47-3-126.4 - Postretirement benefit for beneficiary
+- Section 47-3-127 - Effect of restoration to service on retirement allowances; creditable service after restoration to service
+- Section 47-3-127.1 - [See Note] Full-time employment of beneficiaries permitted under limited conditions; required employer contributions; areas of highest need
+- Section 47-3-128 - Payment of accumulated contributions upon request after termination of membership; payment of taxable portion to eligible retirement plan
+- Section 47-3-129 - Rights when retire before 60 with ten years of service or 20 years before 1954; reestablishment of credits earned before that retirement
+- Section 47-3-130 - Commencement of benefits under this retirement system; retirement after January 1, 1943, but before the commencement date
+- Section 47-3-140 - Application of other state funded pension or retirement benefits to members and beneficiaries of this retirement system
+- Section 47-3-141 - Attempts to defraud the retirement system by means of false statements or falsified records; adjustment of erroneous payments
+- Section 47-3-142 - Rights and benefits of persons convicted of murder, voluntary manslaughter, or conspiracy to commit either upon a member or retiree

@@ -1,0 +1,23 @@
+# Chapter 13A - GEORGIA TAX TRIBUNAL ACT OF 2012 (§§ 50-13A-1 — 50-13A-20)
+
+- Section 50-13A-1 - [Repealed Effective 7/1/2026] Short title
+- Section 50-13A-2 - [Repealed Effective 7/1/2026] Role of agency
+- Section 50-13A-3 - [Repealed Effective 7/1/2026] Application of definitions within Code Section 48-1-2; &quot;tribunal&quot; defined
+- Section 50-13A-4 - [Repealed Effective 7/1/2026] Creation of tax tribunal; seal
+- Section 50-13A-5 - [Repealed Effective 7/1/2026] Composition of tribunal; vacancies and other administrative matters
+- Section 50-13A-6 - [Repealed Effective 7/1/2026] Qualification and terms of tribunal judges; oath; role
+- Section 50-13A-7 - [Repealed Effective 7/1/2026] Location of office; conduct of hearings at other locations
+- Section 50-13A-8 - [Repealed Effective 7/1/2026] Support personnel for tribunal
+- Section 50-13A-9 - [Repealed Effective 7/1/2026] Petitions for relief; jurisdiction; bonds
+- Section 50-13A-10 - [Repealed Effective 7/1/2026] Commencement of actions; service; pleadings and proceedings
+- Section 50-13A-11 - [Repealed Effective 7/1/2026] Petition operates as a stay; lifting of stay
+- Section 50-13A-12 - [Repealed Effective 7/1/2026] Fees
+- Section 50-13A-13 - [Repealed Effective 7/1/2026] Application of Georgia Civil Practice Act; discovery; attendance of witnesses
+- Section 50-13A-14 - [Repealed Effective 7/1/2026] Conduct of trials; evidence; recordings
+- Section 50-13A-15 - [Repealed Effective 7/1/2026] Writing required for judgments and orders; confidentiality; application of stare decisis; publication
+- Section 50-13A-16 - [Repealed Effective 7/1/2026] Small claims division established; jurisdiction; representation; hearings; finality of decisions
+- Section 50-13A-17 - [Repealed Effective 7/1/2026] Procedure and designation of appealing courts
+- Section 50-13A-18 - [Repealed Effective 7/1/2026] Service; filing
+- Section 50-13A-19 - [Repealed Effective 7/1/2026] Rules of practice, procedure, and forms
+- Section 50-13A-19.1 - [Repealed Effective 7/1/2026] Role of tribunal in refund matters from Department of Revenue
+- Section 50-13A-20 - [Repealed Effective 7/1/2026] Applicability of provisions

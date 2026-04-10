@@ -1,0 +1,34 @@
+# Chapter 3 - COMMUNITY SUPERVISION (§§ 42-3-1 — 42-3-119)
+
+- Section 42-3-1 - Definitions
+- Section 42-3-2 - Board of Community Supervision created; membership; creation of Program and Treatment Completion Certificate; adoption of rules and regulations; duties
+- Section 42-3-3 - Department of Community Supervision created; responsibilities
+- Section 42-3-4 - Commissioner of community supervision; duties
+- Section 42-3-5 - Administrative functions of department
+- Section 42-3-6 - Rules and regulations
+- Section 42-3-7 - Transfer of prior appropriations, personnel, equipment, and facilities; probation and parole not affected by creation of department
+- Section 42-3-8 - Employee benefit fund
+- Section 42-3-9 - Retention of issued weapon and badge; survivor's rights to badge
+- Section 42-3-10 - Appeals of sanctions; venue; no waiver of immunity
+- Section 42-3-30 - through 42-3-35 - Reserved
+- Section 42-3-50 - Definitions; assignment of community service for personal gain prohibited
+- Section 42-3-51 - Community service or educational advancement program; letter of application; requirements; limitation of liability
+- Section 42-3-52 - Community service or educational advancement as condition of probation
+- Section 42-3-53 - Placement with appropriate agency; approval by court; report of offender's performance
+- Section 42-3-54 - Applicability of Articles 2, 3, and 6 of this chapter
+- Section 42-3-70 - Operation of pretrial release and diversion programs
+- Section 42-3-71 - Discretionary release upon application by person charged with felony
+- Section 42-3-72 - Contracts with counties for services and facilities
+- Section 42-3-73 - Authority to establish and operate pretrial release diversion programs does not affect contracting authority of Georgia Department of Labor
+- Section 42-3-74 - Judicial approval for pretrial release and diversion program required
+- Section 42-3-90 - Establishment of diversion center; authorization for travel to and from employment; requirements during confinement at diversion center
+- Section 42-3-110 - Short title
+- Section 42-3-111 - Definitions
+- Section 42-3-112 - Sentencing options system
+- Section 42-3-113 - System of administrative sanctions
+- Section 42-3-114 - Preliminary hearing for alleged violation of probation
+- Section 42-3-115 - Authorization to impose administrative sanctions; petition; hearing; administrative proceeding
+- Section 42-3-116 - Finality of hearing officer's decision; request for review; appeal
+- Section 42-3-117 - Article not construed as repealing any court's probationary or supervisory power
+- Section 42-3-118 - Applicability of article
+- Section 42-3-119 - Liberal construction of article

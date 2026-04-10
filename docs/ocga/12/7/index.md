@@ -1,0 +1,25 @@
+# Chapter 7 - CONTROL OF SOIL EROSION AND SEDIMENTATION (§§ 12-7-1 — 12-7-22)
+
+- Section 12-7-1 - Short title
+- Section 12-7-2 - Legislative findings; policy of state and intent of chapter
+- Section 12-7-3 - Definitions
+- Section 12-7-4 - Adoption of comprehensive ordinances relating to land-disturbing activities; delegation of responsibility to planning and zoning commission; other local ordinances relating to land development; effect of chapter on design professionals
+- Section 12-7-5 - Adoption of rules and regulations for localities without ordinances
+- Section 12-7-6 - Best management practices; compliance with federal law; minimum requirements for rules, regulations, ordinances, or resolutions
+- Section 12-7-7 - Permit or notice of intent required for land-disturbing activities; approval of application and issuance of permit; denial of permit; bond requirement
+- Section 12-7-7.1 - Erosion and sediment control plan prepared; completion; implementation
+- Section 12-7-8 - Certification of locality as local issuing authority; periodic review; procedure for revoking certification; enforcement actions
+- Section 12-7-9 - Applications for permits; erosion and sediment control plans and data; time for issuance or denial
+- Section 12-7-10 - Referral of application and plan to district; time for action
+- Section 12-7-11 - Statement of reasons for denial of permit required; conditions for approval; suspension, revocation, or modification of permit
+- Section 12-7-12 - Orders directed to violators; stop work order procedures
+- Section 12-7-13 - Injunctions
+- Section 12-7-14 - Actions to restrain imminent danger; emergency orders; duration of effectiveness of orders
+- Section 12-7-15 - Civil penalty
+- Section 12-7-16 - Hearings and review
+- Section 12-7-17 - Exemptions
+- Section 12-7-18 - Effect of chapter on requirements of the &quot;Georgia Water Quality Control Act.&quot;
+- Section 12-7-19 - Education and training requirements; required programs; instructor qualifications; expiration of certification
+- Section 12-7-20 - Creation of Stakeholder Advisory Board; responsibilities; procedures
+- Section 12-7-21 - [Reserved] Appointment of panel to study controls implemented pursuant to chapter; procedure and operation of panel
+- Section 12-7-22 - Electronic filing and reporting system

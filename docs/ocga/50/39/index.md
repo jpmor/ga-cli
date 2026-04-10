@@ -1,0 +1,33 @@
+# Chapter 39 - ATLANTA-REGION TRANSIT LINK 'ATL' AUTHORITY ACT (§§ 50-39-1 — 50-39-61)
+
+- Section 50-39-1 - Short title
+- Section 50-39-2 - Definitions
+- Section 50-39-3 - Creation of authority; board of directors
+- Section 50-39-4 - Membership; structure; operation; appointment of executive director; annual reporting
+- Section 50-39-5 - Continuation of the development of the Atlanta region's Concept 3 transit proposal
+- Section 50-39-10 - Uniform operation; jurisdictional issues
+- Section 50-39-11 - General powers of authority; construction with provisions on coordination and comprehensive planning and service delivery by counties and municipalities
+- Section 50-39-12 - Development, review, and amendment of regional transit plan; coordination with federal priorities; branding
+- Section 50-39-13 - Delegation of authority by Governor; formulation of measurable targets; annual reporting
+- Section 50-39-14 - Approval of projects; issuance of bonds or other financing issues; subordination of Georgia Environmental Finance Authority
+- Section 50-39-15 - Power of eminent domain; limitations
+- Section 50-39-16 - United States' constitutional rights not limited
+- Section 50-39-17 - Limitation on liability
+- Section 50-39-18 - Record and resource sharing between governmental entities
+- Section 50-39-30 - Utilization of funding resources
+- Section 50-39-31 - Responsibility for use of federal funds
+- Section 50-39-32 - Revenue bonds
+- Section 50-39-33 - Guaranteed revenue bonds; exemption from taxation
+- Section 50-39-34 - Bonds as securities; investments
+- Section 50-39-35 - Protection and assurances to bond owners
+- Section 50-39-36 - Exemption from Georgia Uniform Securities Act
+- Section 50-39-37 - State debt not created; guarantee of payment
+- Section 50-39-38 - Authority is created for benefit of the state's people; tax exemption
+- Section 50-39-39 - Approval by the commission
+- Section 50-39-40 - Calculating debt limitations
+- Section 50-39-50 - &quot;Lease agreement&quot; defined; operation; execution; provisions
+- Section 50-39-51 - Payment for costs of a project; optional conditions; local government power to contract; fees
+- Section 50-39-52 - Withholding of funds to local government
+- Section 50-39-53 - Grant programs; pilot program formation; factors to be considered in selecting pilot projects; procedures; eligible projects
+- Section 50-39-60 - Liberal construction
+- Section 50-39-61 - Application of Chapter 1 of Title 40

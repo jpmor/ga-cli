@@ -1,0 +1,51 @@
+# Chapter 2 - REGULATION, ETC., OF FIRE AND OTHER HAZARDS TO PERSONS AND PROPERTY GENERALLY (§§ 25-2-1 — 25-2-41)
+
+- Section 25-2-1 - Definition of Commissioner as Safety Fire Commissioner
+- Section 25-2-2 - Creation of office of Safety Fire Commissioner
+- Section 25-2-3 - Duties, responsibilities, and delegation authority of Commissioner
+- Section 25-2-4 - Adoption of rules and regulations by Commissioner
+- Section 25-2-4.1 - Permit, license, and inspection fees and charges
+- Section 25-2-5 - Appointment, qualifications, and salary of state fire marshal
+- Section 25-2-6 - State fire marshal as head of Safety Fire Division
+- Section 25-2-7 - Appointment process for deputy state fire marshal and other personnel
+- Section 25-2-8 - Payment of expenses of employees in state fire marshal's office
+- Section 25-2-8.1 - Off-duty use of office motor vehicles
+- Section 25-2-9 - Authority of state fire marshal and employees to investigate and arrest
+- Section 25-2-10 - Appeal process and requirement for surety bond
+- Section 25-2-12 - State fire safety standards, enforcement, investigations, and variances
+- Section 25-2-12.1 - Deputizing of local fire marshals, deputy local fire marshals, and state inspectors as state officers
+- Section 25-2-13 - Fire safety requirements for buildings or structures presenting special hazards
+- Section 25-2-14 - Review of plans and specifications of buildings or structures presenting special hazards
+- Section 25-2-14.1 - Compliance of buildings and structures presenting special hazards with minimum fire safety standards
+- Section 25-2-14.2 - Authority of state fire marshal to deny permit or request for certificate or to issue stop-work order
+- Section 25-2-15 - Temporary occupancy permits for buildings presenting special hazards
+- Section 25-2-16 - Regulation of the storage, transportation, and handling of hazardous materials; use of hold-open latches at self-service gasoline stations; plans for bulk storage facilities
+- Section 25-2-17 - Regulation of explosives; licensure; required reporting
+- Section 25-2-18 - Exemption of public buildings from fees or licenses; waiver for churches and charities
+- Section 25-2-19 - Regulation of fire hazards in hotels, apartment houses, department stores, warehouses, and public places
+- Section 25-2-20 - Licensing of traveling carnivals, circuses, and other exhibits
+- Section 25-2-22 - Right of Commissioner and other authorized officials to enter and inspect buildings and premises
+- Section 25-2-22.1 - Inspection warrants
+- Section 25-2-23 - Issuance of notice to correct unsafe conditions
+- Section 25-2-24 - Filing of petition for court order compelling compliance with notice
+- Section 25-2-25 - Remedy of unsafe conditions by city or county upon failure to comply with court order
+- Section 25-2-26 - Enforcement of Code Sections 25-2-22 through 25-2-25 by court order
+- Section 25-2-27 - Suspected arson investigation - Authority to take testimony and arrest; obligation to furnish information to district attorney
+- Section 25-2-28 - Suspected arson investigation - Power to subpoena witnesses and documents; administration of oaths; court order to compel compliance
+- Section 25-2-29 - Hearing procedure
+- Section 25-2-30 - Duty of state fire marshal as to promotion of fire prevention and life safety generally
+- Section 25-2-31 - Dissemination of fire prevention information by state fire marshal; fire prevention education in schools
+- Section 25-2-32 - Maintenance of records of fire losses; reports of losses by insurance companies; reports of fires
+- Section 25-2-32.1 - Reports to Safety Fire Division of serious burn injuries
+- Section 25-2-32.2 - Investigation of burn injuries reported pursuant to Code Section 25-2-32.1
+- Section 25-2-33 - Release of fire loss information by insurers on request by state or local official; immunity for furnishing of information; confidentiality of information received; testimony by officials in action against insurer
+- Section 25-2-33.1 - Reports of arson and suspected arson to state fire marshal and insurers; prohibition of payment of insurance claim upon receipt of report prior to notification
+- Section 25-2-34 - Cooperation with Commissioner by Department of Public Safety, Georgia State Patrol, and Georgia Bureau of Investigation
+- Section 25-2-35 - Payment of reasonable fees for assistance in assembling evidence and apprehending suspects
+- Section 25-2-36 - Civil remedies for violations of chapter and rules, regulations, or orders of Commissioner
+- Section 25-2-37 - Locking exit doors; construction of building without approval of plans; civil penalties for violation of chapter or rules
+- Section 25-2-38 - Criminal penalties for violations of chapter and rules, regulations, or orders of Commissioner
+- Section 25-2-38.1 - Sovereign immunity of state not waived; legal duty of property owner or lessee not relieved
+- Section 25-2-39 - Construction of chapter
+- Section 25-2-40 - Smoke detectors required in new dwellings and dwelling units; exceptions
+- Section 25-2-41 - Use of class B fire-fighting foam containing intentionally added PFAS chemicals

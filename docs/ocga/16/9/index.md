@@ -1,0 +1,80 @@
+# Chapter 9 - FORGERY AND FRAUDULENT PRACTICES (§§ 16-9-1 — 16-9-157)
+
+- Section 16-9-1 - Forgery; classification of forgery offenses
+- Section 16-9-2 - Penalties for forgery
+- Section 16-9-3 - [Repealed] [Reserved] &quot;Writing&quot; defined
+- Section 16-9-4 - Manufacturing, selling, or distributing false identification document; civil forfeiture; penalty
+- Section 16-9-5 - Counterfeit or false proof of insurance document
+- Section 16-9-6 - Punishment for fiduciary in violation of chapter
+- Section 16-9-20 - Deposit account fraud
+- Section 16-9-21 - Printing, executing, or negotiating checks, drafts, orders, or debit card sales drafts knowing information thereon to be in error, fictitious, or assigned to another account holder
+- Section 16-9-30 - Definitions
+- Section 16-9-31 - Financial transaction card theft
+- Section 16-9-32 - Forgery of financial transaction card
+- Section 16-9-33 - Financial transaction card fraud
+- Section 16-9-34 - Criminal possession of financial transaction card forgery devices
+- Section 16-9-35 - Criminal receipt of goods and services fraudulently obtained
+- Section 16-9-36 - Rebuttable presumption of criminal receipt of goods and services fraudulently obtained
+- Section 16-9-36.1 - Criminal factoring of financial transaction card records
+- Section 16-9-37 - Unauthorized use of financial transaction card; misuse of government issued cards
+- Section 16-9-38 - Punishment and penalties
+- Section 16-9-39 - Publication of information regarding schemes, devices, means, or methods for financial transaction card fraud or theft of telecommunication services
+- Section 16-9-40 - Venue determinations
+- Section 16-9-50 - Deceptive business practices
+- Section 16-9-51 - Destruction, removal, concealment, encumbrance, or transfer of property subject to security interest
+- Section 16-9-52 - Improper solicitation of money
+- Section 16-9-53 - Damaging, destroying, or secreting property to defraud another
+- Section 16-9-54 - False statements by telephone solicitors
+- Section 16-9-55 - Fraudulently obtaining or attempting to obtain public housing or reduction in public housing rent
+- Section 16-9-56 - Fraudulent attempts to obtain refunds
+- Section 16-9-57 - False representation as representative of peace officer organization or fire service organization
+- Section 16-9-58 - Failing to pay for natural products or chattels
+- Section 16-9-59 - Operation of credit repair services organization
+- Section 16-9-60 - &quot;Foreclosure fraud&quot; construed; penalty
+- Section 16-9-61 - Misrepresenting the origin or ownership of timber or agricultural commodities
+- Section 16-9-62 - Crimes utilizing automated sales suppression devices, zapper, or phantom-ware; penalties
+- Section 16-9-63 - False representation as veteran
+- Section 16-9-70 - Criminal use of an article with an altered identification mark
+- Section 16-9-71 - Removal of collars or identifying items or marks on animals
+- Section 16-9-90 - Short title
+- Section 16-9-91 - Legislative findings
+- Section 16-9-92 - Definitions
+- Section 16-9-93 - Computer crimes defined; exclusivity of article; civil remedies; criminal penalties
+- Section 16-9-93.1 - Misleading transmittal and use of individual name, trade name, registered trademark, logo, legal or official seal, or copyrighted symbol over computer or telephone network; criminal penalty; civil remedies
+- Section 16-9-94 - Venue
+- Section 16-9-100 - Definitions
+- Section 16-9-101 - Initiation of deceptive commercial e-mail
+- Section 16-9-102 - Penalties
+- Section 16-9-103 - Venue
+- Section 16-9-104 - Jurisdiction for prosecutions
+- Section 16-9-105 - Civil actions
+- Section 16-9-106 - Violations as separate offenses; construction with other laws; e-mail policies of service providers not limited or restricted
+- Section 16-9-107 - No cause of action against service providers
+- Section 16-9-108 - Investigative and subpoena powers of district attorneys and the Attorney General
+- Section 16-9-109 - Disclosures by service providers pursuant to investigations
+- Section 16-9-109.1 - Fraudulent business practices using Internet or e-mail; definitions; penalties and sanctions; immunity
+- Section 16-9-110 - Sale or transfer of new motor vehicles not manufactured in compliance with federal standards
+- Section 16-9-111 - Importation, manufacture, selling, offering for sale, installation, or reinstallation of counterfeit, nonfunctional, and such other types of air bags
+- Section 16-9-120 - Definitions
+- Section 16-9-121 - Elements of offense
+- Section 16-9-121.1 - Offense of aggravated identity fraud
+- Section 16-9-122 - Attempting or conspiring to commit offense; penalty
+- Section 16-9-123 - Investigations
+- Section 16-9-124 - Prosecutions
+- Section 16-9-125 - County of offense
+- Section 16-9-125.1 - Victim's right to file report
+- Section 16-9-126 - Penalty for violations
+- Section 16-9-127 - Authority of Attorney General
+- Section 16-9-128 - Exemptions
+- Section 16-9-129 - Actual and punitive damages available to business victim
+- Section 16-9-130 - Damages available to consumer victim; no defense that others engage in comparable practices; service of complaint
+- Section 16-9-131 - Criminal prosecution
+- Section 16-9-132 - Article cumulative and not exclusive
+- Section 16-9-150 - Short title
+- Section 16-9-151 - Definitions
+- Section 16-9-152 - Spyware, browsers, hijacks, and other software prohibited
+- Section 16-9-153 - E-mail virus distribution, denial of service attacks, and other conduct prohibited
+- Section 16-9-154 - Inducement to install, copy, or execute software through misrepresentation prohibited
+- Section 16-9-155 - Penalties
+- Section 16-9-156 - Exceptions
+- Section 16-9-157 - Legislative findings and preemption

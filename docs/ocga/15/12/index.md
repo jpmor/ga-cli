@@ -1,0 +1,92 @@
+# Chapter 12 - JURIES (§§ 15-12-1 — 15-12-172)
+
+- Section 15-12-1 - Definitions
+- Section 15-12-1.1 - Exemptions from jury duty
+- Section 15-12-2 - Legislators excused
+- Section 15-12-3 - Term of service on jury
+- Section 15-12-4 - Eligibility of person to serve as a trial or grand juror
+- Section 15-12-5 - Service at next term when term not held
+- Section 15-12-6 - Fees of special criminal bailiffs
+- Section 15-12-7 - Compensation of court bailiffs and expense allowance for trial or grand jurors
+- Section 15-12-8 - Expense allowance when no grand jury impaneled
+- Section 15-12-9 - Expense allowance of persons who appear but are not sworn as trial or grand juror
+- Section 15-12-10 - Juror's failure to appear or unauthorized absence; contempt
+- Section 15-12-11 - Appointment of jury clerk and other personnel; trial or grand juror questionnaires; construction with other laws
+- Section 15-12-12 - Power of chief judge of superior court to appoint a jury clerk and other necessary personnel; juror qualifications
+- Section 15-12-20 - through 15-12-24 - Reserved
+- Section 15-12-40 - Ineligibility to serve as trial juror
+- Section 15-12-40.1 - State-wide master jury list; driver's license information; list of registered voters; random list of persons to comprise venire
+- Section 15-12-40.2 - through 15-12-43 - Reserved
+- Section 15-12-43.1 - Review of county master jury list
+- Section 15-12-44 - [Repealed] [Reserved] Procedures on loss or destruction of jury box or jury list
+- Section 15-12-44.1 - Safeguarding of master jury lists; development of state-wide system to ensure preservation of jury data
+- Section 15-12-45 - [Repealed] [Reserved] Loss or destruction of precepts
+- Section 15-12-46 - Adjournment of term pending choosing of trial or grand jurors
+- Section 15-12-60 - Qualifications of grand jurors; impact of ineligibility
+- Section 15-12-61 - Number of grand jurors; votes necessary for indictment or presentment; alternate grand jurors; report on preceding grand jury by foreperson or clerk
+- Section 15-12-62 - [Repealed] [Reserved] Selection of grand jurors
+- Section 15-12-62.1 - Choosing of grand jurors
+- Section 15-12-63 - Concurrent grand juries
+- Section 15-12-64 - [Repealed] [Reserved] Procedure where judge has failed to draw grand jury
+- Section 15-12-65 - [Repealed] [Reserved] Service of summons; time limits
+- Section 15-12-65.1 - Mailing of summonses; failure to receive notice
+- Section 15-12-66 - Preliminary oath to be administered to grand jurors
+- Section 15-12-66.1 - Insufficient number of persons to complete panel of grand jurors
+- Section 15-12-67 - Appointment or election of foreman; oath of foreman and grand jurors
+- Section 15-12-68 - Oath of witnesses
+- Section 15-12-69 - Oath of bailiff attending grand jury
+- Section 15-12-70 - Disqualification for relationship to interested party
+- Section 15-12-71 - Duties of grand jury
+- Section 15-12-72 - Disclosures of grand jurors in court
+- Section 15-12-73 - Exclusion of admissions and communications among grand jurors
+- Section 15-12-74 - Grand jury presentment of offenses; publication or filing of findings
+- Section 15-12-78 - Inspection of county jails; recommendations and presentments
+- Section 15-12-80 - Publication of general presentments
+- Section 15-12-81 - Notice of upcoming appointment by grand jury
+- Section 15-12-82 - Change of venue in criminal grand jury investigation
+- Section 15-12-83 - Oath of court reporter attending grand jury proceeding; compensation; role and responsibilities
+- Section 15-12-100 - Procedure for impaneling special grand jury; number of jurors; foreperson; powers of jury
+- Section 15-12-101 - Supervision of special grand jury; procedure for dissolution; additional investigation
+- Section 15-12-102 - Applicability of part
+- Section 15-12-120 - [Repealed] [Reserved] Selection and summoning of trial jurors
+- Section 15-12-120.1 - Choosing of trial jurors
+- Section 15-12-121 - [Repealed] [Reserved] Procedure when judge fails to draw jurors
+- Section 15-12-122 - Demand of jury panels from which to select jury in civil actions in the state courts and the superior courts
+- Section 15-12-123 - Demand of jury panels in civil actions in the state courts
+- Section 15-12-124 - [Repealed] [Reserved] Tales jurors in civil actions
+- Section 15-12-124.1 - Insufficient number of persons to complete panel of trial jurors
+- Section 15-12-125 - Demand of jury panels for misdemeanor trials
+- Section 15-12-126 - [Repealed] [Reserved] Additional jurors in misdemeanor cases
+- Section 15-12-126.1 - Absence of panels of trial jurors in misdemeanor cases; choosing and summoning make-up panels
+- Section 15-12-127 - through 15-12-129 - Reserved
+- Section 15-12-129.1 - Prolonged session of court of record; choosing and summoning prospective jurors
+- Section 15-12-130 - [Repealed] [Reserved] When prospective jurors selected for service in superior courts may serve in other courts with concurrent jurisdiction
+- Section 15-12-130.1 - Competence and qualifications of prospective jurors in superior court to serve in other courts of concurrent jurisdiction; applicability
+- Section 15-12-131 - Examination of jurors in panels
+- Section 15-12-132 - Oath of jury on voir dire
+- Section 15-12-133 - Right to individual examination of panel; matters of inquiry
+- Section 15-12-134 - Challenge of juror in civil case for desire or expression of opinion as to which party should prevail; hearing
+- Section 15-12-135 - Disqualification for relationship to interested party
+- Section 15-12-136 - Competency of county residents when county is interested in case
+- Section 15-12-137 - Competency of resident of municipal corporation interested in case
+- Section 15-12-137.1 - Jury service by members of electric membership corporation
+- Section 15-12-138 - Oath of jury panel
+- Section 15-12-139 - Oath in criminal case
+- Section 15-12-140 - Oath of bailiffs
+- Section 15-12-141 - Jury deliberation rooms; furnishing food and beverages
+- Section 15-12-142 - Separation and confinement
+- Section 15-12-160 - [Repealed] [Reserved] Required panel of jurors in felony trial; summoning prospective jurors when necessary
+- Section 15-12-160.1 - Impanelling jurors for criminal trials; choosing and summoning prospective jurors if necessary to fill panel
+- Section 15-12-161 - Clerk to provide names of prospective jurors and identifying information to prosecutor and accused
+- Section 15-12-162 - Challenge to the array
+- Section 15-12-163 - Challenges for cause; hearing of evidence; when objection may be made
+- Section 15-12-164 - Questions on voir dire; setting aside juror for cause
+- Section 15-12-165 - Number of peremptory challenges
+- Section 15-12-166 - Jurors not challenged to be sworn
+- Section 15-12-167 - Time for challenge and hearing thereon
+- Section 15-12-168 - Authority to call alternate jurors
+- Section 15-12-169 - [Repealed] [Reserved] Manner of selecting alternate jurors
+- Section 15-12-169.1 - Choosing of alternate jurors; peremptory challenges
+- Section 15-12-170 - Oath and duties of alternate jurors; expense allowance
+- Section 15-12-171 - Discharge or separate custody of alternate jurors upon submission of verdict
+- Section 15-12-172 - Replacement of incapacitated jurors; effect of replacement

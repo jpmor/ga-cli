@@ -1,0 +1,105 @@
+# Chapter 7 - PLANT DISEASE, PEST CONTROL, AND PESTICIDES (§§ 2-7-1 — 2-7-204)
+
+- Section 2-7-1 - Short title
+- Section 2-7-2 - Definitions
+- Section 2-7-3 - Division of Entomology established
+- Section 2-7-4 - Commissioner of Agriculture as ex officio state entomologist; designation of chief entomologist authorized
+- Section 2-7-5 - Duty of Commissioner generally
+- Section 2-7-6 - Publication of information and advice
+- Section 2-7-7 - Cooperative agreements
+- Section 2-7-8 - Purchases and expenditures
+- Section 2-7-9 - Investigations authorized; employment of experts; rental, lease, or purchase of land
+- Section 2-7-10 - Inspection of plants and other things capable of disseminating or carrying plant pests
+- Section 2-7-11 - Nursery inspections; rules governing nursery stock and plants in transit
+- Section 2-7-12 - Treatment, cutting, or destruction of infested trees, plants, or other things or substances
+- Section 2-7-13 - Interception and inspection of plants, plant products, or other things or substances in transit; disposition
+- Section 2-7-14 - Demand for information; penalty
+- Section 2-7-15 - Declaration of public nuisance authorized
+- Section 2-7-16 - Notice of declaration of nuisance; prescription of treatment; right of appeal
+- Section 2-7-17 - Treatment of nuisance by department where owner fails to act; lien for expenses; compensation not allowed
+- Section 2-7-18 - Judicial proceeding where owner refuses to act or to permit Commissioner to act; expenses and court costs
+- Section 2-7-19 - Investigation on citizens' complaint; notice to owner; treatment or destruction of affected plants or other things or substances; costs
+- Section 2-7-20 - Declaration of quarantine; violation unlawful
+- Section 2-7-21 - Registration of certain growers
+- Section 2-7-22 - Assessment of costs
+- Section 2-7-23 - Promulgation of rules and regulations; publication thereof
+- Section 2-7-24 - Administrative review of rules and notices
+- Section 2-7-25 - Required compliance with article and rules
+- Section 2-7-26 - Importation of injurious insect or plant disease without permit prohibited
+- Section 2-7-27 - Report of violations; investigation and disposition
+- Section 2-7-28 - Act of agent imputed to principal
+- Section 2-7-29 - Enforcement of article generally; criminal proceedings; subpoena powers
+- Section 2-7-30 - Injunctions; violations declared public nuisances
+- Section 2-7-31 - Penalty
+- Section 2-7-50 - Short title
+- Section 2-7-51 - Purpose of article; legislative findings
+- Section 2-7-52 - Definitions
+- Section 2-7-53 - Meaning of &quot;misbranded.&quot;
+- Section 2-7-54 - Commissioner to administer article
+- Section 2-7-55 - Registration required; exceptions; contents of application; fees; renewal; special local needs
+- Section 2-7-56 - Issuance of experimental use permits; terms; revocation or modification
+- Section 2-7-57 - Licensing of restricted use pesticide dealers required; application; fees; responsibility of dealer
+- Section 2-7-58 - Denial, suspension, or revocation of license, registration, or permit
+- Section 2-7-59 - Grounds for denial, suspension, or cancellation of registration of pesticides formulated to meet local needs or for seeking legal recourse against them; notice and hearing; judicial review
+- Section 2-7-60 - Subpoena powers
+- Section 2-7-61 - Records to be kept; access by Commissioner; confidentiality
+- Section 2-7-62 - Prohibited acts; exemptions
+- Section 2-7-63 - Powers of Commissioner generally; rules and regulations
+- Section 2-7-64 - Delegation of duties
+- Section 2-7-65 - Cooperation with federal and state agencies; grants-in-aid
+- Section 2-7-66 - [Repealed and Reserved] Disposition of funds
+- Section 2-7-67 - Publication of information
+- Section 2-7-68 - Designation of trade secrets by applicant; protection from public disclosure; notification of proposed release; declaratory judgment
+- Section 2-7-69 - Sampling and inspections authorized; notice of contemplated proceedings; search warrants; duty of enforcement; injunctions; written warnings authorized for minor violations
+- Section 2-7-70 - Stop sale, use, or removal order
+- Section 2-7-71 - Judicial actions after stop sale, use, or removal order generally; injunctions; condemnation; disposition of condemned pesticide or device; costs and expenses
+- Section 2-7-72 - Effect of article on certain other laws
+- Section 2-7-73 - Penalties
+- Section 2-7-90 - Short title
+- Section 2-7-91 - Purpose of article; legislative findings
+- Section 2-7-92 - Definitions
+- Section 2-7-93 - Commissioner to administer article; appointment of Pesticide Advisory Board
+- Section 2-7-94 - Delegation of duties
+- Section 2-7-95 - Publication of information; instruction
+- Section 2-7-96 - Cooperative agreements; grants-in-aid
+- Section 2-7-97 - Promulgation of rules and regulations authorized; notice and hearing; restricted use pesticide classifications and state restricted pesticide uses; declaration of pests; reports to Environmental Protection Agency
+- Section 2-7-98 - Classification of certifications and licenses; standards for certification of applicators
+- Section 2-7-99 - Licensing requirements; applications; issuance; fees; renewal
+- Section 2-7-100 - Reciprocal examination waiver
+- Section 2-7-101 - Renewals of licenses, permits, or certifications; penalty for late renewals
+- Section 2-7-102 - Grounds for denial, suspension, revocation, or modification of license, permit, or certification
+- Section 2-7-103 - Evidence of financial responsibility required; amount of bond, insurance, or cash deposit; notice of reduction or cancellation
+- Section 2-7-104 - Records to be kept; inspection thereof
+- Section 2-7-105 - Equipment inspection; requirement of repairs or other changes
+- Section 2-7-106 - Transportation, storage, and disposal of pesticides and pesticide containers
+- Section 2-7-107 - Inspections; search warrants; injunctions
+- Section 2-7-108 - Subpoena powers
+- Section 2-7-109 - Judicial review of Commissioner's actions
+- Section 2-7-110 - Reports of pesticide accidents; claim of damage; notification; inspection; effect of failure to file; failure to permit observation as bar to claim
+- Section 2-7-111 - Applicability of article to governmental entities; liability of such entities
+- Section 2-7-112 - Exemptions from article
+- Section 2-7-113 - Effect of article on certain other laws
+- Section 2-7-113.1 - Local regulation of pesticides prohibited; variances from rule or regulation of Commissioner of Agriculture
+- Section 2-7-114 - Penalties
+- Section 2-7-130 - Enactment; text of compact
+- Section 2-7-131 - Cooperation with insurance fund
+- Section 2-7-132 - Filing of compact bylaws and amendments
+- Section 2-7-133 - Compact administrator
+- Section 2-7-134 - Request or application for assistance from insurance fund
+- Section 2-7-135 - Appropriation of funds; receipt and expenditure of payments
+- Section 2-7-136 - &quot;Executive head&quot; defined
+- Section 2-7-150 - Short title
+- Section 2-7-151 - Declaration of purpose
+- Section 2-7-152 - Definitions
+- Section 2-7-153 - Administration and enforcement by Commissioner
+- Section 2-7-154 - Powers of Commissioner
+- Section 2-7-155 - Certification of cotton growers' organization by Commissioner; effect of certification; powers of organization; liability
+- Section 2-7-156 - Assessment for suppression and eradication programs; conditions
+- Section 2-7-157 - Prohibited activities
+- Section 2-7-158 - Penalties
+- Section 2-7-170 - Liability resulting from use or application of fertilizer, plant growth regulator, or pesticide; previous orders issued by Department of Agriculture and Department of Natural Resources; strict tort liability against product manufacturers
+- Section 2-7-200 - &quot;Feral hog&quot; defined
+- Section 2-7-201 - Transport of live feral hogs; permit required
+- Section 2-7-202 - Commingling feral hogs with domestic swine prohibited
+- Section 2-7-203 - Penalty for violation
+- Section 2-7-204 - Promulgation of rules and regulations

@@ -1,0 +1,36 @@
+# Chapter 8 - EMPLOYMENT AND TRAINING OF PEACE OFFICERS (§§ 35-8-1 — 35-8-27)
+
+- Section 35-8-1 - Short title
+- Section 35-8-2 - Definitions
+- Section 35-8-3 - Establishment of Georgia Peace Officer Standards and Training Council; membership; organization; administrative assignment to Department of Public Safety
+- Section 35-8-4 - Officers of council; quorum; minutes of meetings and records; reports to Governor and General Assembly
+- Section 35-8-5 - Compensation of members of council
+- Section 35-8-6 - Appointment of executive director of council; contracts for services; personnel; investigators; subpoenas; funding; gifts, grants, or donations
+- Section 35-8-7 - Powers and duties of council generally
+- Section 35-8-7.1 - Authority of council to refuse certificate to applicant or to discipline council certified officer or exempt officer; grounds; restoration of certificate; emergency suspension of certification; notice of investigation; retention of records
+- Section 35-8-7.2 - Administrative procedure; hearings; review
+- Section 35-8-7.3 - Civil suits by peace officers
+- Section 35-8-7.4 - Bias motivated intimidation of first responders; prosecution and penalty
+- Section 35-8-8 - Requirements for appointment or certification of persons as peace officers and preemployment attendance at basic training course; &quot;employment related information&quot; defined
+- Section 35-8-9 - Completion of basic training course required; acceptance of other instruction; effect of failure to complete basic training requirements; limitation
+- Section 35-8-10 - Applicability and effect of certification requirements generally; requirements as to exempt persons
+- Section 35-8-11 - Basic course to be completed at schools certified by council
+- Section 35-8-12 - Certification to use speed detection devices; withdrawal or suspension of certificate
+- Section 35-8-13 - [Repealed] [Reserved] Training and certification of police chaplains
+- Section 35-8-13.1 - Training and certification of municipal probation officers
+- Section 35-8-14 - [Repealed] [Reserved] Board of Corrections and State Board of Pardons and Paroles to establish training program for employees authorized to make arrests
+- Section 35-8-15 - Preparation and maintenance of employment records by law enforcement units and council; release of records
+- Section 35-8-16 - Effect of standards and training requirements provided in chapter; adoption of additional requirements by law enforcement units
+- Section 35-8-17 - Effect of peace officer's failure to comply with chapter generally; civil actions against noncomplying peace officers and law enforcement units
+- Section 35-8-18 - Applicability of chapter to emergency peace officers
+- Section 35-8-19 - Appointment of citizen of adjoining state as peace officer
+- Section 35-8-20 - Training requirements for police chiefs, department heads, and wardens; effect of failure to fulfill training requirement; waiver of requirements
+- Section 35-8-20.1 - Training for police chiefs and department heads appointed after June 30, 1999; waivers
+- Section 35-8-21 - Training requirements for peace officers; waiver; exemption for retired peace officers; confirmation of training
+- Section 35-8-21.1 - Use of retired peace and correctional officers in emergency or disaster; training; immunities; compensation; power of arrest
+- Section 35-8-22 - Reimbursement of training expenses by subsequent employer of peace officer; collection procedure; required documentation
+- Section 35-8-23 - Basic training course for communications officers; certification requirements; duties of council; rules and regulations
+- Section 35-8-24 - Training requirements for jail officers and juvenile correctional officers
+- Section 35-8-25 - Training and certification of bomb technicians, explosive ordnance disposal technicians, and animal handlers; intergovernmental assistance agreements
+- Section 35-8-26 - [Effective 12/31/2030] TASER and electronic control weapons; requirements for use; establishment of policies; training
+- Section 35-8-27 - Training requirements for school resource officers

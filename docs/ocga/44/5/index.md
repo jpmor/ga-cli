@@ -1,0 +1,126 @@
+# Chapter 5 - ACQUISITION AND LOSS OF PROPERTY (§§ 44-5-1 — 44-5-230)
+
+- Section 44-5-1 - Origin of title to land
+- Section 44-5-2 - How land in state held
+- Section 44-5-3 - Form of grants; substantial compliance
+- Section 44-5-4 - Correctable errors in grants
+- Section 44-5-5 - Application to Governor for correction of errors; notice to interested parties; evidence of error or mistake; order for correction of errors
+- Section 44-5-6 - When correction refused
+- Section 44-5-7 - Trial in superior court
+- Section 44-5-8 - Filing and preserving papers and evidence
+- Section 44-5-9 - Advertising prior to issuing corrected grant where original lost
+- Section 44-5-10 - Effect of corrected grant; notation of correction
+- Section 44-5-11 - Grounds for setting aside grants
+- Section 44-5-12 - Impeachment of grants; grounds; effect of irregularities or misnomer
+- Section 44-5-13 - Grants by implication; presumptions favor grants
+- Section 44-5-14 - Presumption of grant on 20 years' possession
+- Section 44-5-30 - Requisites of deed to lands; inquiry into consideration
+- Section 44-5-31 - Requisites of deed to personalty; necessity for deed
+- Section 44-5-32 - Requisites of instruments other than deeds
+- Section 44-5-33 - Form of deed
+- Section 44-5-34 - Construction of inconsistent clauses in deed; ascertainment of intention of parties
+- Section 44-5-35 - Apportionment of price for deficiency in number of acres; rescission
+- Section 44-5-36 - Purchaser's remedies for loss of land due to title defect
+- Section 44-5-37 - Applicability of Code Sections 53-2-112 through 53-2-114 to elections under or against deed
+- Section 44-5-38 - Effect of recital in deed of receipt of purchase money
+- Section 44-5-39 - Binding effect of covenants on grantee who accepts deed
+- Section 44-5-40 - Conveyance of future interests or estates
+- Section 44-5-41 - Voidance and ratification of conveyance to or by a minor
+- Section 44-5-42 - Delivery of deed to third party as escrow; possession as proof of delivery
+- Section 44-5-43 - Effect of adverse possession on making of deed
+- Section 44-5-44 - Estoppel from claiming adversely to own deed
+- Section 44-5-45 - [Repealed] When ancient deed admissible without proof of execution
+- Section 44-5-46 - Establishment of copy of deed upon loss of original; effect of copy
+- Section 44-5-47 - Liability of purchaser for costs of conveyance
+- Section 44-5-48 - Deeds conveying interest in real property used as commercial landfill
+- Section 44-5-59 - Covenant running with the land between property owner and third party
+- Section 44-5-60 - Effect of zoning laws; covenants and scenic easements for use of public; renewal of certain covenants; costs
+- Section 44-5-61 - Implied warranty of title
+- Section 44-5-62 - General warranty - Scope
+- Section 44-5-63 - General warranty - Defects known to purchaser
+- Section 44-5-64 - Action for breach of warranty - Burden of proof
+- Section 44-5-65 - Action for breach of warranty - Necessity for offer to rescind; mitigation of damages
+- Section 44-5-66 - Action for breach of warranty - Measure of damages
+- Section 44-5-67 - Breach of bond for title to land; measure of damages
+- Section 44-5-80 - Criteria for making valid inter vivos gift
+- Section 44-5-81 - When acceptance presumed; acceptance for minors and corporations
+- Section 44-5-82 - Delivery; constructive delivery
+- Section 44-5-83 - Written gift
+- Section 44-5-84 - Presumption of gift arising from delivery of personalty by parent to child living separate from parent
+- Section 44-5-85 - Rebuttable presumption of gift of lands belonging to parent but in possession of child for seven years
+- Section 44-5-86 - Gifts by person subject to undue influence; avoidance
+- Section 44-5-87 - Implied trust on failure of specific purpose for which gift made
+- Section 44-5-88 - Gifts void against creditors and bona fide purchasers
+- Section 44-5-89 - Donation of blood by persons over 17 years of age
+- Section 44-5-100 - Criteria for making valid gift causa mortis
+- Section 44-5-110 - Short title
+- Section 44-5-111 - Definitions
+- Section 44-5-112 - Applicability of article
+- Section 44-5-113 - Nomination of custodian
+- Section 44-5-114 - Irrevocable gift or exercise of power of appointment made under Code Section 44-5-119
+- Section 44-5-115 - Irrevocable transfer by personal representative or trustee to custodian for minor's benefit
+- Section 44-5-116 - Irrevocable transfer by personal representative, trustee, or guardian to custodian
+- Section 44-5-117 - Transfers by other persons to custodian
+- Section 44-5-118 - Effect of custodian's written acknowledgment of delivery
+- Section 44-5-119 - Creation and transfer of custodial property
+- Section 44-5-120 - Single custodianship
+- Section 44-5-121 - Validity of transfer
+- Section 44-5-122 - Powers and duties of custodian; name in which registered securities to be held; commingling with personal assets
+- Section 44-5-123 - Custodian's rights, powers, and authority over custodial property; liability for breach of Code Section 44-5-122
+- Section 44-5-124 - Custodial discretion in transfers of custodial property for support, maintenance, education, and general use and benefit of minor
+- Section 44-5-125 - Compensation; expenses of custodian; bond
+- Section 44-5-126 - Liability of third person for dealings with person purporting to act in capacity of custodian
+- Section 44-5-127 - Assertion of claim arising out of custodial relationship
+- Section 44-5-128 - Appointment of successor custodian
+- Section 44-5-129 - Accounting by custodian; petition for accounting
+- Section 44-5-130 - Transfer of custodial property by custodian to minor or minor's estate
+- Section 44-5-131 - Applicability to transfers made after July 1, 1990
+- Section 44-5-132 - Applicability to transfers made prior to July 1, 1990
+- Section 44-5-133 - Uniform applicability of article
+- Section 44-5-134 - Exceptions to article
+- Section 44-5-140 - Short title
+- Section 44-5-141 - Definitions
+- Section 44-5-142 - Anatomical gifts during life of donor
+- Section 44-5-143 - Method to make an anatomical gift
+- Section 44-5-144 - Amending, or revoking an anatomical gift
+- Section 44-5-145 - Refusal to make an anatomical gift
+- Section 44-5-146 - Role and authority of people other than donor
+- Section 44-5-147 - Classes of persons available to make donations; priority
+- Section 44-5-148 - Signed writing or oral communication required for gift of document
+- Section 44-5-149 - Recipients of anatomical gifts of procurement organizations
+- Section 44-5-150 - Search and notification for information identifying donor status
+- Section 44-5-151 - Delivery of document
+- Section 44-5-152 - Rights and duties of procurement organizations
+- Section 44-5-153 - Coordination of procurement and use
+- Section 44-5-154 - Limited prohibition on sale or purchase of body parts
+- Section 44-5-155 - Penalties
+- Section 44-5-156 - Immunity
+- Section 44-5-157 - Requirements for validity of document of gift; governing law
+- Section 44-5-158 - Donor registry
+- Section 44-5-159 - Impact of anatomical gift on an advance directive for health care
+- Section 44-5-159.1 - Cooperation between medical examiners and procurement organizations
+- Section 44-5-159.2 - Role of medical examiner
+- Section 44-5-159.3 - Application
+- Section 44-5-159.4 - Construction with federal law
+- Section 44-5-160 - Nature of title by prescription
+- Section 44-5-161 - Adverse possession; effect of permissive possession
+- Section 44-5-162 - Effect of fraud on prescription
+- Section 44-5-163 - When adverse possession for 20 years confers title
+- Section 44-5-164 - When adverse possession for seven years confers title
+- Section 44-5-165 - How actual possession of lands evidenced
+- Section 44-5-166 - Constructive possession of lands; effect of constructive possession of same land by adjacent owners
+- Section 44-5-167 - Extent of constructive possession under deed; judicial notice
+- Section 44-5-168 - Adverse possession of mineral rights under certain conditions; procedure to obtain title
+- Section 44-5-169 - Possession of land as notice; presumption from possession of husband and wife
+- Section 44-5-170 - Effect of disabilities on commencement of prescription
+- Section 44-5-171 - Effect of intervening disabilities; tacking
+- Section 44-5-172 - Tacking of successive possessions
+- Section 44-5-173 - Prescription involving unrepresented estates, joint tenancies, or dismissed actions
+- Section 44-5-174 - Tacking of prior possession originating in fraud
+- Section 44-5-175 - Prescription involving incorporeal rights
+- Section 44-5-176 - Effect on prescription of notice of instrument creating a lien
+- Section 44-5-177 - Adverse possession of personal property
+- Section 44-5-190 - through 44-5-199 - Reserved
+- Section 44-5-210 - Lien of state for costs of prosecution
+- Section 44-5-211 - Forfeiture of abandoned cemetery lots; proceedings for reclamation and subsequent sale; disposition of proceeds
+- Section 44-5-230 - Dedication of lands to public use

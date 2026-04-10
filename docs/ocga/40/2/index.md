@@ -1,0 +1,152 @@
+# Chapter 2 - REGISTRATION AND LICENSING OF MOTOR VEHICLES (§§ 40-2-1 — 40-2-168)
+
+- Section 40-2-1 - Definitions
+- Section 40-2-2 - Violations of chapter generally; penalties
+- Section 40-2-3 - False statements in application constitute false swearing
+- Section 40-2-4 - Manufacture, sale, or issuance of license plate or revalidation decal prohibited
+- Section 40-2-5 - Unlawful actions relating to license plate; use of expired prestige license plate
+- Section 40-2-6 - Alteration of license plates; operation of vehicle with altered or improperly transferred plate
+- Section 40-2-6.1 - Obscuring license plate in order to impede surveillance equipment
+- Section 40-2-7 - Removing or affixing license plate with intent to conceal or misrepresent
+- Section 40-2-8 - Operation of unregistered vehicle or vehicle without current license plate, revalidation decal, or county decal; temporary operating permit issued by dealers of new or used motor vehicles
+- Section 40-2-8.1 - Operation of vehicle without revalidation decal on license plate
+- Section 40-2-9 - Space for county name decal; display of &quot;In God We Trust&quot; decal in lieu of county name decal
+- Section 40-2-10 - Voluntary cancellation of vehicle registration
+- Section 40-2-11 - Administration of chapter
+- Section 40-2-20 - Registration and license requirements; certificate of registration and temporary operating permit; two-year registration option for new motor vehicles
+- Section 40-2-21 - Registration periods
+- Section 40-2-22 - Application to local tag agents or commissioner
+- Section 40-2-23 - County tax collectors and tax commissioners designated tag agents
+- Section 40-2-24 - Bonds of tag agents
+- Section 40-2-25 - Processing by private persons of applications for registration
+- Section 40-2-26 - Form and contents of application for registration; heavy vehicle tax; satisfactory proof of insurance coverage
+- Section 40-2-26.1 - [Repealed Effective 7/1/2029] Voluntary contributions to Back the Blue Fund
+- Section 40-2-27 - Registration of motor vehicles not manufactured to comply with federal emission and safety standards; certificate of registration for an assembled motor vehicle or motorcycle or a converted motor vehicle; former military motor vehicles
+- Section 40-2-28 - Proof of ownership
+- Section 40-2-29 - Registration and license plate required; timing; required documentation; issuance of temporary operating permit for vehicles failing emission inspection; extensions
+- Section 40-2-30 - Purchase by mail
+- Section 40-2-31 - [Effective Until 1/1/2032] License plate design; revalidation and county decals
+- Section 40-2-31 - [Effective 1/1/2032] License plate design; revalidation and county decals
+- Section 40-2-31.1 - [Expires Effective 1/1/2032] Design and selection of United States of America's semiquincentennial license plate
+- Section 40-2-32 - [Reserved] Commemoration of college or university
+- Section 40-2-32.1 - [Repealed] Commemorative license plates for Georgia organizations; promotional agreements; fees
+- Section 40-2-33 - Issuance of license plates and decals; transfer of registration to a digital license plate; compensation of tag agents; required identification
+- Section 40-2-34 - Reports and remittances by tag agents
+- Section 40-2-35 - Commissioner to have license plates and decals by December 1
+- Section 40-2-36 - Commissioner to furnish license plates and decals to tag agents; inventories and affidavits of missing plates; sale of plates for vehicles weighing more than 26,000 pounds
+- Section 40-2-37 - Registration and licensing of vehicles of state and political subdivisions
+- Section 40-2-38 - Registration and licensing of manufacturers, distributors, and dealers; issuance of manufacturer, manufacturer headquarters, distributor, and dealer plates
+- Section 40-2-38.1 - Transporter license plate
+- Section 40-2-39 - Registration and licensing of new motor vehicle dealers; temporary site permits; administrative fines; penalty
+- Section 40-2-39.1 - Restrictions on sale or advertising of used motor vehicles displayed or parked; exceptions; enforcement; penalty
+- Section 40-2-40 - Registration of delinquent vehicles; collection and disposition of penalties
+- Section 40-2-41 - Display of license plates
+- Section 40-2-41.1 - Authentic historical Georgia license plates
+- Section 40-2-42 - Transfer of license plates and revalidation decals
+- Section 40-2-43 - Certificate of registration; replacement of lost registration certificate; issuing of duplicates
+- Section 40-2-44 - Reporting of theft, loss, or mutilation of license plates or revalidation decals; issuance of duplicates or replacements
+- Section 40-2-45 - Transferring license plate or revalidation decal for &quot;salvage&quot;, &quot;rebuilt&quot;, damaged, or demolished motor vehicles
+- Section 40-2-47 - Permanent registration and license plates for certain trailers
+- Section 40-2-48 - through 40-2-49.1 - [Repealed]
+- Section 40-2-49.2 - [Repealed] License plates promoting the conservation of wildflowers
+- Section 40-2-49.3 - [Repealed] License plates promoting dog and cat reproductive sterilization support programs
+- Section 40-2-50 - Definitions
+- Section 40-2-51 - Fleet enrollment
+- Section 40-2-52 - Registration and licensing of fleet motor vehicles
+- Section 40-2-53 - License plates for fleet motor vehicles
+- Section 40-2-54 - Audits; regulatory authority
+- Section 40-2-55 - Termination of participation in fleet registration plan
+- Section 40-2-60 - Prestige license plates
+- Section 40-2-60.1 - Standardized administrative process for special license plates; designs; fees; application process
+- Section 40-2-61 - License plates for U.S. Senators and Congressmen, state constitutional officers, Speaker of the House of Representatives, Justices of Supreme Court, Judges of Court of Appeals, and Public Service Commission members
+- Section 40-2-62 - License plates for current and former members of the General Assembly
+- Section 40-2-63 - License plates for sheriffs
+- Section 40-2-63.1 - License plates for public safety first responders injured in the line of duty
+- Section 40-2-64 - License plates for honorary consuls
+- Section 40-2-64.1 - License plates for official representatives of the Taipei Economic and Cultural Representatives Office
+- Section 40-2-65 - License plates for active and retired reservists and certain members of the National Guard
+- Section 40-2-66 - License plates for active and retired members of the Georgia National Guard
+- Section 40-2-67 - License plates for state commanders of nationally chartered veterans' organizations
+- Section 40-2-68 - License plates for Medal of Honor recipients
+- Section 40-2-69 - License plates for veterans qualifying as totally disabled
+- Section 40-2-70 - License plates for veterans not qualifying as totally disabled
+- Section 40-2-71 - Design of disabled veteran license plates; restrictions on issuance and transfer
+- Section 40-2-72 - Penalty for violation of Code Sections 40-2-69 through 40-2-71
+- Section 40-2-73 - License plates for former prisoners of war
+- Section 40-2-74 - License plates for persons with disabilities
+- Section 40-2-74.1 - Temporary, permanent, and special permanent parking permits for persons with disabilities
+- Section 40-2-75 - [Repealed] Special license plates for amateur radio operators
+- Section 40-2-76 - through 40-2-78 - Reserved
+- Section 40-2-80 - Transfer of special license plates
+- Section 40-2-81 - License plates for members of the Georgia State Defense Force
+- Section 40-2-82 - License plates for Department of Public Safety vehicles operated by Georgia State Patrol or Motor Carrier Compliance Division
+- Section 40-2-83 - Special or prestige license plates for jointly owned vehicles; surrendering when joint ownership ceases
+- Section 40-2-84 - License plates for Purple Heart recipients
+- Section 40-2-85 - License plates for veterans who survived attack on Pearl Harbor
+- Section 40-2-85.1 - License plates for certain veterans
+- Section 40-2-85.2 - License plates for veterans of the Chosin Reservoir Campaign
+- Section 40-2-85.3 - License plates for Gold Star family members
+- Section 40-2-85.4 - License plates for United States Army Rangers
+- Section 40-2-86 - License plates promoting or supporting certain agencies, funds, or nonprofit corporations with proceeds disbursed to the general fund and the agency, fund, or nonprofit corporation
+- Section 40-2-86.1 - License plates promoting or supporting certain agencies, funds, or nonprofit corporations or issued to qualified motor vehicles or owners with proceeds deposited in the general fund
+- Section 40-2-86.2 - [Repealed] License plates for Shrine hospitals for children
+- Section 40-2-86.3 - [Repealed] License plates commemorating Civil War battlefields and historic sites
+- Section 40-2-86.4 - [Repealed] License plates supporting public schools
+- Section 40-2-86.5 - [Repealed] Special license plates honoring educators; requirements; copyright; issuance; use of funds; transfer of plates
+- Section 40-2-86.6 - [Repealed] License plate promoting conservation and enhancement of trout populations
+- Section 40-2-86.7 - through 40-2-86.12 - [Repealed]
+- Section 40-2-86.13 - [Repealed] Special license plates promoting historic preservation efforts
+- Section 40-2-86.14 - [Repealed] Special license plates for licensed physicians
+- Section 40-2-86.15 - through 40-2-86.17 - [Repealed]
+- Section 40-2-86.18 - Redesignated
+- Section 40-2-86.19 - [Repealed] Special license plates supporting the Global War on Terrorism and Operation Enduring Freedom
+- Section 40-2-86.20 - [Repealed] Special license plates supporting the Global War on Terrorism and Iraqi freedom
+- Section 40-2-86.21 - Redesignated
+- Section 40-2-86.22 - Redesignated
+- Section 40-2-87 - Definitions
+- Section 40-2-88 - Reciprocal agreements for registration of commercial vehicles on apportionment basis; registration under the International Registration Plan
+- Section 40-2-88.1 - Electronic application for registration of commercial vehicles under the International Registration Plan
+- Section 40-2-89 - Vehicle ineligible for registration if prohibited from being operated in interstate commerce
+- Section 40-2-90 - Operation of vehicles registered in other states
+- Section 40-2-91 - Commissioner authorized to negotiate reciprocal agreements with adjoining states
+- Section 40-2-92 - Reciprocal agreements subject to confirmation by General Assembly
+- Section 40-2-93 - Reciprocal agreements while General Assembly not in session
+- Section 40-2-94 - Publication of terms of reciprocal agreements; rules and regulations for enforcement
+- Section 40-2-95 - Code Sections 40-2-91 through 40-2-93 inapplicable to motor vehicles for hire
+- Section 40-2-110 - &quot;Motor truck&quot; defined
+- Section 40-2-111 - Highway use permit required for certain unregistered motor trucks; application; fee; identification tag to be displayed and permit to be carried in truck
+- Section 40-2-112 - Additional fee for each round trip into state
+- Section 40-2-113 - Collection of taxes and fees; rules and regulations
+- Section 40-2-114 - Unlawful acts; penalties
+- Section 40-2-130 - Records of certificates of registration
+- Section 40-2-131 - Disposition of fees
+- Section 40-2-132 - Destruction of records by commissioner
+- Section 40-2-133 - Enforcement of chapter
+- Section 40-2-134 - Authority of certified law enforcement officers
+- Section 40-2-135 - Revocation and seizure of license plates and renewal decals
+- Section 40-2-135.1 - Suspension of offender's motor vehicle registration for multiple violations of toll provisions
+- Section 40-2-136 - Surrender of license plates upon second or subsequent convictions of driving under the influence; special license plate for repeat driving under the influence offenders
+- Section 40-2-137 - Notice of insurance coverage and termination; lapses in insurance coverage; insurance coverage for active duty military personnel
+- Section 40-2-138 - Suspension or revocation of commercial vehicle registration when not in compliance with federal regulations
+- Section 40-2-140 - Department of Public Safety to administer provisions; registration, insurance, and fee requirements of motor carriers; joinder requirements
+- Section 40-2-150 - Definitions
+- Section 40-2-151 - Annual license fees for operation of vehicles; fee for permanent licensing of certain trailers; fee for new passenger car with paid title ad valorem taxes
+- Section 40-2-151.1 - Highway impact fees for heavy vehicles; use of funds
+- Section 40-2-151.2 - Transportation Trust Fund established; funding; accounting
+- Section 40-2-152 - Fees for apportionable vehicles; restricted license plates for vehicles
+- Section 40-2-153 - [Repealed] Registration and licensing of makers and dealers of motor vehicles; application; fee; dealer's number plate; prohibited uses; licensing of persons transporting motor vehicles, mobile homes, or house trailers; exemption of farm tractors
+- Section 40-2-154 - License plates for different classes of vehicles; distinguishing markings
+- Section 40-2-155 - Transfers of annual licenses and plates to certain other vehicles upon application, approval, and payment of fees
+- Section 40-2-156 - Proportional license fees for certain vehicles registered during specific months
+- Section 40-2-157 - Proportional license fees for certain vehicles registered under the International Registration Plan
+- Section 40-2-158 - [Repealed] Fee assessment to registrants
+- Section 40-2-159 - Time of application and payment for plate
+- Section 40-2-160 - Liability of residents and nonresidents for taxes and fees; prorated fees for motor vehicles hauling seasonal state agricultural products
+- Section 40-2-161 - Rate of annual license fee for vehicles carrying passengers over route of 50 miles or less
+- Section 40-2-162 - Apportionment of cost of annual license fees of motor buses to motor common carriers of passengers for hire operating partially outside state; formula; rules
+- Section 40-2-163 - Purchase by truck or tractor owner of higher weight license plate; payment of difference between fees
+- Section 40-2-164 - Decrease of registered vehicle weight class
+- Section 40-2-165 - Purchase of new license plate required for vehicles with excessive weight
+- Section 40-2-166 - Violation of article; penalty
+- Section 40-2-167 - Separately stated fees in a rental agreement; recoverable fees and taxes
+- Section 40-2-168 - Registration and licensing of taxicabs and limousines; issuance of distinctive license plate

@@ -1,0 +1,25 @@
+# Chapter 39 - COLLECTION, USE, AND DISCLOSURE OF INFORMATION GATHERED BY INSURANCE INSTITUTIONS (§§ 33-39-1 — 33-39-23)
+
+- Section 33-39-1 - Purpose of chapter
+- Section 33-39-2 - Applicability of obligations imposed by chapter; extension of rights granted by chapter; applicability of chapter to information from public records pertaining to title insurance
+- Section 33-39-3 - Definitions
+- Section 33-39-4 - Pretext interviews
+- Section 33-39-5 - Transactions requiring notice of information practices; form and content of notice; abbreviated notice; satisfaction of obligations by another institution or agent
+- Section 33-39-6 - Specification of questions designed to obtain marketing or research information
+- Section 33-39-7 - Disclosure authorization forms authorizing disclosure of personal or privileged information
+- Section 33-39-8 - Investigative consumer reports
+- Section 33-39-9 - Access to recorded personal information
+- Section 33-39-10 - Requests to correct, amend, or delete recorded personal information
+- Section 33-39-11 - Procedure upon adverse underwriting decision; satisfaction of obligations by another institution or agent; adverse decisions upon oral requests or inquiries
+- Section 33-39-12 - Requests for information regarding previous adverse underwriting decisions or previous coverage obtained through residual market mechanism
+- Section 33-39-13 - Limitation of adverse underwriting decisions
+- Section 33-39-14 - Disclosure of personal or privileged information received in connection with insurance transactions
+- Section 33-39-15 - Investigations by Commissioner into affairs of insurance institutions, agents, or insurance-support organizations
+- Section 33-39-16 - Violations of chapter; service of statement of charges and notice of hearing; conduct of hearing
+- Section 33-39-17 - Commissioner as appointed to accept service on behalf of insurance-support organization transacting business outside state
+- Section 33-39-18 - Service of findings and cease and desist orders of Commissioner; modification or setting aside of order or report
+- Section 33-39-19 - Monetary penalty for knowing violations of chapter; monetary penalty for violation of cease and desist order
+- Section 33-39-20 - Order or report of Commissioner
+- Section 33-39-21 - Equitable relief; damages recoverable; costs and attorney's fees; statute of limitations; limitation on remedy or recovery
+- Section 33-39-22 - Availability of remedy for disclosure of personal, privileged, or false information
+- Section 33-39-23 - Obtaining of information under false pretenses as constituting misdemeanor

@@ -1,0 +1,34 @@
+# Chapter 30 - GROUP OR BLANKET ACCIDENT AND SICKNESS INSURANCE (§§ 33-30-1 — 33-30-28)
+
+- Section 33-30-1 - &quot;Group accident and sickness insurance&quot; defined; &quot;true association&quot; defined
+- Section 33-30-1.1 - Applicability
+- Section 33-30-2 - Effect of chapter upon other provisions
+- Section 33-30-3 - &quot;Blanket accident and sickness insurance&quot; defined
+- Section 33-30-4 - Required provisions generally
+- Section 33-30-4.1 - Coverage for human heart transplants; optional endorsement; requirements; guidelines
+- Section 33-30-4.2 - Insurance coverage for mammograms, Pap smears, and prostate-specific antigen tests
+- Section 33-30-4.3 - Utilization of mail-order pharmaceutical distributors in policies, plans, contracts, or funds; utilization of other providers of pharmaceutical services under same terms and conditions
+- Section 33-30-4.4 - Coverage for bone marrow transplants for the treatment of breast cancer and Hodgkin's disease; optional endorsement; requirements; guidelines; applicability
+- Section 33-30-4.5 - Coverage for child wellness services
+- Section 33-30-5 - Direct payment for hospital or medical services
+- Section 33-30-6 - Authority to issue blanket accident and sickness policies; filing of form; required provisions; applicability of Code section to similar entities
+- Section 33-30-7 - Provision in group or blanket policies for medical or surgical services generally
+- Section 33-30-8 - Requirement of application for policy and issuance of certificate for blanket accident and sickness insurance
+- Section 33-30-9 - Payment of benefits under blanket accident and sickness policies
+- Section 33-30-10 - Exemption of group and blanket policy proceeds from liability for debts of insured and beneficiary
+- Section 33-30-11 - Applicability of Chapter 29 of title to group or blanket policies
+- Section 33-30-12 - Standards and requirements for rating of small groups under accident and sickness insurance; exemptions
+- Section 33-30-13 - Notices of premium increases to be mailed or delivered to group policyholder; notification of impact of federal Patient Protection and Affordable Care Act
+- Section 33-30-13.1 - Furnishing claims experience to policyholders
+- Section 33-30-14 - Insurance coverage for treatment of temporomandibular joint dysfunction or surgery for deformities of maxilla or mandible
+- Section 33-30-15 - Continuation of similar coverage; preexisting conditions; procedures and guidelines
+- Section 33-30-16 - Definitions; requirement to offer reasonably priced comprehensive major medical health insurance policy
+- Section 33-30-20 - Short title
+- Section 33-30-21 - Legislative intent
+- Section 33-30-22 - Definitions
+- Section 33-30-23 - Standards; payments or reimbursement for noncontracting provider of covered services; filing requirements for unlicensed entities; provision for payment solely to provider
+- Section 33-30-24 - Health benefit plans providing incentives to use services of preferred providers; minimum requirements
+- Section 33-30-25 - Reasonable limits on number or classes of preferred providers
+- Section 33-30-26 - Applicability of Title 33 and related rules and regulations to health care insurers
+- Section 33-30-27 - Promulgation of rules and regulations
+- Section 33-30-28 - and 33-30-29 - Redesignated

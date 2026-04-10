@@ -1,0 +1,29 @@
+# Chapter 4 - MODIFICATION, EXTINGUISHMENT, AND RENEWAL (§§ 13-4-1 — 13-4-104)
+
+- Section 13-4-1 - Alteration of written contract - Effect generally
+- Section 13-4-2 - Alteration of written contract - Determination of materiality of alteration; determination of fact of alteration
+- Section 13-4-3 - Alteration of written contract - Requirement of preliminary proof as to material alteration
+- Section 13-4-4 - Effect of mutual departure from contract terms
+- Section 13-4-5 - Effect of execution of second contract upon same matter; novation
+- Section 13-4-20 - Requirements as to performance of contractual obligations generally
+- Section 13-4-21 - Effect of act of God
+- Section 13-4-22 - Effect of refusal of party to perform concurrent condition upon offer of performance by other party
+- Section 13-4-23 - Effect of nonperformance caused by conduct of other party
+- Section 13-4-24 - Requirements for and effect of tender generally
+- Section 13-4-25 - Tender of chattels
+- Section 13-4-26 - Delivery on demand; delivery at certain time and place
+- Section 13-4-40 - Payment to creditor or agent
+- Section 13-4-41 - Payment by mail
+- Section 13-4-42 - Appropriation of payments
+- Section 13-4-43 - Provision requiring one party to reimburse other for federal manufacturer's excise tax; right of reimbursing party relating to timing of payments
+- Section 13-4-60 - Rescission for fraud
+- Section 13-4-61 - Rights of vendor as to reclamation of goods where contract rescinded for fraud
+- Section 13-4-62 - Rescission for nonperformance
+- Section 13-4-80 - Release of another bound jointly or primarily or acceptance of higher security for same debt
+- Section 13-4-81 - Covenant not to sue; bond to indemnify debtor against debt
+- Section 13-4-82 - Intermarriage of parties
+- Section 13-4-100 - Effect of executory accord
+- Section 13-4-101 - Elements and requirements of accord and satisfaction generally
+- Section 13-4-102 - Benefit to creditor
+- Section 13-4-103 - Acceptance of less than amount of debt
+- Section 13-4-104 - Parties bound by accord and satisfaction

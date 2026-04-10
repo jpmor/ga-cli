@@ -1,0 +1,54 @@
+# Chapter 9A - LIMITED PARTNERSHIPS (§§ 14-9A-1 — 14-9A-130)
+
+- Section 14-9A-1 - Short title
+- Section 14-9A-2 - Limited partnership defined
+- Section 14-9A-2.1 - Applicability of article
+- Section 14-9A-3 - Construction of article
+- Section 14-9A-4 - Rules for cases not provided for by article
+- Section 14-9A-5 - Effect of article on existing partnerships
+- Section 14-9A-20 - Formation
+- Section 14-9A-21 - Business which may be carried on; power to acquire property
+- Section 14-9A-22 - Use of surname of limited partner in partnership name; liability of limited partner if surname improperly used
+- Section 14-9A-23 - Admission of additional limited partners
+- Section 14-9A-24 - One person both general and limited partner
+- Section 14-9A-25 - When certificate of limited partnership required to be canceled
+- Section 14-9A-26 - Procedure for amendment or cancellation of certificate of limited partnership
+- Section 14-9A-27 - Liability for false statement in certificate
+- Section 14-9A-40 - Character of limited partner's contribution
+- Section 14-9A-41 - Limited partner not liable to creditors
+- Section 14-9A-42 - Rights
+- Section 14-9A-43 - Person erroneously believing himself limited partner not liable as general partner
+- Section 14-9A-44 - Loans and other business transactions between limited partner and partnership; limitation on resulting claims against partnership
+- Section 14-9A-45 - Priority among limited partners
+- Section 14-9A-46 - Compensation
+- Section 14-9A-47 - Withdrawal or reduction of contribution
+- Section 14-9A-48 - Liability of limited partner to partnership
+- Section 14-9A-49 - Nature of limited partner's interest
+- Section 14-9A-50 - Assignment of limited partner's interest
+- Section 14-9A-51 - Effect of death of limited partner
+- Section 14-9A-52 - Rights of judgment creditor of limited partner
+- Section 14-9A-70 - Rights, powers, and liabilities of general partner
+- Section 14-9A-80 - Party to proceedings
+- Section 14-9A-90 - Effect of retirement, death, or insanity of general partner
+- Section 14-9A-91 - Settling of accounts
+- Section 14-9A-110 - Applicability of article; renewal of existing partnerships restricted
+- Section 14-9A-111 - Who may form limited partnership; purposes; liability of general and special partners
+- Section 14-9A-112 - Firm name
+- Section 14-9A-113 - Certificate of limited partnership - Contents
+- Section 14-9A-114 - Certificate of limited partnership - Acknowledgment
+- Section 14-9A-115 - Certificate of limited partnership - Filing
+- Section 14-9A-116 - Affidavits of capital paid in
+- Section 14-9A-117 - [Repealed] [Reserved] Certified copies admissible in evidence
+- Section 14-9A-118 - Certificate and affidavit prerequisite to formation; effect of false statement
+- Section 14-9A-119 - Publication of terms of partnership; affidavits of publication as evidence
+- Section 14-9A-120 - Renewal or continuance of partnership
+- Section 14-9A-121 - Dissolution - Effect of changes in firm name, capital, or death of partner
+- Section 14-9A-122 - Dissolution - By acts of partners; notice required
+- Section 14-9A-123 - Powers of general and special partners
+- Section 14-9A-124 - Repayment of contribution of special partner prohibited; payment of interest and profits to special partner
+- Section 14-9A-125 - Priority of special partners
+- Section 14-9A-126 - Parties to actions
+- Section 14-9A-127 - Liability of general partners for management of firm
+- Section 14-9A-128 - Liability of partners for fraud
+- Section 14-9A-129 - Fraudulent sale, assignment, or transfer of property void
+- Section 14-9A-130 - Penalty for fraud

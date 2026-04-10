@@ -1,0 +1,55 @@
+# Chapter 3 - LIMITATIONS OF ACTIONS (§§ 9-3-1 — 9-3-115)
+
+- Section 9-3-1 - Limitations against the state
+- Section 9-3-2 - Limitations against municipalities
+- Section 9-3-3 - Applicability of limitation statutes; equitable bar
+- Section 9-3-4 - [Repealed] [Reserved] Limitations as to trusts
+- Section 9-3-5 - Beneficiaries barred along with trustee
+- Section 9-3-6 - Applicability of limitations to setoffs
+- Section 9-3-7 - When mutual accounts postpone running of limitations
+- Section 9-3-20 - Actions on foreign judgments
+- Section 9-3-21 - [Repealed] [Reserved] Proceedings to set aside judgments
+- Section 9-3-22 - Enforcement of rights under statutes, acts of incorporation; recovery of wages, overtime, and damages
+- Section 9-3-23 - Sealed instruments
+- Section 9-3-24 - Actions on simple written contracts; exceptions
+- Section 9-3-25 - Open accounts; breach of certain contracts; implied promise; exception
+- Section 9-3-26 - Other actions on contracts; exception
+- Section 9-3-27 - Actions against fiduciaries
+- Section 9-3-28 - Actions by informers
+- Section 9-3-29 - Breach of restrictive covenant
+- Section 9-3-30 - Trespass or damage to realty
+- Section 9-3-30.1 - Actions against manufacturers or suppliers of asbestos or material containing asbestos
+- Section 9-3-30.2 - Actions against persons engaged in land surveying
+- Section 9-3-31 - Injuries to personalty
+- Section 9-3-32 - Accrual of actions for recovery of personal property or loss of timber; damages for conversion or destruction
+- Section 9-3-33 - Injuries to the person; injuries to reputation; loss of consortium; exception
+- Section 9-3-33.1 - Actions for childhood sexual abuse
+- Section 9-3-34 - Article not applicable to malpractice
+- Section 9-3-35 - Actions by creditor seeking relief under Uniform Voidable Transactions Act
+- Section 9-3-36 - Limitations on claims arising before decedent's death
+- Section 9-3-50 - Definitions
+- Section 9-3-51 - Limitations on recovery for deficiency in planning, supervising, or constructing improvement to realty or for resulting injuries to property or person
+- Section 9-3-52 - Limitation not available to owner or tenant
+- Section 9-3-53 - Period of limitations not extended
+- Section 9-3-70 - &quot;Action for medical malpractice&quot; defined
+- Section 9-3-71 - General limitation
+- Section 9-3-72 - Foreign objects left in body
+- Section 9-3-73 - Certain disabilities and exceptions applicable
+- Section 9-3-74 - Barred actions not revived
+- Section 9-3-90 - Individuals under disability or imprisoned when cause of action accrues
+- Section 9-3-91 - Disabilities suffered after accrual of cause
+- Section 9-3-92 - Five-year tolling for unrepresented estate - In favor of estate
+- Section 9-3-93 - Five-year tolling for unrepresented estate - In favor of creditors
+- Section 9-3-94 - Removal of defendant from state
+- Section 9-3-95 - Disability of one or more with joint right of action; effect of severability
+- Section 9-3-96 - Tolling of limitations for fraud of defendant
+- Section 9-3-97 - Limitations extended for counterclaims and cross-claims
+- Section 9-3-97.1 - Tolling of limitations for medical malpractice
+- Section 9-3-98 - Applicability of article
+- Section 9-3-99 - Tolling of limitations for tort actions while criminal prosecution is pending
+- Section 9-3-110 - New promise to be in writing
+- Section 9-3-111 - Written promise following discharge in bankruptcy
+- Section 9-3-112 - Payment or written acknowledgment equivalent to new promise
+- Section 9-3-113 - Effect of new promise
+- Section 9-3-114 - Whom new promise by joint contractor binds
+- Section 9-3-115 - Effect of new promise by partner

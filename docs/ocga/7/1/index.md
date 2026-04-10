@@ -1,0 +1,278 @@
+# Chapter 1 - FINANCIAL INSTITUTIONS (§§ 7-1-1 — 7-1-1138)
+
+- Section 7-1-1 - Short title
+- Section 7-1-2 - Legislative findings
+- Section 7-1-3 - Objectives of chapter; standards for construction and regulation
+- Section 7-1-4 - Definitions
+- Section 7-1-5 - Unauthorized activity as a financial institution
+- Section 7-1-6 - Notices; waivers of notice
+- Section 7-1-7 - Publication of notices or advertisements
+- Section 7-1-8 - Applicability of common law
+- Section 7-1-9 - Reservation of power over financial institutions
+- Section 7-1-10 - Rules of construction
+- Section 7-1-11 - [Repealed] Registration of nonresident corporations
+- Section 7-1-30 - Department created
+- Section 7-1-31 - Position and term of commissioner
+- Section 7-1-32 - Qualifications of commissioner
+- Section 7-1-33 - Removal or suspension of commissioner
+- Section 7-1-34 - Vacancy in office of commissioner
+- Section 7-1-35 - Deputy commissioners, examiners, and assistants
+- Section 7-1-36 - Oath of commissioner, deputy commissioner, and examiners
+- Section 7-1-37 - Prohibited transactions
+- Section 7-1-38 - Commissioner's office expenses
+- Section 7-1-39 - Seal of department; evidentiary effect
+- Section 7-1-40 - Delegation of authority by commissioner
+- Section 7-1-41 - Prescribing fees; payment procedure
+- Section 7-1-42 - Enforcement of payment
+- Section 7-1-43 - Disposition of fees collected; payment of expenses from appropriations
+- Section 7-1-60 - General scope of supervision
+- Section 7-1-61 - Rules and regulations
+- Section 7-1-61.1 - Expansion of power for banks and credit unions; role of commissioner; documentation to legislative committees
+- Section 7-1-62 - Accounting procedures
+- Section 7-1-63 - Retention of records
+- Section 7-1-64 - Department examinations and investigations; disclosure of information or prior notice regarding examinations of financial institutions
+- Section 7-1-65 - Examinations and investigations on request
+- Section 7-1-66 - Method of examination and investigations; special examiners; subpoenas
+- Section 7-1-67 - Reports of examinations
+- Section 7-1-68 - Reports to department; penalty for noncompliance
+- Section 7-1-69 - Retention of reports
+- Section 7-1-70 - Disclosure of information
+- Section 7-1-71 - Removal of officers, directors, or employees
+- Section 7-1-72 - Regulation of persons performing services for financial institutions
+- Section 7-1-73 - Regulation of affiliates
+- Section 7-1-74 - Annual report of department
+- Section 7-1-75 - Discretion of department
+- Section 7-1-76 - Department may act after time limit without resubmittal; withdrawal of applications and requests; imposition of conditions; nullification
+- Section 7-1-77 - Approval by commissioner of state rules and regulations affecting financial institutions
+- Section 7-1-78 - Agreements with other supervisory or regulatory authorities
+- Section 7-1-79 - Discretionary expedited approval process; considerations
+- Section 7-1-90 - Judicial review of department actions
+- Section 7-1-91 - Orders by department; enforcement; civil penalty
+- Section 7-1-92 - Forfeiture proceedings
+- Section 7-1-93 - Injunction and other actions by department
+- Section 7-1-94 - Evidential value of results of examinations or investigations; editing out of information tending to undermine public confidence in financial institution
+- Section 7-1-95 - [Repealed] Admissibility of department's certificates and copies
+- Section 7-1-96 - [Repealed] Liability on bonds for nonperformance of duty
+- Section 7-1-97 - [Repealed] Costs of actions by or against department
+- Section 7-1-98 - Department of Law to advise department
+- Section 7-1-99 - Duties and responsibilities of department regarding interest and usury complaints; advisory opinions; effect
+- Section 7-1-110 - Permissive closing days; deferral of business conducted on Saturday
+- Section 7-1-110.1 - Posting notice of intent to close banking location
+- Section 7-1-111 - Emergency closings
+- Section 7-1-112 - Business restrictions
+- Section 7-1-113 - Voluntary dissolution prior to commencement of business; failure to properly file articles of dissolution; power of department to seek dissolution
+- Section 7-1-114 - Voluntary dissolution after commencement of business
+- Section 7-1-115 - Winding up voluntary dissolution proceedings
+- Section 7-1-116 - Articles of dissolution where business commenced; procedure if not filed
+- Section 7-1-117 - Certificate of dissolution
+- Section 7-1-130 - Permissible names
+- Section 7-1-131 - Reservation of name
+- Section 7-1-132 - Registered agent and office
+- Section 7-1-133 - Prohibited advertising
+- Section 7-1-134 - Unfair competition, unfair trade practice, and trade name and trademark laws unaffected
+- Section 7-1-150 - Taking of possession by department; cumulative remedies
+- Section 7-1-151 - Status of department as receiver; restrictions on appointment
+- Section 7-1-152 - General assignment prohibited; taking of possession upon request
+- Section 7-1-153 - Posting of notice of taking possession
+- Section 7-1-154 - Certificate of possession; naming deputy receiver
+- Section 7-1-155 - Injunction to restrain department
+- Section 7-1-156 - Supervision of department by court
+- Section 7-1-157 - General powers of department in possession
+- Section 7-1-158 - Appointment of deputy receivers, counsel, and other assistants
+- Section 7-1-159 - Suspension or continuation of business
+- Section 7-1-160 - Determination to liquidate; filing of supplemental certificate
+- Section 7-1-161 - Powers and duties of department before and after determination to liquidate
+- Section 7-1-162 - Inventory and appraisement
+- Section 7-1-163 - Notice to holders of assets; power of court to order transfer
+- Section 7-1-164 - Power of department to borrow money
+- Section 7-1-165 - Surrender of burdensome assets
+- Section 7-1-166 - Compromise of claims; extension of mortgages or notes
+- Section 7-1-167 - Payment of mortgages and liens; protection of equities
+- Section 7-1-168 - Sales of real property
+- Section 7-1-169 - Leases of property
+- Section 7-1-170 - Sales or exchanges of securities; sales of liens or personal property
+- Section 7-1-171 - Deposit of moneys by department
+- Section 7-1-172 - Disposition of property in safe-deposit vault or held for safekeeping
+- Section 7-1-173 - Bringing or defending actions
+- Section 7-1-174 - Surrender of possession by department prior to final liquidation; special liquidations and reorganizations
+- Section 7-1-175 - Ability of department to reject executory contract or lease of financial institution in receivership
+- Section 7-1-176 - Sale of assets of financial institution in receivership
+- Section 7-1-190 - Preservation of assets; proceedings in lieu of attachment, execution, or repossession
+- Section 7-1-191 - Exclusivity of claims procedure; effect of receivership on pending actions
+- Section 7-1-192 - Notice to depositors and other creditors to present claims
+- Section 7-1-193 - Proof of claims of depositors
+- Section 7-1-194 - Proof of claims of creditors
+- Section 7-1-195 - Allowance of claims
+- Section 7-1-196 - Advance payment of dividends to depositors
+- Section 7-1-197 - Expenses of administration
+- Section 7-1-198 - Filing or ordering partial or final account; notice of filing; exceptions
+- Section 7-1-199 - Adjudication of rejected claims and exceptions to account
+- Section 7-1-200 - Confirmation of account; distribution of dividends; final disposition of assets insufficient for distribution; cancellation of articles
+- Section 7-1-201 - Unclaimed dividends
+- Section 7-1-202 - Order of payment of liabilities; secured or preferred claims and liens
+- Section 7-1-203 - Subrogation of insurer of deposits or shares
+- Section 7-1-204 - Liquidation of excess assets by trustees
+- Section 7-1-205 - Destruction of records
+- Section 7-1-220 - Definitions and applicability
+- Section 7-1-221 - Status of department in relation to trust and pooled assets
+- Section 7-1-222 - Jurisdiction of court over trust and pooled assets
+- Section 7-1-223 - Substituted trustee or manager for trust and pooled assets
+- Section 7-1-224 - Transfers to substituted trustee or manager without accounting
+- Section 7-1-225 - Transfers to substituted trustee or manager with accounting; deficiencies
+- Section 7-1-230 - Definitions
+- Section 7-1-231 - Acquisition of control without approval prohibited
+- Section 7-1-232 - Procedure for approval or disapproval of proposed acquisition
+- Section 7-1-233 - Notice of proposed acquisition
+- Section 7-1-234 - Grounds for disapproving proposal
+- Section 7-1-235 - Part inapplicable to bank holding company transactions
+- Section 7-1-236 - Report of change in control
+- Section 7-1-237 - Reimbursement of costs incurred in answering subpoena, garnishment, or order; subpoena to be answered within five days
+- Section 7-1-239 - Definitions; payment of large deposits of deceased intestate depositors; affidavit for disbursement; form for affidavit
+- Section 7-1-239.1 - Payment of checks or instruments payable to deceased intestate persons; affidavit included with application for payment
+- Section 7-1-239.5 - [Reserved] Fee for instruments drawn on other institutions
+- Section 7-1-239.6 - Convenience fees
+- Section 7-1-239.10 - Definitions; conduct of savings promotion raffles; application
+- Section 7-1-240 - Powers and restrictions applicable when acting as bank and trust company
+- Section 7-1-241 - Restrictions on engaging in banking business
+- Section 7-1-242 - Restriction on corporate fiduciaries
+- Section 7-1-243 - Restrictions on banking and trust nomenclature
+- Section 7-1-244 - Deposit insurance requirements; public notices when deposits not properly insured
+- Section 7-1-260 - General corporate powers
+- Section 7-1-261 - Additional operational powers
+- Section 7-1-262 - Power to hold real estate; prior approval of acquisitions
+- Section 7-1-263 - Property held to avoid loss
+- Section 7-1-280 - Major banking powers
+- Section 7-1-281 - Participation in federal programs
+- Section 7-1-282 - Direct leasing of personal and real property
+- Section 7-1-283 - Participations
+- Section 7-1-284 - Acceptances
+- Section 7-1-285 - Limits on obligations of one person or corporation
+- Section 7-1-286 - Real estate loans; acquisition by bank or trust company of ownership interest
+- Section 7-1-287 - Dealings in securities; conflicts of interest; divestiture and fines
+- Section 7-1-288 - Corporate stock and securities
+- Section 7-1-289 - Security for deposits
+- Section 7-1-290 - Powers as surety or guarantor
+- Section 7-1-291 - Borrowings; liabilities not subject to restrictions; restrictions; borrowing for emergencies
+- Section 7-1-292 - Interest and fees
+- Section 7-1-293 - Savings banks and state savings and loan associations
+- Section 7-1-294 - Transaction of business on holidays and outside of banking hours
+- Section 7-1-295 - Transaction fees charged by operators of automated teller machines
+- Section 7-1-296 - Exercise of federal powers
+- Section 7-1-310 - Powers to act as fiduciary and in other representative capacities; authority to exercise trust powers
+- Section 7-1-311 - Operations as a fiduciary
+- Section 7-1-312 - Nonfiduciary investments
+- Section 7-1-313 - Collective investment funds
+- Section 7-1-314 - Purchase in fiduciary capacity of securities underwritten by syndicate including institution
+- Section 7-1-315 - Satisfaction of fiduciary obligations respecting investment of funds awaiting investment or distribution and charging of fees
+- Section 7-1-316 - Irrevocable letter of credit or pledge of securities for receivership contingency
+- Section 7-1-317 - Minimum amount of capital
+- Section 7-1-318 - Prohibition on pledging or creating a lien by trust companies; void actions
+- Section 7-1-840 - Criminal prosecutions; assisting law enforcement
+- Section 7-1-841 - Applicability of Title 16
+- Section 7-1-842 - Felonies of directors, officers, agents, and employees of financial institutions; aiding and abetting false entries
+- Section 7-1-843 - Certain misdemeanors of directors, officers, agents, and employees of financial institutions
+- Section 7-1-844 - Other misdemeanors of directors, officers, agents, and employees of financial institutions
+- Section 7-1-845 - Miscellaneous felonies; when punished as misdemeanors
+- Section 7-1-846 - Punishment for misdemeanor violations
+- Section 7-1-860 - Application of chapter
+- Section 7-1-861 - Completion of pending transactions; continuation of existing charters, appointments, regulations, and fees
+- Section 7-1-862 - Fees to be paid to Secretary of State
+- Section 7-1-910 - Purpose
+- Section 7-1-911 - Definitions
+- Section 7-1-912 - Reporting requirements
+- Section 7-1-913 - Access to reports
+- Section 7-1-914 - Civil penalties; action for recovery
+- Section 7-1-915 - Criminal penalties; penalties imposed by other Code sections not superseded
+- Section 7-1-916 - Forfeiture of property involved in illegal transactions
+- Section 7-1-917 - Venue for the offense of money laundering
+- Section 7-1-940 - Definitions
+- Section 7-1-941 - Creation of corporations; contents of articles of incorporation; subscription and acknowledgment
+- Section 7-1-942 - Approval of articles by department
+- Section 7-1-943 - Standards for approval of articles by department; timing
+- Section 7-1-944 - Filing departmental approval with Secretary of State
+- Section 7-1-945 - Corporate powers
+- Section 7-1-946 - Bond and stock holding authority; member loans to corporation not discriminatory
+- Section 7-1-947 - Application for membership; requirements for loans to corporation; member loan limits
+- Section 7-1-948 - Duration of membership; withdrawal
+- Section 7-1-949 - Powers of shareholders and members
+- Section 7-1-950 - Amendment of articles
+- Section 7-1-951 - Board of directors; officers and agents
+- Section 7-1-952 - Setting apart net earnings; fiscal year
+- Section 7-1-953 - Deposit of corporate funds
+- Section 7-1-954 - Departmental power over corporations
+- Section 7-1-955 - First meeting
+- Section 7-1-956 - Duration of corporation; dissolution
+- Section 7-1-957 - State indebtedness not to be created
+- Section 7-1-958 - Tax exemptions, credits, and privileges; occupational license taxes
+- Section 7-1-1000 - Definitions
+- Section 7-1-1001 - Exemption for certain persons and entities; registration requirements; authorized actions of licensed mortgage lenders; violations
+- Section 7-1-1001.1 - Requirement for mortgage loan originator license; application to sellers of mobile homes
+- Section 7-1-1002 - Prohibited transactions; liability
+- Section 7-1-1003 - Applications for licenses
+- Section 7-1-1003.1 - [Repealed] Physical place of business
+- Section 7-1-1003.2 - Financial requirements for licensing and registration; bond requirements
+- Section 7-1-1003.3 - [Reserved] Application for registration
+- Section 7-1-1003.4 - [Reserved] Notification statement
+- Section 7-1-1003.5 - Use of Nationwide Multistate Licensing System and Registry
+- Section 7-1-1003.6 - Privileged or confidential nature of information; exception
+- Section 7-1-1003.7 - Approval of mortgage industry related courses; application; renewal applications; audits
+- Section 7-1-1004 - Investigation of applicant; requirements for applicant; denial and revocation of license
+- Section 7-1-1004.1 - Reports of condition
+- Section 7-1-1004.2 - Licensees' ability to challenge information
+- Section 7-1-1004.3 - Visibility requirement for unique identifier of individuals originating residential mortgage loan
+- Section 7-1-1005 - Renewal of licenses; expiration
+- Section 7-1-1006 - Names of licensees; license nontransferable; posting, notification, and location requirements
+- Section 7-1-1007 - Notification requirements
+- Section 7-1-1008 - Prohibited acquisitions of shares without prior approval
+- Section 7-1-1009 - Record keeping; investigations and examinations; exemptions from civil liability
+- Section 7-1-1010 - Annual financial statements
+- Section 7-1-1011 - Annual fees
+- Section 7-1-1012 - Rules and regulations
+- Section 7-1-1013 - Prohibition of certain acts
+- Section 7-1-1014 - Regulations governing disclosure required to applicants for mortgage loans
+- Section 7-1-1015 - Rules relative to escrow accounts
+- Section 7-1-1016 - Regulations relative to advertising
+- Section 7-1-1017 - Suspension or revocation of licenses or mortgage broker education approval; notice; judicial review; effect on preexisting contract
+- Section 7-1-1018 - Cease and desist orders; enforcement procedure; civil penalty; fines
+- Section 7-1-1019 - Criminal penalties
+- Section 7-1-1020 - Construction
+- Section 7-1-1021 - Regulations governing lock-in and commitment agreements
+- Section 7-1-1100 - Definitions
+- Section 7-1-1101 - Limitations on doing business; exceptions
+- Section 7-1-1102 - Record keeping
+- Section 7-1-1103 - Examination; fees
+- Section 7-1-1104 - Written reports; requirements; penalty for failure to comply
+- Section 7-1-1105 - Changes in control
+- Section 7-1-1106 - Rights, privileges, and other duties
+- Section 7-1-1107 - Offices
+- Section 7-1-1108 - Cease and desist orders; notice; failure to comply; judicial review; fines
+- Section 7-1-1109 - Regulatory authority
+- Section 7-1-1110 - Service of process
+- Section 7-1-1111 - Application procedures
+- Section 7-1-1112 - Notification of intent to deny application; notice; confidentiality; conditions; review
+- Section 7-1-1113 - Required determinations prior to licensing; non-transferable and non-assignable licenses
+- Section 7-1-1114 - Certificate of authority; notification of revocation of certificate of authority; foreign corporation requirements
+- Section 7-1-1115 - Maintenance of federal branch or agency
+- Section 7-1-1116 - Application of other provisions; activities; maintenance of books or records
+- Section 7-1-1117 - Acting as a fiduciary
+- Section 7-1-1118 - Amending license; requirements
+- Section 7-1-1119 - Act of relocating; notice
+- Section 7-1-1120 - Treatment of assets
+- Section 7-1-1121 - Notice of uninsured deposits
+- Section 7-1-1122 - Operations
+- Section 7-1-1123 - Value of assets and deposits; minimum requirements; reporting
+- Section 7-1-1124 - Asset maintenance
+- Section 7-1-1125 - Approval for closure; requirements
+- Section 7-1-1126 - Revocation
+- Section 7-1-1127 - Notice of revocation; acceptance of new business; confidentiality; review
+- Section 7-1-1128 - Effective date of revocation
+- Section 7-1-1129 - Possession by department; receivership proceedings; venue; contesting decision; liquidation and transfer of assets
+- Section 7-1-1130 - Dissolution, termination, or cancellation of foreign corporation; obligations
+- Section 7-1-1131 - Establishment of state representative offices; application requirements; annual registration; rules and regulations
+- Section 7-1-1132 - Location and authority of offices; relocation
+- Section 7-1-1133 - Authorized activities
+- Section 7-1-1134 - Denial or revocation of licensure
+- Section 7-1-1135 - Notice of revocation or denial; acceptance of new business; confidentiality; review
+- Section 7-1-1136 - Cessation of activities
+- Section 7-1-1137 - Reporting to department; impact of filings
+- Section 7-1-1138 - Continuing registration

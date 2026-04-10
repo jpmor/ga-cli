@@ -1,0 +1,93 @@
+# Chapter 10 - MAGISTRATE COURTS (§§ 15-10-1 — 15-10-263)
+
+- Section 15-10-1 - Creation of magistrate courts
+- Section 15-10-2 - General jurisdiction; authority of magistrate to act
+- Section 15-10-2.1 - Jurisdiction over certain cases involving litter
+- Section 15-10-3 - Oath and commission of magistrate, constable, and clerk
+- Section 15-10-4 - Sessions of court
+- Section 15-10-5 - Offices, courtrooms, and equipment
+- Section 15-10-6 - Local court rules
+- Section 15-10-7 - [Effective Until 7/1/2025] Council of Magistrate Court Judges
+- Section 15-10-7 - [Effective 7/1/2025] Council of Magistrate Court Judges; notifications
+- Section 15-10-8 - Authority of retired magistrate to perform marriage ceremonies
+- Section 15-10-20 - Number; selection; term; filling vacancies; chief magistrate; bonds
+- Section 15-10-20.1 - Qualifying in absentia for magistrates serving on active military duty
+- Section 15-10-21 - Powers and duties of chief magistrate
+- Section 15-10-22 - Qualifications; restrictions on practice of law
+- Section 15-10-23 - Minimum compensation; annual salary; increases; supplements
+- Section 15-10-23.1 - Monthly contingent expense allowance for the operation of the magistrate court
+- Section 15-10-24 - Discipline, removal, and involuntary retirement
+- Section 15-10-25 - Training requirements; payment of training costs
+- Section 15-10-26 - Conflicts between local ordinances and local Acts
+- Section 15-10-27 - Continuation of certain county civil court officials as magistrate court officials
+- Section 15-10-40 - Applicability of article
+- Section 15-10-41 - No jury trials; appeal
+- Section 15-10-42 - Applicability of the Civil Practice Act
+- Section 15-10-43 - Statement of claim; service of process; answer to claim; default judgments; opening of default; relief in magistrate court
+- Section 15-10-44 - Trial procedure
+- Section 15-10-45 - Compulsory and permissive counterclaims
+- Section 15-10-46 - Ordering deferred partial payment of judgment
+- Section 15-10-47 - Effect, recordation, execution, and enforcement of money judgments; fee for recordation
+- Section 15-10-48 - Form of statement of claim, verification, and notice
+- Section 15-10-49 - Procedure in attachment, garnishment, dispossessory, and distress warrant proceedings
+- Section 15-10-50 - Interrogatories to judgment debtor; form; contempt; authorized discovery procedures
+- Section 15-10-51 - Authorizing clerks to sign notices and summonses
+- Section 15-10-52 - Party name in action
+- Section 15-10-53 - Filing documents by electronic means
+- Section 15-10-54 - Use of personally identifiable data in court documentation; redaction
+- Section 15-10-60 - Applicability of article; suspended sentences
+- Section 15-10-61 - No right to trial by jury; right of removal to state or superior court
+- Section 15-10-62 - Prosecution upon citation or accusation; service; arrest
+- Section 15-10-63 - Use of citations; arrests
+- Section 15-10-63.1 - Cash bonds
+- Section 15-10-64 - Execution upon unpaid fines; sheriff to receive sentenced persons
+- Section 15-10-65 - Petition for review to superior court
+- Section 15-10-66 - Prosecuting attorney
+- Section 15-10-80 - Filing fee; service of process costs; writ of fieri facias fee; costs taxed to losing party
+- Section 15-10-81 - Costs upon conviction of violation of ordinance
+- Section 15-10-82 - Hearing fee on application for search or arrest warrant or deposit account fraud citation; no fee assessed against certain alleged victims
+- Section 15-10-83 - Constables' fees for levies and judicial sales
+- Section 15-10-84 - Fee for administering oath
+- Section 15-10-85 - Fees and costs to be deposited into county treasury
+- Section 15-10-86 - Law library fees
+- Section 15-10-87 - Transfer of filing fee upon transfer of case to state or superior court; failure to transmit fee
+- Section 15-10-100 - Appointment of constables; compensation; chief constable
+- Section 15-10-101 - Eligibility of constables
+- Section 15-10-102 - Powers and duties of constables
+- Section 15-10-103 - Constables' power to arrest
+- Section 15-10-104 - Exemption of constables from peace officer training and employment laws
+- Section 15-10-105 - Selection of clerk; compensation; eligibility
+- Section 15-10-105.1 - Powers and duties of clerk
+- Section 15-10-105.2 - Monthly contingent expense allowance for the operation of the magistrate court
+- Section 15-10-106 - Appointment of other court personnel; compensation
+- Section 15-10-120 - [Reserved] Certain officials to become magistrates; term of office
+- Section 15-10-121 - Transfer of pending cases to magistrate courts
+- Section 15-10-122 - Courts exempt from chapter
+- Section 15-10-123 - Local law references to justices of the peace deemed references to magistrates
+- Section 15-10-130 - Short title
+- Section 15-10-131 - Definitions
+- Section 15-10-132 - Creation of Georgia Magistrate Courts Training Council
+- Section 15-10-133 - Oath; certificate of appointment
+- Section 15-10-134 - Officers; quorum; minutes; annual report
+- Section 15-10-135 - Compensation and reimbursement of members
+- Section 15-10-136 - Powers and duties
+- Section 15-10-137 - Training requirements of certified magistrates
+- Section 15-10-150 - Contract with municipality
+- Section 15-10-151 - Services provided through office of magistrate
+- Section 15-10-152 - Municipal jurisdiction
+- Section 15-10-153 - Styling of municipal court judges, officers, pleadings, and records
+- Section 15-10-154 - Applicability of municipal charter and ordinances
+- Section 15-10-155 - Exceptions
+- Section 15-10-200 - Applicability; penalty
+- Section 15-10-201 - Jury trials
+- Section 15-10-202 - Procedure
+- Section 15-10-203 - Optional procedure for forfeiture of bonds on misdemeanor deposit account fraud violations; failure to appear at trial; bench warrants; no contest cash bonds and related schedules
+- Section 15-10-220 - Creation of office; qualifications
+- Section 15-10-221 - Assumption of duties and powers of magistrate
+- Section 15-10-222 - Oath of office
+- Section 15-10-223 - Training
+- Section 15-10-240 - Remittance of interest from funds
+- Section 15-10-260 - Jurisdiction; penalties
+- Section 15-10-261 - Waiver of jury trial
+- Section 15-10-262 - Prosecutorial procedure
+- Section 15-10-263 - No contest cash bonds; other bonds
