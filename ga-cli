@@ -1,0 +1,386 @@
+#!/usr/bin/env python3
+"""
+GA Legislature CLI.
+
+Commands:
+  sessions                              List all legislative sessions
+  members   [id] --session [--chamber]  List members, or show detail for one
+  committees [id] --session [--chamber] List committees, or show detail for one
+  titles                                List Georgia Code titles
+  list   --session [--chamber] [--type] [--enacted] [--limit]
+                                        Search and list bills
+  show   <id>                           Show full detail for a bill
+  fetch  --session [--chamber] [--type] [--enacted] [--dry-run] [--delay]
+                                        Fetch bills and write as markdown files
+
+Examples:
+  ./ga-cli sessions
+  ./ga-cli members --chamber senate
+  ./ga-cli committees --session 1033 --chamber house
+  ./ga-cli committees 87
+  ./ga-cli list --session 1032
+  ./ga-cli list --session 1033 --chamber house --type resolution --enacted
+  ./ga-cli show 69281
+  ./ga-cli fetch --session 1032 --enacted
+  ./ga-cli fetch --session 1033 --dry-run
+"""
+
+import argparse
+import os
+import sys
+import time
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
+from legis import Client, Chamber, DocumentType, api
+from legis.models import Bill, Session
+
+
+REPO_ROOT = os.path.dirname(os.path.abspath(__file__))
+
+
+# ---------------------------------------------------------------------------
+# Output helpers
+# ---------------------------------------------------------------------------
+
+def _resolve_session(client: Client, session_id: int | None) -> Session:
+    if session_id is None:
+        return api.get_current_session(client)
+    sessions = api.get_sessions(client)
+    session = next((s for s in sessions if s.id == session_id), None)
+    if not session:
+        print(f"Error: session {session_id} not found.", file=sys.stderr)
+        sys.exit(1)
+    return session
+
+
+def _chamber_filter(chamber_arg: str | None) -> list[int] | None:
+    if chamber_arg is None:
+        return None
+    return [Chamber[chamber_arg.title()].value]
+
+
+def _doctype_filter(type_arg: str | None) -> list[int] | None:
+    if type_arg is None:
+        return None
+    return [DocumentType[type_arg.title()].value]
+
+
+# ---------------------------------------------------------------------------
+# Markdown serialization
+# ---------------------------------------------------------------------------
+
+def _yaml_str(value: str) -> str:
+    if any(c in value for c in ':{}[]|>&*!,#?-\'"') or value.startswith(' '):
+        escaped = value.replace('\\', '\\\\').replace('"', '\\"')
+        return f'"{escaped}"'
+    return value or '""'
+
+
+def _frontmatter(bill: Bill) -> str:
+    lines = ["---"]
+
+    def kv(key, val):
+        lines.append(f"{key}: {val}")
+
+    kv("id", bill.id)
+    kv("label", _yaml_str(bill.label))
+    kv("session", _yaml_str(str(bill.session)))
+    kv("session_id", bill.session.id)
+    kv("chamber", bill.chamber.name)
+    kv("document_type", bill.document_type.name)
+    kv("number", bill.number)
+    kv("title", _yaml_str(bill.title))
+    kv("status", _yaml_str(bill.status.name))
+    kv("status_date", _yaml_str(bill.status_date))
+    kv("enacted", str(bill.status.is_enacted).lower())
+    kv("vetoed", str(bill.status.is_vetoed).lower())
+    kv("act_number", _yaml_str(bill.act_veto_number))
+
+    lines.append("sponsors:")
+    for s in sorted(bill.sponsors, key=lambda x: x.sequence):
+        is_primary = s.sequence == 1
+        lines.append(f"  - name: {_yaml_str(s.name)}")
+        lines.append(f"    district: {_yaml_str(s.district)}")
+        lines.append(f"    primary: {str(is_primary).lower()}")
+
+    lines.append("committees:")
+    lines.append(f"  house: {_yaml_str(bill.house_committee.name) if bill.house_committee else 'null'}")
+    lines.append(f"  senate: {_yaml_str(bill.senate_committee.name) if bill.senate_committee else 'null'}")
+
+    lines.append("---")
+    return "\n".join(lines)
+
+
+def _history_section(bill: Bill) -> str:
+    if not bill.status_history:
+        return ""
+    lines = ["## History", ""]
+    for event in sorted(bill.status_history, key=lambda e: e.date):
+        lines.append(f"- {event.date.strftime('%Y-%m-%d')} — {event.name}")
+    return "\n".join(lines)
+
+
+def bill_to_markdown(bill: Bill, text: str) -> str:
+    parts = [_frontmatter(bill), "", f"# {bill.label} — {bill.title}", ""]
+    if bill.first_reader:
+        parts += [bill.first_reader, ""]
+    if text:
+        parts += [text, ""]
+    history = _history_section(bill)
+    if history:
+        parts += [history, ""]
+    return "\n".join(parts)
+
+
+def bill_path(bill: Bill, base_dir: str) -> str:
+    session_dir = str(bill.session).replace(" ", "-")
+    type_dir = bill.document_type.abbreviation(bill.chamber)
+    filename = f"{type_dir}-{bill.number:04d}{bill.suffix}.md"
+    return os.path.join(base_dir, "bills", session_dir, type_dir, filename)
+
+
+# ---------------------------------------------------------------------------
+# Subcommands
+# ---------------------------------------------------------------------------
+
+def cmd_sessions(client: Client, args):
+    for s in api.get_sessions(client):
+        current = " (current)" if s.is_current else ""
+        kind = "special" if s.type else "regular"
+        print(f"{s.id:4d}  {s.library:12s}  {s.description}{current}")
+
+
+def cmd_members(client: Client, args):
+    session = _resolve_session(client, args.session)
+    if args.id is not None:
+        m = api.get_member(client, args.id, session.id)
+        print(f"{m.title} {m.name} — District {m.district} ({m.party_name})")
+        if m.residence:
+            print(f"Residence: {m.residence}")
+        if m.occupation:
+            print(f"Occupation: {m.occupation}")
+        if m.phone:
+            print(f"Phone: {m.phone}")
+        if m.committees:
+            print(f"\nCommittees:")
+            for c in m.committees:
+                print(f"  {c.role:30s}  {c.name}")
+    else:
+        chamber = Chamber[args.chamber.title()] if args.chamber else None
+        members = api.get_members(client, session.id, chamber)
+        for m in sorted(members, key=lambda m: (m.chamber_type.value, int(''.join(filter(str.isdigit, m.district)) or 0))):
+            print(f"{m.id:5d}  {m.chamber_type.name:6s}  {m.district:5s}  {m.party_name}  {m.city:20s}  {m.name}")
+
+
+def cmd_committees(client: Client, args):
+    session = _resolve_session(client, args.session)
+    if args.id is not None:
+        c = api.get_committee(client, args.id, session.id)
+        print(f"{c.chamber.name} Committee on {c.name}")
+        if c.phone:
+            print(f"Phone: {c.phone}")
+        if c.description:
+            print(f"\n{c.description}")
+        print(f"\nMembers ({len(c.members)}):")
+        for m in c.members:
+            print(f"  {m.role:30s}  {m.district:5s}  {m.name}")
+        if c.subcommittees:
+            print(f"\nSubcommittees:")
+            for s in c.subcommittees:
+                print(f"  {s}")
+    else:
+        chamber = Chamber[args.chamber.title()] if args.chamber else None
+        committees = api.get_committees(client, session.id, chamber)
+        for c in committees:
+            print(f"{c.id:4d}  {c.chamber.name:6s}  {c.name}")
+
+
+def cmd_titles(client: Client, args):
+    for t in api.get_code_titles(client):
+        print(f"{t.code}  {t.name}")
+
+
+def cmd_list(client: Client, args):
+    session = _resolve_session(client, args.session)
+    filters = {}
+    if args.chamber:
+        filters["chamberTypes"] = _chamber_filter(args.chamber)
+    if args.doc_type:
+        filters["documentTypes"] = _doctype_filter(args.doc_type)
+
+    count = 0
+    for bill in api.search_bills(client, session.id, **filters):
+        if args.enacted and not bill.status.is_enacted:
+            continue
+        enacted_marker = " *" if bill.status.is_enacted else ""
+        print(f"{bill.id:6d}  {bill.label:8s}  {bill.status.name:45s}  {bill.title[:60]}{enacted_marker}")
+        count += 1
+        if args.limit and count >= args.limit:
+            break
+
+
+def cmd_show(client: Client, args):
+    bill = api.get_bill(client, args.id)
+    print(f"{bill.label} — {bill.title}")
+    print(f"Session:   {bill.session}")
+    print(f"Status:    {bill.status}  (enacted={bill.status.is_enacted})")
+    print(f"PDF:       {bill.pdf_url()}")
+    print()
+    print("Sponsors:")
+    for s in sorted(bill.sponsors, key=lambda x: x.sequence):
+        role = "primary" if s.sequence == 1 else "co-sponsor"
+        print(f"  {s.name} ({s.district}) [{role}]")
+    if bill.house_committee:
+        print(f"House committee: {bill.house_committee.name}")
+    if bill.senate_committee:
+        print(f"Senate committee: {bill.senate_committee.name}")
+    if bill.status_history:
+        print()
+        print("History:")
+        for event in sorted(bill.status_history, key=lambda e: e.date):
+            print(f"  {event}")
+    if bill.first_reader:
+        print()
+        print("Summary:")
+        print(f"  {bill.first_reader[:300]}")
+
+
+def cmd_fetch(client: Client, args):
+    session = _resolve_session(client, args.session)
+    print(f"Session: {session}")
+
+    filters = {}
+    if args.chamber:
+        filters["chamberTypes"] = _chamber_filter(args.chamber)
+    if args.doc_type:
+        filters["documentTypes"] = _doctype_filter(args.doc_type)
+
+    out = args.out or os.path.join(REPO_ROOT, "legislation")
+    total = written = skipped = 0
+
+    for bill in api.search_bills(client, session.id, **filters):
+        total += 1
+        if args.enacted and not bill.status.is_enacted:
+            skipped += 1
+            continue
+
+        try:
+            full_bill = api.get_bill(client, bill.id)
+        except Exception as e:
+            print(f"  Warning: could not fetch detail for {bill.label}: {e}", file=sys.stderr)
+            full_bill = bill
+
+        text = ""
+        try:
+            text = api.get_bill_text(client, full_bill)
+        except Exception as e:
+            print(f"  Warning: could not fetch text for {full_bill.label}: {e}", file=sys.stderr)
+
+        path = bill_path(full_bill, out)
+
+        if args.dry_run:
+            print(path)
+            continue
+
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        with open(path, "w") as f:
+            f.write(bill_to_markdown(full_bill, text))
+
+        written += 1
+        if written % 10 == 0:
+            print(f"  {written} written ({full_bill.label})...")
+
+        time.sleep(args.delay)
+
+    print(f"\nDone. Total: {total}, written: {written}, skipped: {skipped}")
+
+
+# ---------------------------------------------------------------------------
+# Argument parsing
+# ---------------------------------------------------------------------------
+
+COMMANDS_TABLE = """\
+GA Legislature CLI — Georgia General Assembly data
+
+Commands:
+  sessions                                All legislative sessions, back to 2001
+  members   [id] [--chamber] [--session]  List members with district and party, or show detail
+  committees [id] [--chamber] [--session] List committees, or show membership for one
+  titles                                  All 53 Georgia Code titles
+  list      [--session] [--chamber]       Search and list bills
+            [--type] [--enacted] [--limit]
+  show      <id>                          Full bill detail — sponsors, committees, history
+  fetch     [--session] [--enacted]       Write bills to markdown files
+            [--dry-run] [--chamber]
+"""
+
+
+def main():
+    parser = argparse.ArgumentParser(
+        description=COMMANDS_TABLE,
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+    )
+    sub = parser.add_subparsers(dest="command", required=False)
+
+    # sessions
+    sub.add_parser("sessions", help="List all legislative sessions")
+
+    # members
+    p = sub.add_parser("members", help="List members, or show detail for one")
+    p.add_argument("id", type=int, nargs="?", help="Member ID (omit to list all)")
+    p.add_argument("--session", type=int)
+    p.add_argument("--chamber", choices=["house", "senate"])
+
+    # committees
+    p = sub.add_parser("committees", help="List committees, or show detail for one")
+    p.add_argument("id", type=int, nargs="?", help="Committee ID (omit to list all)")
+    p.add_argument("--session", type=int)
+    p.add_argument("--chamber", choices=["house", "senate"])
+
+    # titles
+    sub.add_parser("titles", help="List Georgia Code titles")
+
+    # list
+    p = sub.add_parser("list", help="Search and list bills")
+    p.add_argument("--session", type=int)
+    p.add_argument("--chamber", choices=["house", "senate"])
+    p.add_argument("--type", choices=["bill", "resolution"], dest="doc_type")
+    p.add_argument("--enacted", action="store_true")
+    p.add_argument("--limit", type=int)
+
+    # show
+    p = sub.add_parser("show", help="Show full detail for a bill")
+    p.add_argument("id", type=int, help="Legislation ID")
+
+    # fetch
+    p = sub.add_parser("fetch", help="Fetch bills and write as markdown")
+    p.add_argument("--session", type=int)
+    p.add_argument("--chamber", choices=["house", "senate"])
+    p.add_argument("--type", choices=["bill", "resolution"], dest="doc_type")
+    p.add_argument("--enacted", action="store_true")
+    p.add_argument("--dry-run", action="store_true")
+    p.add_argument("--out", help="Output base directory (default: legislation/)")
+    p.add_argument("--delay", type=float, default=0.2)
+
+    args = parser.parse_args()
+    if not args.command:
+        parser.print_help()
+        return
+
+    client = Client()
+
+    commands = {
+        "sessions":   cmd_sessions,
+        "members":    cmd_members,
+        "committees": cmd_committees,
+        "titles":     cmd_titles,
+        "list":       cmd_list,
+        "show":       cmd_show,
+        "fetch":      cmd_fetch,
+    }
+    commands[args.command](client, args)
+
+
+if __name__ == "__main__":
+    main()
