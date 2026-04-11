@@ -1,93 +1,38 @@
 # GA Legis
 
-A command-line tool for accessing Georgia General Assembly legislative data — bills, members, committees, and sessions — in a usable, scriptable format.
+**https://jpmor.github.io/ga-cli/** - Browse the Official Code of Georgia, free.
 
 ## Why this exists
 
-Georgia's laws are public record, but accessing them is needlessly difficult. The official legislative website points citizens to LexisNexis, a private company, as the de facto source of truth for both the code and the legislature's ongoing work. There is no bulk download, no public API, and no easy way to answer basic questions like:
+Citizens benefit when they can read their own laws. They benefit when they can see what the legislature is working on, track a bill, or look up what their representative has sponsored. None of that should require a commercial subscription.
 
-- What bills did my senator sponsor this session?
-- Which committees reviewed a bill before it passed?
-- What legislation was signed into law this year?
+Right now, Georgia doesn't host its own legal code. The General Assembly's website and the Secretary of State's site both point to LexisNexis. Your options there are a 186-volume physical set for $412, or clicking through 28,000 sections one at a time on a website where sections can't be linked to and the law is typically over a year out of date.
 
-This project makes the General Assembly's own data accessible to anyone — researchers, journalists, constituents, and legislators themselves.
+In 2013, a nonprofit posted the OCGA online for free. Georgia sued them. The case went to the Supreme Court, which [ruled 5-4 in 2020](https://www.supremecourt.gov/opinions/19pdf/18-1150_new_d18e.pdf) that the state doesn't own the copyright to its own laws, and Georgia still doesn't host them.
 
-## What it does
+The LexisNexis site has aggressive CAPTCHAs, slow page loads, limited search, and sections that can't be linked to. It is designed not to be read easily. That's worth keeping in mind when considering who benefits from the current arrangement.
 
-`ga-cli` is a command-line interface that queries the Georgia General Assembly's data and returns clean, readable output. No login required.
+There's also a deeper problem: every bill that passes contains instructions for how the code should be updated. That reconciliation, turning enacted legislation into updated law, currently happens inside LexisNexis, with no public process and no audit trail. A private company, under contract, is effectively the final step in Georgia's lawmaking.
 
-| Command | Description |
-|---|---|
-| `./ga-cli sessions` | All legislative sessions on record, back to 2001 |
-| `./ga-cli members [id] [--chamber] [--session]` | List all members with district and party, or show detail for one |
-| `./ga-cli committees [id] [--chamber] [--session]` | List committees, or show membership and subcommittees for one |
-| `./ga-cli list [--session] [--chamber] [--type] [--enacted] [--limit]` | Search and list bills |
-| `./ga-cli show <id>` | Full detail for a bill — sponsors, committees, status history |
-| `./ga-cli fetch [--session] [--enacted] [--dry-run]` | Fetch bills and write as markdown files |
-| `./ga-cli code [id]` | Browse the Georgia Code — no arg lists all 53 titles; `1` lists chapters; `1-1` lists sections; `1-1-1` shows statute text |
-| `./ga-cli codefetch [--title N]` | Fetch and cache OCGA content locally |
+This project is a small attempt to improve on that. The web browser is a start. The longer-term goal is a version of the code maintained directly from the bills that pass, one commit per enacted law, publicly auditable.
 
-### Example output
+## The code browser
+
+**https://jpmor.github.io/ga-cli/**
+
+All 53 titles of the OCGA, browsable and linkable, sourced from the state's own website and served as static files from this repository. No account required.
+
+## The command-line tool
+
+For querying legislative data in bulk: members, committees, bills back to 2001.
 
 ```
-$ ./ga-cli members --chamber senate | head -10
-  784  Senate  1st    R  Savannah              Ben Watson
- 5007  Senate  2nd    D  Savannah              Derek Mallow
- 5013  Senate  3rd    R  Brunswick             Mike Hodges
- 4924  Senate  5th    D  Lawrenceville         Sheikh Rahman
- 4907  Senate  6th    R  Newnan                Matt Brass
-```
-
-```
-$ ./ga-cli show 63488
-HB 11 — Mitchell County; Board of Education; modify compensation of members; provisions
-Session:   2023-2024 Regular Session
-Status:    House Date Signed by Governor  (enacted=true)
-
-History:
-  2023-01-10 — House Hopper
-  2023-01-11 — House First Readers
-  2023-01-12 — House Second Readers
-  2023-01-30 — House Committee Favorably Reported
-  ...
-  2023-04-18 — House Date Signed by Governor
-```
-
-## Sessions available
-
-The tool has access to all sessions back to 2001, including special sessions:
-
-| Session | Type |
-|---|---|
-| 2025-2026 | Regular (current) |
-| 2023-2024 | Regular |
-| 2023 | Special |
-| 2021-2022 | Regular |
-| 2021 | Special |
-| 2020 | Special |
-| … back to 2001 | |
-
-## Georgia Code browser
-
-The OCGA is also browsable on the web at **https://jpmor.github.io/ga-cli/**. The site is a static single-page app served directly from this repository — no backend, no third-party services.
-
-## What's next
-
-The longer-term goal is to connect this legislative record to the actual text of Georgia law. Each bill that passes contains explicit instructions for how the Official Code of Georgia should be updated — and currently that process happens inside a private company (LexisNexis) with no public audit trail.
-
-The aim is to build a version of the OCGA maintained directly from the bills that pass, with a commit for each enacted law, so that anyone can see exactly what changed and why.
-
-## Requirements
-
-Python 3.11+. No external dependencies.
-
-## Usage
-
-```
-git clone https://github.com/jpmor/ga-legis
-cd ga-legis
+git clone https://github.com/jpmor/ga-cli
+cd ga-cli
 ./ga-cli --help
 ```
+
+Python 3.11+. No external dependencies.
 
 ## Contributing
 
