@@ -74,6 +74,30 @@ function renderIndexList(heading, items) {
   return `<h1>${esc(heading)}</h1><ul class="index-list">${lis}</ul>`;
 }
 
+// ── Citation linker ───────────────────────────────────────────────────────────
+
+function linkifyStatuteCitations(html) {
+  // OCGA section ID: 1-2 digit title, alnum chapter, digit-starting section,
+  // optional decimal suffix, optional letter suffix, optional deeper hyphenated parts
+  const ID = String.raw`\d{1,2}-[0-9A-Za-z]+-\d+(?:\.\d+)?[A-Za-z]*(?:-[0-9A-Za-z]+)*`;
+  // Connectors that may appear between multiple IDs in one citation
+  const SEP = String.raw`(?:\s*(?:through|and|or|,)\s*)`;
+  const CITE = new RegExp(
+    `((?:O\\.C\\.G\\.A\\.\\s*)?§§?\\s*|Code\\s+[Ss]ections?\\s+)((?:${ID})(?:${SEP}(?:${ID}))*)`,
+    'g'
+  );
+  const ID_RE = new RegExp(ID, 'g');
+
+  return html.replace(CITE, (_, prefix, ids) =>
+    prefix + ids.replace(ID_RE, id => {
+      const lower = id.toLowerCase();
+      const parts = lower.split('-');
+      if (parts.length < 3) return id;
+      return `<a href="#/${parts[0]}/${parts[1]}/${lower}">${id}</a>`;
+    })
+  );
+}
+
 // ── Section text renderer ─────────────────────────────────────────────────────
 
 function renderSectionText(md) {
@@ -94,19 +118,19 @@ function renderSectionText(md) {
       inHistory = title === 'History';
 
     } else if (line.startsWith('- ')) {
-      parts.push(`<li>${line.slice(2)}</li>`); // may contain &quot; etc — innerHTML is intentional
+      parts.push(`<li>${linkifyStatuteCitations(line.slice(2))}</li>`);
 
     } else if (inHistory) {
       parts.push(`<p class="history-entry">${esc(line)}</p>`);
 
     } else {
-      // Highlight subsection labels like (a), (b), (1), (2) at the start of a line
+      // Highlight subsection labels like (a), (b), (1), (2), (4.1) at the start of a line
       const escaped = esc(line);
       const styled = escaped.replace(
-        /^(\s*)(\([a-z0-9]+\))(\s)/,
+        /^(\s*)(\([a-z0-9.]+\))(\s)/,
         (_, ws, lbl, sp) => `${ws}<span class="label">${lbl}</span>${sp}`
       );
-      parts.push(`<p${line.match(/^\s+/) ? ' class="sub"' : ''}>${styled}</p>`);
+      parts.push(`<p${line.match(/^\s+/) ? ' class="sub"' : ''}>${linkifyStatuteCitations(styled)}</p>`);
     }
   }
 
