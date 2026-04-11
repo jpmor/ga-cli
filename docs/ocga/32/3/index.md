@@ -1,0 +1,35 @@
+# Chapter 3 - ACQUISITION OF PROPERTY FOR TRANSPORTATION PURPOSES (§§ 32-3-1 — 32-3-39)
+
+- Section 32-3-1 - Authority to acquire property for present or future public road or other transportation purposes
+- Section 32-3-2 - Acquisition procedure generally; recording order and judgment or instrument of conveyance; filing order and judgment or instrument in records of department
+- Section 32-3-3 - Acquisition of property by devise, exchange, prescription, or dedication; acquisition by county or municipality on behalf of department
+- Section 32-3-3.1 - Relocation or reconstruction of outdoor advertising sign; requirements
+- Section 32-3-3.2 - Procedure when documented conflict
+- Section 32-3-4 - Authority to bring condemnation proceedings
+- Section 32-3-5 - Contents of condemnation petition; notice
+- Section 32-3-6 - Declaration of taking; Order of condemnation by condemning authority
+- Section 32-3-7 - Deposit of estimated compensation; vesting of title in condemning authority; protection of due process rights
+- Section 32-3-8 - Service of process in condemnation proceedings generally
+- Section 32-3-9 - Service of nonresidents in condemnation proceedings
+- Section 32-3-10 - Substantial compliance with Code Sections 32-3-8 and 32-3-9
+- Section 32-3-11 - Power of judge to set aside, vacate, and annul declaration of taking; issuance and service on condemnor of rule nisi; hearing
+- Section 32-3-12 - Orders of court for payment of award in condemnation proceedings, for surrender of property, and as to other charges
+- Section 32-3-13 - Self-executing nature of declaration of taking; court costs; entry of judgment; transfer of case to closed docket; effect of Code section on condemnor's title
+- Section 32-3-14 - Filing notice of appeal
+- Section 32-3-15 - Interlocutory hearing on amount of compensation
+- Section 32-3-16 - Appeal to jury; evidence to be heard on appeal; subsequent review of issues not brought before jury
+- Section 32-3-17 - Right to intervene in proceedings; effect of subsequent proceedings on rights of condemnor
+- Section 32-3-17.1 - Decisions upon questions of law; power of judge to give necessary orders and directions; jury trial in open court only
+- Section 32-3-18 - Prevention or delay of vesting of title in condemnor
+- Section 32-3-19 - Jury verdict; entry of judgment; award; effect on condemnor's title
+- Section 32-3-20 - Effect of article on other methods of condemnation
+- Section 32-3-30 - Power of department to acquire rights of way and easements
+- Section 32-3-31 - Method of acquisition
+- Section 32-3-32 - Acquisition of fee simple title; designation on official county map
+- Section 32-3-33 - Inclusion of scenic easements in rights of way
+- Section 32-3-34 - Amount of land to be acquired for rights of way
+- Section 32-3-35 - Access for private roads
+- Section 32-3-36 - Conveyance of title to rights of way to United States government or its appropriate agency
+- Section 32-3-37 - Use of property before final condemnation; enforcement of Code section
+- Section 32-3-38 - Advertisement restrictions near parkways
+- Section 32-3-39 - Concurrent jurisdiction conceded to United States government; taxing power of state reserved

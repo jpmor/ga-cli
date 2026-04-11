@@ -1,0 +1,27 @@
+# Chapter 9 - MASS TRANSPORTATION (§§ 32-9-1 — 32-9-24)
+
+- Section 32-9-1 - Financial support and project grants for research, programs, and purchases
+- Section 32-9-2 - Operation by department of facilities or systems; financial assistance to systems; prohibition relating to certain Metropolitan Atlanta Rapid Transit Authority Services
+- Section 32-9-4 - Designation of special or exclusive use travel lanes; use of such lanes
+- Section 32-9-4.1 - FlexAuto lanes
+- Section 32-9-5 - Ride-sharing programs
+- Section 32-9-6 - Financial assistance for rail service
+- Section 32-9-7 - Financial assistance for airport development
+- Section 32-9-8 - Licensing airports
+- Section 32-9-8.1 - [Renumbered as 6-1-3] Redesignated
+- Section 32-9-9 - Creation of transit authority by special legislation; authority's attributes and powers
+- Section 32-9-10 - Implementation of federal Transportation Safety Program
+- Section 32-9-11 - Transit services with local governments
+- Section 32-9-12 - Pilot program for funding streetcar projects
+- Section 32-9-13 - Definitions
+- Section 32-9-14 - Procedures, conditions, and limitations for levy of additional retail sales and use tax by City of Atlanta for MARTA services
+- Section 32-9-15 - Procedures, conditions, and limitations for levy of additional retail sales and use tax by Fulton County for MARTA services; transit oriented development
+- Section 32-9-16 - Metropolitan Atlanta Rapid Transit Overview Committee
+- Section 32-9-17 - Logo and branding
+- Section 32-9-18 - Repeal of funding limitations
+- Section 32-9-19 - Transportation services contracts
+- Section 32-9-20 - Rapid transit contract with Gwinnett County
+- Section 32-9-21 - [Reserved] Creation of Cobb County Special District for Transit Committee; meetings; contracting; abolishment
+- Section 32-9-22 - [Reserved] Rapid transit contract with Cobb County on behalf of the Cobb County Special District for Transit
+- Section 32-9-23 - Retail sales and use tax in Gwinnett County; rate; proceeds; utilization
+- Section 32-9-24 - Appointment of Gwinnett County residents to board

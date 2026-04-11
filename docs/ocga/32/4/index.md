@@ -1,0 +1,48 @@
+# Chapter 4 - STATE, COUNTY, AND MUNICIPAL ROAD SYSTEMS (§§ 32-4-1 — 32-4-123)
+
+- Section 32-4-1 - Classification of public roads
+- Section 32-4-2 - Official map, list, and records; rules and regulations
+- Section 32-4-3 - Naming state roads, bridges, or interchanges
+- Section 32-4-4 - Abandonment of utility facilities containing asbestos pipe
+- Section 32-4-20 - Composition of state highway system
+- Section 32-4-21 - Designation of roads as part of state highway system
+- Section 32-4-22 - Creation of Developmental Highway System
+- Section 32-4-24 - Alternative tourism routes; welcome centers authorized
+- Section 32-4-40 - Designation of roads as part of county road system; designation of system on maps and written records of county
+- Section 32-4-41 - Duties
+- Section 32-4-42 - Powers
+- Section 32-4-60 - &quot;Contract&quot; defined
+- Section 32-4-61 - Authority of county to contract; form of contracts; approval of contracts by resolution
+- Section 32-4-62 - Contracts with state, state agencies, adjoining counties, and incorporated municipalities of county
+- Section 32-4-63 - Limitations on power to contract; at least two estimates required for certain expenditures
+- Section 32-4-64 - Required letting of contracts by public bid
+- Section 32-4-65 - Advertising for bids
+- Section 32-4-66 - Payment by bidder to cover costs
+- Section 32-4-67 - Proposal guaranty by bidder
+- Section 32-4-68 - Award of contract to lowest reliable bidder; procedure upon rejection of bids
+- Section 32-4-69 - Bonds of successful bidder generally
+- Section 32-4-70 - Bridge repair bonds
+- Section 32-4-71 - Failure to take bonds; liability of county
+- Section 32-4-72 - Failure of successful bidder to sign contract or furnish bonds
+- Section 32-4-73 - Oath by successful bidder
+- Section 32-4-74 - Design-build procedure
+- Section 32-4-75 - Applicability of other laws to this part
+- Section 32-4-90 - Acquisition of rights of way
+- Section 32-4-91 - Construction and maintenance of systems; acquisition of labor; maximum bridge weight; notification of department about new streets and abandoned streets
+- Section 32-4-92 - Powers
+- Section 32-4-93 - Liability of municipalities for defects in public roads
+- Section 32-4-94 - Standards for construction of curb ramps
+- Section 32-4-110 - &quot;Contract&quot; defined
+- Section 32-4-111 - Authority of municipality to contract; form of contracts; approval of contracts by resolution
+- Section 32-4-112 - Contracts with state agencies and adjoining counties
+- Section 32-4-113 - Limitations on power to contract; at least two estimates required for certain expenditures
+- Section 32-4-114 - Required letting of contracts by public bid
+- Section 32-4-115 - Advertising for bids
+- Section 32-4-116 - Payment by bidder to cover costs
+- Section 32-4-117 - Proposal guaranty by bidder
+- Section 32-4-118 - Award of contract to lowest reliable bidder; procedure upon rejection of bids
+- Section 32-4-119 - Bonds of successful bidder
+- Section 32-4-120 - Failure to take bonds; liability of municipality
+- Section 32-4-121 - Failure of successful bidder to sign contract or furnish bonds
+- Section 32-4-122 - Oath by successful bidder
+- Section 32-4-123 - Other laws applicable to part

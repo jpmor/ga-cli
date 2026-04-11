@@ -1,0 +1,111 @@
+# Chapter 6 - REGULATION OF MAINTENANCE AND USE OF PUBLIC ROADS GENERALLY (§§ 32-6-1 — 32-6-248)
+
+- Section 32-6-1 - Obstructing, encroaching on, or injuring public roads
+- Section 32-6-2 - Authority of department, counties, and municipalities to regulate parking; parking vehicles or leaving vehicles unattended on right of way of public road on state highway system
+- Section 32-6-4 - Removal of natural or manmade obstructions, cargo, or personal property during state of emergency
+- Section 32-6-5 - Closure of or limiting access to roads due to declared state of emergency for inclement weather conditions; exception for certain vehicle operators
+- Section 32-6-6 - Camping on roadways; penalty
+- Section 32-6-20 - General restrictions
+- Section 32-6-21 - Redesignated
+- Section 32-6-22 - Height of vehicles and loads
+- Section 32-6-23 - Width of vehicles and loads
+- Section 32-6-24 - Length of vehicles and loads
+- Section 32-6-25 - Exemptions for farming, agricultural, and forest management equipment
+- Section 32-6-25.1 - Exemptions for port vehicles used to transport cargo or containers
+- Section 32-6-26 - Weight of vehicle and load
+- Section 32-6-27 - [Effective Until 7/1/2025] Enforcement of load limitations
+- Section 32-6-27 - [Effective 7/1/2025] Enforcement of load limitations
+- Section 32-6-28 - [Effective Until 7/1/2025] Permits for excess weight and dimensions
+- Section 32-6-28 - [Effective 7/1/2025] Permits for excess weight and dimensions
+- Section 32-6-29 - [Effective Until 7/1/2025] Responsibility of the Department of Transportation; responsibility of the Department of Public Safety
+- Section 32-6-29 - [Effective 7/1/2025] Responsibility of the Department of Transportation; responsibility of the Department of Public Safety
+- Section 32-6-30 - [Effective Until 7/1/2025] Stopping vehicles for purposes of weighing, measuring, or inspecting; reports of violations; refusal to stop
+- Section 32-6-30 - [Effective 7/1/2025] Stopping vehicles for purposes of weighing, measuring, or inspecting; reports of violations; refusal to stop
+- Section 32-6-31 - Construction of Code Sections 32-1-10, 32-6-26, 32-6-27, and 32-6-29
+- Section 32-6-50 - Uniform regulations governing erection and maintenance of traffic-control devices; placement, removal, defacement, damaging, or sale of devices
+- Section 32-6-51 - Unauthorized devices and structures within right of way or visible from public road; bus shelters; wayfinding kiosks; commercial advertisements by transit agency
+- Section 32-6-52 - Displays of nudity or sexual conduct on outdoor advertising visible from roadway prohibited; penalty
+- Section 32-6-70 - Declaration of policy
+- Section 32-6-71 - Definitions
+- Section 32-6-72 - Designation of outdoor advertising which may be erected or maintained within 660 feet of nearest edge of right of way
+- Section 32-6-73 - Designation of outdoor advertising which may be erected or maintained beyond 660 feet of nearest edge of right of way
+- Section 32-6-74 - Applications for outdoor advertising sign permits generally; fees; renewals; transfer of permits
+- Section 32-6-75 - Restrictions on outdoor advertising authorized by Code Sections 32-6-72 and 32-6-73; multiple message signs on interstate system, primary highways, and other highways
+- Section 32-6-75.1 - Roadside Enhancement and Beautification Council; membership; purpose; compensation
+- Section 32-6-75.2 - Roadside Enhancement and Beautification Fund; dedication of certain revenues
+- Section 32-6-75.3 - Permits for trimming or removal of trees or vegetation in state right of way which obstruct view of outdoor advertising; removal of signs with lapsed permits
+- Section 32-6-76 - Restrictions on directional signs generally
+- Section 32-6-77 - Exceptions to spacing limitations contained in Code Sections 32-6-75 and 32-6-76
+- Section 32-6-78 - Restrictions on public service signs
+- Section 32-6-79 - Permits for nonconforming signs; right of department to refuse to issue additional permits to persons maintaining illegal sign; appeal from department's decision
+- Section 32-6-80 - Renewal of permits for nonconforming signs; transfer of permits for nonconforming signs
+- Section 32-6-81 - Revocation or withholding of permits for illegal or unauthorized actions against the department's property
+- Section 32-6-82 - Acquisition by department of property rights in outdoor advertising which does not comply with requirements of part
+- Section 32-6-83 - Acquisition by municipal corporation or county of outdoor advertising which does not comply with requirements of applicable ordinances, regulations, or resolutions
+- Section 32-6-84 - Interests and losses which may be compensable under Code Sections 32-6-82 and 32-6-83
+- Section 32-6-85 - Department's exercise of eminent domain power to acquire interests specified in Code Section 32-6-84
+- Section 32-6-86 - Compensation contingent upon federal matching funds
+- Section 32-6-87 - Agreements with United States Secretary of Transportation
+- Section 32-6-87.1 - &quot;RV friendly&quot; markers
+- Section 32-6-88 - Designation of defined areas where directional information is provided by previously conforming signs or devices
+- Section 32-6-89 - Retention of directional signs, displays, and devices in defined areas
+- Section 32-6-90 - Promulgation of rules and regulations by department
+- Section 32-6-91 - Erection or maintenance of sign without permit as constituting misdemeanor
+- Section 32-6-92 - Maintenance of unauthorized sign as constituting misdemeanor
+- Section 32-6-93 - Erection or maintenance of sign without a permit as constituting a public nuisance; enjoining erection or maintenance of such sign
+- Section 32-6-94 - Maintenance of unauthorized sign as constituting a public nuisance; enjoining maintenance of such sign
+- Section 32-6-95 - Applicability of Chapter 13 of Title 50, the &quot;Georgia Administrative Procedure Act,&quot; to part generally; affirmance of agency decision by operation of law
+- Section 32-6-96 - Authority of department to enter upon private lands to implement administrative decisions; reimbursement of department for expenses; return or disposition of stored sign remnants
+- Section 32-6-97 - Construction of part
+- Section 32-6-110 - &quot;Local service road&quot; defined
+- Section 32-6-111 - Establishment and maintenance of limited-access roads
+- Section 32-6-112 - Acquisition of property and property rights
+- Section 32-6-113 - Design of limited-access roads
+- Section 32-6-114 - Designation of limited-access roads; elimination of intersections at grade
+- Section 32-6-115 - Conducting commercial enterprises or activities on property on which limited-access roads have been constructed
+- Section 32-6-116 - Installation and operation of vending machines in safety rest areas on rights of way of state highway system
+- Section 32-6-117 - Lease of air rights
+- Section 32-6-118 - Establishment, maintenance, and disposal of local service roads
+- Section 32-6-119 - Effect of article on Coastal Highway District and Coastal Scenic Highway Authority
+- Section 32-6-130 - &quot;Commercial driveway&quot; defined
+- Section 32-6-131 - Permit requirement as to construction or improvement of commercial driveways; authority of department to close driveways for violations
+- Section 32-6-132 - Change or substitution of existing commercial driveways
+- Section 32-6-133 - Promulgation of regulations; charges for permits for commercial driveways
+- Section 32-6-134 - Procedure by department upon discovery of violation of Code Section 32-6-131; liability for expenses incurred in connection with changes made in commercial driveways
+- Section 32-6-135 - Effect of part on authority of counties and municipalities to regulate highways, roads, and streets
+- Section 32-6-150 - &quot;Subdivision&quot; defined
+- Section 32-6-151 - Department recommendation as to approval or rejection of a proposed subdivision plat abutting any part of or requiring access to the state highway system
+- Section 32-6-152 - Department approval or rejection of plat submitted by proprietor of subdivision abutting any part of or requiring access to the state highway system
+- Section 32-6-153 - Factors to be considered by department in making recommendations to planning commissions and in approving or rejecting plats
+- Section 32-6-154 - Effect of part on requirement as to commercial driveway permit
+- Section 32-6-170 - Payment by department of costs of removal, relocation, and adjustment of utility facilities necessitated by construction of public roads
+- Section 32-6-171 - Authority of department to order removal, relocation, or adjustment of utility facilities
+- Section 32-6-172 - Authority of department to obtain replacement right of way for relocated utility
+- Section 32-6-173 - Payment of expenses of removal and relocation of utility facilities
+- Section 32-6-174 - Promulgation of regulations by department
+- Section 32-6-175 - Right to injunctive relief
+- Section 32-6-190 - Duty to maintain grade crossings
+- Section 32-6-191 - Responsibility for construction of new grade crossings and relocation of existing grade crossings
+- Section 32-6-192 - Construction of underpass or overpass in lieu of grade crossing
+- Section 32-6-193 - Authority of department, counties, and municipalities to eliminate grade crossings
+- Section 32-6-193.1 - Elimination of grade crossings by physical removal; procedures
+- Section 32-6-194 - Procedure for grade crossing elimination
+- Section 32-6-195 - Division of costs of grade crossing elimination projects
+- Section 32-6-196 - Temporary use of railroad rights of way during construction or maintenance of grade separation structures or grade crossing or protective devices
+- Section 32-6-197 - Responsibility for maintenance of overpasses and underpasses
+- Section 32-6-198 - Agreements as to grade crossing elimination
+- Section 32-6-199 - Improvement of existing underpass or overpass
+- Section 32-6-200 - Installation of protective devices at grade crossings; school bus routes that cross rail crossings
+- Section 32-6-201 - Regulation of traffic when necessary to perform maintenance
+- Section 32-6-202 - Procedure to obtain maintenance of grade separation structures, protective devices, and grade crossings
+- Section 32-6-203 - Judicial review
+- Section 32-6-220 - through 32-6-225 - [Repealed]
+- Section 32-6-240 - Definitions
+- Section 32-6-241 - Restrictions on location of junkyards in relation to location of rights of way of interstate or federal-aid primary highways
+- Section 32-6-242 - Screening junkyards in existence on April 6, 1967
+- Section 32-6-243 - Promulgation by department of regulations governing the screening and fencing of junkyards
+- Section 32-6-244 - Authority of commissioner or local officials to acquire land and remove junkyards
+- Section 32-6-245 - Agreements with United States Secretary of Transportation
+- Section 32-6-246 - Abatement of nuisances
+- Section 32-6-247 - Penalty
+- Section 32-6-248 - Construction of article

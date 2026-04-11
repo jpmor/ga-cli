@@ -124,13 +124,15 @@ function renderSectionText(md) {
       parts.push(`<p class="history-entry">${esc(line)}</p>`);
 
     } else {
-      // Highlight subsection labels like (a), (b), (1), (2), (4.1) at the start of a line
+      // Highlight subsection labels like (a), (b), (1), (2), (4.1), (A), (B) at the start of a line
       const escaped = esc(line);
       const styled = escaped.replace(
-        /^(\s*)(\([a-z0-9.]+\))(\s)/,
+        /^(\s*)(\([a-zA-Z0-9.]+\))(\s|$)/,
         (_, ws, lbl, sp) => `${ws}<span class="label">${lbl}</span>${sp}`
       );
-      parts.push(`<p${line.match(/^\s+/) ? ' class="sub"' : ''}>${linkifyStatuteCitations(styled)}</p>`);
+      const leadingSpaces = (line.match(/^(\s+)/) || [])[1];
+      const indentLevel = leadingSpaces ? Math.round(leadingSpaces.length / 2) : 0;
+      parts.push(`<p${indentLevel ? ` class="sub" style="padding-left:${indentLevel * 2}em"` : ''}>${linkifyStatuteCitations(styled)}</p>`);
     }
   }
 
