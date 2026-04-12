@@ -5,53 +5,13 @@ import urllib.error
 
 from curl_cffi import requests as cffi_requests
 
+from .limiter import AdaptiveLimiter
+
 _HOST = "https://law.justia.com"
 GA_CODE_BASE = f"{_HOST}/codes/georgia"
 
 _local = threading.local()
-
-
-class _AdaptiveLimiter:
-    def __init__(self, initial: int = 2):
-        self._limit = initial
-        self._active = 0
-        self._successes = 0
-        self._cv = threading.Condition(threading.Lock())
-
-    def set_initial(self, n: int):
-        with self._cv:
-            self._limit = max(1, n)
-            self._cv.notify_all()
-
-    def acquire(self):
-        with self._cv:
-            while self._active >= self._limit:
-                self._cv.wait()
-            self._active += 1
-
-    def release(self):
-        with self._cv:
-            self._active -= 1
-            self._cv.notify_all()
-
-    def on_success(self):
-        with self._cv:
-            self._successes += 1
-            if self._successes >= 100 and self._limit < 6:
-                self._limit += 1
-                self._successes = 0
-                print(f"  [concurrency → {self._limit}]", flush=True)
-                self._cv.notify_all()
-
-    def on_rate_limit(self):
-        with self._cv:
-            self._successes = 0
-            if self._limit > 1:
-                self._limit = 1
-                print(f"  [concurrency → 1]", flush=True)
-
-
-_limiter = _AdaptiveLimiter()
+_limiter = AdaptiveLimiter()
 
 
 def set_initial_concurrency(n: int):
@@ -152,8 +112,6 @@ def resolve_section_url(section_id: str, year: int | None = None) -> str:
                 raise
 
     # Chapter has article/part sub-levels — discover them and search
-    # Also try article-N if chapter-N doesn't exist (e.g. Title 11 UCC)
-    base = f"{GA_CODE_BASE}/{year}" if year else GA_CODE_BASE
     chapter_html = None
     chapter_path = None
     for candidate in [chapter_base, f"{base}/title-{title_num}/article-{chapter_num}"]:

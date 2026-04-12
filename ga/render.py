@@ -1,5 +1,6 @@
 """Terminal rendering for OCGA markdown output."""
 
+import os
 import re
 import sys
 
@@ -7,9 +8,22 @@ import sys
 _RESET  = "\033[0m"
 _BOLD   = "\033[1m"
 _DIM    = "\033[2m"
-_CYAN   = "\033[36m"
-_YELLOW = "\033[33m"
+_RED    = "\033[31m"
 _GREEN  = "\033[32m"
+_YELLOW = "\033[33m"
+_BLUE   = "\033[34m"
+_CYAN   = "\033[36m"
+
+
+def _color_enabled() -> bool:
+    return sys.stdout.isatty() and "NO_COLOR" not in os.environ
+
+
+def paint(text: str, *codes: str) -> str:
+    """Wrap *text* in ANSI *codes* when stdout is a TTY and NO_COLOR is unset."""
+    if not codes or not _color_enabled():
+        return text
+    return "".join(codes) + text + _RESET
 
 
 class MarkdownRenderer:
@@ -50,9 +64,16 @@ class MarkdownRenderer:
         if line.startswith("# "):
             return f"{_BOLD}{_CYAN}{line}{_RESET}"
 
-        # H2  — subsection heading (e.g. "## History")
+        # H2  — SECTION/PART heading
         if line.startswith("## "):
             return f"{_BOLD}{_YELLOW}{line}{_RESET}"
+
+        # H3-H6 — enumeration markers at levels 1-4, rendered with indentation
+        for depth, prefix in enumerate(("### ", "#### ", "##### ", "###### "), start=0):
+            if line.startswith(prefix):
+                indent = "  " * depth
+                label = line[len(prefix):]
+                return f"{indent}{_BOLD}{_GREEN}{label}{_RESET}"
 
         # List items in a TOC (e.g. "- Chapter 1 — ...")
         if line.startswith("- "):
